@@ -6,7 +6,7 @@ import pandas as pd
 def description_deformat(input: str) -> str:
     from bs4 import BeautifulSoup
 
-    soup = BeautifulSoup(input, features="lxml").text
+    soup = BeautifulSoup(input).text
     soup = soup.replace("\xa0", "")
     soup = soup.replace("\n", "")
 
