@@ -45,4 +45,4 @@ for event in response["value"]:
 df = df.set_axis(["organizationName", "name", "startsOn",
                   "benefitNames", "location", "description", "imagePath"], copy=False, axis=1)
 df["startsOn"] = pd.to_datetime(df["startsOn"])
-df.to_csv("events.csv")
+df.to_json("events.json", orient="records")
