@@ -6,7 +6,7 @@ import pandas as pd
 def description_deformat(input: str) -> str:
     from bs4 import BeautifulSoup
 
-    soup = BeautifulSoup(input).text
+    soup = BeautifulSoup(input, features="html.parser").text
     soup = soup.replace("\xa0", "")
     soup = soup.replace("\n", "")
 
@@ -45,4 +45,4 @@ for event in response["value"]:
 df = df.set_axis(["organizationName", "name", "startsOn",
                   "benefitNames", "location", "description", "imagePath"], copy=False, axis=1)
 df["startsOn"] = pd.to_datetime(df["startsOn"])
-df.to_json("events.json", orient="records")
+df.to_json("events.json", orient="table")

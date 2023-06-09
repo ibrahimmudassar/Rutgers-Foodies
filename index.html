@@ -19,16 +19,11 @@
 <body>
     <script id="entry-template" type="text/x-handlebars-template">
 
-        <div class="entry">
-            {{#each this}}
-            {{#each this}}
-            
-    <li>{{this}}</li>
-  {{/each}}
-    
-  {{/each}}
-        </div>
-        
+        <ul>
+            {{#each items}}
+              <li>{{this}}</li>
+            {{/each}}
+          </ul> 
 
     </script>
     <div id="out"></div>
