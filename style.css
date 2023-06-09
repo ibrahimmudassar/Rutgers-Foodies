@@ -21,8 +21,8 @@ html {
 }
 
 .card {
-  display: flex;
-  width: auto;
+  display: inline-block;
+  width: 300px;
   margin: 10px;
   border: 1px solid #ccc;
   border-radius: 10px;
@@ -31,7 +31,7 @@ html {
 }
 
 .card img {
-  width: 500px;
+  width: 300px;
   height: auto;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
