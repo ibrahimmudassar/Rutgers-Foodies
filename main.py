@@ -28,7 +28,7 @@ df = pd.Series(dtype="object")
 for event in response["value"]:
     if "Free Food" in ", ".join(event["benefitNames"]):
 
-        img = ""
+        img = "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg"
         if event["imagePath"] is not None:
             imgheader = "https://se-images.campuslabs.com/clink/images/"
             img = imgheader + str(event["imagePath"])

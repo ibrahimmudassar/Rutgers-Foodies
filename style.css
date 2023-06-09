@@ -17,19 +17,21 @@ html {
   max-width: 10%;
   max-height: 10%;
   display: block; /* remove extra space below image */
+  padding: 10px;
 }
 
 .card {
-  display: inline-block;
-  width: 300px;
+  display: flex;
+  width: auto;
   margin: 10px;
   border: 1px solid #ccc;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 10px 7px rgba(0, 0, 0, 0.1);
+  align-items: center;
 }
 
 .card img {
-  width: 100%;
+  width: 500px;
   height: auto;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
