@@ -2,48 +2,47 @@
 <html lang="en">
 
 <head>
-    <meta name="google-site-verification" content="oIrisM8HRrIDDObZ6VXXTvN6CDmyw3AmgX6A30VrZEY" />
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/x-icon" href="https://em-content.zobj.net/thumbs/120/apple/354/banana_1f34c.png">
-    <title>Rutgers Foodies</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
-    <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.32/moment-timezone-with-data.min.js"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-
-
+  <meta name="google-site-verification" content="oIrisM8HRrIDDObZ6VXXTvN6CDmyw3AmgX6A30VrZEY" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/x-icon" href="https://em-content.zobj.net/thumbs/120/apple/354/banana_1f34c.png">
+  <title>Rutgers Foodies</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.32/moment-timezone-with-data.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <div class="title-bar">
-        <h1>Rutgers Foodies</h1>
-        <img src="https://www.rutgers.edu/sites/default/files/styles/3x4_one_third_full_default_1x/public/2020-02/lg_SHIELD_REVWHITE.jpg?h=6dade3ba&itok=y9QM3f8k"
-            alt="Logo">
+  <div class="title-bar">
+    <h1>Rutgers Foodies</h1>
+    <img
+      src="https://www.rutgers.edu/sites/default/files/styles/3x4_one_third_full_default_1x/public/2020-02/lg_SHIELD_REVWHITE.jpg?h=6dade3ba&itok=y9QM3f8k"
+      alt="Logo">
 
-    </div>
-    <div id="content"></div>
+  </div>
+  <div id="content">
 
     <script id="template" type="text/x-handlebars-template">
-    {{#each people}}
-    <div class="card">
-      <img src="{{imagePath}}">
-      <div class="card-body">
-        <h5 class="card-title">{{name}}</h5>
-        <p class="card-text">{{location}}</p>
-        <p class="card-text">{{formatTime startsOn}}</p>
-        <p class="card-text">{{description}}</p>
+      {{#each people}}
+      <div class="card">
+        <img src="{{imagePath}}">
+        <div class="card-body">
+          <h5 class="card-title">{{name}}</h5>
+          <p class="card-text">{{location}}</p>
+          <p class="card-text">{{formatTime startsOn}}</p>
+          <p class="card-text">{{description}}</p>
+        </div>
       </div>
-    </div>
-    {{/each}}
+      {{/each}}
     </script>
-    <script src="script.js"></script>
+  </div>
+  <script src="script.js"></script>
 </body>
 
 </html>
