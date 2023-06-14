@@ -37,7 +37,13 @@
           <p class="card-text">{{location}}</p>
           <p class="card-text">{{formatTime startsOn}}</p>
           <p class="card-text">{{description}}</p>
-          <button href="{{rsvpLink}}" class="btn">RSVP</button>
+          <button onclick="location.href='https\://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event{{eventId}}'" class="btn">RSVP</button>
+          <button onclick="location.href='https\://rutgers.campuslabs.com/engage/event/{{eventId}}/googlepublish'" type="submit" class="btn">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="GCal" />
+          </button>
+          <button onclick="location.href='https\://rutgers.campuslabs.com/engage/event/{{eventId}}.ics'"type="submit" class="btn">
+            iCal
+          </button>
         </div>
       </div>
       {{/each}}

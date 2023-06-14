@@ -46,7 +46,7 @@ for event in response["value"]:
                 event["location"],
                 description_deformat(event["description"]),
                 img,
-                f"https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/{event['id']}",
+                event["id"],
             ]
         )
         df = pd.concat([df, row.to_frame().T], ignore_index=True)
@@ -60,7 +60,7 @@ df = df.set_axis(
         "location",
         "description",
         "imagePath",
-        "rsvpLink",
+        "eventId",
     ],
     copy=False,
     axis=1,

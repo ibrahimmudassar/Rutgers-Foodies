@@ -73,13 +73,18 @@ html {
   cursor: pointer;
   background: #cc0033;
   border-radius: 5px;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn img {
+  height: 13px;
+  width: 13px;
 }
 
 .btn:hover {
   outline: 2px solid #fff;
   background: transparent;
   color: #000;
+  border: 1px solid #cc0033;
 }
 
 .card:hover .btn {

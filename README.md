@@ -1,7 +1,9 @@
 # 🍜 Rutgers 🍽️ Foodies 🍲
+
 Find Events at Rutgers with Free Food
 
 This web app uses the internal rutgers events API `https://rutgers.campuslabs.com/engage/api/discovery/event/search` to aggregate events that have the perk 'Free Food' once a day.
+
 ## Example
 
 ![image](https://github.com/ibrahimmudassar/Rutgers-Foodies/assets/22484328/43e0ebf8-ce43-47da-815f-32d0b932abd2)
@@ -32,8 +34,10 @@ An example of response from my API:
 ```
 
 ## TODO
-* Add a button that adds to calendar and/or redirects to Rutgers sign up portal
-* Redesign is preferred but not required
+
+- Redesign is preferred but not required
+- Mapping functionality
 
 ## Contribution
+
 I would love contributors and generally people who are willing to help and give ideas to help the project mature. Reach out!
