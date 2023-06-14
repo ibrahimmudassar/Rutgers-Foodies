@@ -75,6 +75,11 @@ html {
   border-radius: 5px;
 }
 
+.btn img {
+  height: inherit;
+  width: inherit;
+}
+
 .btn:hover {
   outline: 2px solid #fff;
   background: transparent;
