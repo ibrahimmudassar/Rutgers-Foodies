@@ -65,14 +65,24 @@ html {
 }
 
 .btn {
-  display: inline-block;
-  padding: 5px 10px;
-  background-color: #007bff;
-  color: #fff;
-  border-radius: 3px;
+  color: #e8e8e8;
   text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  background: #cc0033;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
 
 .btn:hover {
-  background-color: #0069d9;
+  outline: 2px solid #fff;
+  background: transparent;
+  color: #000;
+}
+
+.card:hover .btn {
+  color: #000;
+  background: #fff;
 }
