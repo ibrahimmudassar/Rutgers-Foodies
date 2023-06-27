@@ -22,6 +22,9 @@ html {
 
 #content {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .card {
@@ -37,10 +40,6 @@ html {
   text-align: center;
   cursor: pointer;
   transition: 400ms;
-}
-
-.card:hover {
-  transform: scale(1.05, 1.05);
 }
 
 .card img {
@@ -87,7 +86,6 @@ html {
   border: 1px solid #cc0033;
 }
 
-.card:hover .btn {
-  color: #000;
-  background: #fff;
+#inline-icons {
+  width: 16px;
 }
