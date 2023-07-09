@@ -1,7 +1,7 @@
 import requests as re
 from datetime import datetime
 import pandas as pd
-from pprint import pprint
+import json
 
 
 def description_deformat(input: str) -> str:
@@ -24,7 +24,6 @@ count = response["@odata.count"]
 response = re.get(
     f"https://rutgers.campuslabs.com/engage/api/discovery/event/search?endsAfter={today}&orderByField=endsOn&orderByDirection=ascending&status=Approved&take={count}"
 ).json()
-pprint(response["value"])
 
 df = pd.Series(dtype="object")
 
@@ -66,4 +65,8 @@ df = df.set_axis(
     axis=1,
 )
 df["startsOn"] = pd.to_datetime(df["startsOn"])
-df.to_json("events.json", orient="table")
+unformatted_json = json.loads(df.to_json(orient="table"))
+
+
+with open("events.json", "w") as file:
+    json.dump(unformatted_json, file, indent=4, sort_keys=True)
