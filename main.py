@@ -4,13 +4,13 @@ from datetime import datetime
 import folium
 import pandas as pd
 import requests as re
+from bs4 import BeautifulSoup
 
 # this takes the descriptions which have html tags and weird special characters and seeks to normalize them
 # this is not perfect but it's just the barebones
 
 
 def description_deformat(input: str) -> str:
-    from bs4 import BeautifulSoup
 
     soup = BeautifulSoup(input, features="html.parser").text
     soup = soup.replace("\xa0", " ")
