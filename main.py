@@ -20,7 +20,7 @@ def description_deformat(input: str) -> str:
 
 
 # get the date today, will be used for the event gathering
-today = datetime.today().strftime("%Y-%m-%d")
+today = datetime.now().isoformat()
 
 # find how many total events there are
 response = re.get(
