@@ -33,10 +33,6 @@ An example of response from my API:
     },
 ```
 
-## TODO
-
-- Mapping functionality
-
 ## Contribution
 
 I would love contributors and generally people who are willing to help and give ideas to help the project mature. Reach out by starting an issue or messaging me!
