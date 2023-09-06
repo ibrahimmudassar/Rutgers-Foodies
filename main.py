@@ -44,6 +44,8 @@ class Campus:
 
 
 def campus_to_icon(lat, lon):
+    # approximations for each campus
+    # I basically just used the student centers for each of them
     campuses = [Campus("C", 40.4992699, -74.44746, 'blue'),  # College Ave
                 Campus("L", 40.5260255, -74.4377431, 'red'),  # Livingston
                 Campus("B", 40.5270353, -74.4563511, 'orange'),  # Busch
@@ -88,14 +90,20 @@ df = pd.DataFrame(rows)
 # General column formatting
 df["description"] = df["description"].map(description_deformat)
 df["benefitNames"] = [", ".join(i) for i in df["benefitNames"]]
+
 default_background = "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg"
 df["imagePath"] = [
     default_background if img is None else f"https://se-images.campuslabs.com/clink/images/{str(img)}" for img in df["imagePath"]]
 df["organizationProfilePicture"] = [
     default_background if img is None else f"https://se-images.campuslabs.com/clink/images/{str(img)}" for img in df["organizationProfilePicture"]]
+
 df["startsOn"] = pd.to_datetime(df["startsOn"])
+df["endsOn"] = pd.to_datetime(df["endsOn"])
 df['latitude'] = pd.to_numeric(df['latitude'])
 df['longitude'] = pd.to_numeric(df['longitude'])
+
+# sort by time, nearest event displayed first
+df.sort_values(by="startsOn", ascending=True, inplace=True)
 
 with open("events.json", "w") as file:
     unformatted = json.loads(df.to_json(orient="table"))
