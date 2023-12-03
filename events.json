@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "@search.score": 99.93984,
+            "@search.score": 99.98951,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -33,7 +33,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.93099,
+            "@search.score": 99.980675,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -65,7 +65,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.8978,
+            "@search.score": 99.94752,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -93,7 +93,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.82468,
+            "@search.score": 99.87447,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -133,7 +133,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.78918,
+            "@search.score": 99.83902,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -175,7 +175,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.72699,
+            "@search.score": 99.7769,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -207,7 +207,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.72032,
+            "@search.score": 99.77024,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -235,7 +235,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.68474,
+            "@search.score": 99.734695,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -271,7 +271,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.68474,
+            "@search.score": 99.734695,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -311,7 +311,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.68474,
+            "@search.score": 99.734695,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -351,7 +351,43 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.68251,
+            "@search.score": 99.732475,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [
+                "112385"
+            ],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Come join us as we will listen to various medical students from M1 - M4s.",
+            "endsOn": "2023-12-06T02:00:00.000Z",
+            "id": "9651340",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/b1c905ef-5b83-4d90-a793-eb4a879f13f215fddadf-9a72-4e0f-94d6-67586676f7af.png",
+            "index": 10,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "ARC 103",
+            "longitude": null,
+            "name": "Medical Student Panel",
+            "organizationId": 121333,
+            "organizationIds": [
+                "121310",
+                "121333"
+            ],
+            "organizationName": "American Medical Student Association ",
+            "organizationNames": [
+                "Alpha Epsilon Delta (Health Preprofessional Honor Society)",
+                "American Medical Student Association "
+            ],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/12ba292b-103f-4263-8ff7-1c7b4d1bc27eeaaa4620-de0c-44da-b629-4f24a6836760.jpeg",
+            "recScore": null,
+            "startsOn": "2023-12-06T01:00:00.000Z",
+            "status": "Approved",
+            "theme": "ThoughtfulLearning",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.732475,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -393,43 +429,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.68251,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [
-                "112385"
-            ],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Come join us as we will listen to various medical students from M1 - M4s.",
-            "endsOn": "2023-12-06T02:00:00.000Z",
-            "id": "9651340",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/b1c905ef-5b83-4d90-a793-eb4a879f13f215fddadf-9a72-4e0f-94d6-67586676f7af.png",
-            "index": 10,
-            "institutionId": 4753,
-            "latitude": null,
-            "location": "ARC 103",
-            "longitude": null,
-            "name": "Medical Student Panel",
-            "organizationId": 121333,
-            "organizationIds": [
-                "121310",
-                "121333"
-            ],
-            "organizationName": "American Medical Student Association ",
-            "organizationNames": [
-                "Alpha Epsilon Delta (Health Preprofessional Honor Society)",
-                "American Medical Student Association "
-            ],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/12ba292b-103f-4263-8ff7-1c7b4d1bc27eeaaa4620-de0c-44da-b629-4f24a6836760.jpeg",
-            "recScore": null,
-            "startsOn": "2023-12-06T01:00:00.000Z",
-            "status": "Approved",
-            "theme": "ThoughtfulLearning",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.60233,
+            "@search.score": 99.65239,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -457,7 +457,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.58896,
+            "@search.score": 99.63903,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -485,7 +485,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.58896,
+            "@search.score": 99.63903,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -517,7 +517,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.58673,
+            "@search.score": 99.6368,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -545,7 +545,35 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.57558,
+            "@search.score": 99.63012,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "For the last meeting of the semester, FemLib will be hosting a collage-making craft and sip event! Destress from finals prep with some crafts and mocktails! Supplies and drinks will be provided. ",
+            "endsOn": "2023-12-07T01:00:00.000Z",
+            "id": "9651439",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/ac84f816-635d-436a-9d61-8ca12ec2982df4cc285a-445c-4ee1-b6f3-e11800d0ea55.png",
+            "index": 16,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "College Avenue Student Center, Room 411A",
+            "longitude": null,
+            "name": "FemLib Meeting: Craft and Sip",
+            "organizationId": 359323,
+            "organizationIds": [],
+            "organizationName": "Feminist Liberation Of Rutgers ",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/9ea4ab32-4abe-4872-8059-75c3dd7acbcf25e22bb4-72e2-49d6-a90f-716c31038200.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-07T00:00:00.000Z",
+            "status": "Approved",
+            "theme": "Arts",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.62566,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -555,7 +583,7 @@
             "endsOn": "2023-12-07T02:00:00.000Z",
             "id": "9645922",
             "imagePath": "https://se-images.campuslabs.com/clink/images/71d0b1fa-a80f-4226-bb70-6cb810fdab06fde902a4-467f-4592-9124-0ab8cd0863e3.png",
-            "index": 16,
+            "index": 17,
             "institutionId": 4753,
             "latitude": null,
             "location": "CASC Multipurpose Room A",
@@ -573,7 +601,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.57558,
+            "@search.score": 99.62566,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -583,7 +611,7 @@
             "endsOn": "2023-12-07T02:00:00.000Z",
             "id": "9651385",
             "imagePath": "https://se-images.campuslabs.com/clink/images/fe3f03b7-5e86-4960-992d-521d417fee9a8a24b4a5-151f-4155-8d4a-befa8b1d8dc4.png",
-            "index": 17,
+            "index": 18,
             "institutionId": 4753,
             "latitude": 40.47909,
             "location": "Cook Student Center: Merle V. Adams Room",
@@ -601,7 +629,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.57558,
+            "@search.score": 99.62566,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -617,7 +645,7 @@
             "endsOn": "2023-12-07T02:00:00.000Z",
             "id": "9616876",
             "imagePath": "https://se-images.campuslabs.com/clink/images/d42b4b73-7206-4783-97fe-9c4b306182530c9cf9f7-cc2d-4444-bef8-08f0e56fa050.png",
-            "index": 18,
+            "index": 19,
             "institutionId": 4753,
             "latitude": null,
             "location": "BEST 4 North Lounge",
@@ -635,7 +663,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.57558,
+            "@search.score": 99.62566,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -651,7 +679,7 @@
             "endsOn": "2023-12-07T02:00:00.000Z",
             "id": "9651173",
             "imagePath": "https://se-images.campuslabs.com/clink/images/1e9e0ff9-2f4d-453f-8897-7971a4ba5d1b9c6d97e4-3f19-4506-a3b5-3cd4de235704.png",
-            "index": 19,
+            "index": 20,
             "institutionId": 4753,
             "latitude": 40.50498,
             "location": "Alex Library Hatchery",
@@ -675,7 +703,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.57558,
+            "@search.score": 99.62566,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -693,7 +721,7 @@
             "endsOn": "2023-12-07T03:00:00.000Z",
             "id": "9639149",
             "imagePath": "https://se-images.campuslabs.com/clink/images/fb79a266-ac54-42aa-bcd1-e79d21dbb89bf7678278-de35-4939-89ca-bacc464c2e6d.png",
-            "index": 20,
+            "index": 21,
             "institutionId": 4753,
             "latitude": null,
             "location": "Brett Hall",
@@ -717,7 +745,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.48626,
+            "@search.score": 99.53645,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -727,7 +755,7 @@
             "endsOn": "2023-12-07T23:00:00.000Z",
             "id": "9173541",
             "imagePath": "https://se-images.campuslabs.com/clink/images/afff8132-5977-4951-9c66-138b5f254caccc9ad6fb-6866-4022-a9a2-9d9ccbd48cd9.png",
-            "index": 21,
+            "index": 22,
             "institutionId": 4753,
             "latitude": 40.48472,
             "location": "Douglass Student Center, Commuter Lounge",
@@ -745,7 +773,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.484024,
+            "@search.score": 99.534225,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -767,7 +795,7 @@
             "endsOn": "2023-12-08T01:00:00.000Z",
             "id": "9639988",
             "imagePath": "https://se-images.campuslabs.com/clink/images/bb45ac27-ce2e-4626-8842-a893b7ecca3cbc858519-cbdb-462f-8787-8ecfb05631b8.png",
-            "index": 23,
+            "index": 24,
             "institutionId": 4753,
             "latitude": 40.50006,
             "location": "Zimmerli Art Museum",
@@ -785,7 +813,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.47955,
+            "@search.score": 99.529755,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -795,7 +823,7 @@
             "endsOn": "2023-12-07T23:30:00.000Z",
             "id": "9545787",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 22,
+            "index": 23,
             "institutionId": 4753,
             "latitude": 40.52315,
             "location": "Department of Physics & Astronomy, Room 330W",
@@ -813,39 +841,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.47285,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [
-                "5346"
-            ],
-            "categoryNames": [
-                "General Organization Meeting"
-            ],
-            "description": "Join us for our last event of the semester with a feel-good Christmas movie and refreshments!  Please arrive early if you can so we start the movie promptly at 7pm!",
-            "endsOn": "2023-12-08T01:45:00.000Z",
-            "id": "9642191",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/4bd64548-e14b-4c5a-a2ca-335301b58b27f7ad1001-a823-4caf-b85b-dc41f1860bb7.png",
-            "index": 24,
-            "institutionId": 4753,
-            "latitude": 40.52354,
-            "location": "Livingston Student Center Room 111",
-            "longitude": -74.43718,
-            "name": "Christmas Movie Night",
-            "organizationId": 122400,
-            "organizationIds": [],
-            "organizationName": "Women in Information Technology & Informatics",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/af65aa9a-e8fe-413b-bc6e-2e3489fd1367524be250-f991-4f0e-aa1b-b091ac6e6158.jpg",
-            "recScore": null,
-            "startsOn": "2023-12-08T00:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.47285,
+            "@search.score": 99.523056,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -855,7 +851,7 @@
             "endsOn": "2023-12-08T02:00:00.000Z",
             "id": "9630792",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6bdd4db6-5240-4c2d-b944-6f1a83e74a46c973ad0f-1d12-42c5-86c4-fb1957b17b52.png",
-            "index": 25,
+            "index": 26,
             "institutionId": 4753,
             "latitude": null,
             "location": "Busch Student Center 120A",
@@ -873,7 +869,39 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.47061,
+            "@search.score": 99.523056,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5346"
+            ],
+            "categoryNames": [
+                "General Organization Meeting"
+            ],
+            "description": "Join us for our last event of the semester with a feel-good Christmas movie and refreshments!  Please arrive early if you can so we start the movie promptly at 7pm!",
+            "endsOn": "2023-12-08T01:45:00.000Z",
+            "id": "9642191",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/4bd64548-e14b-4c5a-a2ca-335301b58b27f7ad1001-a823-4caf-b85b-dc41f1860bb7.png",
+            "index": 25,
+            "institutionId": 4753,
+            "latitude": 40.52354,
+            "location": "Livingston Student Center Room 111",
+            "longitude": -74.43718,
+            "name": "Christmas Movie Night",
+            "organizationId": 122400,
+            "organizationIds": [],
+            "organizationName": "Women in Information Technology & Informatics",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/af65aa9a-e8fe-413b-bc6e-2e3489fd1367524be250-f991-4f0e-aa1b-b091ac6e6158.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-08T00:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.52082,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -883,7 +911,7 @@
             "endsOn": "2023-12-08T02:00:00.000Z",
             "id": "9635017",
             "imagePath": "https://se-images.campuslabs.com/clink/images/75fc6ea2-267e-4888-8805-f34cdb1d19a1ffa77ada-1c39-4e2e-bf2b-7b60f775cfe1.pdf",
-            "index": 26,
+            "index": 27,
             "institutionId": 4753,
             "latitude": 40.50264,
             "location": "Graduate Student Lounge",
@@ -901,7 +929,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.468376,
+            "@search.score": 99.51859,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -917,7 +945,7 @@
             "endsOn": "2023-12-08T02:00:00.000Z",
             "id": "9534399",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 27,
+            "index": 28,
             "institutionId": 4753,
             "latitude": null,
             "location": "Rutgers Hillel",
@@ -935,7 +963,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.468376,
+            "@search.score": 99.51859,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -951,7 +979,7 @@
             "endsOn": "2023-12-08T02:00:00.000Z",
             "id": "9647659",
             "imagePath": "https://se-images.campuslabs.com/clink/images/9de69c39-8b5e-464a-acab-d4dd7d5f4d6602d873d0-b816-43a8-a981-3a2b3d42d9cd.png",
-            "index": 28,
+            "index": 29,
             "institutionId": 4753,
             "latitude": 40.52228,
             "location": "BEST West MPR",
@@ -975,7 +1003,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.468376,
+            "@search.score": 99.51859,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -985,7 +1013,7 @@
             "endsOn": "2023-12-08T03:00:00.000Z",
             "id": "9586687",
             "imagePath": "https://se-images.campuslabs.com/clink/images/4da084c9-05c7-4ccc-a5c0-f555a661a722b8eb699b-d3e4-4c4b-8e9e-d17300c9fcfb.png",
-            "index": 29,
+            "index": 30,
             "institutionId": 4753,
             "latitude": 40.50537,
             "location": "Campbell Hall",
@@ -1003,7 +1031,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.410194,
+            "@search.score": 99.46048,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1013,7 +1041,7 @@
             "endsOn": "2023-12-08T16:00:00.000Z",
             "id": "9634945",
             "imagePath": "https://se-images.campuslabs.com/clink/images/a0e23a01-2af0-4553-bee4-b15f71801b56bbbb2b9e-4233-4e8c-8f16-0eb5aa4d18d8.pdf",
-            "index": 30,
+            "index": 31,
             "institutionId": 4753,
             "latitude": 40.50264,
             "location": "Graduate Student Lounge",
@@ -1031,7 +1059,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.3878,
+            "@search.score": 99.43811,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1049,7 +1077,7 @@
             "endsOn": "2023-12-08T21:30:00.000Z",
             "id": "9129253",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6cb19d97-8151-4047-8cc3-9c085d456fa50ed6fe67-9672-4a0f-8d58-bb3c948ce003.png",
-            "index": 31,
+            "index": 32,
             "institutionId": 4753,
             "latitude": 40.50498,
             "location": "The Hatchery Innovation Studio",
@@ -1067,7 +1095,35 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.37436,
+            "@search.score": 99.42468,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Celebrate the holidays and reflect on the past semester with IEEE :)",
+            "endsOn": "2023-12-08T23:00:00.000Z",
+            "id": "9443413",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/f131c86b-4666-46cc-a6a1-3eefe74dd3f4fe829dec-bc4e-4a92-9fe3-01e7bb79e7d9.png",
+            "index": 33,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "BSC The Cove",
+            "longitude": null,
+            "name": "Holiday Party",
+            "organizationId": 129249,
+            "organizationIds": [],
+            "organizationName": "Institute of Electrical and Electronics Engineers",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/986591f5-0340-41ff-b849-fbba18ef971abfc84b77-a6b0-4cf5-9537-ef8484d44bee.png",
+            "recScore": null,
+            "startsOn": "2023-12-08T22:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.42468,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -1087,7 +1143,7 @@
             "endsOn": "2023-12-09T01:00:00.000Z",
             "id": "9647642",
             "imagePath": "https://se-images.campuslabs.com/clink/images/47ca46b9-ca87-4752-8f63-bba9056328e5f14babd9-31a2-4cfb-8743-ea752f0fda3c.png",
-            "index": 33,
+            "index": 34,
             "institutionId": 4753,
             "latitude": 40.47909,
             "location": "Food Science Building",
@@ -1111,35 +1167,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.37436,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Celebrate the holidays and reflect on the past semester with IEEE :)",
-            "endsOn": "2023-12-08T23:00:00.000Z",
-            "id": "9443413",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/f131c86b-4666-46cc-a6a1-3eefe74dd3f4fe829dec-bc4e-4a92-9fe3-01e7bb79e7d9.png",
-            "index": 32,
-            "institutionId": 4753,
-            "latitude": null,
-            "location": "BSC The Cove",
-            "longitude": null,
-            "name": "Holiday Party",
-            "organizationId": 129249,
-            "organizationIds": [],
-            "organizationName": "Institute of Electrical and Electronics Engineers",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/986591f5-0340-41ff-b849-fbba18ef971abfc84b77-a6b0-4cf5-9537-ef8484d44bee.png",
-            "recScore": null,
-            "startsOn": "2023-12-08T22:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.372116,
+            "@search.score": 99.42244,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -1151,7 +1179,7 @@
             "endsOn": "2023-12-09T01:30:00.000Z",
             "id": "9627880",
             "imagePath": "https://se-images.campuslabs.com/clink/images/599cb553-b3e0-40e7-8024-09949a93573e0b1e76ea-cc23-46ce-b5ef-dd0058a48aac.png",
-            "index": 34,
+            "index": 35,
             "institutionId": 4753,
             "latitude": 40.52334,
             "location": "Rutgers Makerspace",
@@ -1175,7 +1203,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.18119,
+            "@search.score": 99.23174,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1189,7 +1217,7 @@
             "endsOn": "2023-12-10T18:00:00.000Z",
             "id": "9528021",
             "imagePath": "https://se-images.campuslabs.com/clink/images/2bdc6b18-c109-439a-81b7-86a2636aebbd45b3ed14-04ea-4401-93d8-96ab066b57fd.png",
-            "index": 35,
+            "index": 36,
             "institutionId": 4753,
             "latitude": null,
             "location": "Livi Gathering Hall",
@@ -1207,7 +1235,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.05043,
+            "@search.score": 99.101135,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1221,7 +1249,7 @@
             "endsOn": "2023-12-12T01:00:00.000Z",
             "id": "9627892",
             "imagePath": "https://se-images.campuslabs.com/clink/images/5c8ca649-9d2a-4ec4-9e53-95e14e9e6c876e4101b1-bee2-49fe-931c-b4f182207ee9.png",
-            "index": 36,
+            "index": 37,
             "institutionId": 4753,
             "latitude": 40.49299,
             "location": "Gov. James J. Florio Special Events Forum, Civic Square Building",
@@ -1239,7 +1267,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.03688,
+            "@search.score": 99.0876,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1249,7 +1277,7 @@
             "endsOn": "2023-12-12T02:00:00.000Z",
             "id": "9381183",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 37,
+            "index": 38,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "BSC Room 174",
@@ -1267,7 +1295,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.828575,
+            "@search.score": 98.87955,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1277,7 +1305,7 @@
             "endsOn": "2023-12-14T02:00:00.000Z",
             "id": "9590213",
             "imagePath": "https://se-images.campuslabs.com/clink/images/818522bd-eef5-440f-821e-bace648b6bdebbe86455-fd88-4422-997f-a9097c660efa.pdf",
-            "index": 38,
+            "index": 39,
             "institutionId": 4753,
             "latitude": 40.52345,
             "location": "LSC Livingston Hall",
@@ -1295,7 +1323,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.74679,
+            "@search.score": 98.79785,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1309,7 +1337,7 @@
             "endsOn": "2023-12-14T22:30:00.000Z",
             "id": "9646055",
             "imagePath": "https://se-images.campuslabs.com/clink/images/e3be4222-c442-4576-97f6-b7fc660f285d6aee0252-1538-4492-9b89-89fed0035264.png",
-            "index": 39,
+            "index": 40,
             "institutionId": 4753,
             "latitude": 40.52443,
             "location": "Biomedical Engineering Building Room 106",
@@ -1327,7 +1355,175 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.83078,
+            "@search.score": 98.70691,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+            "endsOn": "2023-12-15T17:00:00.000Z",
+            "id": "9651433",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+            "index": 41,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "MSE Coffee lounge",
+            "longitude": null,
+            "name": "MSE Fuel for Finals",
+            "organizationId": 333616,
+            "organizationIds": [],
+            "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-15T13:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 98.37789,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+            "endsOn": "2023-12-18T14:00:00.000Z",
+            "id": "9651434",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+            "index": 42,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "MSE Coffee lounge",
+            "longitude": null,
+            "name": "MSE Fuel for Finals",
+            "organizationId": 333616,
+            "organizationIds": [],
+            "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-18T13:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 98.26766,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+            "endsOn": "2023-12-19T14:00:00.000Z",
+            "id": "9651435",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+            "index": 43,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "MSE Coffee lounge",
+            "longitude": null,
+            "name": "MSE Fuel for Finals",
+            "organizationId": 333616,
+            "organizationIds": [],
+            "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-19T13:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 98.15714,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+            "endsOn": "2023-12-20T14:00:00.000Z",
+            "id": "9651436",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+            "index": 44,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "MSE Coffee lounge",
+            "longitude": null,
+            "name": "MSE Fuel for Finals",
+            "organizationId": 333616,
+            "organizationIds": [],
+            "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-20T13:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 98.04635,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+            "endsOn": "2023-12-21T14:00:00.000Z",
+            "id": "9651437",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+            "index": 45,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "MSE Coffee lounge",
+            "longitude": null,
+            "name": "MSE Fuel for Finals",
+            "organizationId": 333616,
+            "organizationIds": [],
+            "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-21T13:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 97.93526,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Come to the MSE lounge during finals week for free coffee, donuts, and bagels every morning!",
+            "endsOn": "2023-12-22T14:00:00.000Z",
+            "id": "9651438",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/59cca3f0-7fb2-4441-8226-84ff8774df05656728fb-fc00-49f6-a9e8-c4ff8c04f98f.png",
+            "index": 46,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "MSE Coffee lounge",
+            "longitude": null,
+            "name": "MSE Fuel for Finals",
+            "organizationId": 333616,
+            "organizationIds": [],
+            "organizationName": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/494b1418-68cf-4fb0-abdd-76dbafbe5c3f7f000e17-8a70-45eb-bc41-9ba5e4bbc3a7.jpg",
+            "recScore": null,
+            "startsOn": "2023-12-22T13:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 94.88671,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -1345,7 +1541,7 @@
             "endsOn": "2024-01-18T01:00:00.000Z",
             "id": "9650287",
             "imagePath": "https://se-images.campuslabs.com/clink/images/4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
-            "index": 40,
+            "index": 47,
             "institutionId": 4753,
             "latitude": 40.48415,
             "location": "Kathleen W. Ludgwig Building, fireside lounge",
@@ -1369,7 +1565,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.13776,
+            "@search.score": 94.194595,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -1387,7 +1583,7 @@
             "endsOn": "2024-01-23T19:00:00.000Z",
             "id": "9650288",
             "imagePath": "https://se-images.campuslabs.com/clink/images/4f576928-823e-42b5-8fd5-f5045522af8323cfe0e1-eea5-4156-b296-50b59bb1342a.png",
-            "index": 41,
+            "index": 48,
             "institutionId": 4753,
             "latitude": 40.48415,
             "location": "Kathleen W. Ludwig Building, fireside lounge",
@@ -1411,7 +1607,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.609505,
+            "@search.score": 91.669785,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1427,7 +1623,7 @@
             "endsOn": "2024-02-13T00:30:00.000Z",
             "id": "9649316",
             "imagePath": "https://se-images.campuslabs.com/clink/images/fec3e0b1-5d55-4f68-90e5-c032c51a13954d97eded-0fd8-44bc-b058-f1100105d662.png",
-            "index": 42,
+            "index": 49,
             "institutionId": 4753,
             "latitude": null,
             "location": "College Avenue Student Center - Multipurpose Room",
@@ -1445,7 +1641,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 90.301186,
+            "@search.score": 90.36333,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1455,7 +1651,7 @@
             "endsOn": "2024-02-23T00:00:00.000Z",
             "id": "9194302",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6b181eed-8b63-44df-832c-19643c9deb80541ada64-3dc8-40f5-8b2f-d7c2ecbf9860.png",
-            "index": 43,
+            "index": 50,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1473,7 +1669,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 89.25913,
+            "@search.score": 89.32279,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1489,7 +1685,7 @@
             "endsOn": "2024-03-01T20:00:00.000Z",
             "id": "9114321",
             "imagePath": "https://se-images.campuslabs.com/clink/images/9fc74de6-d629-479e-8c6d-95dcdd667f5983ae42f5-c301-49e5-a4eb-c75b581b4422.png",
-            "index": 44,
+            "index": 51,
             "institutionId": 4753,
             "latitude": 40.48472,
             "location": "Douglass Student Center",
@@ -1507,7 +1703,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 85.38988,
+            "@search.score": 85.45953,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1517,7 +1713,7 @@
             "endsOn": "2024-03-28T22:30:00.000Z",
             "id": "9194415",
             "imagePath": "https://se-images.campuslabs.com/clink/images/31ade161-da6d-47ec-862a-bd138bdfd286daefd904-67fd-4235-8825-cf3ddcd57439.png",
-            "index": 45,
+            "index": 52,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1535,7 +1731,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 83.86466,
+            "@search.score": 83.93682,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1549,7 +1745,7 @@
             "endsOn": "2024-04-08T01:00:00.000Z",
             "id": "9161676",
             "imagePath": "https://se-images.campuslabs.com/clink/images/f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-            "index": 46,
+            "index": 53,
             "institutionId": 4753,
             "latitude": 40.48656,
             "location": "Voorhees Chapel ",
