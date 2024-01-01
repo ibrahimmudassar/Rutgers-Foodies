@@ -2,92 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Celebrate the end of the semester and warmer weather with our annual ice cream social.
-DTEND:20240426T210000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20240426T200000Z
-SUMMARY:Friendship Fridays: Ice Cream Social
-UID:20369eed-7219-4573-ad9e-8f5676cf26d3@2036.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653060
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cultural,Banquet/Food or Culinary,Educational Lecture
-DESCRIPTION:Gyoza\, wontons\, momos\, ravioli\, pierogi\, empanadas... there are so many dumpling varieties across the globe.  Join us for a short lecture led by Dr. Jack Bouchard\, Assistant Professor of History\, about why dumplings are found around the world\, and then stay to sample the many international versions of these little bundles of goodness.    *You must register on getINVOLVED if you wish to attend this event.  Space is limited.* 
-DTEND:20240213T003000Z
-LOCATION:College Avenue Student Center - Multipurpose Room
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20240212T230000Z
-SUMMARY:Dumplings Around the World
-UID:04774183-969d-4331-877e-c3e190160545@0477.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9649316
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Seasonal/Holiday
-DESCRIPTION:Love making valentines? Need a last-minute gift? Stop by our craft corner and create something special for someone special. Supplies and Candy will be provided!
-DTEND:20240213T180000Z
-LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Student Involvement & Leadership (Office of):mailto:Student Involvement & Leadership (Office of)
-DTSTART:20240213T160000Z
-SUMMARY:Commuter Craft Corner: will u be mine?
-UID:03d15a65-862a-448c-bdd0-aeca146fb57d@03d1.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676165
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Seasonal/Holiday
-DESCRIPTION:Get ready to kick off the new semester in style at the annual Honors College Winter Ball! Let's make memories and celebrate together! 🎊 Don't miss out on the chance to mingle with your amazing HC peers in SEMI-FORMAL attire—it's your time to shine! This unforgettable evening is brought to you by the fantastic folks at the Honors College & Brett Hall RHA. Tickets are free—please RSVP to get your tickets!! *By attending our events\, you agree to allow Residence Hall Association (RHA) to use\, distribute\, and/or publicize any photos taken during and at the event. For any specific accommodation needs related to your physical attendance\, please contact kdy11@scarletmail.rutgers.edu
-DTEND:20240127T040000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Residence Hall Association (RHA):mailto:Residence Hall Association (RHA)
-DTSTART:20240127T010000Z
-SUMMARY:Winter Ball 2024 at Honors College
-UID:582b2ee3-f7f1-4532-9e52-51f43ddf0d5c@582b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676562
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch
-DESCRIPTION:We are excited to have you joining us soon as MBS graduate students!! We want to assist you with the MBS degree program onboarding and learning how to navigate the details to register successfully:  Having issues getting registered without an SPN (Special Permission Number) for Summer or Fall??\r  MBS staff will be on hand to provide you with an SPN on the spot!   Want to know which courses will transfer to you graduate degree??\r  Bring your unofficial transcript and program advisors will be available to highlight which courses can be transferred as credits toward your MBS degree - if you forget your transcript\, no worries\, we will have a computer and printer available.    If you haven’t already\, REGISTER below! Dinner will be served! Please register for this event here.
-DTEND:20240328T223000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Professional Science Masters Department (PSM):mailto:Professional Science Masters Department (PSM)
-DTSTART:20240328T213000Z
-SUMMARY:STEPPING UP: New “4+1” Students - What’s Next?
-UID:c0d06e32-99c6-4115-800d-9ceeca5d57d5@c0d0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9194415
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass,Academics (Residence Life)
-DESCRIPTION:Cook apartment residents can find study and academic success tips spread across the Newell apartments\, Starkey apartments and Pal building. Find all 5 tips and bring them to the PAL to get a prize/treat anytime between 01/22- 01/26. 
-DTEND:20240126T220000Z
-LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Residence Life: Cook/Douglass - Newell/Starkey Apartments:mailto:Residence Life: Cook/Douglass - Newell/Starkey Apartments
-DTSTART:20240122T133000Z
-SUMMARY:Academic Success Scavenger Hunt
-UID:ab24acf1-11be-4257-b10b-0ad793014d0d@ab24.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9685659
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Graduate Student Organization Event
-DESCRIPTION:Come do some jigsaw puzzles on Shabbat afternoon.
-DTEND:20240420T210000Z
+CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Graduate Student Organization Event
+DESCRIPTION:Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.
+DTEND:20240224T013000Z
 LOCATION:Eva and Arie Halpern Hillel House\, 70\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
-DTSTART:20240420T190000Z
-SUMMARY:Grad Students Jigsaw 🧩 Puzzle Break
-UID:9917f9f6-4be2-4588-9897-f9ca17d12a6b@9917.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676337
+DTSTART:20240224T003000Z
+SUMMARY:Grad Student Shabbat Dinner
+UID:95a4d440-f1ac-4729-aed8-ec85dd0f703d@95a4.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676249
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:This week\, join us to decorate some delicious and festive Valentine's Day cookies! 
-DTEND:20240209T220000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20240209T210000Z
-SUMMARY:Friendship Fridays: Cookie Decorating
-UID:6ac00b32-25cc-406e-9591-7c9124da5d71@6ac0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653004
+CATEGORIES:Social,Livingston,Career Fair/Panel,Educational Conference/Seminar/Workshop/Panel
+DESCRIPTION:Stop by for tips and tricks for finding and securing your dream job or internship\, and explore Rutgers internship opportunities that exist here on campus! Free food and beverages will be provided.
+DTEND:20240228T210000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Student Involvement & Leadership (Office of):mailto:Student Involvement & Leadership (Office of)
+DTSTART:20240228T190000Z
+SUMMARY:How to Get Hired!
+UID:359308dd-97f2-47c4-8a81-05b8631ff1f3@3593.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676024
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,Community (Residence Life),Special Interest
+DESCRIPTION:Join Douglass students and staff by the fireplace with cozy snacks and a warm cup of coffee to learn about your housing options for 2024. Interested in the Global Village\, Jameson\, Henderson apartments\, or Bunting-Cobb STEM living-learning community? Are you a Douglass WiSE student living in a Busch living-learning community and interested in a continued opportunity for this coming fall? Get the inside scoop from students who have lived where you would like to\, learn about the Douglass housing timeline and have your questions answered.  Not a Douglass student but interested in living on Douglass?? Come learn about your options and why you should choose Douglass for your home away from home.
+DTEND:20240123T190000Z
+LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
+DTSTART:20240123T180000Z
+SUMMARY:Get Cozy at Douglass-Housing Coffee Chat
+UID:e20dd6d9-f96d-49b3-9482-d345a4174aff@e20d.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9650288
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Educational Lecture,Performance
@@ -97,41 +42,19 @@ LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brun
 ORGANIZER;CN=Douglass Diversity and Inclusion Program at Douglass Residential College - DRC:mailto:Douglass Diversity and Inclusion Program at Douglass Residential College - DRC
 DTSTART:20240301T170000Z
 SUMMARY:International Women’s Day Celebration 2024
-UID:a328b671-6442-4ae4-b991-557cdc3c35c5@a328.org
+UID:80f4fb13-c47f-4f38-8d0b-07d66548f52c@80f4.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9114321
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch
-DESCRIPTION:Join us and learn more about the Master of Business and Science degree program. Enjoy light refreshments\, a program presentation\, and a lively Q&A. Faculty advisors and program staff will be on hand to discuss the program\, academic and professional goals. This unique program combines advanced\, STEM-based education with professionally guided business instruction—enabling graduates to step confidently and adeptly into the STEM workforce. The MBS degree provides - externship\, internship\, executive coaching\, an alumni-student mentoring program\, professional development\, colloquium and more! Please register for this event here.
-DTEND:20240223T000000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Professional Science Masters Department (PSM):mailto:Professional Science Masters Department (PSM)
-DTSTART:20240222T230000Z
-SUMMARY:OPEN HOUSE: “4+1” BS/MBS Program - Science Meets Business!
-UID:4653258e-0237-4c90-b8f0-af2bfcad2d72@4653.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9194302
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Graduate Student Organization Event
-DESCRIPTION:Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.
-DTEND:20240224T013000Z
-LOCATION:Eva and Arie Halpern Hillel House\, 70\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
-DTSTART:20240224T003000Z
-SUMMARY:Grad Student Shabbat Dinner
-UID:64dff355-ed53-48aa-83e1-fb118ee8ac04@64df.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676249
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Community (Residence Life),Special Interest
-DESCRIPTION:Join Douglass students and staff by the fireplace with cozy snacks and a warm cup of coffee to learn about your housing options for 2024. Interested in the Global Village\, Jameson\, Henderson apartments\, or Bunting-Cobb STEM living-learning community? Are you a Douglass WiSE student living in a Busch living-learning community and interested in a continued opportunity for this coming fall? Get the inside scoop from students who have lived where you would like to\, learn about the Douglass housing timeline and have your questions answered.  Not a Douglass student but interested in living on Douglass?? Come learn about your options and why you should choose Douglass for your home away from home.
-DTEND:20240118T010000Z
-LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
-DTSTART:20240118T000000Z
-SUMMARY:Get Cozy at Douglass-Housing Coffee Chat
-UID:5e3d4d5d-49da-4017-afb0-8952d359f32f@5e3d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9650287
+CATEGORIES:Social,College Ave
+DESCRIPTION:Celebrate the end of the semester and warmer weather with our annual ice cream social.
+DTEND:20240426T210000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20240426T200000Z
+SUMMARY:Friendship Fridays: Ice Cream Social
+UID:1c148c8a-b48a-4c1b-bc61-5034da788100@1c14.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653060
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,College Ave,Banquet/Food or Culinary
@@ -141,7 +64,7 @@ LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Mid
 ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
 DTSTART:20240202T210000Z
 SUMMARY:Friendship Fridays: Cooking for a Crowd
-UID:5b78049e-ef60-4ed5-94e6-da78117b9360@5b78.org
+UID:6c8a594e-4c6c-4325-9ffd-6159474b6340@6c8a.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9652997
 END:VEVENT
 BEGIN:VEVENT
@@ -152,85 +75,19 @@ LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Towns
 ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
 DTSTART:20240126T210000Z
 SUMMARY:Friendship Fridays: Hot Cocoa and Conversation 
-UID:4e4c70f0-a654-4515-8e9a-3e5b19a7d549@4e4c.org
+UID:90880318-90fd-4238-9114-28eb544d20b8@9088.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9652974
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston
-DESCRIPTION:This week\, join us for an end of winter gathering. Students will be able to chat with others and enjoy foods from around the world.  
-DTEND:20240301T220000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20240301T210000Z
-SUMMARY:Friendship Fridays: Winter International Social 
-UID:0d676983-da95-44d4-9536-db75e9002e2f@0d67.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653018
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Graduate Student Organization Event
-DESCRIPTION:Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.
-DTEND:20240406T013000Z
-LOCATION:Eva and Arie Halpern Hillel House\, 70\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
-DTSTART:20240406T003000Z
-SUMMARY:Grad Student Shabbat Dinner
-UID:7d43723f-0a08-4b84-8a55-e9a61f0855de@7d43.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676254
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:We are so excited to see you all back for the Spring Semester! Previous CS and Pharmacy students will be sharing study tips and secrets with you all to further your careers. Food will be served at this event! 
-DTEND:20240123T010000Z
-LOCATION:Allen Residence Hall\, 32\, Bevier Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Computer Science Living-Learning Community (Douglass WiSE\, DRC):mailto:Computer Science Living-Learning Community (Douglass WiSE\, DRC)
-DTSTART:20240123T000000Z
-SUMMARY:Welcome Back to Spring : Surviving the Second Semester 
-UID:c9473625-aa13-4cf6-934f-efb8b665b189@c947.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9664887
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass,Special Interest
-DESCRIPTION:Celebrate the end of the academic year by joining Douglass staff\, the Voorhees Choir\, and fellow students for the annual Sacred Path Ceremony. One of Douglass' oldest traditions\, the Sacred Path ceremony recognizes student achievement and fosters Douglass's unique community. Join your fellow Douglass classmates\, alumnae\, friends\, and family as each class is honored with a symbol representing the different class years. After you receive your charm\, head to the ceremonial fires on the sacred path to make a wish!  Students should show their pride by wearing their class year colors (first years wear white\, sophomores wear pink\, juniors wear red\, and seniors wear black). Every student will receive a charm\, a token representing her class. All Douglass students\, family\, faculty\, and alumnae are welcome! Refreshments will be provided at Ludwig immediately following the ceremony.  *Students in Knowledge & Power will receive 2 points towards their Douglass event requirements* 
-DTEND:20240408T010000Z
-LOCATION:Voorhees Chapel\, 5\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Traditional Events at Douglass Residential College - DRC:mailto:Traditional Events at Douglass Residential College - DRC
-DTSTART:20240407T230000Z
-SUMMARY:Sacred Path 2024
-UID:e1ebb87f-1f85-4dab-8b8a-89e11e08ae8e@e1eb.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9161676
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Community (Residence Life),Special Interest
 DESCRIPTION:Join Douglass students and staff by the fireplace with cozy snacks and a warm cup of coffee to learn about your housing options for 2024. Interested in the Global Village\, Jameson\, Henderson apartments\, or Bunting-Cobb STEM living-learning community? Are you a Douglass WiSE student living in a Busch living-learning community and interested in a continued opportunity for this coming fall? Get the inside scoop from students who have lived where you would like to\, learn about the Douglass housing timeline and have your questions answered.  Not a Douglass student but interested in living on Douglass?? Come learn about your options and why you should choose Douglass for your home away from home.
-DTEND:20240123T190000Z
+DTEND:20240118T010000Z
 LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
-DTSTART:20240123T180000Z
+DTSTART:20240118T000000Z
 SUMMARY:Get Cozy at Douglass-Housing Coffee Chat
-UID:7d9d6f43-ed80-4e82-9e01-0ae5857bc64e@7d9d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9650288
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass
-DESCRIPTION:Join us for a night to learn about composting and recycling on Cook campus! 
-DTEND:20240207T010000Z
-LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Residence Life: Cook/Douglass - Newell/Starkey Apartments:mailto:Residence Life: Cook/Douglass - Newell/Starkey Apartments
-DTSTART:20240207T000000Z
-SUMMARY:Cook Apartments: Composting and Community
-UID:fa8a4409-2c04-487e-8a7e-f4c2b116b7ac@fa8a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9685660
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Career Fair/Panel,Educational Conference/Seminar/Workshop/Panel
-DESCRIPTION:Stop by for tips and tricks for finding and securing your dream job or internship\, and explore Rutgers internship opportunities that exist here on campus! Free food and beverages will be provided.
-DTEND:20240228T210000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Student Involvement & Leadership (Office of):mailto:Student Involvement & Leadership (Office of)
-DTSTART:20240228T190000Z
-SUMMARY:How to Get Hired!
-UID:59b32947-452c-4792-8a14-27f5cb982f53@59b3.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676024
+UID:b7260dd1-4ed2-4ab6-8670-522ec4c57631@b726.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9650287
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch
@@ -240,8 +97,85 @@ LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, M
 ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
 DTSTART:20240329T200000Z
 SUMMARY:Friendship Fridays: Game Night
-UID:aa01fcbe-f9c0-4c22-b5cf-576b6966d221@aa01.org
+UID:1fce701d-4106-400a-8804-f150e9aecae0@1fce.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653034
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,Seasonal/Holiday
+DESCRIPTION:Love making valentines? Need a last-minute gift? Stop by our craft corner and create something special for someone special. Supplies and Candy will be provided!
+DTEND:20240213T180000Z
+LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Student Involvement & Leadership (Office of):mailto:Student Involvement & Leadership (Office of)
+DTSTART:20240213T160000Z
+SUMMARY:Commuter Craft Corner: will u be mine?
+UID:a3c87bac-1b9d-4426-be46-ce8561b82e0d@a3c8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676165
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Busch
+DESCRIPTION:We are excited to have you joining us soon as MBS graduate students!! We want to assist you with the MBS degree program onboarding and learning how to navigate the details to register successfully:  Having issues getting registered without an SPN (Special Permission Number) for Summer or Fall??\r  MBS staff will be on hand to provide you with an SPN on the spot!   Want to know which courses will transfer to you graduate degree??\r  Bring your unofficial transcript and program advisors will be available to highlight which courses can be transferred as credits toward your MBS degree - if you forget your transcript\, no worries\, we will have a computer and printer available.    If you haven’t already\, REGISTER below! Dinner will be served! Please register for this event here.
+DTEND:20240328T223000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Professional Science Masters Department (PSM):mailto:Professional Science Masters Department (PSM)
+DTSTART:20240328T213000Z
+SUMMARY:STEPPING UP: New “4+1” Students - What’s Next?
+UID:1625b172-b103-4d89-869c-499afada4c0d@1625.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9194415
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch
+DESCRIPTION:We are so excited to see you all back for the Spring Semester! Previous CS and Pharmacy students will be sharing study tips and secrets with you all to further your careers. Food will be served at this event! 
+DTEND:20240123T010000Z
+LOCATION:Allen Residence Hall\, 32\, Bevier Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Computer Science Living-Learning Community (Douglass WiSE\, DRC):mailto:Computer Science Living-Learning Community (Douglass WiSE\, DRC)
+DTSTART:20240123T000000Z
+SUMMARY:Welcome Back to Spring : Surviving the Second Semester 
+UID:2ce9ecb5-902c-457e-bed1-9bee2d04e1b4@2ce9.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9664887
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass
+DESCRIPTION:Join us for a night to learn about composting and recycling on Cook campus! 
+DTEND:20240207T010000Z
+LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Residence Life: Cook/Douglass - Newell/Starkey Apartments:mailto:Residence Life: Cook/Douglass - Newell/Starkey Apartments
+DTSTART:20240207T000000Z
+SUMMARY:Cook Apartments: Composting and Community
+UID:f2e561d0-3077-4cf8-b794-038cf71c93cb@f2e5.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9685660
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Graduate Student Organization Event
+DESCRIPTION:Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.
+DTEND:20240406T013000Z
+LOCATION:Eva and Arie Halpern Hillel House\, 70\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
+DTSTART:20240406T003000Z
+SUMMARY:Grad Student Shabbat Dinner
+UID:581a1fad-90c4-4735-87d6-58dd13b0e612@581a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676254
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston
+DESCRIPTION:This week\, join us for an end of winter gathering. Students will be able to chat with others and enjoy foods from around the world.  
+DTEND:20240301T220000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20240301T210000Z
+SUMMARY:Friendship Fridays: Winter International Social 
+UID:63a9b582-3978-47f9-844e-a0890b69e9a8@63a9.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653018
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cultural,Banquet/Food or Culinary,Educational Lecture
+DESCRIPTION:Gyoza\, wontons\, momos\, ravioli\, pierogi\, empanadas... there are so many dumpling varieties across the globe.  Join us for a short lecture led by Dr. Jack Bouchard\, Assistant Professor of History\, about why dumplings are found around the world\, and then stay to sample the many international versions of these little bundles of goodness.    *You must register on getINVOLVED if you wish to attend this event.  Space is limited.* 
+DTEND:20240213T003000Z
+LOCATION:College Avenue Student Center - Multipurpose Room
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20240212T230000Z
+SUMMARY:Dumplings Around the World
+UID:ac5aa20d-7b55-4a5b-80dd-48e767301d65@ac5a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9649316
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Educational Conference/Seminar/Workshop/Panel,Special Interest
@@ -251,7 +185,73 @@ LOCATION:The Hatchery Innovation Studio\, Lower Level Alexander Library
 ORGANIZER;CN=Innovation\, Design\, and Entrepreneurship Academy:mailto:Innovation\, Design\, and Entrepreneurship Academy
 DTSTART:20240223T190000Z
 SUMMARY:UPitchNJ Rutgers Competition - Apply by January 24\, 2024!
-UID:79389402-4d23-4cc2-ac51-27a8bc1c8af0@7938.org
+UID:6cf95f32-4db3-42db-831e-4b52fd109d99@6cf9.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9670946
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass,Academics (Residence Life)
+DESCRIPTION:Cook apartment residents can find study and academic success tips spread across the Newell apartments\, Starkey apartments and Pal building. Find all 5 tips and bring them to the PAL to get a prize/treat anytime between 01/22- 01/26. 
+DTEND:20240126T220000Z
+LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Residence Life: Cook/Douglass - Newell/Starkey Apartments:mailto:Residence Life: Cook/Douglass - Newell/Starkey Apartments
+DTSTART:20240122T133000Z
+SUMMARY:Academic Success Scavenger Hunt
+UID:9ab1ce19-ac49-4991-bbaa-b2e2b0df6d10@9ab1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9685659
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass,Special Interest
+DESCRIPTION:Celebrate the end of the academic year by joining Douglass staff\, the Voorhees Choir\, and fellow students for the annual Sacred Path Ceremony. One of Douglass' oldest traditions\, the Sacred Path ceremony recognizes student achievement and fosters Douglass's unique community. Join your fellow Douglass classmates\, alumnae\, friends\, and family as each class is honored with a symbol representing the different class years. After you receive your charm\, head to the ceremonial fires on the sacred path to make a wish!  Students should show their pride by wearing their class year colors (first years wear white\, sophomores wear pink\, juniors wear red\, and seniors wear black). Every student will receive a charm\, a token representing her class. All Douglass students\, family\, faculty\, and alumnae are welcome! Refreshments will be provided at Ludwig immediately following the ceremony.  *Students in Knowledge & Power will receive 2 points towards their Douglass event requirements* 
+DTEND:20240408T010000Z
+LOCATION:Voorhees Chapel\, 5\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Traditional Events at Douglass Residential College - DRC:mailto:Traditional Events at Douglass Residential College - DRC
+DTSTART:20240407T230000Z
+SUMMARY:Sacred Path 2024
+UID:e0778827-6391-43e3-96c8-e4c84320142e@e077.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9161676
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:This week\, join us to decorate some delicious and festive Valentine's Day cookies! 
+DTEND:20240209T220000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20240209T210000Z
+SUMMARY:Friendship Fridays: Cookie Decorating
+UID:99e4d84c-5dd4-46f2-a382-a5ac7d0816d0@99e4.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653004
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Busch
+DESCRIPTION:Join us and learn more about the Master of Business and Science degree program. Enjoy light refreshments\, a program presentation\, and a lively Q&A. Faculty advisors and program staff will be on hand to discuss the program\, academic and professional goals. This unique program combines advanced\, STEM-based education with professionally guided business instruction—enabling graduates to step confidently and adeptly into the STEM workforce. The MBS degree provides - externship\, internship\, executive coaching\, an alumni-student mentoring program\, professional development\, colloquium and more! Please register for this event here.
+DTEND:20240223T000000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Professional Science Masters Department (PSM):mailto:Professional Science Masters Department (PSM)
+DTSTART:20240222T230000Z
+SUMMARY:OPEN HOUSE: “4+1” BS/MBS Program - Science Meets Business!
+UID:c6e618f8-148b-459b-96fc-4c03c21a2497@c6e6.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9194302
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Graduate Student Organization Event
+DESCRIPTION:Come do some jigsaw puzzles on Shabbat afternoon.
+DTEND:20240420T210000Z
+LOCATION:Eva and Arie Halpern Hillel House\, 70\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
+DTSTART:20240420T190000Z
+SUMMARY:Grad Students Jigsaw 🧩 Puzzle Break
+UID:c54ed573-a128-4476-b213-b0264e2162cc@c54e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676337
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Seasonal/Holiday
+DESCRIPTION:Get ready to kick off the new semester in style at the annual Honors College Winter Ball! Let's make memories and celebrate together! 🎊 Don't miss out on the chance to mingle with your amazing HC peers in SEMI-FORMAL attire—it's your time to shine! This unforgettable evening is brought to you by the fantastic folks at the Honors College & Brett Hall RHA. Tickets are free—please RSVP to get your tickets!! *By attending our events\, you agree to allow Residence Hall Association (RHA) to use\, distribute\, and/or publicize any photos taken during and at the event. For any specific accommodation needs related to your physical attendance\, please contact kdy11@scarletmail.rutgers.edu
+DTEND:20240127T040000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Residence Hall Association (RHA):mailto:Residence Hall Association (RHA)
+DTSTART:20240127T010000Z
+SUMMARY:Winter Ball 2024 at Honors College
+UID:24293bc3-049c-4943-a32a-88527adf9469@2429.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676562
 END:VEVENT
 END:VCALENDAR
