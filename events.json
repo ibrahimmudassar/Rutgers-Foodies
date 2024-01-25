@@ -15,7 +15,7 @@
             "endsOn": "2024-01-26T22:00:00.000Z",
             "id": "9685659",
             "imagePath": "https://se-images.campuslabs.com/clink/images/c629e541-29f8-4202-bba0-53a8d3f8b32aeb571ee1-9b2b-4253-887e-e62b6b8180ed.png",
-            "index": 17,
+            "index": 16,
             "institutionId": 4753,
             "latitude": 40.47835,
             "location": "PAL Office",
@@ -33,123 +33,71 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.98974,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Dunkin donuts and bagels breakfast!",
-            "endsOn": "2024-01-24T17:00:00.000Z",
-            "id": "9731227",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/c1d4b829-e35d-46c4-a2ec-9e6d211eade131900289-883a-497b-b13c-81c361f0e804.pdf",
-            "index": 0,
-            "institutionId": 4753,
-            "latitude": 40.52447,
-            "location": "Chemistry and Chemical Biology 2217",
-            "longitude": -74.46201,
-            "name": "Chemistry GSO January Breakfast",
-            "organizationId": 330042,
-            "organizationIds": [],
-            "organizationName": "Chemistry and Chemical Biology (Graduate Student Organization)",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/818563d1-f3a2-4fa2-a245-332ee4041ced9527fefb-e297-4111-9226-20bf0bd48504.png",
-            "recScore": null,
-            "startsOn": "2024-01-24T15:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.954384,
-            "benefitNames": "Free Food",
+            "@search.score": 1.0,
+            "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
             "categoryIds": [
-                "5346"
+                "5345",
+                "5358",
+                "18433"
             ],
             "categoryNames": [
-                "General Organization Meeting"
+                "Film ",
+                "Wellness Event",
+                "Welcome Week"
             ],
-            "description": "Pencils of Promise is holding our first general meeting this Wednesday (2/24) at 6pm in the CASC cap and skull room!! If you're interested in our mission, wanna meet us, or simply have nothing to do, come in to learn about important semester objectives, upcoming events, and eboard elections! And ofc, there will be free hot coco\u2615\ufe0f",
-            "endsOn": "2024-01-25T00:00:00.000Z",
-            "id": "9802805",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/25d506e4-129d-4210-9232-894fc53ad10c458bdbab-c835-4005-8434-8217ea8f31a7.png",
-            "index": 1,
-            "institutionId": 4753,
-            "latitude": 40.50264,
-            "location": "College ave student center",
-            "longitude": -74.45183,
-            "name": "Spring Interest Meeting",
-            "organizationId": 122892,
-            "organizationIds": [],
-            "organizationName": "Pencils of Promise",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/300b7f23-8aca-4da5-99ce-4d00d790adfc12269d7c-9ff1-454b-b195-45d5f74eaa24.jpeg",
-            "recScore": null,
-            "startsOn": "2024-01-24T23:00:00.000Z",
-            "status": "Approved",
-            "theme": "CommunityService",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.94996,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Join us to learn more about our upcoming spring events and a sneak peak at how the datathon will run! Pizza will be provided!",
-            "endsOn": "2024-01-25T01:00:00.000Z",
-            "id": "9789473",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/457118de-7c00-4760-9402-16c4b6c787119649ae97-9a69-488b-91e2-9a18ffd7da05.png",
+            "description": "Join the Cultural Center Collaborative for a POP UP Cinema & Paint: A Social Justice Paint & Sip in honor of the legacy of Reverend Dr. Martin Luther King, Jr.. This year we will learn about his life\u2019s work and commitment to social justice through a screening of King: A Filmed Record.. Montgomery to Memphis coupled with a prompted paint & sip.  Come be in community as we learn and practice self/communal care as we navigate a surrounding world filled with injustice, chaos, and activism.  Part of justice work is rest and art activism! RSVP at go.rutgers.edu/MLK24",
+            "endsOn": "2024-01-25T02:30:00.000Z",
+            "id": "9817515",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/7fdb59b0-49a2-4502-b0a5-97977d488fe7a33df4e1-0841-42f4-b583-4689190a0940.png",
             "index": 2,
             "institutionId": 4753,
-            "latitude": null,
-            "location": "120 BC BSC",
-            "longitude": null,
-            "name": "Spring Events and Datathon Info Session",
-            "organizationId": 198857,
+            "latitude": 40.52354,
+            "location": "Livingston Student Center MPR",
+            "longitude": -74.43718,
+            "name": "MLK Legacy POP UP Cinema & Paint: A Social Justice Paint & Sip",
+            "organizationId": 301886,
             "organizationIds": [],
-            "organizationName": "Data Science Club (Rutgers) ",
+            "organizationName": "Cultural Center Collaborative (Department at Rutgers University)",
             "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/bcac6ce1-12ce-4589-8e57-bc0df0f362fa06e43d86-47c4-4215-bf3a-691ce150f24e.jpeg",
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/32e03f6d-c4cb-49b4-9f2d-a1b05ad254bfba01da6f-f290-4c74-880f-dc5b16a5b6e6.png",
             "recScore": null,
             "startsOn": "2024-01-25T00:00:00.000Z",
             "status": "Approved",
-            "theme": "Social",
+            "theme": "Cultural",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.94996,
+            "@search.score": 1.0,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
             "categoryIds": [],
             "categoryNames": [],
-            "description": "Come destress and tap into your creative side with Sip n Paint Night with Mesorah! Hot cocoa and marshmallows will be served while you paint. ",
-            "endsOn": "2024-01-25T01:00:00.000Z",
-            "id": "9809548",
+            "description": "Intro meeting with plans for the semester, and journal club. ",
+            "endsOn": "2024-01-25T02:00:00.000Z",
+            "id": "9822867",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 3,
+            "index": 0,
             "institutionId": 4753,
-            "latitude": null,
-            "location": "Rutgers Hillel",
-            "longitude": null,
-            "name": "Sip n Paint Night",
-            "organizationId": 121948,
+            "latitude": 38.63489,
+            "location": "Busch Student center Rm 120A",
+            "longitude": -90.23311,
+            "name": "OHC Meeting 01/24",
+            "organizationId": 330522,
             "organizationIds": [],
-            "organizationName": "Hillel (Rutgers)",
+            "organizationName": "One Health Club",
             "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/8b17f5ff-8cc2-4af3-afb7-acf180b199f62f9a96f4-1902-4cc4-82f8-9f537c5c83ea.png",
             "recScore": null,
-            "startsOn": "2024-01-25T00:00:00.000Z",
+            "startsOn": "2024-01-25T01:00:00.000Z",
             "status": "Approved",
-            "theme": "Social",
+            "theme": "ThoughtfulLearning",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.94553,
+            "@search.score": 1.0,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -163,7 +111,7 @@
             "endsOn": "2024-01-25T02:00:00.000Z",
             "id": "9813039",
             "imagePath": "https://se-images.campuslabs.com/clink/images/f39982eb-6a60-4fcb-b32c-fbeef5a5c1b33f49064f-7fd8-437c-8b41-c0c41e76de6e.png",
-            "index": 4,
+            "index": 1,
             "institutionId": 4753,
             "latitude": 40.50032,
             "location": "Lax Library - Rutgers Hillel",
@@ -181,7 +129,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.94553,
+            "@search.score": 1.0,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -191,7 +139,7 @@
             "endsOn": "2024-01-25T03:00:00.000Z",
             "id": "9814002",
             "imagePath": "https://se-images.campuslabs.com/clink/images/e480098d-c870-47da-8090-2fcb4f6faec011d3e274-95ca-46fd-8344-921453b5621d.png",
-            "index": 5,
+            "index": 3,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center Gathering Lounge",
@@ -209,7 +157,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.94332,
+            "@search.score": 99.99941,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -223,7 +171,7 @@
             "endsOn": "2024-01-25T03:30:00.000Z",
             "id": "9802742",
             "imagePath": "https://se-images.campuslabs.com/clink/images/8402b047-c207-4abf-b5c9-072848fb68f46fb0b18c-d1b0-4bdc-81b9-8bcfa2dcdb66.png",
-            "index": 7,
+            "index": 5,
             "institutionId": 4753,
             "latitude": 40.50469,
             "location": "Hardenbergh Hall",
@@ -241,7 +189,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.94001,
+            "@search.score": 99.99609,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -251,7 +199,7 @@
             "endsOn": "2024-01-25T03:15:00.000Z",
             "id": "9796727",
             "imagePath": "https://se-images.campuslabs.com/clink/images/363acae7-6ebc-4894-bd01-88b0559b8a04c509ef4a-a762-4e31-9ce2-55c157e930fc.png",
-            "index": 6,
+            "index": 4,
             "institutionId": 4753,
             "latitude": null,
             "location": "Busch Student Center - BSC 118 ",
@@ -269,35 +217,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.852554,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Mingle with other commuter students while enjoying a variety of games.",
-            "endsOn": "2024-01-26T00:00:00.000Z",
-            "id": "9723152",
-            "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 9,
-            "institutionId": 4753,
-            "latitude": 40.52354,
-            "location": "Gathering Lounge, Livingston Student Center",
-            "longitude": -74.43718,
-            "name": "Transfer Mixer ",
-            "organizationId": 123166,
-            "organizationIds": [],
-            "organizationName": "Rutgers Commuter Student Association",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
-            "recScore": null,
-            "startsOn": "2024-01-25T22:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.852554,
+            "@search.score": 99.90876,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -309,7 +229,7 @@
             "endsOn": "2024-01-26T00:00:00.000Z",
             "id": "9784240",
             "imagePath": "https://se-images.campuslabs.com/clink/images/82563649-950c-4042-8bc3-a6035d22c8b35193ac8c-22ff-4816-bd57-0fde536075a9.png",
-            "index": 8,
+            "index": 6,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center Gathering Lounge",
@@ -333,7 +253,35 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.84812,
+            "@search.score": 99.90876,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Mingle with other commuter students while enjoying a variety of games.",
+            "endsOn": "2024-01-26T00:00:00.000Z",
+            "id": "9723152",
+            "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
+            "index": 7,
+            "institutionId": 4753,
+            "latitude": 40.52354,
+            "location": "Gathering Lounge, Livingston Student Center",
+            "longitude": -74.43718,
+            "name": "Transfer Mixer ",
+            "organizationId": 123166,
+            "organizationIds": [],
+            "organizationName": "Rutgers Commuter Student Association",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+            "recScore": null,
+            "startsOn": "2024-01-25T22:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.904335,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -365,39 +313,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.84369,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [
-                "5346"
-            ],
-            "categoryNames": [
-                "General Organization Meeting"
-            ],
-            "description": "Join us for our Spring semester general interest meeting! You'll have an opportunity to learn about the following: - our club values - the ITI major - e-board and intern positions - our Spring mentorship program - and more! Pizza will be provided! Hope to see you there!",
-            "endsOn": "2024-01-26T01:00:00.000Z",
-            "id": "9775576",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/0fdebe07-ebf9-434b-aae6-d8e6aab658aa3433bdf2-143f-45e5-9d7e-e358021428be.png",
-            "index": 10,
-            "institutionId": 4753,
-            "latitude": 40.52354,
-            "location": "Livingston Student Center Room 202C",
-            "longitude": -74.43718,
-            "name": "Welcome Back! | Spring Interest Meeting",
-            "organizationId": 122400,
-            "organizationIds": [],
-            "organizationName": "Women in Information Technology & Informatics",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/af65aa9a-e8fe-413b-bc6e-2e3489fd1367524be250-f991-4f0e-aa1b-b091ac6e6158.jpg",
-            "recScore": null,
-            "startsOn": "2024-01-26T00:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.84369,
+            "@search.score": 99.8999,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -407,7 +323,7 @@
             "endsOn": "2024-01-26T03:30:00.000Z",
             "id": "9760008",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 15,
+            "index": 14,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center Learning Center",
@@ -425,7 +341,101 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.84036,
+            "@search.score": 99.8999,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5352"
+            ],
+            "categoryNames": [
+                "Religious/Religious Cultural/Spiritual Event"
+            ],
+            "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
+            "endsOn": "2024-01-26T01:00:00.000Z",
+            "id": "9774428",
+            "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
+            "index": 9,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "Rutgers Hillel",
+            "longitude": null,
+            "name": "Mishmar with Mesorah",
+            "organizationId": 121948,
+            "organizationIds": [
+                "121948"
+            ],
+            "organizationName": "Hillel (Rutgers)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
+            "recScore": null,
+            "startsOn": "2024-01-26T00:00:00.000Z",
+            "status": "Approved",
+            "theme": "ThoughtfulLearning",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.8999,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5346"
+            ],
+            "categoryNames": [
+                "General Organization Meeting"
+            ],
+            "description": "Join us for our Spring semester general interest meeting! You'll have an opportunity to learn about the following: - our club values - the ITI major - e-board and intern positions - our Spring mentorship program - and more! Pizza will be provided! Hope to see you there!",
+            "endsOn": "2024-01-26T01:00:00.000Z",
+            "id": "9775576",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/0fdebe07-ebf9-434b-aae6-d8e6aab658aa3433bdf2-143f-45e5-9d7e-e358021428be.png",
+            "index": 8,
+            "institutionId": 4753,
+            "latitude": 40.52354,
+            "location": "Livingston Student Center Room 202C",
+            "longitude": -74.43718,
+            "name": "Welcome Back! | Spring Interest Meeting",
+            "organizationId": 122400,
+            "organizationIds": [],
+            "organizationName": "Women in Information Technology & Informatics",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/af65aa9a-e8fe-413b-bc6e-2e3489fd1367524be250-f991-4f0e-aa1b-b091ac6e6158.jpg",
+            "recScore": null,
+            "startsOn": "2024-01-26T00:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.89769,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "We invite you all to RU MANRRS Spring \u201824 Kickoff\ud83c\udf37 Lots in store for MANRRS this spring semester, so come join us for some sweet treats and good conversation\ud83c\udf31",
+            "endsOn": "2024-01-26T01:30:00.000Z",
+            "id": "9817132",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/b96e3f30-f9dc-4dde-8480-b67b9f0dbffdd62deae4-14be-402d-895f-526058d7dbe0.png",
+            "index": 10,
+            "institutionId": 4753,
+            "latitude": 40.48085,
+            "location": "Martin Hall, 3rd Floor Conference Room",
+            "longitude": -74.43886,
+            "name": "MANRRS RU Chapter - Spring '24 Kickoff",
+            "organizationId": 322895,
+            "organizationIds": [],
+            "organizationName": "Minorities in Agriculture, Natural Resources and Related Sciences (The Rutgers)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/c650058c-3dd4-4525-84b5-f2104fd81e11c079d9fc-b7a6-4d98-92e4-c55ba4a0af9d.jpeg",
+            "recScore": null,
+            "startsOn": "2024-01-26T00:30:00.000Z",
+            "status": "Approved",
+            "theme": "GroupBusiness",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.89658,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -453,39 +463,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.83926,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [
-                "5352"
-            ],
-            "categoryNames": [
-                "Religious/Religious Cultural/Spiritual Event"
-            ],
-            "description": "Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar, such as Guest Speakers, Student Led Mishmar, and Chaburahfest!",
-            "endsOn": "2024-01-26T02:00:00.000Z",
-            "id": "9774428",
-            "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 13,
-            "institutionId": 4753,
-            "latitude": null,
-            "location": "Rutgers Hillel",
-            "longitude": null,
-            "name": "Mishmar with Mesorah",
-            "organizationId": 121948,
-            "organizationIds": [],
-            "organizationName": "Hillel (Rutgers)",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/bde0be0e-114a-4798-b9db-323acd01476ab86b7da6-3b70-4d13-adea-e9172177ce52.png",
-            "recScore": null,
-            "startsOn": "2024-01-26T01:00:00.000Z",
-            "status": "Approved",
-            "theme": "ThoughtfulLearning",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.83926,
+            "@search.score": 99.89548,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -501,7 +479,7 @@
             "endsOn": "2024-01-26T03:00:00.000Z",
             "id": "9687771",
             "imagePath": "https://se-images.campuslabs.com/clink/images/acd9be71-d770-42b6-b37f-74b799dfbf533ffeffe9-6e8f-4964-8ccc-c8de441f84be.png",
-            "index": 14,
+            "index": 13,
             "institutionId": 4753,
             "latitude": 40.50537,
             "location": "Campbell Hall",
@@ -519,7 +497,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.75049,
+            "@search.score": 99.80682,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -529,7 +507,7 @@
             "endsOn": "2024-01-26T22:00:00.000Z",
             "id": "9652974",
             "imagePath": "https://se-images.campuslabs.com/clink/images/a19182d2-58e7-4b2f-a4a2-bc13fdf106d4b2ba2acb-0217-433a-861a-83c1ccac34a2.png",
-            "index": 16,
+            "index": 15,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center Coffeehouse, Livingston Campus ",
@@ -547,7 +525,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.73271,
+            "@search.score": 99.78907,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -563,7 +541,7 @@
             "endsOn": "2024-01-27T04:00:00.000Z",
             "id": "9676562",
             "imagePath": "https://se-images.campuslabs.com/clink/images/251f5360-f897-41d5-b897-ae5abbe81b9aeb63b004-4378-4cda-b76a-496eef3aa96e.png",
-            "index": 18,
+            "index": 17,
             "institutionId": 4753,
             "latitude": 40.50243,
             "location": "Honors College - Druskin/South Lounge",
@@ -591,7 +569,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.730484,
+            "@search.score": 99.78685,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -601,7 +579,7 @@
             "endsOn": "2024-01-27T04:00:00.000Z",
             "id": "9810159",
             "imagePath": "https://se-images.campuslabs.com/clink/images/5e958e79-bbc8-4a64-834a-efbc374853e758db1555-61e5-49f0-8509-800e1f192cc4.png",
-            "index": 19,
+            "index": 18,
             "institutionId": 4753,
             "latitude": 40.52271,
             "location": "SERC 208",
@@ -619,7 +597,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.728264,
+            "@search.score": 99.78463,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -629,7 +607,7 @@
             "endsOn": "2024-01-27T05:00:00.000Z",
             "id": "9801880",
             "imagePath": "https://se-images.campuslabs.com/clink/images/44fc9d06-8f2a-45f3-b27b-58e72daf8cdebf1f5510-4069-4a72-8a46-5da2772f162d.png",
-            "index": 20,
+            "index": 19,
             "institutionId": 4753,
             "latitude": 40.50264,
             "location": "College Ave. Student Center",
@@ -647,7 +625,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.630356,
+            "@search.score": 99.68685,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -661,7 +639,7 @@
             "endsOn": "2024-01-28T01:00:00.000Z",
             "id": "9813092",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 21,
+            "index": 20,
             "institutionId": 4753,
             "latitude": 40.50039,
             "location": "Middlesex Fireplace Lounge (downstairs near the entrance)",
@@ -679,7 +657,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.527756,
+            "@search.score": 99.58439,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -693,7 +671,7 @@
             "endsOn": "2024-01-29T03:00:00.000Z",
             "id": "9799621",
             "imagePath": "https://se-images.campuslabs.com/clink/images/50b8634b-7af8-4741-ace0-5484ab1d5faa7e9061e0-e507-42e2-a470-c6538ae1a852.png",
-            "index": 22,
+            "index": 21,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center Multipurpose Room",
@@ -711,7 +689,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.42044,
+            "@search.score": 99.47721,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -725,7 +703,7 @@
             "endsOn": "2024-01-30T01:00:00.000Z",
             "id": "9757459",
             "imagePath": "https://se-images.campuslabs.com/clink/images/fa44de1d-22a2-46f3-8e0e-7c2c44039b50d6bfaab7-66b0-46c6-983c-63be6526f04b.png",
-            "index": 23,
+            "index": 22,
             "institutionId": 4753,
             "latitude": 40.52356,
             "location": "Ernest Mario School of Pharmacy Room 247",
@@ -743,7 +721,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.308365,
+            "@search.score": 99.36528,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -753,7 +731,7 @@
             "endsOn": "2024-01-31T03:00:00.000Z",
             "id": "9677150",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 25,
+            "index": 24,
             "institutionId": 4753,
             "latitude": 40.50264,
             "location": "CASC MPR",
@@ -771,7 +749,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.306114,
+            "@search.score": 99.36304,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -781,7 +759,7 @@
             "endsOn": "2024-01-31T01:30:00.000Z",
             "id": "9765361",
             "imagePath": "https://se-images.campuslabs.com/clink/images/3558d4b0-c227-4423-96e1-8b842b4d226499edf1f2-2fd6-4d0b-b18c-ff0742c6447d.png",
-            "index": 24,
+            "index": 23,
             "institutionId": 4753,
             "latitude": 40.50417,
             "location": "Center for Latino Arts and Culture ",
@@ -799,7 +777,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.30163,
+            "@search.score": 99.35856,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -815,7 +793,7 @@
             "endsOn": "2024-01-31T03:30:00.000Z",
             "id": "9748962",
             "imagePath": "https://se-images.campuslabs.com/clink/images/263cf76a-9a9f-413a-a57d-c4ed08dd4cebb62a29de-cdeb-4b63-9e82-f6a73536b812.png",
-            "index": 26,
+            "index": 25,
             "institutionId": 4753,
             "latitude": 40.50469,
             "location": "Hardenbergh Hall",
@@ -833,7 +811,41 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.19599,
+            "@search.score": 99.271034,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5340",
+                "5341"
+            ],
+            "categoryNames": [
+                "Educational Conference/Seminar/Workshop/Panel",
+                "Educational Lecture"
+            ],
+            "description": "Learn about what's happening to food waste on campus, how it relates to greater environmental issues, and how you can make a difference. Special guests include Dr. Serpil Guran and the Rutgers EcoComplex, Dr. Angie Oberg and the Office of Climate Action, Dr. Byran Blair and Trenton Renewables, Mr. Isaac Bearg and the NJ Composting Council, Rutgers Students for Environmental Awareness, and more! Join us on Wednesday, January 31st from 4:00-7:30 PM in room 202 of the Cook Student Center. Hope to see you there!",
+            "endsOn": "2024-02-01T00:30:00.000Z",
+            "id": "9823231",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/ed523d18-1a36-4987-bfc3-4e5d7e06bdb8fd2b4f15-1748-43fe-b82a-ebc0debc2190.png",
+            "index": 26,
+            "institutionId": 4753,
+            "latitude": 40.47895,
+            "location": "Cook Student Center Room 202",
+            "longitude": -74.43163,
+            "name": "Food Waste Reutilization Awareness Event",
+            "organizationId": 122658,
+            "organizationIds": [],
+            "organizationName": "Students for Environmental Awareness",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/377b6121-5cf7-47b8-911c-310d4afd7beaf552a324-ee6f-412e-b305-d5ff73a1ebce.png",
+            "recScore": null,
+            "startsOn": "2024-01-31T21:00:00.000Z",
+            "status": "Approved",
+            "theme": "ThoughtfulLearning",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.25306,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -861,7 +873,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.126175,
+            "@search.score": 99.183334,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -889,7 +901,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.092354,
+            "@search.score": 99.14956,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -923,7 +935,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.08784,
+            "@search.score": 99.14505,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -957,7 +969,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.08784,
+            "@search.score": 99.14505,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -989,7 +1001,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.997505,
+            "@search.score": 99.05483,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1021,7 +1033,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.99298,
+            "@search.score": 99.05032,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1049,7 +1061,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.54752,
+            "@search.score": 98.60546,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1077,7 +1089,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.43773,
+            "@search.score": 98.49581,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1109,7 +1121,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.32306,
+            "@search.score": 98.381294,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1141,7 +1153,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.32306,
+            "@search.score": 98.381294,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1175,7 +1187,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.2311,
+            "@search.score": 98.28946,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1203,7 +1215,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.13433,
+            "@search.score": 98.192825,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1235,7 +1247,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.88913,
+            "@search.score": 97.94796,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1269,7 +1281,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.81019,
+            "@search.score": 97.869125,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1301,7 +1313,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.78694,
+            "@search.score": 97.84591,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1329,7 +1341,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.77299,
+            "@search.score": 97.83197,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1363,7 +1375,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.544426,
+            "@search.score": 97.60373,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1395,7 +1407,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.99371,
+            "@search.score": 97.05377,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1423,7 +1435,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.763336,
+            "@search.score": 96.82372,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1451,7 +1463,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.75143,
+            "@search.score": 96.81184,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1483,7 +1495,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.75143,
+            "@search.score": 96.81184,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1517,7 +1529,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.665596,
+            "@search.score": 96.72612,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1551,7 +1563,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.644104,
+            "@search.score": 96.70466,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1585,7 +1597,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.18074,
+            "@search.score": 96.24195,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1621,7 +1633,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.08892,
+            "@search.score": 96.15026,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1655,7 +1667,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.06715,
+            "@search.score": 96.12852,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1689,7 +1701,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.06472,
+            "@search.score": 96.1261,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1721,7 +1733,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.943535,
+            "@search.score": 96.00508,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1753,7 +1765,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.86579,
+            "@search.score": 95.92746,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1787,7 +1799,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.84634,
+            "@search.score": 95.90803,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1815,7 +1827,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.16221,
+            "@search.score": 95.224884,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1843,7 +1855,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.12264,
+            "@search.score": 95.18538,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1879,7 +1891,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.68116,
+            "@search.score": 93.74603,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1917,7 +1929,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.60947,
+            "@search.score": 93.67445,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1949,7 +1961,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.57358,
+            "@search.score": 93.63861,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1977,7 +1989,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.42971,
+            "@search.score": 93.494965,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2009,7 +2021,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 92.692604,
+            "@search.score": 92.75899,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -2049,7 +2061,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 92.56939,
+            "@search.score": 92.63596,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2077,7 +2089,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 92.55627,
+            "@search.score": 92.622856,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2109,7 +2121,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 92.45109,
+            "@search.score": 92.517845,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2137,7 +2149,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.83862,
+            "@search.score": 91.906334,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -2165,7 +2177,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.6647,
+            "@search.score": 91.73269,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2197,7 +2209,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.53581,
+            "@search.score": 91.604004,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2231,7 +2243,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.28228,
+            "@search.score": 91.350876,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -2263,7 +2275,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 90.75426,
+            "@search.score": 90.8237,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2295,7 +2307,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 89.83531,
+            "@search.score": 89.90625,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2327,7 +2339,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 89.82412,
+            "@search.score": 89.89508,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2359,7 +2371,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 89.82412,
+            "@search.score": 89.89508,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2397,7 +2409,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 89.58278,
+            "@search.score": 89.65414,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2429,7 +2441,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 88.770294,
+            "@search.score": 88.84301,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2457,7 +2469,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 88.75882,
+            "@search.score": 88.83156,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2485,7 +2497,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 88.75882,
+            "@search.score": 88.83156,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
