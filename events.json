@@ -1,35 +1,81 @@
 {
     "data": [
         {
-            "@search.score": 99.98059,
-            "benefitNames": "Free Food, Free Stuff",
+            "@search.score": 1.0,
+            "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Please join us for an engaging and interactive session for Douglass Women in Science and Engineering to learn about numerous graduate school possibilities available to them.",
-            "endsOn": "2024-02-26T18:30:00.000Z",
-            "id": "9640563",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/a0223c63-a976-4aff-a0ce-280623463d881ace68e4-c9cf-4411-ba7f-535d89e1b66c.png",
+            "categoryIds": [
+                "5352"
+            ],
+            "categoryNames": [
+                "Religious/Religious Cultural/Spiritual Event"
+            ],
+            "description": "Join us tonight at 7pm at BSC 118 as we discuss walking in love as presented in Ephesians!  We would love to meet you and food will be provided!!",
+            "endsOn": "2024-02-27T01:45:00.000Z",
+            "id": "9978314",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/1edd27f3-44c6-4b28-a2c9-d1017b869e365f8e17f0-46ad-4eb8-bc3f-77664c98fc9c.png",
             "index": 0,
             "institutionId": 4753,
             "latitude": null,
-            "location": "Ludwig Center",
+            "location": "Busch Student Center 118",
             "longitude": null,
-            "name": "RU Grad School Ready?",
-            "organizationId": 234279,
+            "name": "ASC Bible Study ",
+            "organizationId": 121303,
             "organizationIds": [],
-            "organizationName": "Douglass Women in Science and Engineering (WiSE)   ",
+            "organizationName": "Adventist Students for Christ",
             "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/e24e1778-34dc-435e-ac15-7889723f4f7e4f1a1f1c-35cc-4195-a478-454a0c88e866.jpg",
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/c6eae7c6-bbaa-4a16-90a1-d19e72ec32e4986325d8-b0f1-4610-a2f8-1f5fd35e5c3d.png",
             "recScore": null,
-            "startsOn": "2024-02-26T17:00:00.000Z",
+            "startsOn": "2024-02-26T23:45:00.000Z",
             "status": "Approved",
-            "theme": "ThoughtfulLearning",
+            "theme": "Spirituality",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.94522,
+            "@search.score": 1.0,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [
+                "112385"
+            ],
+            "categoryIds": [
+                "6113"
+            ],
+            "categoryNames": [
+                "Equity (Residence Life)"
+            ],
+            "description": "Hello!Are you ready for a culinary adventure that will tantalize your taste buds and transport you around the globe? Join your CDFYA Residence Life team on Monday 2/26 at 7:30pm in the Nicholas Hall, Main Lounge for our exciting \"Taste the World\" event!Embark on a journey of flavors as we showcase an enticing selection of dishes representing diverse cuisines and cultures from around the world. Best of all, admission is free, and you'll have the opportunity to indulge in these delectable delights without spending a dime!Don't miss this chance to taste the world right here on campus! We look forward to seeing you there!",
+            "endsOn": "2024-02-27T02:00:00.000Z",
+            "id": "9982902",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/620fe1a2-fa3e-40ec-83f1-53642a997cf9bea002bf-5e50-4c97-8d34-92b9ea7b13a8.png",
+            "index": 2,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "Nicholas Hall Main Lounge!",
+            "longitude": null,
+            "name": "Taste the World",
+            "organizationId": 132665,
+            "organizationIds": [
+                "132665",
+                "132666",
+                "132674"
+            ],
+            "organizationName": "Residence Life: Cook/Douglass - Nicholas",
+            "organizationNames": [
+                "Residence Life: Cook/Douglass - Nicholas",
+                "Residence Life: Cook/Douglass - Perry & Voorhees",
+                "Residence Life: Cook/Douglass - Lippincott Hall"
+            ],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/39665719-6c98-44f4-9870-836ba56bc6dfd9b24483-c41d-42cf-ab8d-d8e6ef1f406a.jpg",
+            "recScore": null,
+            "startsOn": "2024-02-27T00:30:00.000Z",
+            "status": "Approved",
+            "theme": "Cultural",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 1.0,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -73,7 +119,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.94522,
+            "@search.score": 1.0,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -83,7 +129,7 @@
             "endsOn": "2024-02-27T02:30:00.000Z",
             "id": "9978069",
             "imagePath": "https://se-images.campuslabs.com/clink/images/2eac1777-4233-4bcc-ad86-a1be5ade5d4cdda00a9a-6f7d-4dd7-afc7-dff975cc0540.pdf",
-            "index": 2,
+            "index": 3,
             "institutionId": 4753,
             "latitude": 40.52345,
             "location": "LSC Collaborative Learning Center",
@@ -101,7 +147,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.93858,
+            "@search.score": 99.99441,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -117,7 +163,7 @@
             "endsOn": "2024-02-27T03:30:00.000Z",
             "id": "9977590",
             "imagePath": "https://se-images.campuslabs.com/clink/images/c1f68949-aada-46e8-b5fd-e00145174d3a11be1e05-7536-4db0-91e3-36afc55412e5.png",
-            "index": 3,
+            "index": 4,
             "institutionId": 4753,
             "latitude": 40.50469,
             "location": "Hardenbergh Hall Room A2",
@@ -135,7 +181,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.93858,
+            "@search.score": 99.99441,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -149,7 +195,7 @@
             "endsOn": "2024-02-27T03:30:00.000Z",
             "id": "9968278",
             "imagePath": "https://se-images.campuslabs.com/clink/images/c6796d29-d238-4658-9070-faeca91703a79c6ec4f2-d142-4f4c-a6f8-4ac537c7d99d.png",
-            "index": 4,
+            "index": 5,
             "institutionId": 4753,
             "latitude": null,
             "location": "BSC 116 ABC",
@@ -167,7 +213,35 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.84337,
+            "@search.score": 99.9126,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Mingle with other commuter students while enjoying a variety of games.",
+            "endsOn": "2024-02-27T23:00:00.000Z",
+            "id": "9723191",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/49581c68-cef0-484b-81e5-34348b014cc55ac36112-f46b-4118-bec9-4e578b786a40.png",
+            "index": 6,
+            "institutionId": 4753,
+            "latitude": 40.48472,
+            "location": "Commuter Lounge, Douglass Student Center",
+            "longitude": -74.43662,
+            "name": "Game Night",
+            "organizationId": 123166,
+            "organizationIds": [],
+            "organizationName": "Rutgers Commuter Student Association",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/a782c4d4-ebab-4cab-a9a9-5ffc34b5250d3bacc161-d479-4363-b347-54b755087644.png",
+            "recScore": null,
+            "startsOn": "2024-02-27T21:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.89932,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -185,7 +259,7 @@
             "endsOn": "2024-02-28T02:00:00.000Z",
             "id": "9748963",
             "imagePath": "https://se-images.campuslabs.com/clink/images/52bf9bd8-9353-4abe-85e0-7824a94f9bfea0aeac94-e818-4171-8d7a-5e5c9b4e162b.png",
-            "index": 7,
+            "index": 9,
             "institutionId": 4753,
             "latitude": 40.52542,
             "location": "Livingston Reading Room B",
@@ -203,35 +277,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.841156,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Need to unwind in the midst of midterms? Join us next week for a Paint \u2018N Sip with everything you need to create beautiful art and relax. Choose from a selection of sweet treats and non-alcoholic drinks ranging from soda to lemonade to shirley temples. RSVP with the following form: https://docs.google.com/forms/d/e/1FAIpQLSfTDhtIHaGiuPOMt98gDnq1VyiuIHDndNZQOnhvSYBeP37SyA/viewform ",
-            "endsOn": "2024-02-28T01:30:00.000Z",
-            "id": "9927932",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/e9f60759-b5bd-4feb-b3d6-df5a714ca7b7b4e5d4de-c102-4def-87e3-6f7110da13cf.png",
-            "index": 5,
-            "institutionId": 4753,
-            "latitude": 40.50264,
-            "location": "CASC 108",
-            "longitude": -74.45183,
-            "name": "UNICEF's Paint 'N Sip",
-            "organizationId": 122627,
-            "organizationIds": [],
-            "organizationName": "UNICEF (Rutgers)",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/8cbfe642-aeaa-4634-976a-1946c6f04c13b253793e-979c-4961-a5da-44a84a3fd717.jpg",
-            "recScore": null,
-            "startsOn": "2024-02-28T00:30:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.841156,
+            "@search.score": 99.8971,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -241,7 +287,7 @@
             "endsOn": "2024-02-28T01:30:00.000Z",
             "id": "9972259",
             "imagePath": "https://se-images.campuslabs.com/clink/images/d2fef74b-4a2b-4763-b388-6bbef3af483aab088807-ab22-4994-bd8b-85655abe71ee.png",
-            "index": 6,
+            "index": 8,
             "institutionId": 4753,
             "latitude": 40.50469,
             "location": "Hardenbergh Hall Room B2",
@@ -259,7 +305,67 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.838936,
+            "@search.score": 99.8971,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Need to unwind in the midst of midterms? Join us next week for a Paint \u2018N Sip with everything you need to create beautiful art and relax. Choose from a selection of sweet treats and non-alcoholic drinks ranging from soda to lemonade to shirley temples. RSVP with the following form: https://docs.google.com/forms/d/e/1FAIpQLSfTDhtIHaGiuPOMt98gDnq1VyiuIHDndNZQOnhvSYBeP37SyA/viewform ",
+            "endsOn": "2024-02-28T01:30:00.000Z",
+            "id": "9927932",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/e9f60759-b5bd-4feb-b3d6-df5a714ca7b7b4e5d4de-c102-4def-87e3-6f7110da13cf.png",
+            "index": 7,
+            "institutionId": 4753,
+            "latitude": 40.50264,
+            "location": "CASC 108",
+            "longitude": -74.45183,
+            "name": "UNICEF's Paint 'N Sip",
+            "organizationId": 122627,
+            "organizationIds": [],
+            "organizationName": "UNICEF (Rutgers)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/8cbfe642-aeaa-4634-976a-1946c6f04c13b253793e-979c-4961-a5da-44a84a3fd717.jpg",
+            "recScore": null,
+            "startsOn": "2024-02-28T00:30:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.89489,
+            "benefitNames": "Free Food, Free Stuff",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5346"
+            ],
+            "categoryNames": [
+                "General Organization Meeting"
+            ],
+            "description": "Join us to play some neuroscience-related games of Wordle for prizes! We will also be briefly talking about induction into the National Honor Society in Neuroscience and our annual research symposium AXON. Pizza will be provided!",
+            "endsOn": "2024-02-28T02:00:00.000Z",
+            "id": "9978566",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/d5ff480d-bf1c-46a6-ad43-c941df4d1020f258c9ae-3e5e-4a85-ba08-9cf884c831e9.png",
+            "index": 10,
+            "institutionId": 4753,
+            "latitude": 40.52311,
+            "location": "Busch Student Center - Room 118",
+            "longitude": -74.45863,
+            "name": "Neuroscience Wordle!",
+            "organizationId": 224566,
+            "organizationIds": [],
+            "organizationName": "Nu Rho Psi ",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/3ae70b57-fff3-4db5-abff-3f3e212848704422a8c5-11f5-42ce-a31f-731533818177.jpg",
+            "recScore": null,
+            "startsOn": "2024-02-28T01:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.89489,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -271,7 +377,7 @@
             "endsOn": "2024-02-28T02:00:00.000Z",
             "id": "9977948",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 8,
+            "index": 11,
             "institutionId": 4753,
             "latitude": null,
             "location": "ARC 103",
@@ -297,7 +403,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.838936,
+            "@search.score": 99.89489,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -313,7 +419,7 @@
             "endsOn": "2024-02-28T02:00:00.000Z",
             "id": "9976168",
             "imagePath": "https://se-images.campuslabs.com/clink/images/d9e828c6-da2b-48cb-b79d-f82657083612bf9592f0-b4d1-440a-8aa1-69ebd0fabb4a.png",
-            "index": 9,
+            "index": 12,
             "institutionId": 4753,
             "latitude": null,
             "location": "Busch Student Center Room 120A",
@@ -331,7 +437,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.77904,
+            "@search.score": 99.83507,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -345,7 +451,7 @@
             "endsOn": "2024-02-28T18:00:00.000Z",
             "id": "9934091",
             "imagePath": "https://se-images.campuslabs.com/clink/images/3493aece-fe56-48f8-887b-87b73ceada6a40ca7252-ed62-4491-b9ad-2c6cd2688b12.png",
-            "index": 10,
+            "index": 13,
             "institutionId": 4753,
             "latitude": 40.52397,
             "location": "Paul Robeson Cultural Center",
@@ -363,7 +469,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.759056,
+            "@search.score": 99.81955,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -376,10 +482,10 @@
                 "Educational Conference/Seminar/Workshop/Panel"
             ],
             "description": "Stop by for tips and tricks for finding and securing your dream job or internship, and explore Rutgers internship opportunities that exist here on campus! Free food and beverages will be provided.",
-            "endsOn": "2024-02-28T21:00:00.000Z",
+            "endsOn": "2024-02-28T20:00:00.000Z",
             "id": "9676024",
-            "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 11,
+            "imagePath": "https://se-images.campuslabs.com/clink/images/593012cb-1f0d-44b5-888e-d4f7338ed8e84c343854-30f9-4077-8d43-5c2e0391eab4.png",
+            "index": 14,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center Coffeehouse",
@@ -391,45 +497,45 @@
             "organizationNames": [],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/58b4a1fc-77b5-4313-9ca6-022965749f31e939b6dc-0beb-453f-8ad8-fbfd2cddcb9d.jpg",
             "recScore": null,
-            "startsOn": "2024-02-28T19:00:00.000Z",
+            "startsOn": "2024-02-28T18:00:00.000Z",
             "status": "Approved",
             "theme": "Social",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.73906,
+            "@search.score": 99.79736,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
             "categoryIds": [
-                "5336"
+                "5352"
             ],
             "categoryNames": [
-                "Concert/Musical Performance "
+                "Religious/Religious Cultural/Spiritual Event"
             ],
-            "description": "We are back with another big fundraiser! This spring we invited singers, poets, and bands to perform for our Open Mic Night, which will take place at 6:30 PM on Wednesday, February 28th, in the Cove at Busch Student Center. Tickets are $7 if purchased online through the form below, and $10 at the door. They come with entrance to the show and food! Ask your friends to come! Whoever gets the most referrals in ticket purchases will get a $5 gift card (see last question in ticket form)! *Tickets close on Monday 2/26 at 12 PM. Tickets are available here: https://forms.gle/TFA8Scze2fCHdxPc8 *Performers get free tickets and food! Performer sign-ups close on Friday 2/23: https://forms.gle/gavNgsPkSX2RmHci7 100% of proceeds will be donated to Pencils of Promise to help build schools, and implement WASH & teacher support programs in Ghana, Guatemala, Laos, and Nicaragua.   ",
-            "endsOn": "2024-02-29T01:00:00.000Z",
-            "id": "9956843",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/f27cba70-de28-4c58-9fa0-1d995abbf5deb684a729-b792-4e37-af1c-af33a2f4ab5d.png",
-            "index": 12,
+            "description": "This is a vibrant and auspicious Hindu festival dedicated to Goddess Saraswati, the embodiment of knowledge, wisdom, and the arts. Devotees, especially students and scholars, worship Goddess Saraswati to seek her blessings for academic success, creativity, and intellect. Saraswati Puja is a religious observance and a cultural and social celebration that promotes the importance of education and the pursuit of knowledge. It brings communities together in a joyous atmosphere, fostering a spirit of learning and creativity.",
+            "endsOn": "2024-02-29T03:00:00.000Z",
+            "id": "9787880",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/8f441532-e5ee-4874-8b1f-a562440031471b25fb58-b5a8-45fd-aa47-8f6fe6181f00.png",
+            "index": 21,
             "institutionId": 4753,
             "latitude": 40.52311,
-            "location": "The Cove in Busch Student Center",
+            "location": "Busch Student Center - Multi-Purpose Room ",
             "longitude": -74.45863,
-            "name": "POP Open Mic Night",
-            "organizationId": 122892,
+            "name": "Saraswati Puja ",
+            "organizationId": 121950,
             "organizationIds": [],
-            "organizationName": "Pencils of Promise",
+            "organizationName": "Hindu Students Council (Rutgers) ",
             "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/300b7f23-8aca-4da5-99ce-4d00d790adfc12269d7c-9ff1-454b-b195-45d5f74eaa24.jpeg",
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
             "recScore": null,
-            "startsOn": "2024-02-28T23:30:00.000Z",
+            "startsOn": "2024-02-28T23:00:00.000Z",
             "status": "Approved",
-            "theme": "Arts",
+            "theme": "Cultural",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.73906,
+            "@search.score": 99.79514,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -445,7 +551,7 @@
             "endsOn": "2024-02-29T02:00:00.000Z",
             "id": "9744150",
             "imagePath": "https://se-images.campuslabs.com/clink/images/39d4bdb7-3503-4601-8dd4-36795ae87628ceba4095-944b-4345-95ea-2d2a4261e764.png",
-            "index": 14,
+            "index": 18,
             "institutionId": 4753,
             "latitude": 40.52228,
             "location": "BEST Hall MPR",
@@ -463,39 +569,71 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.73684,
+            "@search.score": 99.79514,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
             "categoryIds": [
-                "5352"
+                "5336"
             ],
             "categoryNames": [
-                "Religious/Religious Cultural/Spiritual Event"
+                "Concert/Musical Performance "
             ],
-            "description": "This is a vibrant and auspicious Hindu festival dedicated to Goddess Saraswati, the embodiment of knowledge, wisdom, and the arts. Devotees, especially students and scholars, worship Goddess Saraswati to seek her blessings for academic success, creativity, and intellect. Saraswati Puja is a religious observance and a cultural and social celebration that promotes the importance of education and the pursuit of knowledge. It brings communities together in a joyous atmosphere, fostering a spirit of learning and creativity.",
-            "endsOn": "2024-02-29T03:00:00.000Z",
-            "id": "9787880",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/8f441532-e5ee-4874-8b1f-a562440031471b25fb58-b5a8-45fd-aa47-8f6fe6181f00.png",
-            "index": 17,
+            "description": "We are back with another big fundraiser! This spring we invited singers, poets, and bands to perform for our Open Mic Night, which will take place at 6:30 PM on Wednesday, February 28th, in the Cove at Busch Student Center. Tickets are $7 if purchased online through the form below, and $10 at the door. They come with entrance to the show and food! Ask your friends to come! Whoever gets the most referrals in ticket purchases will get a $5 gift card (see last question in ticket form)! *Tickets close on Monday 2/26 at 12 PM. Tickets are available here: https://forms.gle/TFA8Scze2fCHdxPc8 *Performers get free tickets and food! Performer sign-ups close on Friday 2/23: https://forms.gle/gavNgsPkSX2RmHci7 100% of proceeds will be donated to Pencils of Promise to help build schools, and implement WASH & teacher support programs in Ghana, Guatemala, Laos, and Nicaragua.   ",
+            "endsOn": "2024-02-29T01:00:00.000Z",
+            "id": "9956843",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/f27cba70-de28-4c58-9fa0-1d995abbf5deb684a729-b792-4e37-af1c-af33a2f4ab5d.png",
+            "index": 15,
             "institutionId": 4753,
-            "latitude": 40.48472,
-            "location": "Trayes Hall - Douglass Student Center ",
-            "longitude": -74.43662,
-            "name": "Saraswati Puja ",
-            "organizationId": 121950,
+            "latitude": 40.52311,
+            "location": "The Cove in Busch Student Center",
+            "longitude": -74.45863,
+            "name": "POP Open Mic Night",
+            "organizationId": 122892,
             "organizationIds": [],
-            "organizationName": "Hindu Students Council (Rutgers) ",
+            "organizationName": "Pencils of Promise",
             "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/47d14246-312b-4688-9c71-43d2c489175b21a8b6fd-1504-46ed-a852-373a1f2bec24.png",
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/300b7f23-8aca-4da5-99ce-4d00d790adfc12269d7c-9ff1-454b-b195-45d5f74eaa24.jpeg",
             "recScore": null,
-            "startsOn": "2024-02-29T00:00:00.000Z",
+            "startsOn": "2024-02-28T23:30:00.000Z",
             "status": "Approved",
-            "theme": "Cultural",
+            "theme": "Arts",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.73684,
+            "@search.score": 99.79292,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5346"
+            ],
+            "categoryNames": [
+                "General Organization Meeting"
+            ],
+            "description": "Maximizing the advantages of your time at Rutgers can seem overwhelming, but don't worry! Come to our meeting on February 28th at BSC-122AB from 7-8 PM to learn more about how to make the best of your time here at Rutgers while we guide you through available classes/research opportunities this institution provides. Food will be provided!  ",
+            "endsOn": "2024-02-29T01:00:00.000Z",
+            "id": "9983262",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/ec1bb004-7092-4eee-840e-088a57463f27be8a03cf-23c2-47a9-a69a-c60bb60b82c9.png",
+            "index": 16,
+            "institutionId": 4753,
+            "latitude": 40.52311,
+            "location": "Busch Student Center (122AB)",
+            "longitude": -74.45863,
+            "name": "Navigating 4 Years & Above",
+            "organizationId": 330470,
+            "organizationIds": [],
+            "organizationName": "Student Organization of Academic Research in STEM  of Rutgers University ",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/3d3164a3-16e4-4b17-ab2f-0bd07de16a534b8c18b3-4b3e-499c-8755-f79f6ed0d38b.png",
+            "recScore": null,
+            "startsOn": "2024-02-29T00:00:00.000Z",
+            "status": "Approved",
+            "theme": "ThoughtfulLearning",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.79292,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -509,7 +647,7 @@
             "endsOn": "2024-02-29T01:00:00.000Z",
             "id": "9973358",
             "imagePath": "https://se-images.campuslabs.com/clink/images/bd836a8b-9d2c-4f9f-b716-170bf5a4bf9ea5b5e261-5d53-495a-9ab4-e4ba9b89cdee.png",
-            "index": 13,
+            "index": 17,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center ",
@@ -527,7 +665,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.73461,
+            "@search.score": 99.7907,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -547,7 +685,7 @@
             "endsOn": "2024-02-29T02:30:00.000Z",
             "id": "9969992",
             "imagePath": "https://se-images.campuslabs.com/clink/images/4319c869-1d51-43de-a7bd-fe89c80faf2dae6b9664-30e7-40ed-a14d-a99c700dc48b.png",
-            "index": 15,
+            "index": 19,
             "institutionId": 4753,
             "latitude": 40.52542,
             "location": "Livingston Reading Room B",
@@ -565,7 +703,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.73017,
+            "@search.score": 99.78626,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -579,7 +717,7 @@
             "endsOn": "2024-02-29T02:45:00.000Z",
             "id": "9977514",
             "imagePath": "https://se-images.campuslabs.com/clink/images/585a00af-e830-427d-9aa1-edfb3561b25ab00389ce-1c4e-4da0-81bc-dcf2db3e1291.png",
-            "index": 16,
+            "index": 20,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Student Center ",
@@ -597,7 +735,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.66789,
+            "@search.score": 99.72407,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -613,7 +751,7 @@
             "endsOn": "2024-02-29T20:30:00.000Z",
             "id": "9955322",
             "imagePath": "https://se-images.campuslabs.com/clink/images/3138ac00-6fcb-4d81-9f24-d30f388892232207c726-321d-43ae-8884-726564f8bd28.png",
-            "index": 18,
+            "index": 22,
             "institutionId": 4753,
             "latitude": 40.47895,
             "location": "Cook Student Center",
@@ -631,7 +769,39 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.62558,
+            "@search.score": 99.68404,
+            "benefitNames": "Free Food, Free Stuff",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5352"
+            ],
+            "categoryNames": [
+                "Religious/Religious Cultural/Spiritual Event"
+            ],
+            "description": "Embark on a transformative journey through the wisdom of the Bhagavad Gita \ud83c\udf3c\u2728 Join us for an enlightening course that unravels the profound teachings of life and purpose. Let\u2019s dive deep into this timeless wisdom together starting today! Join us for Prasadam as well!Every Thursday 7.30 - 8.30 pm Location: Busch Student Center 118",
+            "endsOn": "2024-03-01T01:30:00.000Z",
+            "id": "9919993",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/fd11f76a-c993-40a6-8b85-2b697431f1153391d0c7-5158-4dd9-a839-9fb79855a8a0.png",
+            "index": 23,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "Busch Student Center",
+            "longitude": null,
+            "name": "Bhagavad Gita Course",
+            "organizationId": 365071,
+            "organizationIds": [],
+            "organizationName": "RU Origins ",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/b109f592-a8f8-4662-8239-c87d64a64a8056c78687-37e9-4270-adb8-7dfd8151b66d.png",
+            "recScore": null,
+            "startsOn": "2024-03-01T00:30:00.000Z",
+            "status": "Approved",
+            "theme": "Spirituality",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.681816,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -645,7 +815,7 @@
             "endsOn": "2024-03-01T02:00:00.000Z",
             "id": "9774433",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 19,
+            "index": 24,
             "institutionId": 4753,
             "latitude": null,
             "location": "Rutgers Hillel",
@@ -663,7 +833,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.55423,
+            "@search.score": 99.61056,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -679,7 +849,7 @@
             "endsOn": "2024-03-01T20:00:00.000Z",
             "id": "9114321",
             "imagePath": "https://se-images.campuslabs.com/clink/images/9fc74de6-d629-479e-8c6d-95dcdd667f5983ae42f5-c301-49e5-a4eb-c75b581b4422.png",
-            "index": 20,
+            "index": 25,
             "institutionId": 4753,
             "latitude": 40.48472,
             "location": "Douglass Student Center",
@@ -697,7 +867,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.53637,
+            "@search.score": 99.59272,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -707,7 +877,7 @@
             "endsOn": "2024-03-01T22:00:00.000Z",
             "id": "9653018",
             "imagePath": "https://se-images.campuslabs.com/clink/images/4af9ca69-db34-4933-9858-1cbdeabb345af1933e70-ab26-4913-a76c-e136d82454f0.png",
-            "index": 21,
+            "index": 26,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Gathering Lounge, Livingston Student Center",
@@ -725,7 +895,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.52521,
+            "@search.score": 99.58157,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -739,7 +909,7 @@
             "endsOn": "2024-03-02T01:00:00.000Z",
             "id": "9977516",
             "imagePath": "https://se-images.campuslabs.com/clink/images/62a6adf8-320a-4fbd-b140-e7bb9b20c35664d5d04c-5193-4d52-9173-36394d5b0ffc.png",
-            "index": 22,
+            "index": 27,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "BSC 116 AB",
@@ -757,7 +927,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.45368,
+            "@search.score": 99.51014,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -767,7 +937,7 @@
             "endsOn": "2024-03-02T17:30:00.000Z",
             "id": "9948839",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 23,
+            "index": 28,
             "institutionId": 4753,
             "latitude": 40.48591,
             "location": "Walters Hall 240",
@@ -785,7 +955,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.446976,
+            "@search.score": 99.50344,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -803,7 +973,7 @@
             "endsOn": "2024-03-03T17:00:00.000Z",
             "id": "9953494",
             "imagePath": "https://se-images.campuslabs.com/clink/images/d7b1c5f7-54fb-48f4-b995-82cc277e5f9008215f68-6ab7-435a-ad32-4bc3912e3d02.png",
-            "index": 24,
+            "index": 29,
             "institutionId": 4753,
             "latitude": null,
             "location": "The Cove Busch Student Center",
@@ -843,7 +1013,35 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.089775,
+            "@search.score": 99.151215,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Join Rutgers GRADient to meet other LGBTQIA+ graduate students and play board games over pizza.  We will be playing board games available at the GSL, but feel free to bring your own!",
+            "endsOn": "2024-03-06T00:30:00.000Z",
+            "id": "9969361",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/e6b2e4c4-7714-4c5b-929b-9ec8e0b408740459662b-26c5-4d23-9f2e-f82acb070206.png",
+            "index": 30,
+            "institutionId": 4753,
+            "latitude": 40.50264,
+            "location": "Graduate Student Lounge",
+            "longitude": -74.45183,
+            "name": "In-Person Games Night",
+            "organizationId": 346835,
+            "organizationIds": [],
+            "organizationName": "Rutgers GRADient",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/7f6abae6-1d9d-4040-bded-ff07aaf872b33546a2d4-37c0-4ecf-b33b-3a4454b6f90c.png",
+            "recScore": null,
+            "startsOn": "2024-03-05T23:30:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.146706,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -859,7 +1057,7 @@
             "endsOn": "2024-03-06T02:00:00.000Z",
             "id": "9977899",
             "imagePath": "https://se-images.campuslabs.com/clink/images/117f4881-e65f-4cb8-b37d-077f0cbd3ac369b935e8-430e-42f5-8e35-1775c6fa8041.png",
-            "index": 25,
+            "index": 31,
             "institutionId": 4753,
             "latitude": 40.48415,
             "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -877,24 +1075,58 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.02882,
+            "@search.score": 99.144455,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
             "categoryIds": [],
             "categoryNames": [],
+            "description": "RUSynapse is a program where we pair pre-medical Rutgers students with medical student mentors at Robert Wood Johnson Medical School. The goal of this is to provide pre-medical students with an additional resource as they navigate their pre-medical years and the medical school application process. In addition to being paired with a mentor, several mentor-mentee pairs will be \"bundled together\" based on some answers to this form. This will give students access to individualized help from their own mentor, as well as expertise on a wide variety of topics from multiple medical students. As of now, this program is prioritizing sophomores and above, but freshman can still apply!   Please fill out the form below by Friday, March 8th at 11:59 pm in its entirety so that we can best match you to a mentor and bundle that meet your needs and goals. All information will be kept confidential and will only be shared with the medical student coordinators and your individual mentor.     https://forms.gle/ysuzhVk5Ki6g94aeA   We look forward to reading your responses!   If you have any questions, please email Namarata Battula (nb638@rwjms.rutgers.edu), Hunter Skroczky (hs1154@rwjms.rutgers.edu), or Parth Modi (pm783@rwjms.rutgers.edu).",
+            "endsOn": "2024-03-06T02:00:00.000Z",
+            "id": "9978990",
+            "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
+            "index": 32,
+            "institutionId": 4753,
+            "latitude": null,
+            "location": "ARC 103",
+            "longitude": null,
+            "name": "RUSynapse Event",
+            "organizationId": 121333,
+            "organizationIds": [],
+            "organizationName": "American Medical Student Association ",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/12ba292b-103f-4263-8ff7-1c7b4d1bc27eeaaa4620-de0c-44da-b629-4f24a6836760.jpeg",
+            "recScore": null,
+            "startsOn": "2024-03-06T01:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.08584,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "7111"
+            ],
+            "categoryNames": [
+                "Social Event"
+            ],
             "description": "Join us for a delightful morning of warmth, conversation, and scrumptious delights at our Coffee and Breakfast event at the Graduate Student Lounge.Whether you're here to kickstart your day or savour a liesurely morning, GSA would be delighted to host you !",
             "endsOn": "2024-03-06T16:00:00.000Z",
             "id": "9842339",
-            "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 26,
+            "imagePath": "https://se-images.campuslabs.com/clink/images/35e0c102-5623-492b-bf55-bbf13973f65b7b6549ae-3543-4069-b356-f109e3e7028f.pdf",
+            "index": 33,
             "institutionId": 4753,
-            "latitude": null,
-            "location": "TBD",
-            "longitude": null,
+            "latitude": 40.52447,
+            "location": "CCB Building Lobby",
+            "longitude": -74.46201,
             "name": "GSA Coffee and Breakfast Mixer",
             "organizationId": 312665,
-            "organizationIds": [],
+            "organizationIds": [
+                "312665"
+            ],
             "organizationName": "Graduate Student Association (GSA)",
             "organizationNames": [],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/3c4e2e1a-5a20-4bbe-a0b7-ed05eb2f14083c6b2a18-a7ac-437d-8d37-9d456bd2afea.png",
@@ -905,7 +1137,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.99718,
+            "@search.score": 99.05424,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -921,7 +1153,7 @@
             "endsOn": "2024-03-06T22:00:00.000Z",
             "id": "9939648",
             "imagePath": "https://se-images.campuslabs.com/clink/images/628a2062-5fde-4968-ab0c-ccf7cb0638643eeb16b5-66c9-46de-948c-169ae79cf045.png",
-            "index": 27,
+            "index": 34,
             "institutionId": 4753,
             "latitude": 40.5017,
             "location": "New Brunswick Campus, Academic Building West-CAC",
@@ -945,35 +1177,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.98587,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Join Rutgers GRADient to meet other LGBTQIA+ graduate students and play board games over pizza.  We will be playing board games available at the GSL, but feel free to bring your own!",
-            "endsOn": "2024-03-07T00:30:00.000Z",
-            "id": "9969361",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/3700f34c-7523-4f83-8295-6107bdab93435fc69f7a-1564-48e6-9963-92351ac86ad5.png",
-            "index": 28,
-            "institutionId": 4753,
-            "latitude": 40.50264,
-            "location": "Graduate Student Lounge",
-            "longitude": -74.45183,
-            "name": "In-Person Games Night",
-            "organizationId": 346835,
-            "organizationIds": [],
-            "organizationName": "Rutgers GRADient",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/7f6abae6-1d9d-4040-bded-ff07aaf872b33546a2d4-37c0-4ecf-b33b-3a4454b6f90c.png",
-            "recScore": null,
-            "startsOn": "2024-03-06T23:30:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 98.98587,
+            "@search.score": 99.042946,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -987,7 +1191,7 @@
             "endsOn": "2024-03-07T01:00:00.000Z",
             "id": "9977895",
             "imagePath": "https://se-images.campuslabs.com/clink/images/1764f667-3a40-4723-974d-2f5398581fe4f3f9251f-c458-416d-b071-a53425cb77ee.png",
-            "index": 29,
+            "index": 35,
             "institutionId": 4753,
             "latitude": 40.47895,
             "location": "Cook Student Center Room 202 B or C",
@@ -1005,7 +1209,39 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.98361,
+            "@search.score": 99.04069,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5340"
+            ],
+            "categoryNames": [
+                "Educational Conference/Seminar/Workshop/Panel"
+            ],
+            "description": "\ud83e\uded1 PIZZA WILL BE SERVED!!! \u2618\ufe0f Join us for a mock \u2018hackathon\u2019 to gain experience with programming collaborative solutions in a timely fashion!",
+            "endsOn": "2024-03-07T01:30:00.000Z",
+            "id": "9982485",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/6ccd8c05-8586-422e-b236-4e788b5d462ad800067d-5b64-42de-a17f-c95f97c87ea2.png",
+            "index": 36,
+            "institutionId": 4753,
+            "latitude": 40.52311,
+            "location": "Busch Student Center",
+            "longitude": -74.45863,
+            "name": "Programming Workshop: Greenovation",
+            "organizationId": 365077,
+            "organizationIds": [],
+            "organizationName": "Hack4Impact Rutgers",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/e4746b4d-fca1-4442-85c6-8308504a4bd484c56fe1-3ed9-4e7c-8bcf-64f8a4b4976d.png",
+            "recScore": null,
+            "startsOn": "2024-03-07T00:00:00.000Z",
+            "status": "Approved",
+            "theme": "ThoughtfulLearning",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.04069,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -1021,7 +1257,7 @@
             "endsOn": "2024-03-07T02:00:00.000Z",
             "id": "9857671",
             "imagePath": "https://se-images.campuslabs.com/clink/images/2b5152fb-7087-4bdb-b424-eff1c619c63df0e61aab-70e5-4c27-a259-81ff4fc939eb.png",
-            "index": 30,
+            "index": 37,
             "institutionId": 4753,
             "latitude": 40.52349,
             "location": "Asian American Cultural Center",
@@ -1047,7 +1283,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.90892,
+            "@search.score": 98.966095,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1057,7 +1293,7 @@
             "endsOn": "2024-03-07T18:30:00.000Z",
             "id": "9723225",
             "imagePath": "https://se-images.campuslabs.com/clink/images/9d2ed5dd-f287-4c28-8f69-20de9c28c64cdd11f5d1-0e26-4984-81b3-0fda67a72928.png",
-            "index": 31,
+            "index": 38,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Hall, Livingston Student Center ",
@@ -1075,7 +1311,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.88626,
+            "@search.score": 98.94347,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1093,7 +1329,7 @@
             "endsOn": "2024-03-08T01:00:00.000Z",
             "id": "9941171",
             "imagePath": "https://se-images.campuslabs.com/clink/images/608ff995-cbd0-43a8-9a97-d60e4a9a63c54183a236-096c-4b10-a1d5-1e19a5440a8b.png",
-            "index": 33,
+            "index": 40,
             "institutionId": 4753,
             "latitude": 40.50006,
             "location": "Zimmerli Art Museum",
@@ -1111,7 +1347,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.88172,
+            "@search.score": 98.93894,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1121,7 +1357,7 @@
             "endsOn": "2024-03-07T23:30:00.000Z",
             "id": "9977776",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 32,
+            "index": 39,
             "institutionId": 4753,
             "latitude": null,
             "location": "Serin Rm. 330W",
@@ -1139,7 +1375,45 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.79777,
+            "@search.score": 98.932144,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [
+                "112385"
+            ],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "This event is designed with the aim of fostering connections between Mason Gross Students and various Asian Student Organizations on our campus. The night will be packed with a plethora of exciting activities. We will be diving into the world of Roblox, where we will engage in fun games and challenges. Whether you're a seasoned gamer or new to Roblox, there will be something for everyone to enjoy. In addition to gaming, the event will serve as a platform to learn about various Asian student organizations on campus. Representatives from these organizations, the Asian Student Council, and the Asian American Cultural Center will be present. They will discuss their organizations and their roles within our community. Adding to the fun, we will have delicious boba for everyone to enjoy as they mingle and make new acquaintances. And that's not all - we will also have a series of giveaway prizes that you can stand a chance to win! This event, more than just a game night, is an excellent opportunity for you to unwind, have some fun, and make meaningful connections within the student community.",
+            "endsOn": "2024-03-08T01:00:00.000Z",
+            "id": "9980890",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/6456a63e-b025-4a14-864d-6dbb9e0675e465a8746f-5f6a-4036-9ec7-98f724d4584e.png",
+            "index": 41,
+            "institutionId": 4753,
+            "latitude": 40.49299,
+            "location": "Civic Square Building - Room 110",
+            "longitude": -74.44523,
+            "name": "R U Playing?! Roblox Mixer",
+            "organizationId": 354446,
+            "organizationIds": [
+                "121405",
+                "354446",
+                "365065"
+            ],
+            "organizationName": "MGSA BIPOC Student Organization ",
+            "organizationNames": [
+                "Asian Student Council",
+                "MGSA BIPOC Student Organization ",
+                "South East Asians of Rutgers University "
+            ],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/dd314402-9235-4d37-8ade-9a5b484afe51b6f256e2-315a-4731-974a-c1079596f34a.png",
+            "recScore": null,
+            "startsOn": "2024-03-08T00:00:00.000Z",
+            "status": "Approved",
+            "theme": "Cultural",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 98.855095,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1155,7 +1429,7 @@
             "endsOn": "2024-03-08T20:30:00.000Z",
             "id": "9670946",
             "imagePath": "https://se-images.campuslabs.com/clink/images/26a51f84-eb30-42d3-9719-5a3045a591ec4a1486a4-c80c-4fab-bd76-84bf95d0c058.png",
-            "index": 34,
+            "index": 42,
             "institutionId": 4753,
             "latitude": null,
             "location": "The Hatchery Innovation Studio, Lower Level Alexander Library",
@@ -1173,7 +1447,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.77278,
+            "@search.score": 98.83014,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1183,7 +1457,7 @@
             "endsOn": "2024-03-08T23:30:00.000Z",
             "id": "9948840",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 35,
+            "index": 43,
             "institutionId": 4753,
             "latitude": 40.48626,
             "location": "Schare Recital Hall",
@@ -1201,7 +1475,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.592865,
+            "@search.score": 98.65047,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1215,7 +1489,7 @@
             "endsOn": "2024-03-10T16:00:00.000Z",
             "id": "9918151",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-            "index": 36,
+            "index": 44,
             "institutionId": 4753,
             "latitude": null,
             "location": "Office of Veteran and Military Programs and Services ",
@@ -1233,7 +1507,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.553444,
+            "@search.score": 97.61245,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1253,7 +1527,7 @@
             "endsOn": "2024-03-20T01:00:00.000Z",
             "id": "9721225",
             "imagePath": "https://se-images.campuslabs.com/clink/images/b894d8d6-14cd-4e1e-a969-3bf5395483f3fe7f06c3-62fa-4dfc-bbe0-b9eff790afd6.png",
-            "index": 37,
+            "index": 45,
             "institutionId": 4753,
             "latitude": 40.52354,
             "location": "Livingston Hall, Livingston Student Center ",
@@ -1271,7 +1545,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.483246,
+            "@search.score": 97.54235,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1285,7 +1559,7 @@
             "endsOn": "2024-03-20T22:00:00.000Z",
             "id": "9738963",
             "imagePath": "https://se-images.campuslabs.com/clink/images/e2c611f5-d2e0-4bee-b2aa-37934be21ef3861a8536-49ff-46d1-9a11-89edba8f5d95.png",
-            "index": 38,
+            "index": 46,
             "institutionId": 4753,
             "latitude": 40.48551,
             "location": "Carpender Hall",
@@ -1303,7 +1577,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.45513,
+            "@search.score": 97.514275,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1313,7 +1587,7 @@
             "endsOn": "2024-03-20T22:00:00.000Z",
             "id": "9723317",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 39,
+            "index": 47,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Commuter Lounge, Busch Student Center ",
@@ -1331,7 +1605,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.32371,
+            "@search.score": 97.38303,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1345,7 +1619,7 @@
             "endsOn": "2024-03-22T01:00:00.000Z",
             "id": "9774434",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 40,
+            "index": 48,
             "institutionId": 4753,
             "latitude": null,
             "location": "Rutgers Hillel",
@@ -1363,7 +1637,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.13998,
+            "@search.score": 97.199554,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1381,7 +1655,7 @@
             "endsOn": "2024-03-23T18:00:00.000Z",
             "id": "9914984",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 41,
+            "index": 49,
             "institutionId": 4753,
             "latitude": 40.52417,
             "location": "Robert Wood Johnson Medical School",
@@ -1399,7 +1673,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.12581,
+            "@search.score": 97.18541,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1409,7 +1683,7 @@
             "endsOn": "2024-03-23T20:00:00.000Z",
             "id": "9948841",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 42,
+            "index": 50,
             "institutionId": 4753,
             "latitude": 40.48626,
             "location": "Rehearsal Hall 104",
@@ -1427,7 +1701,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.03125,
+            "@search.score": 97.09098,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1441,7 +1715,7 @@
             "endsOn": "2024-03-24T16:00:00.000Z",
             "id": "9918152",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-            "index": 43,
+            "index": 51,
             "institutionId": 4753,
             "latitude": null,
             "location": "Office of Veteran and Military Programs and Services ",
@@ -1459,7 +1733,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.66525,
+            "@search.score": 96.72549,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1475,7 +1749,7 @@
             "endsOn": "2024-03-27T21:00:00.000Z",
             "id": "9879360",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 44,
+            "index": 52,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Busch Student Center",
@@ -1493,7 +1767,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.650925,
+            "@search.score": 96.71119,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1515,7 +1789,7 @@
             "endsOn": "2024-03-28T02:00:00.000Z",
             "id": "9795285",
             "imagePath": "https://se-images.campuslabs.com/clink/images/ee6f874c-175e-44cd-919e-9e2858286e2e666f1271-c64e-49c1-9bcc-5970741fd7a2.png",
-            "index": 45,
+            "index": 53,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Busch Student Center Multi-Purpose Room (MPR)",
@@ -1533,7 +1807,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.53857,
+            "@search.score": 96.59898,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1543,7 +1817,7 @@
             "endsOn": "2024-03-28T22:30:00.000Z",
             "id": "9194415",
             "imagePath": "https://se-images.campuslabs.com/clink/images/31ade161-da6d-47ec-862a-bd138bdfd286daefd904-67fd-4235-8825-cf3ddcd57439.png",
-            "index": 46,
+            "index": 54,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Rutgers University Busch Student Center - Cove Lounge",
@@ -1561,7 +1835,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.526596,
+            "@search.score": 96.58703,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1575,7 +1849,7 @@
             "endsOn": "2024-03-29T01:00:00.000Z",
             "id": "9774435",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 47,
+            "index": 55,
             "institutionId": 4753,
             "latitude": null,
             "location": "Rutgers Hillel",
@@ -1593,7 +1867,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.43071,
+            "@search.score": 96.49127,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1603,7 +1877,7 @@
             "endsOn": "2024-03-29T21:00:00.000Z",
             "id": "9653034",
             "imagePath": "https://se-images.campuslabs.com/clink/images/b14a0f05-909a-472a-99b2-5178bcb71ba08ffaa125-7fbd-4bcb-abdb-1574a331fd00.png",
-            "index": 48,
+            "index": 56,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "International Lounge, Busch Student Center",
@@ -1621,7 +1895,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.42351,
+            "@search.score": 96.484085,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1631,7 +1905,7 @@
             "endsOn": "2024-03-29T22:30:00.000Z",
             "id": "9948842",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 49,
+            "index": 57,
             "institutionId": 4753,
             "latitude": 40.48591,
             "location": "Walters Hall 240",
@@ -1649,7 +1923,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.884895,
+            "@search.score": 95.946236,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1659,7 +1933,7 @@
             "endsOn": "2024-04-03T15:00:00.000Z",
             "id": "9842340",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 50,
+            "index": 58,
             "institutionId": 4753,
             "latitude": null,
             "location": "TBD",
@@ -1677,7 +1951,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.87274,
+            "@search.score": 95.9341,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1687,7 +1961,7 @@
             "endsOn": "2024-04-03T17:30:00.000Z",
             "id": "9723338",
             "imagePath": "https://se-images.campuslabs.com/clink/images/2becc880-6308-4888-94ba-004f3b5f935ae70b1234-bdf7-4135-8202-d0e7ab015ed6.png",
-            "index": 51,
+            "index": 59,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Multipurpose Room, Busch Student Center",
@@ -1705,7 +1979,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.714424,
+            "@search.score": 95.77601,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1719,7 +1993,7 @@
             "endsOn": "2024-04-05T01:00:00.000Z",
             "id": "9774436",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 52,
+            "index": 60,
             "institutionId": 4753,
             "latitude": null,
             "location": "Rutgers Hillel",
@@ -1737,7 +2011,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.60937,
+            "@search.score": 95.671104,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1747,7 +2021,7 @@
             "endsOn": "2024-04-05T22:30:00.000Z",
             "id": "9948843",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 53,
+            "index": 61,
             "institutionId": 4753,
             "latitude": 40.48591,
             "location": "Walters Hall 240",
@@ -1765,7 +2039,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.60692,
+            "@search.score": 95.66866,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1781,7 +2055,7 @@
             "endsOn": "2024-04-06T02:00:00.000Z",
             "id": "9966500",
             "imagePath": "https://se-images.campuslabs.com/clink/images/8fc7e335-67bd-4b15-b7d3-6ed87b59a0e697e04128-5d0e-4324-9568-c4cf3b32c57f.png",
-            "index": 55,
+            "index": 63,
             "institutionId": 4753,
             "latitude": 40.52311,
             "location": "Busch Student Center, Multipurpose Room A",
@@ -1799,7 +2073,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.59714,
+            "@search.score": 95.65889,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1815,7 +2089,7 @@
             "endsOn": "2024-04-06T01:00:00.000Z",
             "id": "9676254",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 54,
+            "index": 62,
             "institutionId": 4753,
             "latitude": 40.50032,
             "location": "Rutgers Hillel",
@@ -1833,7 +2107,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.52367,
+            "@search.score": 95.585526,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1843,7 +2117,7 @@
             "endsOn": "2024-04-06T17:00:00.000Z",
             "id": "9926881",
             "imagePath": "https://se-images.campuslabs.com/clink/images/4f8b558f-9bdd-406e-b625-353c0ecea7175877f4ac-437b-4ecc-a2c1-b2adfd6349f7.png",
-            "index": 56,
+            "index": 64,
             "institutionId": 4753,
             "latitude": 40.52542,
             "location": "RU Cinemas",
@@ -1861,7 +2135,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.410774,
+            "@search.score": 95.47279,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1875,7 +2149,7 @@
             "endsOn": "2024-04-07T16:00:00.000Z",
             "id": "9918153",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-            "index": 57,
+            "index": 65,
             "institutionId": 4753,
             "latitude": null,
             "location": "Office of Veteran and Military Programs and Services ",
@@ -1893,7 +2167,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.366516,
+            "@search.score": 95.428604,
             "benefitNames": "Credit, Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1907,7 +2181,7 @@
             "endsOn": "2024-04-08T01:00:00.000Z",
             "id": "9161676",
             "imagePath": "https://se-images.campuslabs.com/clink/images/f6bb8221-731c-4f85-889a-26115dd8555664f7986e-e0b5-4783-80bc-b56bc9eb5c94.png",
-            "index": 58,
+            "index": 66,
             "institutionId": 4753,
             "latitude": 40.48656,
             "location": "Voorhees Chapel ",
@@ -1925,7 +2199,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.88661,
+            "@search.score": 94.949394,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1939,7 +2213,7 @@
             "endsOn": "2024-04-12T01:00:00.000Z",
             "id": "9774437",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 59,
+            "index": 67,
             "institutionId": 4753,
             "latitude": null,
             "location": "Rutgers Hillel",
@@ -1957,7 +2231,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.77952,
+            "@search.score": 94.84245,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1967,7 +2241,7 @@
             "endsOn": "2024-04-12T22:30:00.000Z",
             "id": "9948844",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 60,
+            "index": 68,
             "institutionId": 4753,
             "latitude": 40.48591,
             "location": "Walters Hall 240",
@@ -1985,7 +2259,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.456604,
+            "@search.score": 94.52002,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2001,7 +2275,7 @@
             "endsOn": "2024-04-15T20:00:00.000Z",
             "id": "9947543",
             "imagePath": "https://se-images.campuslabs.com/clink/images/7a1c2070-450e-4a31-aee6-4c13a93bd1ac98cf9141-2556-4c79-b69c-ab67255f6975.pdf",
-            "index": 61,
+            "index": 69,
             "institutionId": 4753,
             "latitude": 40.48472,
             "location": "Trayes Hall, Douglass Student Center",
@@ -2019,7 +2293,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.2955,
+            "@search.score": 94.359146,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -2035,7 +2309,7 @@
             "endsOn": "2024-04-17T00:00:00.000Z",
             "id": "9769091",
             "imagePath": "https://se-images.campuslabs.com/clink/images/fb368125-99ea-41ec-a757-25f6ae6f2fdc6b78a580-664a-4618-82f1-45b40c325dcd.png",
-            "index": 62,
+            "index": 70,
             "institutionId": 4753,
             "latitude": 40.48415,
             "location": "Kathleen W. Ludwig Global Village Living Learning Center",
@@ -2053,7 +2327,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.04256,
+            "@search.score": 94.106575,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2067,7 +2341,7 @@
             "endsOn": "2024-04-19T01:00:00.000Z",
             "id": "9774438",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 63,
+            "index": 71,
             "institutionId": 4753,
             "latitude": null,
             "location": "Rutgers Hillel",
@@ -2085,7 +2359,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 94.04256,
+            "@search.score": 94.106575,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2105,7 +2379,7 @@
             "endsOn": "2024-04-19T02:00:00.000Z",
             "id": "9687769",
             "imagePath": "https://se-images.campuslabs.com/clink/images/5a1432a9-286c-4191-89a2-7d6836524e4232f11504-7be5-4b55-b6a4-a88255567cdc.png",
-            "index": 64,
+            "index": 72,
             "institutionId": 4753,
             "latitude": 40.50513,
             "location": "Deiner Park (by Campbell Hall)",
@@ -2123,7 +2397,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.82382,
+            "@search.score": 93.888176,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2137,7 +2411,7 @@
             "endsOn": "2024-04-20T21:00:00.000Z",
             "id": "9676337",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 65,
+            "index": 73,
             "institutionId": 4753,
             "latitude": 40.50032,
             "location": "Rutgers Hillel",
@@ -2155,7 +2429,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.72682,
+            "@search.score": 93.79132,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2169,7 +2443,7 @@
             "endsOn": "2024-04-21T16:00:00.000Z",
             "id": "9918154",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-            "index": 66,
+            "index": 74,
             "institutionId": 4753,
             "latitude": null,
             "location": "Office of Veteran and Military Programs and Services ",
@@ -2187,7 +2461,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.18159,
+            "@search.score": 93.24691,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2203,7 +2477,7 @@
             "endsOn": "2024-04-26T02:00:00.000Z",
             "id": "9687833",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 67,
+            "index": 75,
             "institutionId": 4753,
             "latitude": 40.50537,
             "location": "Campbell Hall",
@@ -2221,7 +2495,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.08831,
+            "@search.score": 93.15377,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2231,7 +2505,7 @@
             "endsOn": "2024-04-26T20:00:00.000Z",
             "id": "9731361",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 68,
+            "index": 76,
             "institutionId": 4753,
             "latitude": 40.48573,
             "location": "Mabel Smith Douglass Library",
@@ -2249,7 +2523,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.077934,
+            "@search.score": 93.14341,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2259,7 +2533,7 @@
             "endsOn": "2024-04-26T21:00:00.000Z",
             "id": "9653060",
             "imagePath": "https://se-images.campuslabs.com/clink/images/2e5718f4-0e63-485d-8bab-1bf8982e688ce682e854-e80a-4e2b-98b7-fc6cd3cd9c2f.png",
-            "index": 69,
+            "index": 77,
             "institutionId": 4753,
             "latitude": 40.49879,
             "location": "Rutgers Global",
@@ -2277,7 +2551,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.077934,
+            "@search.score": 93.14341,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2287,7 +2561,7 @@
             "endsOn": "2024-04-26T22:00:00.000Z",
             "id": "9723398",
             "imagePath": "https://se-images.campuslabs.com/clink/images/5d157766-8a6b-46a1-973d-e220afa8d9416c45d0a2-e3cd-4442-9a3e-e7bf65b4a837.png",
-            "index": 70,
+            "index": 78,
             "institutionId": 4753,
             "latitude": 40.50177,
             "location": "Morrell Street, College Ave Campus ",
@@ -2305,7 +2579,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.97421,
+            "@search.score": 92.04139,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -2319,7 +2593,7 @@
             "endsOn": "2024-05-05T16:00:00.000Z",
             "id": "9918155",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6ac727a6-7045-44fe-acc1-6fc88e92c3408eec4a3e-877e-44a5-a713-1c9613763837.png",
-            "index": 71,
+            "index": 79,
             "institutionId": 4753,
             "latitude": null,
             "location": "Office of Veteran and Military Programs and Services ",
