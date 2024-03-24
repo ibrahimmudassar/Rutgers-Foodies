@@ -2,136 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Banquet/Food or Culinary
-DESCRIPTION:SEBS student organization leaders— join SEBS Governing Council (SGC) for dinner as a "thank you" for all of your hard work this year! This event will be a celebration of your organizations' accomplishments this academic year. The banquet will include dinner and an awards ceremony\, during which nominated student organizations will be recognized for their creativity\, social impact/community service\, and SEBS spirit. If you wish for your organization to be considered for an award\, please submit this nomination form by Tuesday\, April 2nd at 11:59 PM. The president/primary officer and one (1) additional member from your SGC-allocated organization (including but not limited to orgs listed here) are welcome to attend this event. Non-SEBS students may attend as long as they represent an organization that is allocated money by SGC. Each attendee must fill out the RSVP form by Friday\, April 5th at 11:59 PM to indicate their attendance and any dietary restrictions. Please dress in semi-formal attire. Feel free to email us at president.sgc.council@gmail.com with any questions or concerns. We can't wait to see you there!
-DTEND:20240413T020000Z
-LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=SEBS Governing Council:mailto:SEBS Governing Council
-DTSTART:20240412T220000Z
-SUMMARY:SEBS Student Organization Banquet
-UID:19e33df7-f31c-482a-91c7-322fbe3b8b24@19e3.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10050115
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Busch,Banquet/Food or Culinary,Special Interest
-DESCRIPTION:Show your creative culinary side with our cupcake decorating event! Stop by the International Lounge at the Busch Student Center and decorate your own cupcake while socializing with other commuter students. Be sure to RSVP\, as supplies are limited. Hope to see you there!
-DTEND:20240327T210000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Student Involvement & Leadership (Office of):mailto:Student Involvement & Leadership (Office of)
-DTSTART:20240327T190000Z
-SUMMARY:Cupcakes with Commuters
-UID:3e7c4d57-b594-4276-8724-baed59ba55ec@3e7c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9879360
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar\, such as Guest Speakers\, Student Led Mishmar\, and Chaburahfest!
-DTEND:20240405T010000Z
-LOCATION:Rutgers Hillel
-ORGANIZER;CN=Hillel (Rutgers):mailto:Hillel (Rutgers)
-DTSTART:20240405T000000Z
-SUMMARY:Mishmar with Mesorah
-UID:8ca2ed76-ccea-450b-b0ea-70a4ca6a9812@8ca2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9774436
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,Community Service Event on Campus
-DESCRIPTION:Hello fellow members\, The Student Veterans Organization (SVO) invites you to come out and help clean up our beautiful campus! We will meet up at the Vets House and work our way around the College Avenue area cleaning up the sidewalks. Gloves\, trash bags\, and trash grabbers will be provided upon arrival. Morning refreshments will be provided as well as community service hours for those in need of them. RSVP so we know you're coming! :)
-DTEND:20240421T160000Z
-LOCATION:Office of Veteran and Military Programs and Services 
-ORGANIZER;CN=Student Veterans Organization (SVO):mailto:Student Veterans Organization (SVO)
-DTSTART:20240421T140000Z
-SUMMARY:Community Service Clean-up
-UID:89b63406-4a3e-4f51-ac38-18ef6f546bb0@89b6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9918154
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us for a night of discussion with Alumni\, Anuj Sharma. We will be diving into our souls. Finishing the session off with mantra meditation and free food!
-DTEND:20240426T020000Z
+CATEGORIES:Social,College Ave
+DESCRIPTION:Celebrate the end of the semester and warmer weather with our annual ice cream social.
+DTEND:20240426T210000Z
 LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Bhakti - The Higher Taste:mailto:Bhakti - The Higher Taste
-DTSTART:20240426T000000Z
-SUMMARY:Alumni Night
-UID:59da78fa-f93e-4489-8ae3-5d18c60f7e20@59da.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9687833
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Cultural Performance,Outdoor Event,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Yoga followed by mantra meditation and free food at the end.
-DTEND:20240419T020000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Bhakti - The Higher Taste:mailto:Bhakti - The Higher Taste
-DTSTART:20240419T000000Z
-SUMMARY:Yoga Night
-UID:e59675be-879d-4375-bdbf-196ff1961fe9@e596.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9687769
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,College Ave,Educational Lecture
-DESCRIPTION:In this presentation\, Dr. Dallman\, a neurodivergent scholar with research expertise in autism\, inclusion\, and neurodiversity\, will share insights on supporting students with disabilities and diverse learning needs in the higher education setting. Dr. Dallman will provide concrete\, evidence-based strategies to enhance inclusivity in the classroom and to foster the success of all students. In this interactive presentation\, attendees will have an opportunity to problem-solve teaching challenges they have encountered.  All students and faculty are welcome to join us for this enlightening discussion.    This is an in-person event\, and to ensure we cater to everyone\, we kindly request that you RSVP. The event will be followed by a sponsored lunch provided by the GSA\, featuring a selection of sandwiches\, chips\, and fruits. \r   We look forward to your participation and insights!   As a special treat\, attendees will have the chance to participate in a tech accessory giveaway. Prizes include tech gadgets like a wireless mobile power bank\, desktop computer speakers\, and a wireless keyboard and mouse combo.    Don't miss out on the opportunity to win these high-tech goodies!    Date: Wednesday\, March 27 Time: 12:30-1:30 pm Where: 4th floor\, room 4052 Academic Building-CAC  15 Seminary Place  New Brunswick\, NJ 08901   If you have questions\, please contact Diana Sánchez at ds1731@scarletmail.rutgers.edu   Thank you. Diana Sánchez Kaylee Fernandez Co-Presidents        
-DTEND:20240327T173000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=GSA Spanish & Portuguese (Graduate Organization):mailto:GSA Spanish & Portuguese (Graduate Organization)
-DTSTART:20240327T163000Z
-SUMMARY:Lunch and Learn Event: Developing inclusive communities 
-UID:1691beba-35b9-4b06-aefe-79e800934bba@1691.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10038684
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,General Organization Meeting
-DESCRIPTION:Join us for our second meeting of the semester on Friday\, March 29th at 8:00 pm at the Busch Student Center Room 117! Play games like Ludo\, carrom\, uno\, and more! We can’t wait to see you all ‼️
-DTEND:20240330T020000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Milana - Kannada Association at Rutgers - A provisionally recognized student group Sp 2024  :mailto:Milana - Kannada Association at Rutgers - A provisionally recognized student group Sp 2024  
-DTSTART:20240330T000000Z
-SUMMARY:Game Night 
-UID:8458d307-67aa-4360-b3e9-e145e9216a0c@8458.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10053334
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:SPRING HAS SPRUNG! COME AND JOIN THE MENTORS IN DECORATING YOUR OWN POTTED PLANTS WHILE WATCHING A DOCUMENTARY ABOUT SUSTAINABILITY. SNACKS WILL BE PROVIDED! ALL ATTENDEES WILL EARN 1 CHANGEMAKING POINT
-DTEND:20240327T003000Z
-LOCATION:BEST 4 North Lounge
-ORGANIZER;CN=Honors College:mailto:Honors College
-DTSTART:20240326T233000Z
-SUMMARY:Spring\, Succulents\, and Sustainability
-UID:b6570cf6-3f98-464a-8485-146f5cc24ca3@b657.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10036346
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Graduate Student Organization Event
-DESCRIPTION:Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.
-DTEND:20240406T010000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
-DTSTART:20240406T000000Z
-SUMMARY:Grad Student Shabbat Dinner
-UID:cc15eb89-1db4-4a39-920c-3eca5797b5b3@cc15.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676254
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Fundraising,Livingston,Banquet/Food or Culinary
-DESCRIPTION:Salaam and Ramadan Mubarak! 🌟✨ Ready for a magical Ramadan evening? Join us for the Iftar Gala\, co-hosted with Temple UMR\, on March 25th! 📅 The doors of Livingston MPR swing open at 5:30 PM 🕠. Embrace the spirit in modest attire 👗👔 and feel the warmth of community as we break our fast together. Everyone’s welcome\, so bring your family & friends! 🤗Admission is FREE 🎉\, but if you can\, a suggested donation would be warmly appreciated to support our community efforts. Let’s make this evening a treasure trove of memories\, filled with spirituality\, unity\, and gratitude. RSVP form dropping soon. Don’t miss it! 💫🌟🕌✨Click the RSVP link in our bio @rutgersUMR on Instagram to ensure your free entry. Remember\, no walk-ins—secure your place for the Gala on March 25th!
-DTEND:20240326T010000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=United Muslim Relief:mailto:United Muslim Relief
-DTSTART:20240325T213000Z
-SUMMARY:Ramadan Gala
-UID:015c87d4-d756-4ff5-9f63-4caac77400be@015c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10042183
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass
-DESCRIPTION: If you would like to be a part of the Rainbow Winds\, it is expected for you to attend every rehearsal and concert. We understand that attendance at every rehearsal may not be possible for some\, so please indicate on this form if you have any conflicts. However\, we suffer as an ensemble if we do not have everyone present\, so please keep this in mind when signing up.      For those interested in Rainbow Winds Below you'll find links to our member folder and rehearsal schedule. There you'll find music\, part assignments\, and more so be sure to check out the resources. Attendance for our Dress Rehearsal and Concert are mandatory so please note on the form which dates you are not available. Members Folder Rehearsal Schedule Spring ‘24    Be sure to join our group chat :D  Rainbow Group chat  
-DTEND:20240329T223000Z
-LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
-DTSTART:20240329T213000Z
-SUMMARY:Rainbow Winds Rehearsal
-UID:b86db1e6-a9dd-44e6-aced-d5ea715b93fe@b86d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9948842
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20240426T200000Z
+SUMMARY:Friendship Fridays: Ice Cream Social
+UID:8ed18c42-6803-4d57-9b26-f431cb306b80@8ed1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653060
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Arts,Busch,Concert/Musical Performance ,Cultural Performance,Entertainment,Performance,Special Interest
@@ -141,63 +20,19 @@ LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, M
 ORGANIZER;CN=Bhakti - The Higher Taste:mailto:Bhakti - The Higher Taste
 DTSTART:20240327T230000Z
 SUMMARY:MOONLIT MANTRAS
-UID:7211d366-9c48-4ede-bfde-347e609b1c9b@7211.org
+UID:82aac4e1-e8e0-4137-b188-5ed32b2d4afb@82aa.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9795285
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass
-DESCRIPTION: If you would like to be a part of the Rainbow Winds\, it is expected for you to attend every rehearsal and concert. We understand that attendance at every rehearsal may not be possible for some\, so please indicate on this form if you have any conflicts. However\, we suffer as an ensemble if we do not have everyone present\, so please keep this in mind when signing up.      For those interested in Rainbow Winds Below you'll find links to our member folder and rehearsal schedule. There you'll find music\, part assignments\, and more so be sure to check out the resources. Attendance for our Dress Rehearsal and Concert are mandatory so please note on the form which dates you are not available. Members Folder Rehearsal Schedule Spring ‘24    Be sure to join our group chat :D  Rainbow Group chat  
-DTEND:20240405T223000Z
-LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
-DTSTART:20240405T213000Z
-SUMMARY:Rainbow Winds Rehearsal
-UID:4a52c90b-be7a-4a40-a8d5-72c5ace53f6b@4a52.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9948843
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Graduate Student Organization Event
-DESCRIPTION:Come do some jigsaw puzzles on Shabbat afternoon.
-DTEND:20240420T210000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
-DTSTART:20240420T190000Z
-SUMMARY:Grad Students Jigsaw 🧩 Puzzle Break
-UID:b0f826b5-fc4b-4c6f-8c06-efa8dc4bcec8@b0f8.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676337
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,College Ave,Political/Social Action Public Forum/Speak Out,Banquet/Food or Culinary,Educational Conference/Seminar/Workshop/Panel
-DESCRIPTION:Colorism Across Cultures: A Roundtable and Dinner will take place on Tuesday\, March 26th\, from 6:30 to 8:30pm at the College Avenue Student Center MPR. This event aims to address the shared issue of colorism within and beyond many marginalized communities and seeks to provide a platform for the Rutgers community to share experiences and find ways forward.  We will have a short panel featuring students and faculty\, followed by a roundtable conversation over dinner.
-DTEND:20240327T003000Z
-LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
-ORGANIZER;CN=Q&A: Queer and Asian:mailto:Q&A: Queer and Asian
-DTSTART:20240326T223000Z
-SUMMARY:Colorism Across Cultures: Roundtable & Dinner
-UID:12a13599-b1d2-4a42-bf5a-5ce14d3ae914@12a1.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10051818
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cultural,Busch,Cultural Performance,Entertainment,Performance
-DESCRIPTION:We're excited to announce our Spring 2024 Hafla! Spring Hafla will be taking place on March 31st at the Busch MPR from 5-7pm. Entry to our Bellydance showcase is free and open to friends and family 🩷 We will be serving halal desserts and vegetarian dishes from Kabab & Curry Express to accommodate different diets with food being on a first come first serve basis. You also won't want to miss out on our shimmy contest (prizes!!!) or our jewelery vendor latikathakwani !!! We'll also be selling coin belts to encourage shimmy contest participation as well as fans! You definitely don't want to miss out on this event and we hope to see you there! 💖
-DTEND:20240331T230000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
-DTSTART:20240331T210000Z
-SUMMARY:Rutgers Bellydance Troupe Spring Hafla 
-UID:dca3bc54-99e9-4e71-955c-dd3154319937@dca3.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10030610
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,Community Service Event on Campus
-DESCRIPTION:Hello fellow members\, The Student Veterans Organization (SVO) invites you to come out and help clean up our beautiful campus! We will meet up at the Vets House and work our way around the College Avenue area cleaning up the sidewalks. Gloves\, trash bags\, and trash grabbers will be provided upon arrival. Morning refreshments will be provided as well as community service hours for those in need of them. RSVP so we know you're coming! :)
-DTEND:20240324T160000Z
-LOCATION:Office of Veteran and Military Programs and Services 
-ORGANIZER;CN=Student Veterans Organization (SVO):mailto:Student Veterans Organization (SVO)
-DTSTART:20240324T140000Z
-SUMMARY:Community Service Clean-up
-UID:bdb074a0-6a4d-4c5d-aed4-01c1e5a26d72@bdb0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9918152
+CATEGORIES:Social,Cook / Douglass,Banquet/Food or Culinary
+DESCRIPTION:SEBS student organization leaders— join SEBS Governing Council (SGC) for dinner as a "thank you" for all of your hard work this year! This event will be a celebration of your organizations' accomplishments this academic year. The banquet will include dinner and an awards ceremony\, during which nominated student organizations will be recognized for their creativity\, social impact/community service\, and SEBS spirit. If you wish for your organization to be considered for an award\, please submit this nomination form by Tuesday\, April 2nd at 11:59 PM. The president/primary officer and one (1) additional member from your SGC-allocated organization (including but not limited to orgs listed here) are welcome to attend this event. Non-SEBS students may attend as long as they represent an organization that is allocated money by SGC. Each attendee must fill out the RSVP form by Friday\, April 5th at 11:59 PM to indicate their attendance and any dietary restrictions. Please dress in semi-formal attire. Feel free to email us at president.sgc.council@gmail.com with any questions or concerns. We can't wait to see you there!
+DTEND:20240413T020000Z
+LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=SEBS Governing Council:mailto:SEBS Governing Council
+DTSTART:20240412T220000Z
+SUMMARY:SEBS Student Organization Banquet
+UID:4af85505-9b2c-4ab4-8ae7-dfdb08fb72c9@4af8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10050115
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Religious/Religious Cultural/Spiritual Event
@@ -207,63 +42,19 @@ LOCATION:Rutgers Hillel
 ORGANIZER;CN=Hillel (Rutgers):mailto:Hillel (Rutgers)
 DTSTART:20240419T000000Z
 SUMMARY:Mishmar with Mesorah
-UID:9b37fad4-59a4-4cd6-b9f8-993c36f0f8d7@9b37.org
+UID:2635215c-735e-4bee-8609-1bcd7601200d@2635.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9774438
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass,Educational Conference/Seminar/Workshop/Panel,Educational Lecture
-DESCRIPTION:The 2nd annual QUASAR symposium is an opportunity to showcase and celebrate the contributions of queer scientists at Rutgers-NB. The event will feature a unique combination of scientific and biographical talks from queer faculty and trainees\, an exciting keynote presentation\, and panel discussions focused on mentoring and growth across the career spectrum.
-DTEND:20240415T200000Z
-LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department):mailto:Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department)
-DTSTART:20240415T140000Z
-SUMMARY:Queer and Allied Scientists at Rutgers Symposium
-UID:06eb0cd9-8542-4c1d-9a28-81f67aebf6ec@06eb.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9947543
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass
-DESCRIPTION:Join us for a celebration of the work of the 2024 student exhibition cohort led by 2023-2024 Estelle Lebowitz Artist in Residence\, Amina Ross. View artwork created by the cohort in collaboration with Amina.   Light refreshments provided. 
-DTEND:20240426T200000Z
-LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
-DTSTART:20240426T180000Z
-SUMMARY:Amina Ross Cohort Exhibition Reception
-UID:d450f4e1-2393-4bc3-975d-ef1cc697781d@d450.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9731361
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch
-DESCRIPTION:We are excited to have you joining us soon as MBS graduate students!! We want to assist you with the MBS degree program onboarding and learning how to navigate the details to register successfully:  Having issues getting registered without an SPN (Special Permission Number) for Summer or Fall??\r  MBS staff will be on hand to provide you with an SPN on the spot!   Want to know which courses will transfer to you graduate degree??\r  Bring your unofficial transcript and program advisors will be available to highlight which courses can be transferred as credits toward your MBS degree - if you forget your transcript\, no worries\, we will have a computer and printer available.    If you haven’t already\, REGISTER below! Dinner will be served! Please register for this event here.
-DTEND:20240328T223000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Professional Science Masters Department (PSM):mailto:Professional Science Masters Department (PSM)
-DTSTART:20240328T213000Z
-SUMMARY:STEPPING UP: New “4+1” Students - What’s Next?
-UID:f1cd95a5-5d9b-42d0-83d1-07811b2b4128@f1cd.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9194415
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:GroupBusiness,College Ave,General Organization Meeting
-DESCRIPTION:Come learn about what Karaoke Club is all about! Hint: It's all about singing. We will discuss how the organization is structured\, and what our meetings are like. Lastly\, we're going to have free snacks! It will probably be munchkins.
-DTEND:20240327T020000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Karaoke Club (Provisional Organization):mailto:Rutgers Karaoke Club (Provisional Organization)
-DTSTART:20240327T000000Z
-SUMMARY:Rutgers Karaoke General Informational Meeting
-UID:6c4799a1-2ce9-4982-9e8c-47e5459edc32@6c47.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10043107
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston
-DESCRIPTION:Join us for some fun and games.  Feel free to bring your favorite game to share with others or play one of the many games that we will have on hand. 
-DTEND:20240329T210000Z
-LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20240329T200000Z
-SUMMARY:Friendship Fridays: Game Night
-UID:bf4aaf6a-46d1-4b48-a17b-26298896280a@bf4a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653034
+CATEGORIES:CommunityService,Community Service Event on Campus
+DESCRIPTION:Hello fellow members\, The Student Veterans Organization (SVO) invites you to come out and help clean up our beautiful campus! We will meet up at the Vets House and work our way around the College Avenue area cleaning up the sidewalks. Gloves\, trash bags\, and trash grabbers will be provided upon arrival. Morning refreshments will be provided as well as community service hours for those in need of them. RSVP so we know you're coming! :)
+DTEND:20240324T160000Z
+LOCATION:Office of Veteran and Military Programs and Services 
+ORGANIZER;CN=Student Veterans Organization (SVO):mailto:Student Veterans Organization (SVO)
+DTSTART:20240324T140000Z
+SUMMARY:Community Service Clean-up
+UID:649e918f-cd9a-475f-96af-b6b514dc29fb@649e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9918152
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Cook / Douglass,Trip Off-campus
@@ -273,52 +64,19 @@ LOCATION:College of Physicians of Philadelphia\, 19\, South 22nd Street\, Ritten
 ORGANIZER;CN=G. H. Cook Biochemistry & Microbiology Club:mailto:G. H. Cook Biochemistry & Microbiology Club
 DTSTART:20240414T130000Z
 SUMMARY:Trip to Mütter Museum 
-UID:2f9216f1-7689-4aaf-b8fc-5857de4db8bf@2f92.org
+UID:5ac8ff95-cb4f-487a-aa45-9b907e0f391d@5ac8.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10045778
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Banquet/Food or Culinary
-DESCRIPTION:📅 Date and Time: [March 29th and from 6-10 PM] 📍 Location: [College Avenue Student Center MPR/Lounge] - Rutgers Student Center\, 126 College Ave\, New Brunswick\, NJ 08901 Innovative Student Founders Meet Astute Investors Prepare to be captivated as our brilliant student founders pitch their well-developed ideas and ventures. Watch closely as they engage with a panel of seasoned investors\, ready to judge and potentially invest in these groundbreaking projects. This could be where the next big idea gets its wings! Fine Dining Complementing the evening's excitement\, enjoy an exquisite fine dining buffet. Delight in a variety of gourmet selections that promise to satisfy your palate. A Prestigious Environment The Shark Tank Finale is not just an event\; it's an experience. Set in a prestigious environment\, it offers the perfect backdrop for these high-caliber presentations. It's an opportunity to see firsthand the fusion of academic excellence and entrepreneurial spirit that Rutgers proudly nurtures. Networking Opportunities  This event is also a fantastic opportunity to network. Rub shoulders with fellow students\, successful entrepreneurs\, and investors. Bring your business cards\, polish your elevator pitch\, and get ready to make connections that could shape your future! Reserve Your Spot! Don’t miss out on this unique experience. FREE but spots are extremely limited. RSVP now to secure your attendance. https://docs.google.com/forms/d/e/1FAIpQLSfzgHm61I3mcE3788RamGsfGFPck5gt-BoZU72YqCnbERgAxA/viewform?usp=sf_link We are excited to see you there and witness the thriving entrepreneurial spirit of Rutgers together! Warm regards\, Rutgers Entrepreneurship Society and RSVP (Road to Silicon Valley Program)
-DTEND:20240330T020000Z
-LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
-ORGANIZER;CN=Entrepreneurial Society (Rutgers):mailto:Entrepreneurial Society (Rutgers)
-DTSTART:20240329T220000Z
-SUMMARY:Shark Tank Finale Event
-UID:85de967a-e021-46b5-83bd-fe6621578e94@85de.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10009022
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Join us for our last General Body Meeting of the semester! We will be having refreshments\; this is a great opportunity to hear about FLSA's plans for the Fall 2024 semester.
-DTEND:20240424T230000Z
+CATEGORIES:GroupBusiness,College Ave,General Organization Meeting
+DESCRIPTION:Come learn about what Karaoke Club is all about! Hint: It's all about singing. We will discuss how the organization is structured\, and what our meetings are like. Lastly\, we're going to have free snacks! It will probably be munchkins.
+DTEND:20240327T020000Z
 LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Future Leaders in Student Affairs (Graduate Organization):mailto:Future Leaders in Student Affairs (Graduate Organization)
-DTSTART:20240424T220000Z
-SUMMARY:FLSA General Body Meeting
-UID:3ab5c84c-afdc-4776-9fa9-a86d3b527d3f@3ab5.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10052756
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch,Educational Conference/Seminar/Workshop/Panel,General Organization Meeting,Special Interest
-DESCRIPTION:Come out to our annual Pre-Health Conference at the Robert Wood Johnson Medical School on Busch Campus!! We will be having numerous graduate schools coming out to table and speak to undergraduate students\, including medical schools\, physician assistant schools\, dental schools\, and more. Some names include Columbia Medical School\, Temple Dental School\, and more. Lunch will be served\, and there will be a keynote speaker\, as well as physician panel to speak about their journies on their professional journey. The dress code is business casual :)   If you have any trouble locating this event\, please contact the Historian\, Travis Anane at tra43@scarletmail.rutgers.edu
-DTEND:20240323T200000Z
-LOCATION:Center For Advanced Biotechnology & Medicine\, 679\, Hoes Lane West\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Minority Association of Pre-Health Students:mailto:Minority Association of Pre-Health Students
-DTSTART:20240323T150000Z
-SUMMARY:2024 Annual Pre-Health Conference
-UID:31c3c6e4-6cad-45e2-9701-8f6c81b1334c@31c3.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9914984
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass
-DESCRIPTION: If you would like to be a part of the Rainbow Winds\, it is expected for you to attend every rehearsal and concert. We understand that attendance at every rehearsal may not be possible for some\, so please indicate on this form if you have any conflicts. However\, we suffer as an ensemble if we do not have everyone present\, so please keep this in mind when signing up.      For those interested in Rainbow Winds Below you'll find links to our member folder and rehearsal schedule. There you'll find music\, part assignments\, and more so be sure to check out the resources. Attendance for our Dress Rehearsal and Concert are mandatory so please note on the form which dates you are not available. Members Folder Rehearsal Schedule Spring ‘24    Be sure to join our group chat :D  Rainbow Group chat  
-DTEND:20240412T223000Z
-LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
-DTSTART:20240412T213000Z
-SUMMARY:Rainbow Winds Rehearsal
-UID:60484135-c2de-4518-b3cd-feb54b0b4cbb@6048.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9948844
+ORGANIZER;CN=Rutgers Karaoke Club (Provisional Organization):mailto:Rutgers Karaoke Club (Provisional Organization)
+DTSTART:20240327T000000Z
+SUMMARY:Rutgers Karaoke General Informational Meeting
+UID:6f2420dc-2ccc-4a33-93c7-34511a1cc74a@6f24.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10043107
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Banquet/Food or Culinary
@@ -328,8 +86,19 @@ LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brun
 ORGANIZER;CN=Student Involvement & Leadership (Office of):mailto:Student Involvement & Leadership (Office of)
 DTSTART:20240325T160000Z
 SUMMARY:Dr. Jewel Plummer Cobb S.T.E.A.M. Women’s Empowerment Luncheon
-UID:fab4f2d7-9633-46f2-8d0c-b7a07df9bd0d@fab4.org
+UID:d303bdd2-09e3-4365-b82b-4776e9fff75a@d303.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9998592
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cultural,Busch,Cultural Performance,Entertainment,Performance
+DESCRIPTION:We're excited to announce our Spring 2024 Hafla! Spring Hafla will be taking place on March 31st at the Busch MPR from 5-7pm. Entry to our Bellydance showcase is free and open to friends and family 🩷 We will be serving halal desserts and vegetarian dishes from Kabab & Curry Express to accommodate different diets with food being on a first come first serve basis. You also won't want to miss out on our shimmy contest (prizes!!!) or our jewelery vendor latikathakwani !!! We'll also be selling coin belts to encourage shimmy contest participation as well as fans! You definitely don't want to miss out on this event and we hope to see you there! 💖
+DTEND:20240331T230000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
+DTSTART:20240331T210000Z
+SUMMARY:Rutgers Bellydance Troupe Spring Hafla 
+UID:f3f83bfe-b955-4023-a8ab-598e2686e92a@f3f8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10030610
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,College Ave
@@ -339,63 +108,8 @@ LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, 
 ORGANIZER;CN=JStreetU of Rutgers University\, New Brunswick - A provisionally recognized student group Sp 2024:mailto:JStreetU of Rutgers University\, New Brunswick - A provisionally recognized student group Sp 2024
 DTSTART:20240325T220000Z
 SUMMARY:Speaker:  Dr. Dahlia Scheindlin
-UID:ce3acf98-43b9-49fb-890f-b10d92cce802@ce3a.org
+UID:6dff213e-b16c-4606-8ccd-f1f2e5238cf6@6dff.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10035098
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston
-DESCRIPTION:WATCH WHAT THE HEALTH AT RU CINEMAS (LIVI)  SATURDAY\, APRIL 6TH | 11:00 AM TICKET\, POPCORN\, AND A DRINK (+FREE REFILLS) ARE INCLUDED WE WILL ALSO HAVE VEGAN VEGGIE PIZZA AND VEGAN CUPCAKES! Spots are very limited so please RSVP ASAP! Please only RSVP yes if you know that you 100% will be able to attend so that we can ensure everyone who wants to come a ticket!
-DTEND:20240406T170000Z
-LOCATION:Rutgers Cinema\, 105\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Veg Society (Rutgers):mailto:Veg Society (Rutgers)
-DTSTART:20240406T150000Z
-SUMMARY:Watch What the Health at RU Cinemas
-UID:e385da5d-b3f6-4992-b639-d3a28c8dad1e@e385.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9926881
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Entertainment
-DESCRIPTION:🍃 Get ready to immerse yourself in a vibrant world of green at our "Color Me Green" Indoor Field Day! 🍃 🥧 Pie-Eating Extravaganza: Test your culinary prowess in our pie-eating contest. Dive into delectable pies adorned with greenery and see who can devour their slice the fastest. : Test your culinary prowess in our pie-eating contest. Dive into delectable pies adorned with greenery and see who can devour their slice the fastest. 🍪 Creative Cookie Decorating: Unleash your inner artist as you decorate cookies with an array of green icing\, sprinkles\, and edible glitter. Let your imagination soar and craft the most whimsical\, green-themed creations imaginable. 🍏 Green Treats and Refreshments: Indulge in a variety of green treats and refreshments\, from cucumber sandwiches to spinach smoothies. Satisfy your cravings with a burst of green goodness! *By attending our events\, you agree to allow Residence Hall Association (RHA) to use\, distribute\, and/or publicize any photos taken during and at the event. For any specific accommodation needs related to your physical attendance\, please contact kdy11@scarletmail.rutgers.edu.
-DTEND:20240328T020000Z
-LOCATION:Palisade Avenue\, Grantwood\, Cliffside Park\, Bergen County\, New Jersey\, 07010\, United States
-ORGANIZER;CN=Residence Hall Association (RHA):mailto:Residence Hall Association (RHA)
-DTSTART:20240328T000000Z
-SUMMARY:Color me Green! Indoor Field Day @ Honors College
-UID:6e4172b0-8e5a-46a5-8b49-729bb937c371@6e41.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10033614
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,Community Service Event on Campus
-DESCRIPTION:Hello fellow members\, The Student Veterans Organization (SVO) invites you to come out and help clean up our beautiful campus! We will meet up at the Vets House and work our way around the College Avenue area cleaning up the sidewalks. Gloves\, trash bags\, and trash grabbers will be provided upon arrival. Morning refreshments will be provided as well as community service hours for those in need of them. RSVP so we know you're coming! :)
-DTEND:20240505T160000Z
-LOCATION:Office of Veteran and Military Programs and Services 
-ORGANIZER;CN=Student Veterans Organization (SVO):mailto:Student Veterans Organization (SVO)
-DTSTART:20240505T140000Z
-SUMMARY:Community Service Clean-up
-UID:6d814806-4d98-4e1a-b7dd-3d48d7cddbbb@6d81.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9918155
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cultural,Cook / Douglass,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us as we felicitate our professors and administrators in this year's Guruvandana. Learn more about the significance of a Guru in Hinduism!
-DTEND:20240329T010000Z
-LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Hindu YUVA :mailto:Hindu YUVA 
-DTSTART:20240328T230000Z
-SUMMARY:Guru Vandana
-UID:1317b5b7-72b1-4241-9f00-b2d9f92f841a@1317.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10004960
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,Busch,Banquet/Food or Culinary,Educational Lecture
-DESCRIPTION:Join us for APSEA's annual spring research night on Friday\, April 5th\, 2024 from 6 pm - 10 pm at BSC MPRA. We will be celebrating our volunteers' and leadership members' contributions and achievements throughout the year. We will have guest speakers\, awards\, and activities for all of APSEA's chapters. Dinner will be served with halal and vegetarian options available. We would greatly appreciate if all attendees adhered to a business casual dress code. Please RSVP if you plan on attending. Thank you!
-DTEND:20240406T020000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=American Preventive Screening and Education Assocation:mailto:American Preventive Screening and Education Assocation
-DTSTART:20240405T220000Z
-SUMMARY:APSEA Annual Spring Research Night 2024
-UID:95fe5479-a0a5-45a3-bddf-1e7a45364f5f@95fe.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9966500
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Cook / Douglass,Educational Conference/Seminar/Workshop/Panel
@@ -405,7 +119,7 @@ LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Je
 ORGANIZER;CN=Endocrinology and Animal Biosciences (Graduate Student Organization):mailto:Endocrinology and Animal Biosciences (Graduate Student Organization)
 DTSTART:20240411T123000Z
 SUMMARY:The Graduate Research in Interdisciplinary Biosciences (GRIB) Conference
-UID:afa8b841-f82d-4066-8c51-c7b1053cc0a8@afa8.org
+UID:c0d26e66-43d8-4ad0-ad03-ec1d96cbe077@c0d2.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9997780
 END:VEVENT
 BEGIN:VEVENT
@@ -416,151 +130,19 @@ LOCATION:Office of Veteran and Military Programs and Services
 ORGANIZER;CN=Student Veterans Organization (SVO):mailto:Student Veterans Organization (SVO)
 DTSTART:20240407T140000Z
 SUMMARY:Community Service Clean-up
-UID:51a63d09-2a69-4cee-bb9f-3fddd61ec268@51a6.org
+UID:6f979562-423d-4afe-853d-d0fd9cf176b6@6f97.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9918153
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch,Educational Conference/Seminar/Workshop/Panel
-DESCRIPTION:🍵 BOBA WILL BE SERVED!!! 🪴 Join us to learn more about building and hosting your very own React application!
-DTEND:20240327T230000Z
+CATEGORIES:ThoughtfulLearning,Busch
+DESCRIPTION:We are excited to have you joining us soon as MBS graduate students!! We want to assist you with the MBS degree program onboarding and learning how to navigate the details to register successfully:  Having issues getting registered without an SPN (Special Permission Number) for Summer or Fall??\r  MBS staff will be on hand to provide you with an SPN on the spot!   Want to know which courses will transfer to you graduate degree??\r  Bring your unofficial transcript and program advisors will be available to highlight which courses can be transferred as credits toward your MBS degree - if you forget your transcript\, no worries\, we will have a computer and printer available.    If you haven’t already\, REGISTER below! Dinner will be served! Please register for this event here.
+DTEND:20240328T223000Z
 LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hack4Impact Rutgers:mailto:Hack4Impact Rutgers
-DTSTART:20240327T220000Z
-SUMMARY:Frontend Workshop: React.JS
-UID:9f2422ee-9997-42ca-9cd3-2e2dcf050a08@9f24.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10046502
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Special Interest
-DESCRIPTION:Ring in Gaypril with Douglass with an evening of BINGO and prizes that will help you be decked out for PRIDE month! There will be t-shirts for the first 50 students\, food\, prizes\, and FUN.  Join us for a fabulous Drag Bingo night featuring Taco Tuesday delights\, exciting prizes\, and a chance to strut your stuff in drag! Bring your friends and unleash your inner diva for an evening of laughter\, entertainment\, and tasty treats. It's a colorful celebration where everyone is welcome to express themselves and have a blast!
-DTEND:20240402T233000Z
-LOCATION:Kathleen W. Ludwig Building
-ORGANIZER;CN=Douglass Diversity and Inclusion Program at Douglass Residential College - DRC:mailto:Douglass Diversity and Inclusion Program at Douglass Residential College - DRC
-DTSTART:20240402T220000Z
-SUMMARY:Gaypril at Douglass 
-UID:168096ac-0d07-4593-bd66-a2ca38e54893@1680.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10027509
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass,Special Interest
-DESCRIPTION:Celebrate the end of the academic year by joining Douglass staff\, the Voorhees Choir\, and fellow students for the annual Sacred Path Ceremony. One of Douglass' oldest traditions\, the Sacred Path ceremony recognizes student achievement and fosters Douglass's unique community. Join your fellow Douglass classmates\, alumnae\, friends\, and family as each class is honored with a symbol representing the different class years. After you receive your charm\, head to the ceremonial fires on the sacred path to make a wish!  Students should show their pride by wearing their class year colors (first years wear white\, sophomores wear pink\, juniors wear red\, and seniors wear black). Every student will receive a charm\, a token representing her class. All Douglass students\, family\, faculty\, and alumnae are welcome! Refreshments will be provided at Ludwig immediately following the ceremony.  *Students in Knowledge & Power will receive 2 points towards their Douglass event requirements* 
-DTEND:20240408T010000Z
-LOCATION:Voorhees Chapel\, 5\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Traditional Events at Douglass Residential College - DRC:mailto:Traditional Events at Douglass Residential College - DRC
-DTSTART:20240407T230000Z
-SUMMARY:Sacred Path 2024
-UID:79c85277-e5c8-4eff-983c-c57e6fe3527b@79c8.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9161676
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Join us as we celebrate the memories that we've made over the past year and reveal next year's Executive Board! You must have three or more points to attend this event.
-DTEND:20240421T010000Z
-LOCATION:TBD
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20240420T230000Z
-SUMMARY:TENTATIVE Riot Squad Banquet
-UID:735efd45-8674-4279-9d7b-61287d4f6371@735e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9999871
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass
-DESCRIPTION: If you would like to be a part of the Rainbow Winds\, it is expected for you to attend every rehearsal and concert. We understand that attendance at every rehearsal may not be possible for some\, so please indicate on this form if you have any conflicts. However\, we suffer as an ensemble if we do not have everyone present\, so please keep this in mind when signing up.      For those interested in Rainbow Winds Below you'll find links to our member folder and rehearsal schedule. There you'll find music\, part assignments\, and more so be sure to check out the resources. Attendance for our Dress Rehearsal and Concert are mandatory so please note on the form which dates you are not available. Members Folder Rehearsal Schedule Spring ‘24    Be sure to join our group chat :D  Rainbow Group chat  
-DTEND:20240323T200000Z
-LOCATION:Nicholas Music Center\, 85\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
-DTSTART:20240323T180000Z
-SUMMARY:Rainbow Winds Rehearsal
-UID:758b25d6-476f-4b20-bd2f-98228fe0d61e@758b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9948841
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar\, such as Guest Speakers\, Student Led Mishmar\, and Chaburahfest!
-DTEND:20240412T010000Z
-LOCATION:Rutgers Hillel
-ORGANIZER;CN=Hillel (Rutgers):mailto:Hillel (Rutgers)
-DTSTART:20240412T000000Z
-SUMMARY:Mishmar with Mesorah
-UID:890a9238-ccfe-4e75-9281-2cacd714a744@890a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9774437
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Join us for a delightful morning of warmth\, conversation\, and scrumptious delights at our Coffee and Breakfast event at the Graduate Student Lounge.Whether you're here to kickstart your day or savour a liesurely morning\, GSA would be delighted to host you !
-DTEND:20240403T150000Z
-LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
-ORGANIZER;CN=Graduate Student Association (GSA):mailto:Graduate Student Association (GSA)
-DTSTART:20240403T130000Z
-SUMMARY:GSA Coffee and Breakfast Mixer
-UID:97ad9f1b-5df6-483c-85a7-464dfa3e9824@97ad.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9842340
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:Enjoy a free brunch while chatting with department administrators and other commuter students. Learn more about the services Rutgers has to offer.
-DTEND:20240403T173000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Commuter Student Association:mailto:Rutgers Commuter Student Association
-DTSTART:20240403T153000Z
-SUMMARY:SunnySide Start Up
-UID:467ccd70-cc54-40a2-9d70-aad224677f7e@467c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9723338
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass,Career Fair/Panel,Special Interest
-DESCRIPTION:Attention all Douglass STEM students! Use your ELEVATOR PITCH\, bring your RESUME\, DRESS for success\, and NETWORK with company reps—it’s your time to shine. Dive into a world of opportunity with industry leaders ready to reveal the secrets of their success. Mingle\, make connections\, and mark the next step in your remarkable career journey. Refreshments on us\, inspiration by you. Seize this chance to transform your future.  Be there!
-DTEND:20240417T000000Z
-LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Douglass Women in Science and Engineering (WiSE)   :mailto:Douglass Women in Science and Engineering (WiSE)   
-DTSTART:20240416T220000Z
-SUMMARY:Annual STEM Networking Night 
-UID:78ecd452-40c1-452c-b7f3-aec88421aed6@78ec.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9769091
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Celebrate the end of the semester and warmer weather with our annual ice cream social.
-DTEND:20240426T210000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20240426T200000Z
-SUMMARY:Friendship Fridays: Ice Cream Social
-UID:6ddf42e1-e84f-41d3-94e8-62d26f9a435f@6ddf.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653060
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass,Election,General Organization Meeting
-DESCRIPTION:We will be holding elections for next year's President\, Vice President\, Treasurer\, and Public Relations Chair on April 3rd at 8 PM in the Merle V. Adams Room of the Cook Campus Center. Anyone is eligible to apply. You must have attended at least one meeting in fall 2023 or spring 2024 to vote. Candidates for each position will give short speeches\, then once everything is finished\, we will relax with coloring\, games\, and food.
-DTEND:20240404T010000Z
-LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=G. H. Cook Biochemistry & Microbiology Club:mailto:G. H. Cook Biochemistry & Microbiology Club
-DTSTART:20240404T000000Z
-SUMMARY:Elections
-UID:ef180df6-610d-48ba-81f6-9e26cde287eb@ef18.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10031766
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass
-DESCRIPTION:🎬 Lights\, Camera\, Action! 🍿  Grab a slice of pizza\, get cozy\, and prepare for an evening filled with Sapphic celebration of the horniest and bloodiest queer movie around... Bottoms! Starring Rachel Sennott and Ayo Edebiri you can RSVP for this event through our Linktree in our bio. 📅 Date: Monday March 25th  🕒 Time: 9:30 🏠 Venue: Shindell Choral Hall Hosted by Rutgers Rainbow Symphony Co-Sponsored by
-DTEND:20240326T033000Z
-LOCATION:Nicholas Music Center\, 85\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
-DTSTART:20240326T013000Z
-SUMMARY:Rainbow Symphony Movie Night
-UID:1786a266-ec7a-4b96-ac5b-132055189386@1786.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10033774
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Join us outside for some fun activities. Enjoy carnival games\, snacks\, and prizes as we close out the semester.
-DTEND:20240426T220000Z
-LOCATION:8\, Morrell Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Commuter Student Association:mailto:Rutgers Commuter Student Association
-DTSTART:20240426T200000Z
-SUMMARY:Spring Carnival
-UID:dc6cf41b-cf3d-468f-934b-21a604ed3b34@dc6c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9723398
+ORGANIZER;CN=Professional Science Masters Department (PSM):mailto:Professional Science Masters Department (PSM)
+DTSTART:20240328T213000Z
+SUMMARY:STEPPING UP: New “4+1” Students - What’s Next?
+UID:554882cd-f703-476d-835a-ddde1e147b16@5548.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9194415
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Cook / Douglass,Educational Conference/Seminar/Workshop/Panel,General Organization Meeting
@@ -570,8 +152,206 @@ LOCATION:Cook Chiller Plant\, 90\, Dudley Road\, Feaster Park\, New Brunswick\, 
 ORGANIZER;CN=Students for Environmental & Energy Development :mailto:Students for Environmental & Energy Development 
 DTSTART:20240404T000000Z
 SUMMARY:SEED presents... Careers with WSP
-UID:a774f5f3-9287-43d5-ac2a-4893ff6e436a@a774.org
+UID:98016bf5-40cb-4d05-a78d-8c2a370a570e@9801.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10053367
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass,Career Fair/Panel,Special Interest
+DESCRIPTION:Attention all Douglass STEM students! Use your ELEVATOR PITCH\, bring your RESUME\, DRESS for success\, and NETWORK with company reps—it’s your time to shine. Dive into a world of opportunity with industry leaders ready to reveal the secrets of their success. Mingle\, make connections\, and mark the next step in your remarkable career journey. Refreshments on us\, inspiration by you. Seize this chance to transform your future.  Be there!
+DTEND:20240417T000000Z
+LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Douglass Women in Science and Engineering (WiSE)   :mailto:Douglass Women in Science and Engineering (WiSE)   
+DTSTART:20240416T220000Z
+SUMMARY:Annual STEM Networking Night 
+UID:05600079-f425-42e7-b41e-acd1767b0933@0560.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9769091
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Join us outside for some fun activities. Enjoy carnival games\, snacks\, and prizes as we close out the semester.
+DTEND:20240426T220000Z
+LOCATION:8\, Morrell Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Commuter Student Association:mailto:Rutgers Commuter Student Association
+DTSTART:20240426T200000Z
+SUMMARY:Spring Carnival
+UID:e2bd5f0b-54ed-489e-85ff-e8a2d38e8054@e2bd.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9723398
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston
+DESCRIPTION:WATCH WHAT THE HEALTH AT RU CINEMAS (LIVI)  SATURDAY\, APRIL 6TH | 11:00 AM TICKET\, POPCORN\, AND A DRINK (+FREE REFILLS) ARE INCLUDED WE WILL ALSO HAVE VEGAN VEGGIE PIZZA AND VEGAN CUPCAKES! Spots are very limited so please RSVP ASAP! Please only RSVP yes if you know that you 100% will be able to attend so that we can ensure everyone who wants to come a ticket!
+DTEND:20240406T170000Z
+LOCATION:Rutgers Cinema\, 105\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Veg Society (Rutgers):mailto:Veg Society (Rutgers)
+DTSTART:20240406T150000Z
+SUMMARY:Watch What the Health at RU Cinemas
+UID:23760a15-2d20-4194-b1d7-7d8e0f31eaa9@2376.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9926881
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,College Ave,Political/Social Action Public Forum/Speak Out,Banquet/Food or Culinary,Educational Conference/Seminar/Workshop/Panel
+DESCRIPTION:Colorism Across Cultures: A Roundtable and Dinner will take place on Tuesday\, March 26th\, from 6:30 to 8:30pm at the College Avenue Student Center MPR. This event aims to address the shared issue of colorism within and beyond many marginalized communities and seeks to provide a platform for the Rutgers community to share experiences and find ways forward.  We will have a short panel featuring students and faculty\, followed by a roundtable conversation over dinner.
+DTEND:20240327T003000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
+ORGANIZER;CN=Q&A: Queer and Asian:mailto:Q&A: Queer and Asian
+DTSTART:20240326T223000Z
+SUMMARY:Colorism Across Cultures: Roundtable & Dinner
+UID:265855e1-b983-4cdb-a40f-2e790fde6835@2658.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10051818
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cultural,Cook / Douglass,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us as we felicitate our professors and administrators in this year's Guruvandana. Learn more about the significance of a Guru in Hinduism!
+DTEND:20240329T010000Z
+LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Hindu YUVA :mailto:Hindu YUVA 
+DTSTART:20240328T230000Z
+SUMMARY:Guru Vandana
+UID:0e7b16d0-a403-4b57-a263-b84becefcfad@0e7b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10004960
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar\, such as Guest Speakers\, Student Led Mishmar\, and Chaburahfest!
+DTEND:20240412T010000Z
+LOCATION:Rutgers Hillel
+ORGANIZER;CN=Hillel (Rutgers):mailto:Hillel (Rutgers)
+DTSTART:20240412T000000Z
+SUMMARY:Mishmar with Mesorah
+UID:edabd13e-86a5-4c7b-a5d8-23f559bd9bca@edab.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9774437
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass
+DESCRIPTION: If you would like to be a part of the Rainbow Winds\, it is expected for you to attend every rehearsal and concert. We understand that attendance at every rehearsal may not be possible for some\, so please indicate on this form if you have any conflicts. However\, we suffer as an ensemble if we do not have everyone present\, so please keep this in mind when signing up.      For those interested in Rainbow Winds Below you'll find links to our member folder and rehearsal schedule. There you'll find music\, part assignments\, and more so be sure to check out the resources. Attendance for our Dress Rehearsal and Concert are mandatory so please note on the form which dates you are not available. Members Folder Rehearsal Schedule Spring ‘24    Be sure to join our group chat :D  Rainbow Group chat  
+DTEND:20240405T223000Z
+LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
+DTSTART:20240405T213000Z
+SUMMARY:Rainbow Winds Rehearsal
+UID:687be07d-ef98-4371-acef-519f10f933ce@687b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9948843
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Busch,Banquet/Food or Culinary,Special Interest
+DESCRIPTION:Show your creative culinary side with our cupcake decorating event! Stop by the International Lounge at the Busch Student Center and decorate your own cupcake while socializing with other commuter students. Be sure to RSVP\, as supplies are limited. Hope to see you there!
+DTEND:20240327T210000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Student Involvement & Leadership (Office of):mailto:Student Involvement & Leadership (Office of)
+DTSTART:20240327T190000Z
+SUMMARY:Cupcakes with Commuters
+UID:54c06f5b-dfbc-4d49-8ffc-b8d135cee6e9@54c0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9879360
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass,Educational Conference/Seminar/Workshop/Panel,Educational Lecture
+DESCRIPTION:The 2nd annual QUASAR symposium is an opportunity to showcase and celebrate the contributions of queer scientists at Rutgers-NB. The event will feature a unique combination of scientific and biographical talks from queer faculty and trainees\, an exciting keynote presentation\, and panel discussions focused on mentoring and growth across the career spectrum.
+DTEND:20240415T200000Z
+LOCATION:Douglass Student Center\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department):mailto:Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department)
+DTSTART:20240415T140000Z
+SUMMARY:Queer and Allied Scientists at Rutgers Symposium
+UID:571e2d13-e5a3-433a-862e-1614c7c29278@571e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9947543
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Graduate Student Organization Event
+DESCRIPTION:Come do some jigsaw puzzles on Shabbat afternoon.
+DTEND:20240420T210000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
+DTSTART:20240420T190000Z
+SUMMARY:Grad Students Jigsaw 🧩 Puzzle Break
+UID:2ddcc0a7-0ea6-4110-bca7-6aabbbe88bc7@2ddc.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676337
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Fundraising,Livingston,Banquet/Food or Culinary
+DESCRIPTION:Salaam and Ramadan Mubarak! 🌟✨ Ready for a magical Ramadan evening? Join us for the Iftar Gala\, co-hosted with Temple UMR\, on March 25th! 📅 The doors of Livingston MPR swing open at 5:30 PM 🕠. Embrace the spirit in modest attire 👗👔 and feel the warmth of community as we break our fast together. Everyone’s welcome\, so bring your family & friends! 🤗Admission is FREE 🎉\, but if you can\, a suggested donation would be warmly appreciated to support our community efforts. Let’s make this evening a treasure trove of memories\, filled with spirituality\, unity\, and gratitude. RSVP form dropping soon. Don’t miss it! 💫🌟🕌✨Click the RSVP link in our bio @rutgersUMR on Instagram to ensure your free entry. Remember\, no walk-ins—secure your place for the Gala on March 25th!
+DTEND:20240326T010000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=United Muslim Relief:mailto:United Muslim Relief
+DTSTART:20240325T213000Z
+SUMMARY:Ramadan Gala
+UID:4f4981f6-dbe0-4dc1-a74e-8f98162a51bb@4f49.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10042183
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:SPRING HAS SPRUNG! COME AND JOIN THE MENTORS IN DECORATING YOUR OWN POTTED PLANTS WHILE WATCHING A DOCUMENTARY ABOUT SUSTAINABILITY. SNACKS WILL BE PROVIDED! ALL ATTENDEES WILL EARN 1 CHANGEMAKING POINT
+DTEND:20240327T003000Z
+LOCATION:BEST 4 North Lounge
+ORGANIZER;CN=Honors College:mailto:Honors College
+DTSTART:20240326T233000Z
+SUMMARY:Spring\, Succulents\, and Sustainability
+UID:8dd65a90-d2b6-48f6-b629-580eba1bd437@8dd6.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10036346
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,Community Service Event on Campus
+DESCRIPTION:Hello fellow members\, The Student Veterans Organization (SVO) invites you to come out and help clean up our beautiful campus! We will meet up at the Vets House and work our way around the College Avenue area cleaning up the sidewalks. Gloves\, trash bags\, and trash grabbers will be provided upon arrival. Morning refreshments will be provided as well as community service hours for those in need of them. RSVP so we know you're coming! :)
+DTEND:20240505T160000Z
+LOCATION:Office of Veteran and Military Programs and Services 
+ORGANIZER;CN=Student Veterans Organization (SVO):mailto:Student Veterans Organization (SVO)
+DTSTART:20240505T140000Z
+SUMMARY:Community Service Clean-up
+UID:19f32068-7726-4520-8719-9b615879cb52@19f3.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9918155
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Cultural Performance,Outdoor Event,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Yoga followed by mantra meditation and free food at the end.
+DTEND:20240419T020000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Bhakti - The Higher Taste:mailto:Bhakti - The Higher Taste
+DTSTART:20240419T000000Z
+SUMMARY:Yoga Night
+UID:279b8267-417a-4a0c-946c-2d8b9dfbf0d2@279b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9687769
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Entertainment
+DESCRIPTION:🍃 Get ready to immerse yourself in a vibrant world of green at our "Color Me Green" Indoor Field Day! 🍃 🥧 Pie-Eating Extravaganza: Test your culinary prowess in our pie-eating contest. Dive into delectable pies adorned with greenery and see who can devour their slice the fastest. : Test your culinary prowess in our pie-eating contest. Dive into delectable pies adorned with greenery and see who can devour their slice the fastest. 🍪 Creative Cookie Decorating: Unleash your inner artist as you decorate cookies with an array of green icing\, sprinkles\, and edible glitter. Let your imagination soar and craft the most whimsical\, green-themed creations imaginable. 🍏 Green Treats and Refreshments: Indulge in a variety of green treats and refreshments\, from cucumber sandwiches to spinach smoothies. Satisfy your cravings with a burst of green goodness! *By attending our events\, you agree to allow Residence Hall Association (RHA) to use\, distribute\, and/or publicize any photos taken during and at the event. For any specific accommodation needs related to your physical attendance\, please contact kdy11@scarletmail.rutgers.edu.
+DTEND:20240328T020000Z
+LOCATION:Palisade Avenue\, Grantwood\, Cliffside Park\, Bergen County\, New Jersey\, 07010\, United States
+ORGANIZER;CN=Residence Hall Association (RHA):mailto:Residence Hall Association (RHA)
+DTSTART:20240328T000000Z
+SUMMARY:Color me Green! Indoor Field Day @ Honors College
+UID:d34dc6fa-a0f6-4f7a-8f1c-259d78d6cc35@d34d.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10033614
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning
+DESCRIPTION:🔮✨Attention Witches and Wizards of the digital realm!🧙‍♀️🌟 HackRU is THIS weekend!✨🔮 Don’t miss your chance to join fellow sorcerers in this coding adventure!🔗 Register now at hackru.org and let the magic unfold!
+DTEND:20240325T034500Z
+LOCATION:BSC
+ORGANIZER;CN=Undergraduate Student Alliance of Computer Scientists:mailto:Undergraduate Student Alliance of Computer Scientists
+DTSTART:20240323T120000Z
+SUMMARY:HackRU 🔮🧙‍♀️
+UID:24a749f8-590d-4e53-9313-bea50fed1b82@24a7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10053403
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Join us for our last General Body Meeting of the semester! We will be having refreshments\; this is a great opportunity to hear about FLSA's plans for the Fall 2024 semester.
+DTEND:20240424T230000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Future Leaders in Student Affairs (Graduate Organization):mailto:Future Leaders in Student Affairs (Graduate Organization)
+DTSTART:20240424T220000Z
+SUMMARY:FLSA General Body Meeting
+UID:1a7c8aeb-a0c5-4e3a-a3ee-829189010df6@1a7c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10052756
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch
+DESCRIPTION:Enjoy a free brunch while chatting with department administrators and other commuter students. Learn more about the services Rutgers has to offer.
+DTEND:20240403T173000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Commuter Student Association:mailto:Rutgers Commuter Student Association
+DTSTART:20240403T153000Z
+SUMMARY:SunnySide Start Up
+UID:58a1dbc1-6ade-4ada-9ed2-517dedcd3d8e@58a1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9723338
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Religious/Religious Cultural/Spiritual Event
@@ -581,7 +361,216 @@ LOCATION:Rutgers Hillel
 ORGANIZER;CN=Hillel (Rutgers):mailto:Hillel (Rutgers)
 DTSTART:20240329T000000Z
 SUMMARY:Mishmar with Mesorah
-UID:8a618cb2-8314-4c2d-9cf9-9fbb65f09706@8a61.org
+UID:3ce0fdaf-7efe-4a09-9077-8d8314eddc43@3ce0.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9774435
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass,Election,General Organization Meeting
+DESCRIPTION:We will be holding elections for next year's President\, Vice President\, Treasurer\, and Public Relations Chair on April 3rd at 8 PM in the Merle V. Adams Room of the Cook Campus Center. Anyone is eligible to apply. You must have attended at least one meeting in fall 2023 or spring 2024 to vote. Candidates for each position will give short speeches\, then once everything is finished\, we will relax with coloring\, games\, and food.
+DTEND:20240404T010000Z
+LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=G. H. Cook Biochemistry & Microbiology Club:mailto:G. H. Cook Biochemistry & Microbiology Club
+DTSTART:20240404T000000Z
+SUMMARY:Elections
+UID:25c888cf-cb22-4f7b-be0f-69fcf429e59f@25c8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10031766
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass
+DESCRIPTION:Join us for a celebration of the work of the 2024 student exhibition cohort led by 2023-2024 Estelle Lebowitz Artist in Residence\, Amina Ross. View artwork created by the cohort in collaboration with Amina.   Light refreshments provided. 
+DTEND:20240426T200000Z
+LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
+DTSTART:20240426T180000Z
+SUMMARY:Amina Ross Cohort Exhibition Reception
+UID:c9cecb70-6512-4863-8d12-0cef6e394383@c9ce.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9731361
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass
+DESCRIPTION: If you would like to be a part of the Rainbow Winds\, it is expected for you to attend every rehearsal and concert. We understand that attendance at every rehearsal may not be possible for some\, so please indicate on this form if you have any conflicts. However\, we suffer as an ensemble if we do not have everyone present\, so please keep this in mind when signing up.      For those interested in Rainbow Winds Below you'll find links to our member folder and rehearsal schedule. There you'll find music\, part assignments\, and more so be sure to check out the resources. Attendance for our Dress Rehearsal and Concert are mandatory so please note on the form which dates you are not available. Members Folder Rehearsal Schedule Spring ‘24    Be sure to join our group chat :D  Rainbow Group chat  
+DTEND:20240329T223000Z
+LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
+DTSTART:20240329T213000Z
+SUMMARY:Rainbow Winds Rehearsal
+UID:6a1e3c03-4cd8-4624-9ff8-38859b685b45@6a1e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9948842
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Special Interest
+DESCRIPTION:Ring in Gaypril with Douglass with an evening of BINGO and prizes that will help you be decked out for PRIDE month! There will be t-shirts for the first 50 students\, food\, prizes\, and FUN.  Join us for a fabulous Drag Bingo night featuring Taco Tuesday delights\, exciting prizes\, and a chance to strut your stuff in drag! Bring your friends and unleash your inner diva for an evening of laughter\, entertainment\, and tasty treats. It's a colorful celebration where everyone is welcome to express themselves and have a blast!
+DTEND:20240402T233000Z
+LOCATION:Kathleen W. Ludwig Building
+ORGANIZER;CN=Douglass Diversity and Inclusion Program at Douglass Residential College - DRC:mailto:Douglass Diversity and Inclusion Program at Douglass Residential College - DRC
+DTSTART:20240402T220000Z
+SUMMARY:Gaypril at Douglass 
+UID:22258927-6332-4dd9-b1b9-d115bbd0dcda@2225.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10027509
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,College Ave,Educational Lecture
+DESCRIPTION:In this presentation\, Dr. Dallman\, a neurodivergent scholar with research expertise in autism\, inclusion\, and neurodiversity\, will share insights on supporting students with disabilities and diverse learning needs in the higher education setting. Dr. Dallman will provide concrete\, evidence-based strategies to enhance inclusivity in the classroom and to foster the success of all students. In this interactive presentation\, attendees will have an opportunity to problem-solve teaching challenges they have encountered.  All students and faculty are welcome to join us for this enlightening discussion.    This is an in-person event\, and to ensure we cater to everyone\, we kindly request that you RSVP. The event will be followed by a sponsored lunch provided by the GSA\, featuring a selection of sandwiches\, chips\, and fruits. \r   We look forward to your participation and insights!   As a special treat\, attendees will have the chance to participate in a tech accessory giveaway. Prizes include tech gadgets like a wireless mobile power bank\, desktop computer speakers\, and a wireless keyboard and mouse combo.    Don't miss out on the opportunity to win these high-tech goodies!    Date: Wednesday\, March 27 Time: 12:30-1:30 pm Where: 4th floor\, room 4052 Academic Building-CAC  15 Seminary Place  New Brunswick\, NJ 08901   If you have questions\, please contact Diana Sánchez at ds1731@scarletmail.rutgers.edu   Thank you. Diana Sánchez Kaylee Fernandez Co-Presidents        
+DTEND:20240327T173000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=GSA Spanish & Portuguese (Graduate Organization):mailto:GSA Spanish & Portuguese (Graduate Organization)
+DTSTART:20240327T163000Z
+SUMMARY:Lunch and Learn Event: Developing inclusive communities 
+UID:51e12447-ee22-4cf8-a63e-7003dac0517d@51e1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10038684
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass
+DESCRIPTION:🎬 Lights\, Camera\, Action! 🍿  Grab a slice of pizza\, get cozy\, and prepare for an evening filled with Sapphic celebration of the horniest and bloodiest queer movie around... Bottoms! Starring Rachel Sennott and Ayo Edebiri you can RSVP for this event through our Linktree in our bio. 📅 Date: Monday March 25th  🕒 Time: 9:30 🏠 Venue: Shindell Choral Hall Hosted by Rutgers Rainbow Symphony Co-Sponsored by
+DTEND:20240326T033000Z
+LOCATION:Nicholas Music Center\, 85\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
+DTSTART:20240326T013000Z
+SUMMARY:Rainbow Symphony Movie Night
+UID:a6f0bf4b-09c4-4a65-857c-1908c60066d4@a6f0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10033774
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Busch,Educational Conference/Seminar/Workshop/Panel
+DESCRIPTION:🍵 BOBA WILL BE SERVED!!! 🪴 Join us to learn more about building and hosting your very own React application!
+DTEND:20240327T230000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hack4Impact Rutgers:mailto:Hack4Impact Rutgers
+DTSTART:20240327T220000Z
+SUMMARY:Frontend Workshop: React.JS
+UID:fb820fcb-7357-41fd-8309-26efc1f3ee27@fb82.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10046502
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Banquet/Food or Culinary
+DESCRIPTION:📅 Date and Time: [March 29th and from 6-10 PM] 📍 Location: [College Avenue Student Center MPR/Lounge] - Rutgers Student Center\, 126 College Ave\, New Brunswick\, NJ 08901 Innovative Student Founders Meet Astute Investors Prepare to be captivated as our brilliant student founders pitch their well-developed ideas and ventures. Watch closely as they engage with a panel of seasoned investors\, ready to judge and potentially invest in these groundbreaking projects. This could be where the next big idea gets its wings! Fine Dining Complementing the evening's excitement\, enjoy an exquisite fine dining buffet. Delight in a variety of gourmet selections that promise to satisfy your palate. A Prestigious Environment The Shark Tank Finale is not just an event\; it's an experience. Set in a prestigious environment\, it offers the perfect backdrop for these high-caliber presentations. It's an opportunity to see firsthand the fusion of academic excellence and entrepreneurial spirit that Rutgers proudly nurtures. Networking Opportunities  This event is also a fantastic opportunity to network. Rub shoulders with fellow students\, successful entrepreneurs\, and investors. Bring your business cards\, polish your elevator pitch\, and get ready to make connections that could shape your future! Reserve Your Spot! Don’t miss out on this unique experience. FREE but spots are extremely limited. RSVP now to secure your attendance. https://docs.google.com/forms/d/e/1FAIpQLSfzgHm61I3mcE3788RamGsfGFPck5gt-BoZU72YqCnbERgAxA/viewform?usp=sf_link We are excited to see you there and witness the thriving entrepreneurial spirit of Rutgers together! Warm regards\, Rutgers Entrepreneurship Society and RSVP (Road to Silicon Valley Program)
+DTEND:20240330T020000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
+ORGANIZER;CN=Entrepreneurial Society (Rutgers):mailto:Entrepreneurial Society (Rutgers)
+DTSTART:20240329T220000Z
+SUMMARY:Shark Tank Finale Event
+UID:2eb3a5a9-c613-47fa-b225-901f88309af5@2eb3.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10009022
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,Busch,Banquet/Food or Culinary,Educational Lecture
+DESCRIPTION:Join us for APSEA's annual spring research night on Friday\, April 5th\, 2024 from 6 pm - 10 pm at BSC MPRA. We will be celebrating our volunteers' and leadership members' contributions and achievements throughout the year. We will have guest speakers\, awards\, and activities for all of APSEA's chapters. Dinner will be served with halal and vegetarian options available. We would greatly appreciate if all attendees adhered to a business casual dress code. Please RSVP if you plan on attending. Thank you!
+DTEND:20240406T020000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=American Preventive Screening and Education Assocation:mailto:American Preventive Screening and Education Assocation
+DTSTART:20240405T220000Z
+SUMMARY:APSEA Annual Spring Research Night 2024
+UID:b368eb96-236c-46fa-af6d-c930cb7d4c73@b368.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9966500
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass
+DESCRIPTION: If you would like to be a part of the Rainbow Winds\, it is expected for you to attend every rehearsal and concert. We understand that attendance at every rehearsal may not be possible for some\, so please indicate on this form if you have any conflicts. However\, we suffer as an ensemble if we do not have everyone present\, so please keep this in mind when signing up.      For those interested in Rainbow Winds Below you'll find links to our member folder and rehearsal schedule. There you'll find music\, part assignments\, and more so be sure to check out the resources. Attendance for our Dress Rehearsal and Concert are mandatory so please note on the form which dates you are not available. Members Folder Rehearsal Schedule Spring ‘24    Be sure to join our group chat :D  Rainbow Group chat  
+DTEND:20240412T223000Z
+LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Rainbow Symphony:mailto:Rutgers Rainbow Symphony
+DTSTART:20240412T213000Z
+SUMMARY:Rainbow Winds Rehearsal
+UID:981311dc-1da5-4057-9872-6ce0f5b83b4c@9813.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9948844
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us for a night of discussion with Alumni\, Anuj Sharma. We will be diving into our souls. Finishing the session off with mantra meditation and free food!
+DTEND:20240426T020000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Bhakti - The Higher Taste:mailto:Bhakti - The Higher Taste
+DTSTART:20240426T000000Z
+SUMMARY:Alumni Night
+UID:f404471f-8397-4c8a-876a-8681dbf5307e@f404.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9687833
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,General Organization Meeting
+DESCRIPTION:Join us for our second meeting of the semester on Friday\, March 29th at 8:00 pm at the Busch Student Center Room 117! Play games like Ludo\, carrom\, uno\, and more! We can’t wait to see you all ‼️
+DTEND:20240330T020000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Milana - Kannada Association at Rutgers - A provisionally recognized student group Sp 2024  :mailto:Milana - Kannada Association at Rutgers - A provisionally recognized student group Sp 2024  
+DTSTART:20240330T000000Z
+SUMMARY:Game Night 
+UID:8c8472da-67db-4963-a5a1-a4c964efb3c5@8c84.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10053334
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Join us for a delightful morning of warmth\, conversation\, and scrumptious delights at our Coffee and Breakfast event at the Graduate Student Lounge.Whether you're here to kickstart your day or savour a liesurely morning\, GSA would be delighted to host you !
+DTEND:20240403T150000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
+ORGANIZER;CN=Graduate Student Association (GSA):mailto:Graduate Student Association (GSA)
+DTSTART:20240403T130000Z
+SUMMARY:GSA Coffee and Breakfast Mixer
+UID:a5ed5ac7-2ac2-4a0b-a42b-2c6a8967464b@a5ed.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9842340
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,Community Service Event on Campus
+DESCRIPTION:Hello fellow members\, The Student Veterans Organization (SVO) invites you to come out and help clean up our beautiful campus! We will meet up at the Vets House and work our way around the College Avenue area cleaning up the sidewalks. Gloves\, trash bags\, and trash grabbers will be provided upon arrival. Morning refreshments will be provided as well as community service hours for those in need of them. RSVP so we know you're coming! :)
+DTEND:20240421T160000Z
+LOCATION:Office of Veteran and Military Programs and Services 
+ORGANIZER;CN=Student Veterans Organization (SVO):mailto:Student Veterans Organization (SVO)
+DTSTART:20240421T140000Z
+SUMMARY:Community Service Clean-up
+UID:5b160ca3-bfb7-4272-906b-39e9d6f6a828@5b16.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9918154
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Religious/Religious Cultural/Spiritual Event,Graduate Student Organization Event
+DESCRIPTION:Come enjoy a graduate student Shabbat dinner at Rutgers Hillel.
+DTEND:20240406T010000Z
+LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Graduate Students of Rutgers Hillel:mailto:Graduate Students of Rutgers Hillel
+DTSTART:20240406T000000Z
+SUMMARY:Grad Student Shabbat Dinner
+UID:d71442dc-19d1-42b9-94a0-4c85e7561c9d@d714.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9676254
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:Join us as we celebrate the memories that we've made over the past year and reveal next year's Executive Board! You must have three or more points to attend this event.
+DTEND:20240421T010000Z
+LOCATION:TBD
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20240420T230000Z
+SUMMARY:TENTATIVE Riot Squad Banquet
+UID:42a22479-5e69-42a7-ae12-6d16735c1853@42a2.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9999871
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Come learn with us on Thursday Nights with great food and awesome people! We run a variety of different styles of Mishmar\, such as Guest Speakers\, Student Led Mishmar\, and Chaburahfest!
+DTEND:20240405T010000Z
+LOCATION:Rutgers Hillel
+ORGANIZER;CN=Hillel (Rutgers):mailto:Hillel (Rutgers)
+DTSTART:20240405T000000Z
+SUMMARY:Mishmar with Mesorah
+UID:dbe0904d-fd74-4f66-8432-b444aeff1094@dbe0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9774436
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass,Special Interest
+DESCRIPTION:Celebrate the end of the academic year by joining Douglass staff\, the Voorhees Choir\, and fellow students for the annual Sacred Path Ceremony. One of Douglass' oldest traditions\, the Sacred Path ceremony recognizes student achievement and fosters Douglass's unique community. Join your fellow Douglass classmates\, alumnae\, friends\, and family as each class is honored with a symbol representing the different class years. After you receive your charm\, head to the ceremonial fires on the sacred path to make a wish!  Students should show their pride by wearing their class year colors (first years wear white\, sophomores wear pink\, juniors wear red\, and seniors wear black). Every student will receive a charm\, a token representing her class. All Douglass students\, family\, faculty\, and alumnae are welcome! Refreshments will be provided at Ludwig immediately following the ceremony.  *Students in Knowledge & Power will receive 2 points towards their Douglass event requirements* 
+DTEND:20240408T010000Z
+LOCATION:Voorhees Chapel\, 5\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Traditional Events at Douglass Residential College - DRC:mailto:Traditional Events at Douglass Residential College - DRC
+DTSTART:20240407T230000Z
+SUMMARY:Sacred Path 2024
+UID:e25dc82e-3ee3-4472-8eab-c8cf81b239c3@e25d.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9161676
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston
+DESCRIPTION:Join us for some fun and games.  Feel free to bring your favorite game to share with others or play one of the many games that we will have on hand. 
+DTEND:20240329T210000Z
+LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20240329T200000Z
+SUMMARY:Friendship Fridays: Game Night
+UID:48416753-1c91-4476-afb4-e5f4ac2d7c7f@4841.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9653034
 END:VEVENT
 END:VCALENDAR
