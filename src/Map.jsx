@@ -6,7 +6,7 @@ export default function Map() {
       <NavigationBar />
       <iframe
         className="size-full"
-        src="https://ibrahimmudassar.github.io/Rutgers-Foodies/events_map.html"
+        src="/events_map.html"
       ></iframe>
     </div>
   );
