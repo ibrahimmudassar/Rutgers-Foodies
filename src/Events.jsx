@@ -14,7 +14,6 @@ export default function Events() {
       .then((json) => setData(json.data))
       .catch((error) => console.error(error));
   }, []);
-  // console.log(data?.slice(0, 10)["9"]);
 
   return (
     <>
@@ -26,7 +25,7 @@ export default function Events() {
           </div>
         ) : (
           <div className="p-2 flex flex-row flex-wrap items-center justify-center gap-5">
-            {Array.from({ length: 3 }, (_, i) => (
+            {Array.from({ length: 6 }, (_, i) => (
               <Card key={i} className="w-[400px] space-y-5 p-4" radius="lg">
                 <Skeleton className="rounded-lg">
                   <div className="h-48 rounded-lg bg-default-300"></div>
