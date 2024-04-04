@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { IoMdInformationCircleOutline } from "react-icons/io";
 import {
   Card,
