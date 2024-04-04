@@ -37,7 +37,7 @@ export default function HomePage() {
           color="danger"
           variant="ghost"
           size="lg"
-          href="/calendar"
+          href="/Rutgers-Foodies/calendar"
           as={Link}
         >
           Calendar
@@ -46,12 +46,18 @@ export default function HomePage() {
           color="danger"
           variant="shadow"
           size="lg"
-          href="/events"
+          href="/Rutgers-Foodies/events"
           as={Link}
         >
           Events
         </Button>
-        <Button color="danger" variant="ghost" size="lg" href="/map" as={Link}>
+        <Button
+          color="danger"
+          variant="ghost"
+          size="lg"
+          href="/Rutgers-Foodies/map"
+          as={Link}
+        >
           Map
         </Button>
       </div>

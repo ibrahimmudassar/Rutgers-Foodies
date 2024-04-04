@@ -14,7 +14,7 @@ export default function Events() {
       .then((json) => setData(json.data))
       .catch((error) => console.error(error));
   }, []);
-  console.log(data?.slice(0, 10)["9"]);
+  // console.log(data?.slice(0, 10)["9"]);
 
   return (
     <>

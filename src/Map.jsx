@@ -4,10 +4,10 @@ export default function Map() {
   return (
     <div className="h-svh overflow-hidden">
       <NavigationBar />
-      {/* <iframe
+      <iframe
         className="size-full"
-        src="/events_map.html"
-      ></iframe> */}
+        src="/Rutgers-Foodies/events_map.html"
+      ></iframe>
     </div>
   );
 }

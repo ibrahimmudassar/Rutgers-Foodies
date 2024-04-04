@@ -6,18 +6,17 @@ import Map from "./Map";
 import HomePage from "./HomePage";
 import About from "./About";
 
-
 function App() {
   const navigate = useNavigate();
 
   return (
     <NextUIProvider navigate={navigate}>
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/calendar" element={<Calendar />} />
-        <Route path="/map" element={<Map />} />
-        <Route path="/events" element={<Events />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/Rutgers-Foodies/" element={<HomePage />} />
+        <Route path="/Rutgers-Foodies/calendar" element={<Calendar />} />
+        <Route path="/Rutgers-Foodies/map" element={<Map />} />
+        <Route path="/Rutgers-Foodies/events" element={<Events />} />
+        <Route path="/Rutgers-Foodies/about" element={<About />} />
       </Routes>
     </NextUIProvider>
   );

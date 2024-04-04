@@ -18,11 +18,11 @@ export default function NavigationBar() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
   const menuItems = [
-    { name: "Home", link: "/" },
-    { name: "Calendar", link: "/calendar" },
-    { name: "Events", link: "/events" },
-    { name: "Map", link: "/map" },
-    { name: "About", link: "/about" },
+    { name: "Home", link: "/Rutgers-Foodies/" },
+    { name: "Calendar", link: "/Rutgers-Foodies/calendar" },
+    { name: "Events", link: "/Rutgers-Foodies/events" },
+    { name: "Map", link: "/Rutgers-Foodies/map" },
+    { name: "About", link: "/Rutgers-Foodies/about" },
   ];
 
   const filteredMenuItems = menuItems.filter((dict) =>
@@ -56,7 +56,7 @@ export default function NavigationBar() {
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
         />
         <NavbarBrand>
-          <Link href="/" color="foreground">
+          <Link href="/Rutgers-Foodies/" color="foreground">
             <p className="font-bold text-xl text-inherit">
               <span className="text-[#cc0033]">RU</span>Foodies
             </p>
