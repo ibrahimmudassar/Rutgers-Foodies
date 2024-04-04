@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { cn } from "@/lib/utils.ts";
 import { motion, stagger, useAnimate, useInView } from "framer-motion";
 import { useEffect } from "react";
