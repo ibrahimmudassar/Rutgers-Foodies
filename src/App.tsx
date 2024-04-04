@@ -5,8 +5,6 @@ import Events from "./Events";
 import Map from "./Map";
 import HomePage from "./HomePage";
 import About from "./About";
-import DateP from "./DateP.tsx";
-
 
 function App() {
   const navigate = useNavigate();
@@ -19,7 +17,6 @@ function App() {
         <Route path="/map" element={<Map />} />
         <Route path="/events" element={<Events />} />
         <Route path="/about" element={<About />} />
-        <Route path="/date" element={<DateP />} />
       </Routes>
     </NextUIProvider>
   );
