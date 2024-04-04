@@ -7,6 +7,7 @@ import {
   NavbarContent,
   NavbarItem,
   Link,
+  Button,
 } from "@nextui-org/react";
 import React from "react";
 import { useLocation } from "react-router-dom";
@@ -30,7 +31,6 @@ export default function NavigationBar() {
 
   return (
     <Navbar
-      shouldHideOnScroll
       position={location === "/map" ? "static" : "sticky"}
       onMenuOpenChange={setIsMenuOpen}
       maxWidth="full"
@@ -65,16 +65,16 @@ export default function NavigationBar() {
       </NavbarContent>
 
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
-        {filteredMenuItems.map((item) => (
+        {filteredMenuItems.map((item, index) => (
           <>
             {location === item.link ? (
-              <NavbarItem isActive key={item.name} className="font-bold">
+              <NavbarItem isActive key={index} className="font-bold">
                 <Link href={item.link} color="danger" className="text-lg">
                   {item.name}
                 </Link>
               </NavbarItem>
             ) : (
-              <NavbarItem key={item.name}>
+              <NavbarItem key={index}>
                 <Link href={item.link} color="foreground" className="text-lg">
                   {item.name}
                 </Link>
@@ -85,8 +85,8 @@ export default function NavigationBar() {
       </NavbarContent>
       <NavbarContent justify="end"></NavbarContent>
       <NavbarMenu>
-        {menuItems.map((item) => (
-          <NavbarMenuItem key={item.name}>
+        {menuItems.map((item, index) => (
+          <NavbarMenuItem key={index}>
             {location === item.link ? (
               <Link
                 className="w-full font-bold"

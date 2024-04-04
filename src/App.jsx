@@ -6,6 +6,7 @@ import Map from "./Map";
 import HomePage from "./HomePage";
 import About from "./About";
 
+
 function App() {
   const navigate = useNavigate();
 

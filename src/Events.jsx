@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import CardArray from "./CardArray.tsx";
+import CardArray from "./CardArray";
 import NavigationBar from "./NavigationBar";
 import { Card, Skeleton } from "@nextui-org/react";
 
@@ -21,12 +21,12 @@ export default function Events() {
       <NavigationBar />
       <>
         {data ? (
-          <div className="size-full">
+          <div className="h-lvh">
             <CardArray data={data} className="p-10" />
           </div>
         ) : (
           <div className="p-2 flex flex-row flex-wrap items-center justify-center gap-5">
-            {Array.from({ length: 6 }, (_, i) => (
+            {Array.from({ length: 3 }, (_, i) => (
               <Card key={i} className="w-[400px] space-y-5 p-4" radius="lg">
                 <Skeleton className="rounded-lg">
                   <div className="h-48 rounded-lg bg-default-300"></div>

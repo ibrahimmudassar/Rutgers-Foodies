@@ -7,7 +7,6 @@ import {
   Card,
   CardBody,
   Image,
-  Snippet,
 } from "@nextui-org/react";
 import { FaGithub, FaLinkedin } from "react-icons/fa6";
 
@@ -105,34 +104,6 @@ export default function About() {
                   Yash Shah&apos;s
                 </Button>
               </div>
-            </AccordionItem>
-            <AccordionItem title="Wanna make your own?">
-              <div className="flex flex-col gap-3">
-                <Snippet
-                  color="danger"
-                  variant="shadow"
-                  hideSymbol
-                  codeString="https://rutgers.campuslabs.com/engage/api/discovery/event/search"
-                >
-                  Link to Rutgers CampusLabs
-                </Snippet>
-                <Snippet
-                  color="danger"
-                  variant="shadow"
-                  hideSymbol
-                  codeString="https://raw.githubusercontent.com/ibrahimmudassar/Rutgers-Foodies/main/events.json"
-                >
-                  Link to my API
-                </Snippet>
-              </div>
-            </AccordionItem>
-            <AccordionItem title="Wanna contribute to mine?">
-              The events are updated once every 12 hours. Old events still
-              appear as they have not been updated.
-            </AccordionItem>
-            <AccordionItem title="Wanna contact me?">
-              The events are updated once every 12 hours. Old events still
-              appear as they have not been updated.
             </AccordionItem>
           </Accordion>
         </div>

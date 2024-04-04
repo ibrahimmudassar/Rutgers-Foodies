@@ -1,8 +1,11 @@
-// @ts-nocheck
-
-import { cn } from "@/lib/utils";
+import { type ClassValue, clsx } from "clsx";
+import { twMerge } from "tailwind-merge";
 import { motion, stagger, useAnimate, useInView } from "framer-motion";
 import { useEffect } from "react";
+
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
+}
 
 export const TypewriterEffect = ({
   words,
@@ -156,7 +159,7 @@ export const TypewriterEffectSmooth = ({
         }}
       >
         <div
-          className="text-lg sm:text-md md:text-xl lg:text:3xl xl:text-7xl font-bold"
+          className="text-lg sm:text-base md:text-xl lg:text:3xl xl:text-7xl font-bold"
           style={{
             whiteSpace: "nowrap",
           }}
