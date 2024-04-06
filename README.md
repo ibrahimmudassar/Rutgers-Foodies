@@ -35,6 +35,4 @@ An example of response from my API:
 
 ## Contribution
 
-I'd like to thank my dear friend [Yash Shah](https://github.com/yashshah41) for his work on this project. Without his help and contribution this project would not be what it is today.
-
 If you'd like to also contribute to the project with either code or an idea reach out by starting an issue or messaging me!
