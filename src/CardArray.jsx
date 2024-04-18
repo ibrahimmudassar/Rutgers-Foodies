@@ -17,13 +17,21 @@ import {
   PopoverContent,
   ButtonGroup,
   Link,
+  DateRangePicker,
 } from "@nextui-org/react";
 import moment from "moment";
 import "moment-timezone";
 import * as React from "react";
 import { useEffect } from "react";
+import { today, parseDate } from "@internationalized/date";
+
 export default function CardArray(props) {
   const [events, setEvents] = React.useState(props.data);
+
+  const [dateRange, setDateRange] = React.useState({
+    start: today("America/New_York"),
+    end: null,
+  });
 
   // .replace(/([A-Z])/g, " $1")
   const themes = [
@@ -42,11 +50,29 @@ export default function CardArray(props) {
         )
       );
     }
-  }, [selectedThemes]);
+
+    if (
+      dateRange !== null &&
+      dateRange.start !== null &&
+      dateRange.end !== null
+    ) {
+      setEvents((events) =>
+        events?.filter((item) => {
+          const endsOn = new Date(item.endsOn);
+          const startsOn = new Date(item.startsOn);
+
+          return (
+            startsOn >= dateRange.start.toDate("America/New_York") &&
+            endsOn <= dateRange.end.add({ days: 1 }).toDate("America/New_York")
+          );
+        })
+      );
+    }
+  }, [selectedThemes, dateRange]);
 
   return (
-    <div className="flex flex-wrap gap-3  m-2 justify-center">
-      <Card className="w-[400px] max-h-[700px] border-none">
+    <div className="flex flex-wrap gap-3 m-2 justify-center">
+      <Card isBlurred className="w-[400px] max-h-[700px] border-none">
         <CardHeader className="flex justify-center">
           <h1 className="font-bold text-black text-2xl">Filters</h1>
         </CardHeader>
@@ -74,6 +100,32 @@ export default function CardArray(props) {
               </DropdownMenu>
             </Dropdown>
           </div>
+          <DateRangePicker
+            label="filter by date range"
+            className="px-3"
+            value={dateRange}
+            onChange={setDateRange}
+            minValue={parseDate(
+              new Date(
+                Math.min.apply(
+                  null,
+                  props.data.map((date) => new Date(date.startsOn))
+                )
+              )
+                .toISOString()
+                .slice(0, 10) // Output: "2024-04-17"
+            )}
+            maxValue={parseDate(
+              new Date(
+                Math.max.apply(
+                  null,
+                  props.data.map((date) => new Date(date.endsOn))
+                )
+              )
+                .toISOString()
+                .slice(0, 10) // Output: "2024-04-17"
+            ).subtract({ days: 1 })}
+          />
         </CardBody>
       </Card>
 

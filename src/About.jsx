@@ -14,7 +14,7 @@ export default function About() {
   return (
     <>
       <NavigationBar />
-      <div className="flex flex-col items-center p-2 gap-4">
+      <div className="flex flex-col items-center h-svh p-2 gap-4">
         <div className="flex w-5/6 pb-3">
           <p className="font-bold text-3xl">About Me</p>
         </div>

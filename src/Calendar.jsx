@@ -6,7 +6,7 @@ export default function Calendar() {
   return (
     <div>
       <NavigationBar />
-      <div className="flex items-center flex-col p-2">
+      <div className="flex items-center h-screen flex-col p-2">
         <h1 className="text-3xl font-bold">Calendar Visualization </h1>
         <h1 className="text-xl py-3">
           🚧 This section is still under construction! 🚧

@@ -16,16 +16,16 @@ export default function Events() {
   }, []);
 
   return (
-    <>
+    <div>
       <NavigationBar />
       <>
         {data ? (
-          <div className="h-lvh">
+          <div className="size-full">
             <CardArray data={data} className="p-10" />
           </div>
         ) : (
           <div className="p-2 flex flex-row flex-wrap items-center justify-center gap-5">
-            {Array.from({ length: 6 }, (_, i) => (
+            {Array.from({ length: 9 }, (_, i) => (
               <Card key={i} className="w-[400px] space-y-5 p-4" radius="lg">
                 <Skeleton className="rounded-lg">
                   <div className="h-48 rounded-lg bg-default-300"></div>
@@ -46,6 +46,6 @@ export default function Events() {
           </div>
         )}
       </>
-    </>
+    </div>
   );
 }

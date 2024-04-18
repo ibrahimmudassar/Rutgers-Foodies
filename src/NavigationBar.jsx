@@ -7,7 +7,6 @@ import {
   NavbarContent,
   NavbarItem,
   Link,
-  Button,
 } from "@nextui-org/react";
 import React from "react";
 import { useLocation } from "react-router-dom";
@@ -31,6 +30,7 @@ export default function NavigationBar() {
 
   return (
     <Navbar
+      shouldHideOnScroll
       position={location === "/map" ? "static" : "sticky"}
       onMenuOpenChange={setIsMenuOpen}
       maxWidth="full"
