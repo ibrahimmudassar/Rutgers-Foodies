@@ -70,6 +70,9 @@ export default function CardArray(props) {
     }
   }, [selectedThemes, dateRange]);
 
+  
+  // console.log(new Date(events['0'].startsOn))
+
   return (
     <div className="flex flex-wrap gap-3 m-2 justify-center">
       <Card isBlurred className="w-[400px] max-h-[700px] border-none">
