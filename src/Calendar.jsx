@@ -8,8 +8,8 @@ import moment from "moment";
 export default function Calendar() {
   const [data, setData] = useState(0);
   const [preview, setPreview] = useState({
-    date: new Date().toISOString().slice(0, 10),
-    count: 0,
+    date: "Hover over the calendar!",
+    count: "∞",
   });
   // Fetch the json data from a url when the component mounts
   useEffect(() => {
