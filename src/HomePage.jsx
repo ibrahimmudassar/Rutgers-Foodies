@@ -23,7 +23,7 @@ export default function HomePage() {
   return (
     <div className="flex flex-col items-center justify-center h-dvh  ">
       <Button
-        href="/Rutgers-Foodies/about"
+        href="/about"
         as={Link}
         variant="light"
         color="danger"
@@ -37,7 +37,7 @@ export default function HomePage() {
           color="danger"
           variant="ghost"
           size="lg"
-          href="/Rutgers-Foodies/calendar"
+          href="/calendar"
           as={Link}
         >
           Calendar
@@ -46,7 +46,7 @@ export default function HomePage() {
           color="danger"
           variant="shadow"
           size="lg"
-          href="/Rutgers-Foodies/events"
+          href="/events"
           as={Link}
         >
           Events
@@ -55,7 +55,7 @@ export default function HomePage() {
           color="danger"
           variant="ghost"
           size="lg"
-          href="/Rutgers-Foodies/map"
+          href="/map"
           as={Link}
         >
           Map
