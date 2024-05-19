@@ -2,48 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Arts
-DESCRIPTION:Scarlet Game Jam is a biannual game jam hosted by the Creation of Games Society at Rutgers University. Similar to any other game jam\, participants will be given one week(ish) to design and code a game to show off at the end of the jam. At the beginning of each Scarlet Game Jam\, we will also be unveiling the (optional) theme to inspire or challenge our participants\, which changes with every Scarlet Game Jam\, so each year is a new experience! Programmers\, musicians\, and artists are welcome\, but no experience is necessary! Check out our website for more information: (TBD). This time around\, the game jam is 2 weeks long to give everyone extra time to work on their games! Feel free to take the whole 2 weeks\, one week\, or even a single day to work on your game. Join the COGS Discord here! Any announcements about the jam will be blasted here: https://cogs.club/discord Make sure to sign up on our website to ensure free food for the in-person closing ceremony on April 14th. Schedule: TBD
-DTEND:20241123T020000Z
-LOCATION:TBD
-ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
-DTSTART:20241110T210000Z
-SUMMARY:Scarlet Game Jam Fall 2024
-UID:82fc09cb-2066-43d2-a836-3338902b8d14@82fc.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10118589
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Livingston
-DESCRIPTION:👻 Host an electrifying Halloween networking event at the College Ave Student Center\, blending spooky festivities with opportunities for students to connect 🎃 🎨 Create an inclusive environment where attendees can express their creativity and career interests through costumes and enjoy seasonal treats 🍬 🤝 Foster connections and friendships among current and new members of Her Campus Rutgers\, emphasizing the networking aspect of the event 💼 🎉 Encourage students to engage in fun activities and celebrate Halloween in a safe and welcoming space conducive to networking 🕸️ 💖 Emphasize the significance of camaraderie and support networks during the busy fall semester\, offering a memorable opportunity for students to unwind and create meaningful connections with peers 🍁
-DTEND:20241029T010000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
-DTSTART:20241029T000000Z
-SUMMARY:Ghoul's Night Out 
-UID:6d08799c-8880-4b60-8ecf-633a24fa1f7b@6d08.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140042
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Livingston,General Organization Meeting
-DESCRIPTION:🎉 Get ready to ignite your passion and join the excitement at our very first Her Campus General Interest Meeting!  🌟 Step into a world of empowerment and connection as we kickstart an unforgettable journey together!  💬 Join the buzz of laughter and anticipation as new faces mingle with friends\, all eager to dive into the heart of Her Campus.  📝 Discover endless opportunities for growth\, inspiration\, and sisterhood as we embark on this exhilarating adventure!  Don't miss out! Mark your calendars and be part of something extraordinary at our first Her Campus General Interest Meeting! 
-DTEND:20240910T010000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
-DTSTART:20240910T000000Z
-SUMMARY:Her Campus General Interest meeting
-UID:363392e0-52aa-450c-a95b-2bae64f8a017@3633.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140030
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Banquet/Food or Culinary
-DESCRIPTION:To bring others to Christ by welcoming them during the semester to a Korean styled barbecue night.
-DTEND:20240905T010000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Korean Christian Fellowship:mailto:Korean Christian Fellowship
-DTSTART:20240905T000000Z
-SUMMARY:Welcome Barbecue Night
-UID:f22e0a85-de2a-4525-942f-6fbd8e1ce2d2@f22e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141101
+CATEGORIES:Social,Busch,Knight's Call - Engaged
+DESCRIPTION:This is the Senior Game\, so make sure to pull up and thank our seniors for all of their hard work over the past four years!
+DTEND:20241123T200000Z
+LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20241123T170000Z
+SUMMARY:Football vs. Illinois (SENIOR GAME)
+UID:a204c077-fa31-4b44-be47-72928cb15c6a@a204.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136265
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch,Knight's Call - Engaged,Welcome Week
@@ -53,63 +20,41 @@ LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County
 ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
 DTSTART:20240831T160000Z
 SUMMARY:Football vs. Howard
-UID:1e87e01f-0cbc-41fd-aa19-9d92c2d6fb6c@1e87.org
+UID:2563f673-7c75-41a8-8bc2-1b777b1ac8ec@2563.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136258
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,College Ave,Educational Lecture
-DESCRIPTION:This will be the Quantitative Finance Club's first event of the semester where we will give into to the club and Quant Finance. In it\, we will also announce our brand New Road to Quant Finance Program. It will be in College Avenue Student Center\, room 411 BC
-DTEND:20240911T023000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Quantitative Finance Club:mailto:Quantitative Finance Club
-DTSTART:20240911T013000Z
-SUMMARY:Intro to QFC: First Meeting
-UID:d67cd578-1e4d-4274-8da5-072cc6b082a0@d67c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140721
+CATEGORIES:Social,Busch,Knight's Call - Engaged
+DESCRIPTION:THIS IS THE FIRST FOOTBALL GAME VERSUS A NEW MEMBER TO THE BIG10. Let's show them our #JeRseyPride!
+DTEND:20240928T190000Z
+LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20240928T160000Z
+SUMMARY:Football vs. Washington
+UID:6d08e000-9596-484b-a7ae-49a3aaff3d6f@6d08.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136260
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cultural,College Ave,Cultural Performance,Seasonal/Holiday
+DESCRIPTION:Join us for music\, food\, and a great night!
+DTEND:20240928T030000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
+ORGANIZER;CN=Desi Intercultural Youth Association:mailto:Desi Intercultural Youth Association
+DTSTART:20240927T233000Z
+SUMMARY:Diwali Dhamaka 2024
+UID:7c46bc6b-681d-4571-822f-89eb365a9f20@7c46.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141344
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
 DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20240926T020000Z
+DTEND:20240912T020000Z
 LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20240926T003000Z
+DTSTART:20240912T003000Z
 SUMMARY:General Meeting
-UID:8726e46d-7bd9-4cd6-8292-13bc1f679fcc@8726.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120266
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Welcome back to New Brunswick! Join us for our first meeting of the year - introductions\, snacks\, and a fun activity! Check out our Linktree for all of our club socials\, join our mailing list\, and join our GroupMe.
-DTEND:20240910T020000Z
-LOCATION:College Ave\, TBD
-ORGANIZER;CN=Future Teachers Association:mailto:Future Teachers Association
-DTSTART:20240910T010000Z
-SUMMARY:Welcome Back!
-UID:15a61fb0-6381-427d-a52c-f71b68d7b791@15a6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10133417
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241024T020000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241024T003000Z
-SUMMARY:General Meeting
-UID:0bee5673-5dab-4d56-b4c0-7e42fe7fcb30@0bee.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120268
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Entertainment
-DESCRIPTION:Join us for a movie night and slime-making!
-DTEND:20241101T003000Z
-LOCATION:Center for Social Justice Education and LGBT Communities\, 17\, Bartlett Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=oSTEM at Rutgers:mailto:oSTEM at Rutgers
-DTSTART:20241031T233000Z
-SUMMARY:halloween party
-UID:493193a6-108e-414b-a4b9-b483853308bc@4931.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10128536
+UID:e5946688-aded-4cc6-a7b4-019ea20dc573@e594.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120265
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:GroupBusiness,Livingston
@@ -119,52 +64,19 @@ LOCATION:Rutgers Business School\, 100\, Rockafeller Road\, Piscataway Township\
 ORGANIZER;CN=Supply Chain Association (Rutgers University):mailto:Supply Chain Association (Rutgers University)
 DTSTART:20240924T010000Z
 SUMMARY:RUSCA GIM 1
-UID:6c382bdc-0021-4d22-b81a-1954dd98aa21@6c38.org
+UID:d95e8343-4132-41e2-b8c1-4ee38d92bee6@d95e.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136044
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Come join us for our annual fall Hafla! Hafla (which means party in Arabic) represents Middle Eastern dance as an art form and educates the public about traditional and modern forms of dance. Our new members will perform their new member dance and our troupe will showcase our newest semester choreography. There will also be several alumni performances and solos/ duets from our current members. We will have jewelry vendors and food! Join our shimmy contest and if you win\, you get a prize!   
-DTEND:20241209T000000Z
-LOCATION:TBD
-ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
-DTSTART:20241208T220000Z
-SUMMARY:Rutgers Belly Dance Fall Hafla 
-UID:849296d3-3458-4cb2-89b5-176ba44cb6b2@8492.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136336
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Busch,Welcome Week
-DESCRIPTION:Come to discover what the Creation of Games Society is all about! During the meeting\, the executive board will give a presentation on the club and conduct a Q&A session afterward. Members can also hang out and play video games together after the presentation. The meeting will be held at CoRE 301 from 7-9 pm. Join our Discord page at https://cogs.club/discord for more information! Free pizza will be provided to attendees!
-DTEND:20240904T010000Z
-LOCATION:Rutgers-New Brunswick\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
-DTSTART:20240903T230000Z
-SUMMARY:General Interest Meeting
-UID:2d054207-6642-4e6a-8551-1b68c44a8343@2d05.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10072754
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:GroupBusiness,Career Fair/Panel
-DESCRIPTION:The Rutgers Sports Business is hosting a panel consisting of individuals working in Sports. They will give us their insights on how they landed their jobs\, and the opportunities that are now present in Sports Business.
-DTEND:20241130T180000Z
-LOCATION:TBD
-ORGANIZER;CN=Sports Business Association (The Rutgers):mailto:Sports Business Association (The Rutgers)
-DTSTART:20241101T160000Z
-SUMMARY:Sports Business Panel - Landing a Job in Sports
-UID:4468806e-300a-4c2f-8312-7d7b8dbaa544@4468.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10133902
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
 DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241010T020000Z
+DTEND:20240926T020000Z
 LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241010T003000Z
+DTSTART:20240926T003000Z
 SUMMARY:General Meeting
-UID:45000125-0ed0-4522-8ea3-ac6b73c868ca@4500.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120267
+UID:529f7edf-031e-4596-974f-5acf627c2a76@529f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120266
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Livingston,Seasonal/Holiday
@@ -174,8 +86,41 @@ LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Towns
 ORGANIZER;CN=Korean Christian Fellowship:mailto:Korean Christian Fellowship
 DTSTART:20241212T170000Z
 SUMMARY:Finals Prep/Cram Day
-UID:b33ddeec-97b1-4f91-a783-8befd6cedab4@b33d.org
+UID:9b605f90-26a3-4421-a3a2-0a7dc9ed5591@9b60.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141086
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241107T030000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241107T013000Z
+SUMMARY:General Meeting
+UID:89782bbb-b5c8-4c20-be85-e28fe159e16c@8978.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120269
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,College Ave,Educational Lecture
+DESCRIPTION:This will be the Quantitative Finance Club's first event of the semester where we will give into to the club and Quant Finance. In it\, we will also announce our brand New Road to Quant Finance Program. It will be in College Avenue Student Center\, room 411 BC
+DTEND:20240911T023000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
+ORGANIZER;CN=Quantitative Finance Club:mailto:Quantitative Finance Club
+DTSTART:20240911T013000Z
+SUMMARY:Intro to QFC: First Meeting
+UID:6e7c64f6-24de-4c73-9686-b0dd9c9e9a2b@6e7c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140721
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts
+DESCRIPTION:Scarlet Game Jam is a biannual game jam hosted by the Creation of Games Society at Rutgers University. Similar to any other game jam\, participants will be given one week(ish) to design and code a game to show off at the end of the jam. At the beginning of each Scarlet Game Jam\, we will also be unveiling the (optional) theme to inspire or challenge our participants\, which changes with every Scarlet Game Jam\, so each year is a new experience! Programmers\, musicians\, and artists are welcome\, but no experience is necessary! Check out our website for more information: (TBD). This time around\, the game jam is 2 weeks long to give everyone extra time to work on their games! Feel free to take the whole 2 weeks\, one week\, or even a single day to work on your game. Join the COGS Discord here! Any announcements about the jam will be blasted here: https://cogs.club/discord Make sure to sign up on our website to ensure free food for the in-person closing ceremony on April 14th. Schedule: TBD
+DTEND:20241123T020000Z
+LOCATION:TBD
+ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
+DTSTART:20241110T210000Z
+SUMMARY:Scarlet Game Jam Fall 2024
+UID:e7cfc67a-830b-4af7-947f-bd3f70a08d18@e7cf.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10118589
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Arts,Livingston,Cultural Performance
@@ -185,41 +130,30 @@ LOCATION:Livingston Recreation Center\, 62\, Road 3\, Piscataway Township\, Midd
 ORGANIZER;CN=Chinese Dance Troupe:mailto:Chinese Dance Troupe
 DTSTART:20240906T210000Z
 SUMMARY:RCDT General Interest Meeting
-UID:6608daed-9f6b-41ef-aa26-72402352379f@6608.org
+UID:3d2091d9-8955-4d2b-95bf-d3c7e56d218a@3d20.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10132513
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Trip Off-campus
-DESCRIPTION:Rutgers Athletics is planning to send the Riot Squad to Maryland! *If Athletics DOES NOT secure transportation six weeks before the trip\, this will become a SABO trip that will follow SABO's rules.
-DTEND:20241116T200000Z
-LOCATION:University of Maryland\, College Park\, Rhode Island Avenue\, Oak Springs\, Branchville\, College Park\, Prince George's County\, Maryland\, 20742\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20241116T170000Z
-SUMMARY:Football at Maryland
-UID:271b1155-916d-424b-99f2-507021f63723@271b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136264
+CATEGORIES:Social
+DESCRIPTION:Welcome back to New Brunswick! Join us for our first meeting of the year - introductions\, snacks\, and a fun activity! Check out our Linktree for all of our club socials\, join our mailing list\, and join our GroupMe.
+DTEND:20240910T020000Z
+LOCATION:College Ave\, TBD
+ORGANIZER;CN=Future Teachers Association:mailto:Future Teachers Association
+DTSTART:20240910T010000Z
+SUMMARY:Welcome Back!
+UID:c5436485-177d-4eda-96e8-7036b1c50c66@c543.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10133417
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch,Knight's Call - Engaged
-DESCRIPTION:This is the Senior Game\, so make sure to pull up and thank our seniors for all of their hard work over the past four years!
-DTEND:20241123T200000Z
+DESCRIPTION:The Bruins come to town!
+DTEND:20241019T190000Z
 LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
 ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20241123T170000Z
-SUMMARY:Football vs. Illinois (SENIOR GAME)
-UID:dd40cc0b-c42a-419f-a929-b20bd907b895@dd40.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136265
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cultural,College Ave,Cultural Performance,Seasonal/Holiday
-DESCRIPTION:Join us for music\, food\, and a great night!
-DTEND:20240928T030000Z
-LOCATION:Rutgers College Avenue Campus\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Desi Intercultural Youth Association:mailto:Desi Intercultural Youth Association
-DTSTART:20240927T233000Z
-SUMMARY:Diwali Dhamaka 2024
-UID:60c91c04-6402-4051-bc3d-e5df67e0ae6a@60c9.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141344
+DTSTART:20241019T160000Z
+SUMMARY:Football vs. UCLA
+UID:f7b7520c-e10c-47a9-8c98-0e3501e3abe9@f7b7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136262
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch,Knight's Call - Engaged
@@ -229,7 +163,7 @@ LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County
 ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
 DTSTART:20241109T170000Z
 SUMMARY:Football vs. MINNESOTA
-UID:7b6e0e7e-ee16-4668-b25a-fce4559a6531@7b6e.org
+UID:52a2e279-322b-4943-9286-97de6b872e24@52a2.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136263
 END:VEVENT
 BEGIN:VEVENT
@@ -240,96 +174,8 @@ LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County
 ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
 DTSTART:20241012T160000Z
 SUMMARY:Football vs. Wisconsin
-UID:8a0476ff-bd01-4967-85e7-6a302f1ca6b7@8a04.org
+UID:455c26de-2cd1-4766-af9b-52c5fe7beb0f@455c.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136261
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cultural,Livingston,Banquet/Food or Culinary,Concert/Musical Performance ,Cultural Performance,DJ Event,Performance,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Celebrate the joyous festival of Diwali with the Hindu Student Council at our annual Gala! Join us for an evening filled with cultural richness and festivity. Begin the event with a spiritual uplift through a traditional Puja\, invoking blessings and prosperity. Experience a mesmerizing array of performances that showcase our heritage\, followed by lively beats from our DJ to dance the night away. Savor a delicious spread of Indian cuisine that promises to delight your taste buds. Don't miss this night of lights\, laughter\, and community. All are welcome to partake in the festivities and light up the spirit of Diwali together!
-DTEND:20241026T033000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241025T230000Z
-SUMMARY:Diwali Gala
-UID:ceda2859-2c40-4633-ad30-714bd42e12a3@ceda.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120285
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241107T030000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241107T013000Z
-SUMMARY:General Meeting
-UID:2ebb75c6-ba1c-4307-a36b-360dbaf088e6@2ebb.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120269
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:We hope you’re having a great start to your semester! We are Anakbayan Rutgers\, an on-campus chapter of a mass organization of youth and students fighting to address the struggles of Filipinos – in the Philippines and abroad. We aim to inform others about political issues happening in the Philippines\, and engage with members of the local Filipino Community. But most importantly we strive to educate\, organize\, and mobilize the community\, starting right here at Rutgers\, to fight towards achieving genuine democracy and freedom. Join us after the Involvement Fair (date tbd)\, to not only be given a chance to learn more about Anakbayan but also an opportunity for us to become more engaged in the Rutgers community. We hope that you will join us for all the food and fun activities we will be having for this open house\, and we look forward to meeting you! 
-DTEND:20240906T170000Z
-LOCATION:Scott Hall\, 43\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
-ORGANIZER;CN=ANAKBAYAN Rutgers:mailto:ANAKBAYAN Rutgers
-DTSTART:20240906T160000Z
-SUMMARY:Anakbayan Open House Fall 2024
-UID:b4558309-d521-4a9a-aad7-4cc37d377738@b455.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10144177
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Knight's Call - Engaged
-DESCRIPTION:THIS IS THE FIRST FOOTBALL GAME VERSUS A NEW MEMBER TO THE BIG10. Let's show them our #JeRseyPride!
-DTEND:20240928T190000Z
-LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20240928T160000Z
-SUMMARY:Football vs. Washington
-UID:321cb5d6-f0fc-49c7-8308-83a00171f3fc@321c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136260
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241205T030000Z
-LOCATION:LSC Coffeehouse
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241205T013000Z
-SUMMARY:General Meeting
-UID:5633c22d-fec2-42f0-9f1e-60352bf70e24@5633.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120271
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Knight's Call - Engaged
-DESCRIPTION:The Bruins come to town!
-DTEND:20241019T190000Z
-LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20241019T160000Z
-SUMMARY:Football vs. UCLA
-UID:c1c46006-97cc-434a-ac51-45896469e842@c1c4.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136262
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Knight's Call - Engaged
-DESCRIPTION:Football vs. Akron. Out-of-conference game.
-DTEND:20240907T190000Z
-LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20240907T160000Z
-SUMMARY:Football vs. Akron
-UID:f047923c-6379-4440-b2cb-55bc68e3b1fb@f047.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136259
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20240912T020000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20240912T003000Z
-SUMMARY:General Meeting
-UID:37fc635b-1900-483a-925e-c9a666e39c44@37fc.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120265
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social
@@ -339,30 +185,30 @@ LOCATION:TBD
 ORGANIZER;CN=Rutgers Destiny:mailto:Rutgers Destiny
 DTSTART:20240914T000000Z
 SUMMARY:General Interest Meeting
-UID:674e6100-476d-416e-b3b2-dc2cb61e9191@674e.org
+UID:4b7de751-7972-4969-b182-767b491c8bb4@4b7d.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141396
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Entertainment,Special Interest
-DESCRIPTION:Your museum. Your language. Último Domingo is a new series celebrating Latinx culture and invites bilingual communities to come together through art. Free.   Tu museo. Tu idioma. Último Domingo es una serie nueva que celebra la cultura latina e invita a las comunidades bilingües a unirse a través del arte. Gratis.
-DTEND:20240519T180000Z
-LOCATION:Zimmerli Art Museum\, 71\, Hamilton Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=J Voorhees Zimmerli Art Museum:mailto:J Voorhees Zimmerli Art Museum
-DTSTART:20240519T170000Z
-SUMMARY:Último Domingo (Last Sunday)
-UID:02870325-94fe-4131-aaeb-ed2120c62fa0@0287.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9941216
+CATEGORIES:GroupBusiness,Career Fair/Panel
+DESCRIPTION:The Rutgers Sports Business is hosting a panel consisting of individuals working in Sports. They will give us their insights on how they landed their jobs\, and the opportunities that are now present in Sports Business.
+DTEND:20241130T180000Z
+LOCATION:TBD
+ORGANIZER;CN=Sports Business Association (The Rutgers):mailto:Sports Business Association (The Rutgers)
+DTSTART:20241101T160000Z
+SUMMARY:Sports Business Panel - Landing a Job in Sports
+UID:a95f78b4-bcdd-4d5a-8785-03a4fefb3193@a95f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10133902
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241121T030000Z
-LOCATION:LSC Coffeehouse
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241121T013000Z
-SUMMARY:General Meeting
-UID:6c80dde0-2cdd-425d-8fd1-8e44f53af9ea@6c80.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120270
+CATEGORIES:Arts,Busch,Welcome Week
+DESCRIPTION:Come to discover what the Creation of Games Society is all about! During the meeting\, the executive board will give a presentation on the club and conduct a Q&A session afterward. Members can also hang out and play video games together after the presentation. The meeting will be held at CoRE 301 from 7-9 pm. Join our Discord page at https://cogs.club/discord for more information! Free pizza will be provided to attendees!
+DTEND:20240904T010000Z
+LOCATION:Rutgers-New Brunswick\, Richardson Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
+DTSTART:20240903T230000Z
+SUMMARY:General Interest Meeting
+UID:85b183b4-60a7-4218-9d4d-30eacae327f6@85b1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10072754
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch
@@ -372,7 +218,161 @@ LOCATION:8 On The Break\, North Avenue\, Dunellen\, Middlesex County\, New Jerse
 ORGANIZER;CN=Rhythm Games Club:mailto:Rhythm Games Club
 DTSTART:20240928T000000Z
 SUMMARY:Eight On The Break Arcade Visit
-UID:1f9b8564-9007-406f-8c50-bc9fc0be2683@1f9b.org
+UID:69de0137-d0df-4812-bbe5-b6112bb0d0b9@69de.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10070544
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Banquet/Food or Culinary
+DESCRIPTION:To bring others to Christ by welcoming them during the semester to a Korean styled barbecue night.
+DTEND:20240905T010000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Korean Christian Fellowship:mailto:Korean Christian Fellowship
+DTSTART:20240905T000000Z
+SUMMARY:Welcome Barbecue Night
+UID:d86800bf-0f5f-41cd-a0a9-29697459c4c2@d868.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141101
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Entertainment
+DESCRIPTION:Join us for a movie night and slime-making!
+DTEND:20241101T003000Z
+LOCATION:Center for Social Justice Education and LGBT Communities\, 17\, Bartlett Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=oSTEM at Rutgers:mailto:oSTEM at Rutgers
+DTSTART:20241031T233000Z
+SUMMARY:halloween party
+UID:c6012286-4a9d-4b0c-a08c-c26dae860330@c601.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10128536
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Entertainment,Special Interest
+DESCRIPTION:Your museum. Your language. Último Domingo is a new series celebrating Latinx culture and invites bilingual communities to come together through art. Free.   Tu museo. Tu idioma. Último Domingo es una serie nueva que celebra la cultura latina e invita a las comunidades bilingües a unirse a través del arte. Gratis.
+DTEND:20240519T180000Z
+LOCATION:Zimmerli Art Museum\, 71\, Hamilton Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=J Voorhees Zimmerli Art Museum:mailto:J Voorhees Zimmerli Art Museum
+DTSTART:20240519T170000Z
+SUMMARY:Último Domingo (Last Sunday)
+UID:e113ef71-f0e0-4ae2-a351-0ddcc8aaaa2b@e113.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9941216
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cultural,Livingston,Banquet/Food or Culinary,Concert/Musical Performance ,Cultural Performance,DJ Event,Performance,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Celebrate the joyous festival of Diwali with the Hindu Student Council at our annual Gala! Join us for an evening filled with cultural richness and festivity. Begin the event with a spiritual uplift through a traditional Puja\, invoking blessings and prosperity. Experience a mesmerizing array of performances that showcase our heritage\, followed by lively beats from our DJ to dance the night away. Savor a delicious spread of Indian cuisine that promises to delight your taste buds. Don't miss this night of lights\, laughter\, and community. All are welcome to partake in the festivities and light up the spirit of Diwali together!
+DTEND:20241026T033000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241025T230000Z
+SUMMARY:Diwali Gala
+UID:b5cfe601-b9c4-4b3e-82b5-493045242790@b5cf.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120285
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241010T020000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241010T003000Z
+SUMMARY:General Meeting
+UID:36a84562-595a-42c2-b557-0c63c6653783@36a8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120267
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,Trip Off-campus
+DESCRIPTION:Rutgers Athletics is planning to send the Riot Squad to Maryland! *If Athletics DOES NOT secure transportation six weeks before the trip\, this will become a SABO trip that will follow SABO's rules.
+DTEND:20241116T200000Z
+LOCATION:University of Maryland\, College Park\, Rhode Island Avenue\, Oak Springs\, Branchville\, College Park\, Prince George's County\, Maryland\, 20742\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20241116T170000Z
+SUMMARY:Football at Maryland
+UID:0eaf0573-e5d2-46cb-948d-300c8b53e1b5@0eaf.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136264
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241205T030000Z
+LOCATION:LSC Coffeehouse
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241205T013000Z
+SUMMARY:General Meeting
+UID:b854c1b2-88b1-4639-862f-288c2b850fee@b854.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120271
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241121T030000Z
+LOCATION:LSC Coffeehouse
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241121T013000Z
+SUMMARY:General Meeting
+UID:bcd302e5-2814-45cd-b8fd-d22801d46151@bcd3.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120270
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:We hope you’re having a great start to your semester! We are Anakbayan Rutgers\, an on-campus chapter of a mass organization of youth and students fighting to address the struggles of Filipinos – in the Philippines and abroad. We aim to inform others about political issues happening in the Philippines\, and engage with members of the local Filipino Community. But most importantly we strive to educate\, organize\, and mobilize the community\, starting right here at Rutgers\, to fight towards achieving genuine democracy and freedom. Join us after the Involvement Fair (date tbd)\, to not only be given a chance to learn more about Anakbayan but also an opportunity for us to become more engaged in the Rutgers community. We hope that you will join us for all the food and fun activities we will be having for this open house\, and we look forward to meeting you! 
+DTEND:20240906T170000Z
+LOCATION:Scott Hall\, 43\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
+ORGANIZER;CN=ANAKBAYAN Rutgers:mailto:ANAKBAYAN Rutgers
+DTSTART:20240906T160000Z
+SUMMARY:Anakbayan Open House Fall 2024
+UID:a5b0ed77-e53d-46da-a8ad-844294913c5f@a5b0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10144177
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Knight's Call - Engaged
+DESCRIPTION:Football vs. Akron. Out-of-conference game.
+DTEND:20240907T190000Z
+LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20240907T160000Z
+SUMMARY:Football vs. Akron
+UID:cefdd4bd-1676-4f1c-93a7-0b95e72b3ce8@cefd.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136259
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Livingston,General Organization Meeting
+DESCRIPTION:🎉 Get ready to ignite your passion and join the excitement at our very first Her Campus General Interest Meeting!  🌟 Step into a world of empowerment and connection as we kickstart an unforgettable journey together!  💬 Join the buzz of laughter and anticipation as new faces mingle with friends\, all eager to dive into the heart of Her Campus.  📝 Discover endless opportunities for growth\, inspiration\, and sisterhood as we embark on this exhilarating adventure!  Don't miss out! Mark your calendars and be part of something extraordinary at our first Her Campus General Interest Meeting! 
+DTEND:20240910T010000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
+DTSTART:20240910T000000Z
+SUMMARY:Her Campus General Interest meeting
+UID:5cf5e3f5-d94e-4bcc-81e9-f67abb5385b1@5cf5.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140030
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:Come join us for our annual fall Hafla! Hafla (which means party in Arabic) represents Middle Eastern dance as an art form and educates the public about traditional and modern forms of dance. Our new members will perform their new member dance and our troupe will showcase our newest semester choreography. There will also be several alumni performances and solos/ duets from our current members. We will have jewelry vendors and food! Join our shimmy contest and if you win\, you get a prize!   
+DTEND:20241209T000000Z
+LOCATION:TBD
+ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
+DTSTART:20241208T220000Z
+SUMMARY:Rutgers Belly Dance Fall Hafla 
+UID:12eb996d-6543-4c98-a16f-8cda80390e74@12eb.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136336
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241024T020000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241024T003000Z
+SUMMARY:General Meeting
+UID:b6b28d1c-9933-4246-b59c-d1d8f3c32951@b6b2.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120268
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Livingston
+DESCRIPTION:👻 Host an electrifying Halloween networking event at the College Ave Student Center\, blending spooky festivities with opportunities for students to connect 🎃 🎨 Create an inclusive environment where attendees can express their creativity and career interests through costumes and enjoy seasonal treats 🍬 🤝 Foster connections and friendships among current and new members of Her Campus Rutgers\, emphasizing the networking aspect of the event 💼 🎉 Encourage students to engage in fun activities and celebrate Halloween in a safe and welcoming space conducive to networking 🕸️ 💖 Emphasize the significance of camaraderie and support networks during the busy fall semester\, offering a memorable opportunity for students to unwind and create meaningful connections with peers 🍁
+DTEND:20241029T010000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
+DTSTART:20241029T000000Z
+SUMMARY:Ghoul's Night Out 
+UID:1c919246-72a7-40b1-b014-1f3e3d240d7e@1c91.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140042
 END:VEVENT
 END:VCALENDAR
