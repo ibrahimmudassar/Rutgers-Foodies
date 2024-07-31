@@ -2,169 +2,70 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Arts,Livingston,Cultural Performance
-DESCRIPTION:The Rutgers Chinese Dance Troupe is a performance group that shares traditional costumes\, customs\, stories\, and dances with the Rutgers community. We welcome all students regardless of background or prior dance experience. In fact\, many of our members started out with no dance experience at all!   Our first General Interest Meeting (GIM) will tentatively take place Friday\, September 6th\, from 5:00 PM to 7:00 PM. It is located at the Livingston Recreation Center MPR A (62 Rd 3\, Piscataway\, NJ 08854). Feel free to come by yourself or with your friends!   Please dress in comfortable clothing that you can freely move around in. You will be able to try out the different props (sword\, fan\, sleeves\, etc) and get to know each other.
-DTEND:20240906T230000Z
-LOCATION:Livingston Recreation Center\, 62\, Road 3\, Piscataway Township\, Middlesex County\, New Jersey\, 08904\, United States
-ORGANIZER;CN=Chinese Dance Troupe:mailto:Chinese Dance Troupe
-DTSTART:20240906T210000Z
-SUMMARY:RCDT General Interest Meeting
-UID:1b2a8d0b-f6f0-457c-9e1b-8de1f478e0de@1b2a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10132513
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240723T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240723T001500Z
+SUMMARY:New Student Orientation Social 12
+UID:c0dca2b0-dac6-440f-bbab-18c48a977d8b@c0dc.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164697
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Entertainment
 DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240719T020000Z
+DTEND:20240626T020000Z
 LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240719T001500Z
-SUMMARY:New Student Orientation Social 11
-UID:318dce5b-0890-46cb-a0fc-024f79300be9@318d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164698
+DTSTART:20240626T001500Z
+SUMMARY:New Student Orientation Social 2
+UID:faf178f7-56f2-42b1-bbf5-1393b0a0ceda@faf1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164685
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240808T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240808T001500Z
+SUMMARY:New Student Orientation Social 20
+UID:d44ecb38-007e-429f-a598-538d6eed7042@d44e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164712
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social
-DESCRIPTION:Come join us for our annual fall Hafla! Hafla (which means party in Arabic) represents Middle Eastern dance as an art form and educates the public about traditional and modern forms of dance. Our new members will perform their new member dance and our troupe will showcase our newest semester choreography. There will also be several alumni performances and solos/ duets from our current members. We will have jewelry vendors and food! Join our shimmy contest and if you win\, you get a prize!   
-DTEND:20241209T000000Z
-LOCATION:TBD
-ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
-DTSTART:20241208T220000Z
-SUMMARY:Rutgers Belly Dance Fall Hafla 
-UID:9bfbdb37-f61c-41b6-894b-bc663644dc65@9bfb.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136336
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:GroupBusiness,Livingston
-DESCRIPTION:Come out to RUSCA's first GIM of the fall semester! Join us to discuss what supply chain is\, how to get involved\, and play a kahoot.
-DTEND:20240924T020000Z
-LOCATION:Rutgers Livingston Campus\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Supply Chain Association (Rutgers University):mailto:Supply Chain Association (Rutgers University)
-DTSTART:20240924T010000Z
-SUMMARY:RUSCA GIM 1
-UID:a25c22ed-bbd4-41b7-a827-388ef36e1f57@a25c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136044
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241024T020000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241024T003000Z
-SUMMARY:General Meeting
-UID:b28beb36-5ca8-49b4-90e9-7b49e875a03e@b28b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120268
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Livingston,General Organization Meeting
-DESCRIPTION:🎉 Get ready to ignite your passion and join the excitement at our very first Her Campus General Interest Meeting!  🌟 Step into a world of empowerment and connection as we kickstart an unforgettable journey together!  💬 Join the buzz of laughter and anticipation as new faces mingle with friends\, all eager to dive into the heart of Her Campus.  📝 Discover endless opportunities for growth\, inspiration\, and sisterhood as we embark on this exhilarating adventure!  Don't miss out! Mark your calendars and be part of something extraordinary at our first Her Campus General Interest Meeting! 
-DTEND:20240910T010000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
-DTSTART:20240910T000000Z
-SUMMARY:Her Campus General Interest meeting
-UID:adca314a-8c31-4710-bbbb-20e5535eda67@adca.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140030
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:We hope you’re having a great start to your semester! We are Anakbayan Rutgers\, an on-campus chapter of a mass organization of youth and students fighting to address the struggles of Filipinos – in the Philippines and abroad. We aim to inform others about political issues happening in the Philippines\, and engage with members of the local Filipino Community. But most importantly we strive to educate\, organize\, and mobilize the community\, starting right here at Rutgers\, to fight towards achieving genuine democracy and freedom. Join us after the Involvement Fair (date tbd)\, to not only be given a chance to learn more about Anakbayan but also an opportunity for us to become more engaged in the Rutgers community. We hope that you will join us for all the food and fun activities we will be having for this open house\, and we look forward to meeting you! 
-DTEND:20240906T170000Z
-LOCATION:Scott Hall\, 43\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
-ORGANIZER;CN=ANAKBAYAN Rutgers:mailto:ANAKBAYAN Rutgers
-DTSTART:20240906T160000Z
-SUMMARY:Anakbayan Open House Fall 2024
-UID:812656d7-f257-4260-a24e-343a25740560@8126.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10144177
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Knight's Call - Engaged
-DESCRIPTION:This is the Senior Game\, so make sure to pull up and thank our seniors for all of their hard work over the past four years!
-DTEND:20241123T200000Z
-LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20241123T170000Z
-SUMMARY:Football vs. Illinois (SENIOR GAME)
-UID:7c5479ea-d097-455d-9f9f-0bc15843f610@7c54.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136265
+DESCRIPTION:Come start this school year off with a party of cheesey proportions. We'd like to welcome everyone back as well as welcome all our new members. Come learn what cheese club is all about and all the goodies we have planned for this year!
+DTEND:20240918T023000Z
+LOCATION:Murray Hall (Room TBA) College Ave Campus
+ORGANIZER;CN=Cheese Club (Rutgers):mailto:Cheese Club (Rutgers)
+DTSTART:20240918T013000Z
+SUMMARY:Welcome Back Cheese Heads!
+UID:14b42a18-7f25-4d54-b931-7e4bd5b0950d@14b4.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10173871
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Entertainment
-DESCRIPTION: Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240716T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240716T001500Z
-SUMMARY:New Student Orientation Social 10
-UID:a76cdea8-faa2-4972-8381-ddd8e4325c26@a76c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164696
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240702T020000Z
+DESCRIPTION: Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240726T020000Z
 LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240702T001500Z
-SUMMARY:New Student Orientation Social 5
-UID:0b7878c5-3084-4ea6-814d-a40267bd5434@0b78.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164686
+DTSTART:20240726T001500Z
+SUMMARY:New Student Orientation Social 15
+UID:5997963f-9aad-4466-8a3e-b780dc336b5d@5997.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164711
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch,General Organization Meeting
-DESCRIPTION:Join us for Game Knight! Pizza will be served 🍕🎮
-DTEND:20241003T001500Z
-LOCATION:Gerlanda's Pizza Cafe\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers :mailto:Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers 
-DTSTART:20241002T231500Z
-SUMMARY:Game Knight
-UID:579a61e8-e7b8-46ce-80eb-e1e3f572bf45@579a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10178177
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240627T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240627T001500Z
-SUMMARY:New Student Orientation Social 3
-UID:21521ba2-6748-475f-abb8-b9091055d34e@2152.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164683
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Busch,Welcome Week
-DESCRIPTION:Come to discover what the Creation of Games Society is all about! During the meeting\, the executive board will give a presentation on the club and conduct a Q&A session afterward. Members can also hang out and play video games together after the presentation. The meeting will be held at CoRE 301 from 7-9 pm. Join our Discord page at https://cogs.club/discord for more information! Free pizza will be provided to attendees!
-DTEND:20240904T010000Z
-LOCATION:Rutgers-New Brunswick\, Easton Avenue\, Franklin Township\, Somerset County\, New Jersey\, 08873\, United States
-ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
-DTSTART:20240903T230000Z
-SUMMARY:General Interest Meeting
-UID:351b9bd5-a5d6-47ff-9091-8ee25fece8ae@351b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10072754
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240711T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240711T001500Z
-SUMMARY:New Student Orientation Social 8
-UID:e9eaba01-2069-4a64-a16a-3df8d66208ec@e9ea.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164695
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch,General Organization Meeting,Wellness Event
-DESCRIPTION:We're celebrating surviving the first couple of weeks with a coloring book event! We've got food and coloring books to help you de-stress
-DTEND:20240919T001500Z
-LOCATION:Gerlanda's Pizza Cafe\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers :mailto:Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers 
-DTSTART:20240918T231500Z
-SUMMARY:Coloring Book Night
-UID:fd4f09d5-251f-48b4-ac74-029ee618b196@fd4f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10176821
+CATEGORIES:Cultural,Livingston,Banquet/Food or Culinary,Concert/Musical Performance ,Cultural Performance,DJ Event,Performance,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Celebrate the joyous festival of Diwali with the Hindu Student Council at our annual Gala! Join us for an evening filled with cultural richness and festivity. Begin the event with a spiritual uplift through a traditional Puja\, invoking blessings and prosperity. Experience a mesmerizing array of performances that showcase our heritage\, followed by lively beats from our DJ to dance the night away. Savor a delicious spread of Indian cuisine that promises to delight your taste buds. Don't miss this night of lights\, laughter\, and community. All are welcome to partake in the festivities and light up the spirit of Diwali together!
+DTEND:20241026T033000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241025T230000Z
+SUMMARY:Diwali Gala
+UID:4b2b384c-61a4-4eff-92fc-c1f7991a1193@4b2b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120285
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
@@ -174,52 +75,19 @@ LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Towns
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
 DTSTART:20241010T003000Z
 SUMMARY:General Meeting
-UID:d124febd-1084-4887-a2dc-2d986da62939@d124.org
+UID:79b618d3-0b9c-4525-92e0-dbc04b03c36e@79b6.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120267
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Livingston,Seasonal/Holiday
-DESCRIPTION:We'll be spending time together studying and eating together in fellowship with one another. Snacks and Drinks along with potential meals provided!
-DTEND:20241212T220000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Korean Christian Fellowship:mailto:Korean Christian Fellowship
-DTSTART:20241212T170000Z
-SUMMARY:Finals Prep/Cram Day
-UID:c3754ff0-b269-4805-824f-4d4ddda1f171@c375.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141086
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Knight's Call - Engaged
-DESCRIPTION:Football vs. Akron. Out-of-conference game.
-DTEND:20240907T190000Z
-LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20240907T160000Z
-SUMMARY:Football vs. Akron
-UID:bef226d8-bc57-48e4-a8e5-064bd8678c74@bef2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136259
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240712T011500Z
+DESCRIPTION: Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240716T020000Z
 LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240712T001500Z
-SUMMARY:New Student Orientation Social 9
-UID:f7f2deda-c808-43d2-8a96-ef1d8302528b@f7f2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164693
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Banquet/Food or Culinary
-DESCRIPTION:To bring others to Christ by welcoming them during the semester to a Korean styled barbecue night.
-DTEND:20240905T010000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Korean Christian Fellowship:mailto:Korean Christian Fellowship
-DTSTART:20240905T000000Z
-SUMMARY:Welcome Barbecue Night
-UID:021dbed9-a265-4e72-b117-76017d748770@021d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141101
+DTSTART:20240716T001500Z
+SUMMARY:New Student Orientation Social 10
+UID:5020d882-3d7b-4abf-a195-e279a09c0856@5020.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164696
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,College Ave,Educational Lecture
@@ -229,30 +97,41 @@ LOCATION:Rutgers College Avenue Campus\, George Street\, New Brunswick\, Middles
 ORGANIZER;CN=Quantitative Finance Club:mailto:Quantitative Finance Club
 DTSTART:20240911T013000Z
 SUMMARY:Intro to QFC: First Meeting
-UID:d5e169df-46fa-4719-b61b-792bd244d72b@d5e1.org
+UID:bc24ab30-980b-46d2-ac4e-6dc1ef8b355f@bc24.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140721
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Busch,Knight's Call - Engaged
-DESCRIPTION:THIS IS THE FIRST FOOTBALL GAME VERSUS A NEW MEMBER TO THE BIG10. Let's show them our #JeRseyPride!
-DTEND:20240928T190000Z
-LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20240928T160000Z
-SUMMARY:Football vs. Washington
-UID:44d0f041-9fe5-4708-9f91-f615540eeaf1@44d0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136260
+CATEGORIES:GroupBusiness,Livingston
+DESCRIPTION:Come out to RUSCA's first GIM of the fall semester! Join us to discuss what supply chain is\, how to get involved\, and play a kahoot.
+DTEND:20240924T020000Z
+LOCATION:Rutgers Livingston Campus\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Supply Chain Association (Rutgers University):mailto:Supply Chain Association (Rutgers University)
+DTSTART:20240924T010000Z
+SUMMARY:RUSCA GIM 1
+UID:289adb00-6dfb-497c-a9e6-dc4857356564@289a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136044
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240625T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240625T001500Z
-SUMMARY:New Student Orientation Social 1
-UID:d117f93e-914d-4e1e-876f-c9ea66eb630f@d117.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164682
+CATEGORIES:Social,Cook / Douglass,Trip Off-campus
+DESCRIPTION:Rutgers Athletics is planning to send the Riot Squad to Maryland! *If Athletics DOES NOT secure transportation six weeks before the trip\, this will become a SABO trip that will follow SABO's rules.
+DTEND:20241116T200000Z
+LOCATION:Capital One Field\, Stadium Drive\, Lakeland\, College Park\, Prince George's County\, Maryland\, 20742\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20241116T170000Z
+SUMMARY:Football at Maryland
+UID:3649b88f-6b0b-41dd-9b61-33c0a9ab4506@3649.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136264
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Knight's Call - Engaged
+DESCRIPTION:This is the Senior Game\, so make sure to pull up and thank our seniors for all of their hard work over the past four years!
+DTEND:20241123T200000Z
+LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20241123T170000Z
+SUMMARY:Football vs. Illinois (SENIOR GAME)
+UID:4d55818d-762e-4cd1-acf7-7be153bef87b@4d55.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136265
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Entertainment
@@ -262,8 +141,206 @@ LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
 DTSTART:20240709T001500Z
 SUMMARY:New Student Orientation Social 6
-UID:9c2c4303-7029-45d8-b0e8-a98f50c0ca1e@9c2c.org
+UID:e937ad61-ae1c-46cf-a45b-8ba65657b587@e937.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164681
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Busch,Welcome Week
+DESCRIPTION:Come to discover what the Creation of Games Society is all about! During the meeting\, the executive board will give a presentation on the club and conduct a Q&A session afterward. Members can also hang out and play video games together after the presentation. The meeting will be held at CoRE 301 from 7-9 pm. Join our Discord page at https://cogs.club/discord for more information! Free pizza will be provided to attendees!
+DTEND:20240904T010000Z
+LOCATION:Rutgers-New Brunswick\, Easton Avenue\, Franklin Township\, Somerset County\, New Jersey\, 08873\, United States
+ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
+DTSTART:20240903T230000Z
+SUMMARY:General Interest Meeting
+UID:50c84239-5aba-48d1-9512-408c16c4563b@50c8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10072754
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241107T030000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241107T013000Z
+SUMMARY:General Meeting
+UID:42189850-7bb3-4b36-b20c-68bc97cc4703@4218.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120269
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Entertainment
+DESCRIPTION:Join us for a movie night and slime-making!
+DTEND:20241101T003000Z
+LOCATION:Center for Social Justice Education and LGBT Communities\, 17\, Bartlett Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=oSTEM at Rutgers:mailto:oSTEM at Rutgers
+DTSTART:20241031T233000Z
+SUMMARY:halloween party
+UID:9e20bba1-9d91-4534-abbb-299e3d5feda6@9e20.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10128536
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:We hope you’re having a great start to your semester! We are Anakbayan Rutgers\, an on-campus chapter of a mass organization of youth and students fighting to address the struggles of Filipinos – in the Philippines and abroad. We aim to inform others about political issues happening in the Philippines\, and engage with members of the local Filipino Community. But most importantly we strive to educate\, organize\, and mobilize the community\, starting right here at Rutgers\, to fight towards achieving genuine democracy and freedom. Join us after the Involvement Fair (date tbd)\, to not only be given a chance to learn more about Anakbayan but also an opportunity for us to become more engaged in the Rutgers community. We hope that you will join us for all the food and fun activities we will be having for this open house\, and we look forward to meeting you! 
+DTEND:20240906T170000Z
+LOCATION:Rutgers College Avenue Campus\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=ANAKBAYAN Rutgers:mailto:ANAKBAYAN Rutgers
+DTSTART:20240906T160000Z
+SUMMARY:Anakbayan Open House Fall 2024
+UID:d1884e6c-f794-4568-a5e5-52facb6eac78@d188.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10144177
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Banquet/Food or Culinary
+DESCRIPTION:To bring others to Christ by welcoming them during the semester to a Korean styled barbecue night.
+DTEND:20240905T010000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Korean Christian Fellowship:mailto:Korean Christian Fellowship
+DTSTART:20240905T000000Z
+SUMMARY:Welcome Barbecue Night
+UID:6ae24ba5-2d8f-4eec-ab5e-b643c9fe9724@6ae2.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141101
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass,General Organization Meeting
+DESCRIPTION:  Interested in biochemistry or microbiology? Looking to meet like-minded students and get academic/career advice? Come check us out on September 25th from 8 PM - 9 PM\, we will be hosting our first meeting of the semester. We'll be chatting about our plans for the coming year and introducing our executive board. All majors are welcome\, we hope to see you there!!!  
+DTEND:20240926T010000Z
+LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=G. H. Cook Biochemistry & Microbiology Club:mailto:G. H. Cook Biochemistry & Microbiology Club
+DTSTART:20240926T000000Z
+SUMMARY:General Interest meeting
+UID:cf8eca81-72a9-43ad-8850-25d7e8ac8a2e@cf8e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164335
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20240912T020000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20240912T003000Z
+SUMMARY:General Meeting
+UID:787f3863-4a64-4d90-9a3b-5946434f22c7@787f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120265
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240806T020000Z
+LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240806T001500Z
+SUMMARY:New Student Orientation Social 18
+UID:ec3a1d45-d36a-4623-96fd-aab7f3eaa52a@ec3a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164704
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240711T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240711T001500Z
+SUMMARY:New Student Orientation Social 8
+UID:a8292551-789d-45dc-804a-94229542701b@a829.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164695
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240712T011500Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240712T001500Z
+SUMMARY:New Student Orientation Social 9
+UID:ffbba930-0d6e-4d71-b0f9-bae3a6cdc9b5@ffbb.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164693
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Knight's Call - Engaged,Welcome Week
+DESCRIPTION:This is the Back to the Birthplace Game! SHOW UP EARLY AND BE LOUD! FREE BUSES from Jersey Mike's Arena on Livingston Campus and from the College Avenue Student Center on College Avenue!
+DTEND:20240831T190000Z
+LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20240831T160000Z
+SUMMARY:Football vs. Howard
+UID:621f3aa2-7caa-4b06-9216-2a1d658161e6@621f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136258
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,College Ave,Banquet/Food or Culinary
+DESCRIPTION:Come join us in the cafe space above the George St Co-Op as we work with the Product committee to learn about\, and taste\, a variety of new cheese products on the market. From top of the line dairy to emerging vegan cheese\, there will be something for everyone!
+DTEND:20240926T023000Z
+LOCATION:George Street Co-op\, 89\, Morris Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Cheese Club (Rutgers):mailto:Cheese Club (Rutgers)
+DTSTART:20240918T230000Z
+SUMMARY:Cheese Tasting Collab at George St. Co-op
+UID:22e925f1-5500-497b-ace7-eb1d11f4adaa@22e9.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10174000
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Livingston,General Organization Meeting
+DESCRIPTION:🎉 Get ready to ignite your passion and join the excitement at our very first Her Campus General Interest Meeting!  🌟 Step into a world of empowerment and connection as we kickstart an unforgettable journey together!  💬 Join the buzz of laughter and anticipation as new faces mingle with friends\, all eager to dive into the heart of Her Campus.  📝 Discover endless opportunities for growth\, inspiration\, and sisterhood as we embark on this exhilarating adventure!  Don't miss out! Mark your calendars and be part of something extraordinary at our first Her Campus General Interest Meeting! 
+DTEND:20240910T010000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
+DTSTART:20240910T000000Z
+SUMMARY:Her Campus General Interest meeting
+UID:11be3929-f4de-4cee-b65f-a231c8625be9@11be.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140030
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Busch,General Organization Meeting,Wellness Event
+DESCRIPTION:We're celebrating surviving the first couple of weeks with a coloring book event! We've got food and coloring books to help you de-stress
+DTEND:20240919T001500Z
+LOCATION:Gerlanda's Pizza Cafe\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers :mailto:Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers 
+DTSTART:20240918T231500Z
+SUMMARY:Coloring Book Night
+UID:57664090-5b60-4469-9a0b-8ecc98fb6ee0@5766.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10176821
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240807T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240807T001500Z
+SUMMARY:New Student Orientation Social 19
+UID:6c7c2cab-2c86-4a44-875a-77da619f3a54@6c7c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164713
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240625T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240625T001500Z
+SUMMARY:New Student Orientation Social 1
+UID:715ab4cc-12f4-4d09-822f-c18124c71de2@715a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164682
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240628T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240628T001500Z
+SUMMARY:New Student Orientation Social 4
+UID:260cb87d-ffb9-4651-b830-4d5ee8e032e5@260c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164684
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Busch,General Organization Meeting,Welcome Week
+DESCRIPTION:Prescription Drug Abuse and Overprescription Awareness General Interest Meeting!Our goal is to increase knowledge of the growing local and national prevalence of overprescription including prescription drug misuse in the Rutgers community.Join us at our General Interest Meeting to learn more about how you can help end the drug crisis and about upcoming events.Free Pizza!
+DTEND:20240905T001500Z
+LOCATION:Gerlanda's Pizza Cafe\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers :mailto:Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers 
+DTSTART:20240904T231500Z
+SUMMARY:PDAOA: General Interest Meeting
+UID:b68caeb9-9fbd-4609-9b37-ddc5c064ef5b@b68c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10173971
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Entertainment
@@ -273,19 +350,41 @@ LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
 DTSTART:20240802T001500Z
 SUMMARY:New Student Orientation Social 17
-UID:478f0162-7c3b-4b12-ad86-bb29f1ab2665@478f.org
+UID:f6a20208-9782-44a3-bd08-b4122a3b303c@f6a2.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164714
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:General Interest Meeting for the 2024-2025 school year
-DTEND:20240914T010000Z
-LOCATION:TBD
-ORGANIZER;CN=Rutgers Destiny:mailto:Rutgers Destiny
-DTSTART:20240914T000000Z
-SUMMARY:General Interest Meeting
-UID:3e8653ea-468d-402e-861b-866f67ae679a@3e86.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141396
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240730T020000Z
+LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240730T001500Z
+SUMMARY:New Student Orientation Social 16
+UID:4eb28352-118b-473d-8579-983c021e74d6@4eb2.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164705
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240710T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240710T001500Z
+SUMMARY:New Student Orientation Social 7
+UID:29b92df7-7fe1-49f9-9141-0f548bea2367@29b9.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164694
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Livingston,Cultural Performance
+DESCRIPTION:The Rutgers Chinese Dance Troupe is a performance group that shares traditional costumes\, customs\, stories\, and dances with the Rutgers community. We welcome all students regardless of background or prior dance experience. In fact\, many of our members started out with no dance experience at all!   Our first General Interest Meeting (GIM) will tentatively take place Friday\, September 6th\, from 5:00 PM to 7:00 PM. It is located at the Livingston Recreation Center MPR A (62 Rd 3\, Piscataway\, NJ 08854). Feel free to come by yourself or with your friends!   Please dress in comfortable clothing that you can freely move around in. You will be able to try out the different props (sword\, fan\, sleeves\, etc) and get to know each other.
+DTEND:20240906T230000Z
+LOCATION:Livingston Recreation Center\, 62\, Road 3\, Piscataway Township\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Chinese Dance Troupe:mailto:Chinese Dance Troupe
+DTSTART:20240906T210000Z
+SUMMARY:RCDT General Interest Meeting
+UID:200a0ef2-e670-4d5c-9be1-6a445f314b48@200a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10132513
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch
@@ -295,19 +394,52 @@ LOCATION:8 On The Break\, North Avenue\, Dunellen\, Middlesex County\, New Jerse
 ORGANIZER;CN=Rhythm Games Club:mailto:Rhythm Games Club
 DTSTART:20240928T000000Z
 SUMMARY:Eight On The Break Arcade Visit
-UID:8c7c9f41-eb10-432d-820c-6c29e53b818d@8c7c.org
+UID:3c183979-37b0-4497-b713-601a00ca8915@3c18.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10070544
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Entertainment
-DESCRIPTION:Join us for a movie night and slime-making!
-DTEND:20241101T003000Z
-LOCATION:Rutgers College Avenue Campus\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=oSTEM at Rutgers:mailto:oSTEM at Rutgers
-DTSTART:20241031T233000Z
-SUMMARY:halloween party
-UID:efd6db70-52f4-4444-b8c7-920d4e4b3ea8@efd6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10128536
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240725T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240725T001500Z
+SUMMARY:New Student Orientation Social 14
+UID:750355ae-f1dc-4382-9936-5967a1f7c972@7503.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164700
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:Come join us for our annual fall Hafla! Hafla (which means party in Arabic) represents Middle Eastern dance as an art form and educates the public about traditional and modern forms of dance. Our new members will perform their new member dance and our troupe will showcase our newest semester choreography. There will also be several alumni performances and solos/ duets from our current members. We will have jewelry vendors and food! Join our shimmy contest and if you win\, you get a prize!   
+DTEND:20241209T000000Z
+LOCATION:TBD
+ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
+DTSTART:20241208T220000Z
+SUMMARY:Rutgers Belly Dance Fall Hafla 
+UID:94fe7c53-5525-4303-94a6-2d1025211132@94fe.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136336
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Entertainment,Special Interest
+DESCRIPTION:Your museum. Your language. Último Domingo is a new series celebrating Latinx culture and invites bilingual communities to come together through art. Free.   Tu museo. Tu idioma. Último Domingo es una serie nueva que celebra la cultura latina e invita a las comunidades bilingües a unirse a través del arte. Gratis.   zimmerli.rutgers.edu/event/ultimo-domingo-last-sunday-1
+DTEND:20240630T190000Z
+LOCATION:Zimmerli Art Museum\, 71\, Hamilton Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=J Voorhees Zimmerli Art Museum:mailto:J Voorhees Zimmerli Art Museum
+DTSTART:20240630T170000Z
+SUMMARY:Último Domingo (Last Sunday)
+UID:7b9f7218-171c-4328-b468-5f509348eb67@7b9f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9941216
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20240926T020000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20240926T003000Z
+SUMMARY:General Meeting
+UID:9d39767b-3b50-46f7-a45c-10bf67dda58f@9d39.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120266
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch,Knight's Call - Engaged
@@ -317,7 +449,7 @@ LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County
 ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
 DTSTART:20241019T160000Z
 SUMMARY:Football vs. UCLA
-UID:989e4301-0db3-4f98-9e92-32aad0aa64e0@989e.org
+UID:964312b9-cc07-492e-8860-f63344c9130e@9643.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136262
 END:VEVENT
 BEGIN:VEVENT
@@ -328,140 +460,8 @@ LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County
 ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
 DTSTART:20241109T170000Z
 SUMMARY:Football vs. MINNESOTA
-UID:1518f9fb-fdd7-4017-999e-c8a5196bca33@1518.org
+UID:cbea050c-6e7f-41cb-b120-e68c7c3144dc@cbea.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136263
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Trip Off-campus
-DESCRIPTION:Rutgers Athletics is planning to send the Riot Squad to Maryland! *If Athletics DOES NOT secure transportation six weeks before the trip\, this will become a SABO trip that will follow SABO's rules.
-DTEND:20241116T200000Z
-LOCATION:University of Maryland\, College Park\, Rhode Island Avenue\, Oak Springs\, Branchville\, College Park\, Prince George's County\, Maryland\, 20742\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20241116T170000Z
-SUMMARY:Football at Maryland
-UID:b5e2db41-ad12-4c95-8c52-ed7358fe1aa7@b5e2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136264
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20240912T020000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20240912T003000Z
-SUMMARY:General Meeting
-UID:34cd494e-50d6-410c-9e82-1bfb6e9d2a6b@34cd.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120265
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:GroupBusiness,Career Fair/Panel
-DESCRIPTION:The Rutgers Sports Business is hosting a panel consisting of individuals working in Sports. They will give us their insights on how they landed their jobs\, and the opportunities that are now present in Sports Business.
-DTEND:20241130T180000Z
-LOCATION:TBD
-ORGANIZER;CN=Sports Business Association (The Rutgers):mailto:Sports Business Association (The Rutgers)
-DTSTART:20241101T160000Z
-SUMMARY:Sports Business Panel - Landing a Job in Sports
-UID:a15027af-e9b6-4253-9b25-03577ae2392a@a150.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10133902
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Come start this school year off with a party of cheesey proportions. We'd like to welcome everyone back as well as welcome all our new members. Come learn what cheese club is all about and all the goodies we have planned for this year!
-DTEND:20240918T023000Z
-LOCATION:Murray Hall (Room TBA) College Ave Campus
-ORGANIZER;CN=Cheese Club (Rutgers):mailto:Cheese Club (Rutgers)
-DTSTART:20240918T013000Z
-SUMMARY:Welcome Back Cheese Heads!
-UID:819d5c12-1e6a-4b66-bb72-ab2c5aae81ff@819d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10173871
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240730T020000Z
-LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240730T001500Z
-SUMMARY:New Student Orientation Social 16
-UID:42e914da-b0e9-45d5-a5ee-83cf178f56ae@42e9.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164705
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts
-DESCRIPTION:Scarlet Game Jam is a biannual game jam hosted by the Creation of Games Society at Rutgers University. Similar to any other game jam\, participants will be given one week(ish) to design and code a game to show off at the end of the jam. At the beginning of each Scarlet Game Jam\, we will also be unveiling the (optional) theme to inspire or challenge our participants\, which changes with every Scarlet Game Jam\, so each year is a new experience! Programmers\, musicians\, and artists are welcome\, but no experience is necessary! Check out our website for more information: (TBD). This time around\, the game jam is 2 weeks long to give everyone extra time to work on their games! Feel free to take the whole 2 weeks\, one week\, or even a single day to work on your game. Join the COGS Discord here! Any announcements about the jam will be blasted here: https://cogs.club/discord Make sure to sign up on our website to ensure free food for the in-person closing ceremony on April 14th. Schedule: TBD
-DTEND:20241123T020000Z
-LOCATION:TBD
-ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
-DTSTART:20241110T210000Z
-SUMMARY:Scarlet Game Jam Fall 2024
-UID:ae190af0-183e-4c92-98dc-b1e891cf1e93@ae19.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10118589
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240628T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240628T001500Z
-SUMMARY:New Student Orientation Social 4
-UID:764becde-ce0a-4862-8e3c-82acecdcbff4@764b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164684
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Knight's Call - Engaged,Welcome Week
-DESCRIPTION:This is the Back to the Birthplace Game! SHOW UP EARLY AND BE LOUD! FREE BUSES from Jersey Mike's Arena on Livingston Campus and from the College Avenue Student Center on College Avenue!
-DTEND:20240831T190000Z
-LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
-DTSTART:20240831T160000Z
-SUMMARY:Football vs. Howard
-UID:84aa95e2-4a10-44a9-ab12-4a310da5bf23@84aa.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136258
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241121T030000Z
-LOCATION:LSC Coffeehouse
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241121T013000Z
-SUMMARY:General Meeting
-UID:e16fbf09-36e0-4d1a-9f69-a6130d4b075b@e16f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120270
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION: Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240726T020000Z
-LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240726T001500Z
-SUMMARY:New Student Orientation Social 15
-UID:f061fe5d-e0c5-4d07-acd2-bd48133bca6c@f061.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164711
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240710T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240710T001500Z
-SUMMARY:New Student Orientation Social 7
-UID:4fd354e4-da60-4173-8190-7a1d6404952a@4fd3.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164694
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cultural,College Ave,Cultural Performance,Seasonal/Holiday
-DESCRIPTION:Join us for music\, food\, and a great night!
-DTEND:20241018T030000Z
-LOCATION:Rutgers College Avenue Campus\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Desi Intercultural Youth Association:mailto:Desi Intercultural Youth Association
-DTSTART:20241017T233000Z
-SUMMARY:Diwali Dhamaka 2024
-UID:ac5cdb43-d84e-49aa-901b-d5594b27fa81@ac5c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141344
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social
@@ -471,184 +471,8 @@ LOCATION:College Ave\, TBD
 ORGANIZER;CN=Future Teachers Association:mailto:Future Teachers Association
 DTSTART:20240910T010000Z
 SUMMARY:Welcome Back!
-UID:ddca0f53-219c-4ccf-8355-1f088076aeb9@ddca.org
+UID:5680a729-a674-493e-809a-fbf9825e7aeb@5680.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10133417
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Livingston
-DESCRIPTION:👻 Host an electrifying Halloween networking event at the College Ave Student Center\, blending spooky festivities with opportunities for students to connect 🎃 🎨 Create an inclusive environment where attendees can express their creativity and career interests through costumes and enjoy seasonal treats 🍬 🤝 Foster connections and friendships among current and new members of Her Campus Rutgers\, emphasizing the networking aspect of the event 💼 🎉 Encourage students to engage in fun activities and celebrate Halloween in a safe and welcoming space conducive to networking 🕸️ 💖 Emphasize the significance of camaraderie and support networks during the busy fall semester\, offering a memorable opportunity for students to unwind and create meaningful connections with peers 🍁
-DTEND:20241029T010000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
-DTSTART:20241029T000000Z
-SUMMARY:Ghoul's Night Out 
-UID:326b30bd-f487-4eb5-a7d7-2c1dc1ee9cb2@326b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140042
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Join us for a Rutgers Global Summer Social! Enjoy some mocktails and frozen treats as you connect with others who are on campus this summer. Open to all international students\, interns\, trainees and scholars\, and Mandela Washington Fellows. Register here\, space is limited!
-DTEND:20240724T230000Z
-LOCATION:Rutgers College Avenue Campus\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20240724T213000Z
-SUMMARY:Summer Social 
-UID:2a8eab47-10be-4da0-8510-6690487b41d5@2a8e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10168851
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cultural,Livingston,Banquet/Food or Culinary,Concert/Musical Performance ,Cultural Performance,DJ Event,Performance,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Celebrate the joyous festival of Diwali with the Hindu Student Council at our annual Gala! Join us for an evening filled with cultural richness and festivity. Begin the event with a spiritual uplift through a traditional Puja\, invoking blessings and prosperity. Experience a mesmerizing array of performances that showcase our heritage\, followed by lively beats from our DJ to dance the night away. Savor a delicious spread of Indian cuisine that promises to delight your taste buds. Don't miss this night of lights\, laughter\, and community. All are welcome to partake in the festivities and light up the spirit of Diwali together!
-DTEND:20241026T033000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241025T230000Z
-SUMMARY:Diwali Gala
-UID:6182d291-6c38-43b0-8418-7334ce76b818@6182.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120285
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240723T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240723T001500Z
-SUMMARY:New Student Orientation Social 12
-UID:9c97b00a-4007-410d-876b-9755088078c0@9c97.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164697
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,College Ave,Banquet/Food or Culinary
-DESCRIPTION:Come join us in the cafe space above the George St Co-Op as we work with the Product committee to learn about\, and taste\, a variety of new cheese products on the market. From top of the line dairy to emerging vegan cheese\, there will be something for everyone!
-DTEND:20240926T023000Z
-LOCATION:George Street Co-op\, 89\, Morris Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Cheese Club (Rutgers):mailto:Cheese Club (Rutgers)
-DTSTART:20240918T230000Z
-SUMMARY:Cheese Tasting Collab at George St. Co-op
-UID:d875d45d-26be-45af-bafe-692f0789d538@d875.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10174000
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240626T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240626T001500Z
-SUMMARY:New Student Orientation Social 2
-UID:03fd0e12-6c2f-431f-bea3-287bd73e8215@03fd.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164685
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240724T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240724T001500Z
-SUMMARY:New Student Orientation Social 13
-UID:d58fafd4-292b-407a-80e3-8f20c202a326@d58f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164703
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240725T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240725T001500Z
-SUMMARY:New Student Orientation Social 14
-UID:558bb5c9-b1fb-4c7f-a2f5-4fc217f5032f@558b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164700
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240806T020000Z
-LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240806T001500Z
-SUMMARY:New Student Orientation Social 18
-UID:747fa459-8105-47ef-ad7e-2d41107c3bd6@747f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164704
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass,General Organization Meeting
-DESCRIPTION:  Interested in biochemistry or microbiology? Looking to meet like-minded students and get academic/career advice? Come check us out on September 25th from 8 PM - 9 PM\, we will be hosting our first meeting of the semester. We'll be chatting about our plans for the coming year and introducing our executive board. All majors are welcome\, we hope to see you there!!!  
-DTEND:20240926T010000Z
-LOCATION:Handy Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=G. H. Cook Biochemistry & Microbiology Club:mailto:G. H. Cook Biochemistry & Microbiology Club
-DTSTART:20240926T000000Z
-SUMMARY:General Interest meeting
-UID:901aa73f-e860-4a00-b215-f7ae936d6a6c@901a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164335
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20240926T020000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20240926T003000Z
-SUMMARY:General Meeting
-UID:336dcb1f-5dd3-485d-921d-a742ca10a6bb@336d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120266
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241107T030000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241107T013000Z
-SUMMARY:General Meeting
-UID:1babb1d6-9fea-4694-a254-52df7a26eeff@1bab.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120269
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch,General Organization Meeting,Welcome Week
-DESCRIPTION:Prescription Drug Abuse and Overprescription Awareness General Interest Meeting!Our goal is to increase knowledge of the growing local and national prevalence of overprescription including prescription drug misuse in the Rutgers community.Join us at our General Interest Meeting to learn more about how you can help end the drug crisis and about upcoming events.Free Pizza!
-DTEND:20240905T001500Z
-LOCATION:Gerlanda's Pizza Cafe\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers :mailto:Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers 
-DTSTART:20240904T231500Z
-SUMMARY:PDAOA: General Interest Meeting
-UID:c4f2bbe6-8357-45df-8e9a-366bb6bed687@c4f2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10173971
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
-DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
-DTEND:20241205T030000Z
-LOCATION:LSC Coffeehouse
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20241205T013000Z
-SUMMARY:General Meeting
-UID:2480d5f4-2015-4118-8627-372963aeca91@2480.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120271
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Entertainment,Special Interest
-DESCRIPTION:Your museum. Your language. Último Domingo is a new series celebrating Latinx culture and invites bilingual communities to come together through art. Free.   Tu museo. Tu idioma. Último Domingo es una serie nueva que celebra la cultura latina e invita a las comunidades bilingües a unirse a través del arte. Gratis.   zimmerli.rutgers.edu/event/ultimo-domingo-last-sunday-1
-DTEND:20240630T190000Z
-LOCATION:Rutgers College Avenue Campus\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=J Voorhees Zimmerli Art Museum:mailto:J Voorhees Zimmerli Art Museum
-DTSTART:20240630T170000Z
-SUMMARY:Último Domingo (Last Sunday)
-UID:50c448a0-a131-4b33-a9e7-2385ae295eee@50c4.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/9941216
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240808T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240808T001500Z
-SUMMARY:New Student Orientation Social 20
-UID:d1a926e2-748e-45ea-bf56-822d9e9c845a@d1a9.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164712
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch,Knight's Call - Engaged
@@ -658,19 +482,173 @@ LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County
 ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
 DTSTART:20241012T160000Z
 SUMMARY:Football vs. Wisconsin
-UID:e7e62420-d277-433b-91be-5fa799992d48@e7e6.org
+UID:7f79f769-b1ea-4a8e-8929-3da21deb2cdd@7f79.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136261
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:GroupBusiness,Career Fair/Panel
+DESCRIPTION:The Rutgers Sports Business is hosting a panel consisting of individuals working in Sports. They will give us their insights on how they landed their jobs\, and the opportunities that are now present in Sports Business.
+DTEND:20241130T180000Z
+LOCATION:TBD
+ORGANIZER;CN=Sports Business Association (The Rutgers):mailto:Sports Business Association (The Rutgers)
+DTSTART:20241101T160000Z
+SUMMARY:Sports Business Panel - Landing a Job in Sports
+UID:267bbb55-e6a7-44d4-80ed-a6b7e1748feb@267b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10133902
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Livingston,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241024T020000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241024T003000Z
+SUMMARY:General Meeting
+UID:39638a4e-b616-486f-90ba-84731c8e662d@3963.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120268
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Livingston
+DESCRIPTION:👻 Host an electrifying Halloween networking event at the College Ave Student Center\, blending spooky festivities with opportunities for students to connect 🎃 🎨 Create an inclusive environment where attendees can express their creativity and career interests through costumes and enjoy seasonal treats 🍬 🤝 Foster connections and friendships among current and new members of Her Campus Rutgers\, emphasizing the networking aspect of the event 💼 🎉 Encourage students to engage in fun activities and celebrate Halloween in a safe and welcoming space conducive to networking 🕸️ 💖 Emphasize the significance of camaraderie and support networks during the busy fall semester\, offering a memorable opportunity for students to unwind and create meaningful connections with peers 🍁
+DTEND:20241029T010000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Her Campus Rutgers :mailto:Her Campus Rutgers 
+DTSTART:20241029T000000Z
+SUMMARY:Ghoul's Night Out 
+UID:0ccd20ca-888c-4deb-a4cf-5bce5eec934b@0ccd.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10140042
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Busch,General Organization Meeting
+DESCRIPTION:Join us for Game Knight! Pizza will be served 🍕🎮
+DTEND:20241003T001500Z
+LOCATION:Gerlanda's Pizza Cafe\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers :mailto:Prescription Drug Abuse and Overprescription Awareness Organization of Rutgers 
+DTSTART:20241002T231500Z
+SUMMARY:Game Knight
+UID:e8814bc3-a61d-4868-8652-c802840ba965@e881.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10178177
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Join us for a Rutgers Global Summer Social! Enjoy some mocktails and frozen treats as you connect with others who are on campus this summer. Open to all international students\, interns\, trainees and scholars\, and Mandela Washington Fellows. Register here\, space is limited!
+DTEND:20240724T230000Z
+LOCATION:Rutgers College Avenue Campus\, George Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20240724T213000Z
+SUMMARY:Summer Social 
+UID:65c8991d-4965-4126-9845-f2c48aeb3638@65c8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10168851
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:General Interest Meeting for the 2024-2025 school year
+DTEND:20240914T010000Z
+LOCATION:TBD
+ORGANIZER;CN=Rutgers Destiny:mailto:Rutgers Destiny
+DTSTART:20240914T000000Z
+SUMMARY:General Interest Meeting
+UID:f6958be2-8beb-4528-b127-7d868a66b013@f695.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141396
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241205T030000Z
+LOCATION:LSC Coffeehouse
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241205T013000Z
+SUMMARY:General Meeting
+UID:84648e61-bfbe-47ea-8680-8cf3a623af89@8464.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120271
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Livingston,Seasonal/Holiday
+DESCRIPTION:We'll be spending time together studying and eating together in fellowship with one another. Snacks and Drinks along with potential meals provided!
+DTEND:20241212T220000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Korean Christian Fellowship:mailto:Korean Christian Fellowship
+DTSTART:20241212T170000Z
+SUMMARY:Finals Prep/Cram Day
+UID:22d95ef8-c434-456f-b633-339965e83a6c@22d9.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141086
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Entertainment
 DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20240807T020000Z
+DTEND:20240724T020000Z
 LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20240807T001500Z
-SUMMARY:New Student Orientation Social 19
-UID:06766303-6846-4763-b723-c3c9445ff7c9@0676.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164713
+DTSTART:20240724T001500Z
+SUMMARY:New Student Orientation Social 13
+UID:449e332b-b26c-4bc9-8d41-db38fafe9aad@449e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164703
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts
+DESCRIPTION:Scarlet Game Jam is a biannual game jam hosted by the Creation of Games Society at Rutgers University. Similar to any other game jam\, participants will be given one week(ish) to design and code a game to show off at the end of the jam. At the beginning of each Scarlet Game Jam\, we will also be unveiling the (optional) theme to inspire or challenge our participants\, which changes with every Scarlet Game Jam\, so each year is a new experience! Programmers\, musicians\, and artists are welcome\, but no experience is necessary! Check out our website for more information: (TBD). This time around\, the game jam is 2 weeks long to give everyone extra time to work on their games! Feel free to take the whole 2 weeks\, one week\, or even a single day to work on your game. Join the COGS Discord here! Any announcements about the jam will be blasted here: https://cogs.club/discord Make sure to sign up on our website to ensure free food for the in-person closing ceremony on April 14th. Schedule: TBD
+DTEND:20241123T020000Z
+LOCATION:TBD
+ORGANIZER;CN=Creation of Games Society:mailto:Creation of Games Society
+DTSTART:20241110T210000Z
+SUMMARY:Scarlet Game Jam Fall 2024
+UID:4fd142ca-a15b-493a-882d-59300d161e55@4fd1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10118589
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240719T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240719T001500Z
+SUMMARY:New Student Orientation Social 11
+UID:17682cfe-b0ef-44c6-87e4-323c18316ec3@1768.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164698
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Knight's Call - Engaged
+DESCRIPTION:THIS IS THE FIRST FOOTBALL GAME VERSUS A NEW MEMBER TO THE BIG10. Let's show them our #JeRseyPride!
+DTEND:20240928T190000Z
+LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20240928T160000Z
+SUMMARY:Football vs. Washington
+UID:a94b51ed-12b7-4195-aeed-9b74eda4f517@a94b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136260
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Knight's Call - Engaged
+DESCRIPTION:Football vs. Akron. Out-of-conference game.
+DTEND:20240907T190000Z
+LOCATION:Sutphen Road\, Riverview Manor\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Riot Squad (Rutgers):mailto:Riot Squad (Rutgers)
+DTSTART:20240907T160000Z
+SUMMARY:Football vs. Akron
+UID:45d6d687-6c7b-4666-acf5-41f690bd0cc8@45d6.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10136259
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cultural,College Ave,Cultural Performance,Seasonal/Holiday
+DESCRIPTION:Join us for music\, food\, and a great night!
+DTEND:20241018T030000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
+ORGANIZER;CN=Desi Intercultural Youth Association:mailto:Desi Intercultural Youth Association
+DTSTART:20241017T233000Z
+SUMMARY:Diwali Dhamaka 2024
+UID:a457267d-1292-490c-82d9-4371f88bbb33@a457.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10141344
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240627T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240627T001500Z
+SUMMARY:New Student Orientation Social 3
+UID:62d44475-78e6-44db-a4b2-84a7494fe691@62d4.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164683
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
@@ -680,7 +658,29 @@ LOCATION:TBD
 ORGANIZER;CN=Mind and Media:mailto:Mind and Media
 DTSTART:20240910T230000Z
 SUMMARY:Mind and Media First General Meeting 
-UID:08ad3495-c5b9-4c11-8c4a-85c0d8bb5725@08ad.org
+UID:2c3eb4b0-c4b7-4d86-aa6a-a26190dc0b77@2c3e.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/3175015
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,General Organization Meeting,Religious/Religious Cultural/Spiritual Event,Wellness Event
+DESCRIPTION:Come join us in providing fun and enriching opportunities to foster well-being and cultivate personal growth and empowerment based on values rooted in Hindu culture.
+DTEND:20241121T030000Z
+LOCATION:LSC Coffeehouse
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20241121T013000Z
+SUMMARY:General Meeting
+UID:6767078f-d59e-4ebd-ae7c-998033f48870@6767.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10120270
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20240702T020000Z
+LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20240702T001500Z
+SUMMARY:New Student Orientation Social 5
+UID:cc218639-c51d-42f3-901f-02949ee6c544@cc21.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/10164686
 END:VEVENT
 END:VCALENDAR
