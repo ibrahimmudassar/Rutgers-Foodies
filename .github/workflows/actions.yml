@@ -1,6 +1,6 @@
 name: run main.py
 
-on:
+on: 
   schedule:
     - cron: "0 */12 * * *"
 
