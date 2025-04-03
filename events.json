@@ -1,35 +1,7 @@
 {
     "data": [
         {
-            "@search.score": 1.0,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Feeling artsy? Come to paint and sip night! All supplies are provided plus snacks and drinks! Bring a friend, or two! While painting, learn about the organization!",
-            "endsOn": "2025-04-03T02:00:00.000Z",
-            "id": "10924418",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/fc41c055-03a8-4438-b922-088825f8fc15de6af79f-094d-47c1-80cc-42b87b629f61.png",
-            "index": 0,
-            "institutionId": 4753,
-            "latitude": 40.52345,
-            "location": "Livingston Student Center Board Room (located upstairs)",
-            "longitude": -74.4372,
-            "name": "Paint and Sip",
-            "organizationId": 179228,
-            "organizationIds": [],
-            "organizationName": "Charity: Water Rutgers",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/3a060ff6-dd96-446d-a825-3093c14620ec5477c21d-0f26-4c3b-a4ba-c904af871088.png",
-            "recScore": null,
-            "startsOn": "2025-04-03T01:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.934,
+            "@search.score": 99.98428,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -43,7 +15,7 @@
             "endsOn": "2025-04-03T17:00:00.000Z",
             "id": "11208141",
             "imagePath": "https://se-images.campuslabs.com/clink/images/de6c7ffc-ed7f-426d-aec6-835d0ba7679fef65f419-ba4b-492b-b852-4139928e582f.png",
-            "index": 1,
+            "index": 0,
             "institutionId": 4753,
             "latitude": 40.52417,
             "location": "Research Tower - V14",
@@ -61,7 +33,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.91187,
+            "@search.score": 99.96218,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -75,7 +47,7 @@
             "endsOn": "2025-04-03T23:00:00.000Z",
             "id": "11213462",
             "imagePath": "https://se-images.campuslabs.com/clink/images/aa36f7a8-20ef-440d-b4b6-9b7797db6baf0c17caed-6a3c-4a73-876e-9b4256f07d11.png",
-            "index": 2,
+            "index": 1,
             "institutionId": 4753,
             "latitude": 40.49471,
             "location": "Destination Dogs",
@@ -93,7 +65,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.90745,
+            "@search.score": 99.957756,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -111,7 +83,7 @@
             "endsOn": "2025-04-03T23:00:00.000Z",
             "id": "11222333",
             "imagePath": "https://se-images.campuslabs.com/clink/images/679cf12e-9313-4093-af33-5a90f5802d665322e483-9b26-4c09-b445-646544f6ea54.png",
-            "index": 3,
+            "index": 2,
             "institutionId": 4753,
             "latitude": 40.50267,
             "location": "CASC 411A",
@@ -129,7 +101,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.90302,
+            "@search.score": 99.95334,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -165,7 +137,43 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.89859,
+            "@search.score": 99.951126,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5336",
+                "5349",
+                "5352"
+            ],
+            "categoryNames": [
+                "Concert/Musical Performance ",
+                "Performance",
+                "Religious/Religious Cultural/Spiritual Event"
+            ],
+            "description": "\u2728 Listen. Chant. Transform. \u2728Join us for a powerful night as we explore The Power of Mantra\u2014an immersive experience diving into sound, intention, and the ancient practice of mantra meditation \ud83e\uddd8\u200d\u2642\ufe0f\ud83c\udfb6. Come relax, recharge, and reflect with us\u2014and yes, there will be FREE food as always!\ud83d\udcc5 Thursday, April 3\ud83d\udccd Tillet Hall 116, Livi\u23f0 7:30 PM onwardsLet the vibrations guide you\u2014see you there! \u2728",
+            "endsOn": "2025-04-04T02:00:00.000Z",
+            "id": "11227957",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/2f1b4c52-3cea-4b27-aa8d-1902d3033b00aa735d54-1d50-4fb8-bc8d-bca39a111342.png",
+            "index": 4,
+            "institutionId": 4753,
+            "latitude": 40.52235,
+            "location": "Tillett Hall Room 116",
+            "longitude": -74.43516,
+            "name": "The Power of Mantra",
+            "organizationId": 121213,
+            "organizationIds": [],
+            "organizationName": "Bhakti - The Higher Taste",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/bc87b621-d0d3-41e4-98de-340bd4f1cba7ffbd1dae-d57c-445a-8634-e8198067fc7f.jpg",
+            "recScore": null,
+            "startsOn": "2025-04-03T23:30:00.000Z",
+            "status": "Approved",
+            "theme": "Arts",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.94891,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -179,7 +187,7 @@
             "endsOn": "2025-04-04T01:00:00.000Z",
             "id": "11223423",
             "imagePath": "https://se-images.campuslabs.com/clink/images/c76d0cf0-f46b-46ef-8976-af51aef4b0cd1fbb1715-dc9c-417e-ab41-75549c291e24.png",
-            "index": 4,
+            "index": 3,
             "institutionId": 4753,
             "latitude": 39.73943,
             "location": "College Avenue Student Center",
@@ -197,7 +205,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.82769,
+            "@search.score": 99.8781,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -239,7 +247,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.82547,
+            "@search.score": 99.87588,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -267,7 +275,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.79663,
+            "@search.score": 99.84708,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -303,7 +311,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.47365,
+            "@search.score": 99.524475,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -335,7 +343,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.47365,
+            "@search.score": 99.524475,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -369,7 +377,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.46694,
+            "@search.score": 99.51777,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -401,7 +409,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.395325,
+            "@search.score": 99.446236,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -435,7 +443,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.38188,
+            "@search.score": 99.43281,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -463,7 +471,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.36844,
+            "@search.score": 99.41938,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -491,7 +499,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.36395,
+            "@search.score": 99.4149,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -523,7 +531,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.36395,
+            "@search.score": 99.4149,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -559,7 +567,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.30563,
+            "@search.score": 99.35665,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -595,7 +603,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.29216,
+            "@search.score": 99.3432,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -627,7 +635,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.253975,
+            "@search.score": 99.30505,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -655,7 +663,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.148224,
+            "@search.score": 99.19943,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -697,7 +705,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.08961,
+            "@search.score": 99.140884,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -729,7 +737,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.07607,
+            "@search.score": 99.127365,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -757,7 +765,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.073814,
+            "@search.score": 99.12511,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -785,7 +793,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.058014,
+            "@search.score": 99.10933,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -813,7 +821,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.97666,
+            "@search.score": 99.028076,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -841,7 +849,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.94952,
+            "@search.score": 99.00095,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -869,7 +877,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.85889,
+            "@search.score": 98.91044,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -901,7 +909,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.72259,
+            "@search.score": 98.7743,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -935,7 +943,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.713486,
+            "@search.score": 98.76521,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -971,7 +979,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.610954,
+            "@search.score": 98.6628,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -1007,7 +1015,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.533325,
+            "@search.score": 98.585266,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1035,7 +1043,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.48988,
+            "@search.score": 98.54188,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1063,7 +1071,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.39828,
+            "@search.score": 98.450386,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1095,7 +1103,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.200676,
+            "@search.score": 98.25302,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -1131,7 +1139,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.72361,
+            "@search.score": 97.77654,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1163,7 +1171,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.72128,
+            "@search.score": 97.774216,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -1201,7 +1209,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.71895,
+            "@search.score": 97.77189,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1233,7 +1241,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.644356,
+            "@search.score": 97.69739,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -1273,7 +1281,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.54626,
+            "@search.score": 97.59941,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1305,7 +1313,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.52755,
+            "@search.score": 97.58072,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1337,7 +1345,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.50415,
+            "@search.score": 97.55735,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1365,7 +1373,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.50181,
+            "@search.score": 97.55501,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1403,7 +1411,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.27415,
+            "@search.score": 97.32764,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1435,7 +1443,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.92445,
+            "@search.score": 96.97838,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1463,7 +1471,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.834206,
+            "@search.score": 96.888245,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1495,7 +1503,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.82707,
+            "@search.score": 96.88112,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1527,7 +1535,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.815186,
+            "@search.score": 96.86925,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -1563,7 +1571,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.74139,
+            "@search.score": 96.79554,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -1601,7 +1609,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.736626,
+            "@search.score": 96.79078,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1629,7 +1637,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.71994,
+            "@search.score": 96.77412,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1657,7 +1665,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.641205,
+            "@search.score": 96.69548,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1689,7 +1697,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.476105,
+            "@search.score": 96.530594,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1721,7 +1729,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.351265,
+            "@search.score": 96.405914,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1753,7 +1761,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.15849,
+            "@search.score": 96.21339,
             "benefitNames": "Credit, Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -1781,7 +1789,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.34419,
+            "@search.score": 95.40013,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -1823,7 +1831,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 78.61399,
+            "@search.score": 78.69651,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
