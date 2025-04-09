@@ -25,7 +25,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_899d5b47b5e8f412c22397628b838393 {
+                #map_b5a742d3de67f44430bc138e9d6ba034 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -43,14 +43,14 @@
 <body>
     
     
-            <div class="folium-map" id="map_899d5b47b5e8f412c22397628b838393" ></div>
+            <div class="folium-map" id="map_b5a742d3de67f44430bc138e9d6ba034" ></div>
         
 </body>
 <script>
     
     
-            var map_899d5b47b5e8f412c22397628b838393 = L.map(
-                "map_899d5b47b5e8f412c22397628b838393",
+            var map_b5a742d3de67f44430bc138e9d6ba034 = L.map(
+                "map_b5a742d3de67f44430bc138e9d6ba034",
                 {
                     center: [40.5, -74.45],
                     crs: L.CRS.EPSG3857,
@@ -67,7 +67,7 @@
 
         
     
-            var tile_layer_3e78346d7daa0e86657b472e0bf05d0f = L.tileLayer(
+            var tile_layer_a0e7c2f7be127c86454678759f04cc81 = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
@@ -84,17 +84,55 @@
             );
         
     
-            tile_layer_3e78346d7daa0e86657b472e0bf05d0f.addTo(map_899d5b47b5e8f412c22397628b838393);
+            tile_layer_a0e7c2f7be127c86454678759f04cc81.addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var marker_fd73c42f06f37ec2e7aa6797c29103dc = L.marker(
+            var marker_ec6bb8002b3913ec8d37ce7ec70c1be3 = L.marker(
+                [40.52354, -74.43718],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_7a999b2fb2b7cfe1db8fdad4e615a597 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0bb6f05bf9d9f9aadad21c1cf8bbf2c3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2408f17add65a9829669e8e1d8e70c93 = $(`<div id="html_2408f17add65a9829669e8e1d8e70c93" style="width: 100.0%; height: 100.0%;">Scarlet Game Jam Spring 2025</div>`)[0];
+                popup_0bb6f05bf9d9f9aadad21c1cf8bbf2c3.setContent(html_2408f17add65a9829669e8e1d8e70c93);
+            
+        
+
+        marker_ec6bb8002b3913ec8d37ce7ec70c1be3.bindPopup(popup_0bb6f05bf9d9f9aadad21c1cf8bbf2c3)
+        ;
+
+        
+    
+    
+                marker_ec6bb8002b3913ec8d37ce7ec70c1be3.setIcon(icon_7a999b2fb2b7cfe1db8fdad4e615a597);
+            
+    
+            var marker_370722728e8cb136f70ee891474bb8ed = L.marker(
                 [40.50185, -74.44837],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_939dcfd00e32cf742690d1e95a63b34d = L.AwesomeMarkers.icon(
+            var icon_9f8a4e4e5199a0dfecefc8d10261aec5 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -105,262 +143,34 @@
             );
         
     
-        var popup_b10af87f7d3c113afa459b12605cb2b9 = L.popup({
+        var popup_cdf1ef4f1f0d86f9a0b0ccd00038e108 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_8dadde79074953a99f27f0011709cebe = $(`<div id="html_8dadde79074953a99f27f0011709cebe" style="width: 100.0%; height: 100.0%;">Demystifying Academic Publishing: A Guide for Graduate Students</div>`)[0];
-                popup_b10af87f7d3c113afa459b12605cb2b9.setContent(html_8dadde79074953a99f27f0011709cebe);
+                var html_6dd4c0d5dbd5ca426690d02653409b68 = $(`<div id="html_6dd4c0d5dbd5ca426690d02653409b68" style="width: 100.0%; height: 100.0%;">Rutgers Karaoke General Meeting</div>`)[0];
+                popup_cdf1ef4f1f0d86f9a0b0ccd00038e108.setContent(html_6dd4c0d5dbd5ca426690d02653409b68);
             
         
 
-        marker_fd73c42f06f37ec2e7aa6797c29103dc.bindPopup(popup_b10af87f7d3c113afa459b12605cb2b9)
+        marker_370722728e8cb136f70ee891474bb8ed.bindPopup(popup_cdf1ef4f1f0d86f9a0b0ccd00038e108)
         ;
 
         
     
     
-                marker_fd73c42f06f37ec2e7aa6797c29103dc.setIcon(icon_939dcfd00e32cf742690d1e95a63b34d);
+                marker_370722728e8cb136f70ee891474bb8ed.setIcon(icon_9f8a4e4e5199a0dfecefc8d10261aec5);
             
     
-            var marker_2c7a2e3ac3cfb90d536e5b756e05539e = L.marker(
-                [40.47909, -74.43631],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_c748d6b6761eb40761b2d06527e7a8d9 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_bf22dbf525446407180aa6e930d73aa3 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_fd66890326d48c5d3c6c506fab12a110 = $(`<div id="html_fd66890326d48c5d3c6c506fab12a110" style="width: 100.0%; height: 100.0%;">NutriSci GSO April General Meeting</div>`)[0];
-                popup_bf22dbf525446407180aa6e930d73aa3.setContent(html_fd66890326d48c5d3c6c506fab12a110);
-            
-        
-
-        marker_2c7a2e3ac3cfb90d536e5b756e05539e.bindPopup(popup_bf22dbf525446407180aa6e930d73aa3)
-        ;
-
-        
-    
-    
-                marker_2c7a2e3ac3cfb90d536e5b756e05539e.setIcon(icon_c748d6b6761eb40761b2d06527e7a8d9);
-            
-    
-            var marker_6e9d61f43dbd5a9c917e029d21324d55 = L.marker(
-                [40.52302, -74.45844],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_3a4c18ce98035aa608b0064e68b7f594 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "orange",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_ff06f6350ec4e1da9e828df56acb7fe6 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_5b499f74aa55e075e15a9bcb592d034e = $(`<div id="html_5b499f74aa55e075e15a9bcb592d034e" style="width: 100.0%; height: 100.0%;">Gita on Stage</div>`)[0];
-                popup_ff06f6350ec4e1da9e828df56acb7fe6.setContent(html_5b499f74aa55e075e15a9bcb592d034e);
-            
-        
-
-        marker_6e9d61f43dbd5a9c917e029d21324d55.bindPopup(popup_ff06f6350ec4e1da9e828df56acb7fe6)
-        ;
-
-        
-    
-    
-                marker_6e9d61f43dbd5a9c917e029d21324d55.setIcon(icon_3a4c18ce98035aa608b0064e68b7f594);
-            
-    
-            var marker_70b86c8ad245c9b6689f338434ad02a0 = L.marker(
-                [40.50188, -74.45208],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_744f232694c9c77883c069cbe03fd67d = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_4a4b486a977b9ca7c4910586b6684ad6 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_7829bff2de6712bcdbc4da11a06c0429 = $(`<div id="html_7829bff2de6712bcdbc4da11a06c0429" style="width: 100.0%; height: 100.0%;">Jeopardy Night</div>`)[0];
-                popup_4a4b486a977b9ca7c4910586b6684ad6.setContent(html_7829bff2de6712bcdbc4da11a06c0429);
-            
-        
-
-        marker_70b86c8ad245c9b6689f338434ad02a0.bindPopup(popup_4a4b486a977b9ca7c4910586b6684ad6)
-        ;
-
-        
-    
-    
-                marker_70b86c8ad245c9b6689f338434ad02a0.setIcon(icon_744f232694c9c77883c069cbe03fd67d);
-            
-    
-            var marker_68d659400a3b1a62fac20762b3e8ce80 = L.marker(
-                [40.52354, -74.43718],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_17effbab1d41c36e32cbc7062b0db59f = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_70a433c2f9a8c08d96f9ffd37b2b8807 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_92322dd41cb9916132f8217df913b880 = $(`<div id="html_92322dd41cb9916132f8217df913b880" style="width: 100.0%; height: 100.0%;">Scarlet Game Jam Spring 2025</div>`)[0];
-                popup_70a433c2f9a8c08d96f9ffd37b2b8807.setContent(html_92322dd41cb9916132f8217df913b880);
-            
-        
-
-        marker_68d659400a3b1a62fac20762b3e8ce80.bindPopup(popup_70a433c2f9a8c08d96f9ffd37b2b8807)
-        ;
-
-        
-    
-    
-                marker_68d659400a3b1a62fac20762b3e8ce80.setIcon(icon_17effbab1d41c36e32cbc7062b0db59f);
-            
-    
-            var marker_af8dc39dc2a91629767722574817765e = L.marker(
-                [40.52354, -74.43718],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_8d4137592c12f1c148a46abe1156ec7a = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_9bd3ba39bd6c59049c8f0bc972c59aff = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_d9d98bd358db22a3dbdc31c8f4f2a48b = $(`<div id="html_d9d98bd358db22a3dbdc31c8f4f2a48b" style="width: 100.0%; height: 100.0%;">Cookies and Meditation!</div>`)[0];
-                popup_9bd3ba39bd6c59049c8f0bc972c59aff.setContent(html_d9d98bd358db22a3dbdc31c8f4f2a48b);
-            
-        
-
-        marker_af8dc39dc2a91629767722574817765e.bindPopup(popup_9bd3ba39bd6c59049c8f0bc972c59aff)
-        ;
-
-        
-    
-    
-                marker_af8dc39dc2a91629767722574817765e.setIcon(icon_8d4137592c12f1c148a46abe1156ec7a);
-            
-    
-            var marker_108d2126434669810327b8f987de338f = L.marker(
-                [41.36692, -93.47362],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_977bf2df1aea105f12a8db4a39d73514 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "orange",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_a18af0e12f8fc8133bceb96bcd376be7 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_3f2c116e17aedb83a0e7b177d549c367 = $(`<div id="html_3f2c116e17aedb83a0e7b177d549c367" style="width: 100.0%; height: 100.0%;">Gaydar Plate Making</div>`)[0];
-                popup_a18af0e12f8fc8133bceb96bcd376be7.setContent(html_3f2c116e17aedb83a0e7b177d549c367);
-            
-        
-
-        marker_108d2126434669810327b8f987de338f.bindPopup(popup_a18af0e12f8fc8133bceb96bcd376be7)
-        ;
-
-        
-    
-    
-                marker_108d2126434669810327b8f987de338f.setIcon(icon_977bf2df1aea105f12a8db4a39d73514);
-            
-    
-            var marker_a020908438790cdd9bc2f0dac4023d49 = L.marker(
+            var marker_18eda371f17b386a46595511ba736618 = L.marker(
                 [40.4998, -74.44761],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_7befe0212845b14c461b6df801fc2d4d = L.AwesomeMarkers.icon(
+            var icon_347bed080ff1aabe2e6d60759a7c9338 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -371,72 +181,34 @@
             );
         
     
-        var popup_14e224f167f2d0505b62408c6e3b90cc = L.popup({
+        var popup_9caffe77a9d32d4f09bc60455dca4d51 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_c9dd99b200d9f240e45cb0dc2cab2ed3 = $(`<div id="html_c9dd99b200d9f240e45cb0dc2cab2ed3" style="width: 100.0%; height: 100.0%;">Polish Club General Meeting </div>`)[0];
-                popup_14e224f167f2d0505b62408c6e3b90cc.setContent(html_c9dd99b200d9f240e45cb0dc2cab2ed3);
+                var html_e54e66b7638c5ad1f9799d596344e36b = $(`<div id="html_e54e66b7638c5ad1f9799d596344e36b" style="width: 100.0%; height: 100.0%;">Polish Club General Meeting </div>`)[0];
+                popup_9caffe77a9d32d4f09bc60455dca4d51.setContent(html_e54e66b7638c5ad1f9799d596344e36b);
             
         
 
-        marker_a020908438790cdd9bc2f0dac4023d49.bindPopup(popup_14e224f167f2d0505b62408c6e3b90cc)
+        marker_18eda371f17b386a46595511ba736618.bindPopup(popup_9caffe77a9d32d4f09bc60455dca4d51)
         ;
 
         
     
     
-                marker_a020908438790cdd9bc2f0dac4023d49.setIcon(icon_7befe0212845b14c461b6df801fc2d4d);
+                marker_18eda371f17b386a46595511ba736618.setIcon(icon_347bed080ff1aabe2e6d60759a7c9338);
             
     
-            var marker_deeb95602a5232e4787460cc61bd2bbb = L.marker(
-                [40.47788, -74.43957],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_425af78f53c84eefabc172da634ed7fb = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_59094b5c289f5c81d2881cec4a08af57 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_e72423740311fe90a448eb3c24cf25b8 = $(`<div id="html_e72423740311fe90a448eb3c24cf25b8" style="width: 100.0%; height: 100.0%;">NJ Chapter of The Wildlife Society Spring Meeting</div>`)[0];
-                popup_59094b5c289f5c81d2881cec4a08af57.setContent(html_e72423740311fe90a448eb3c24cf25b8);
-            
-        
-
-        marker_deeb95602a5232e4787460cc61bd2bbb.bindPopup(popup_59094b5c289f5c81d2881cec4a08af57)
-        ;
-
-        
-    
-    
-                marker_deeb95602a5232e4787460cc61bd2bbb.setIcon(icon_425af78f53c84eefabc172da634ed7fb);
-            
-    
-            var marker_6198560e232c626fd1ab6d679f55a134 = L.marker(
+            var marker_aa4ee420acd0a8855e0f078dee9eaf00 = L.marker(
                 [40.52393, -74.45907],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_712f8911d426478ec2569c64fb0b4444 = L.AwesomeMarkers.icon(
+            var icon_2f79ca122a42114db8cf151033409250 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -447,376 +219,34 @@
             );
         
     
-        var popup_d096e37cd810f688fc1fe082f5b56fd2 = L.popup({
+        var popup_e69dac3ec6720f9d8e451a0e5f4bd59c = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_01e3897d0899b3e15fc2d34a903ed9c5 = $(`<div id="html_01e3897d0899b3e15fc2d34a903ed9c5" style="width: 100.0%; height: 100.0%;">Black Wednesday Breakfast</div>`)[0];
-                popup_d096e37cd810f688fc1fe082f5b56fd2.setContent(html_01e3897d0899b3e15fc2d34a903ed9c5);
+                var html_edb34bbd23c05ef336f9afa5cc2bc275 = $(`<div id="html_edb34bbd23c05ef336f9afa5cc2bc275" style="width: 100.0%; height: 100.0%;">Black Wednesday Breakfast</div>`)[0];
+                popup_e69dac3ec6720f9d8e451a0e5f4bd59c.setContent(html_edb34bbd23c05ef336f9afa5cc2bc275);
             
         
 
-        marker_6198560e232c626fd1ab6d679f55a134.bindPopup(popup_d096e37cd810f688fc1fe082f5b56fd2)
+        marker_aa4ee420acd0a8855e0f078dee9eaf00.bindPopup(popup_e69dac3ec6720f9d8e451a0e5f4bd59c)
         ;
 
         
     
     
-                marker_6198560e232c626fd1ab6d679f55a134.setIcon(icon_712f8911d426478ec2569c64fb0b4444);
+                marker_aa4ee420acd0a8855e0f078dee9eaf00.setIcon(icon_2f79ca122a42114db8cf151033409250);
             
     
-            var marker_e17d2de92d9a2794c534550efebb0f7d = L.marker(
-                [40.50185, -74.44837],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_c147a5e466c8d389f5671734e3ad179e = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_f7402b8421e90770d664735c93b2e43c = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_4a78bcd90dde3fc53fc45cf2dc3bb97b = $(`<div id="html_4a78bcd90dde3fc53fc45cf2dc3bb97b" style="width: 100.0%; height: 100.0%;">Alumni Mentoring Initiative</div>`)[0];
-                popup_f7402b8421e90770d664735c93b2e43c.setContent(html_4a78bcd90dde3fc53fc45cf2dc3bb97b);
-            
-        
-
-        marker_e17d2de92d9a2794c534550efebb0f7d.bindPopup(popup_f7402b8421e90770d664735c93b2e43c)
-        ;
-
-        
-    
-    
-                marker_e17d2de92d9a2794c534550efebb0f7d.setIcon(icon_c147a5e466c8d389f5671734e3ad179e);
-            
-    
-            var marker_31112a64cfb7174f09a0868e7546d3ea = L.marker(
-                [40.52354, -74.43718],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_f39748a3c7b4dd96171eb8db8ad675fb = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_b38a2f49650f356172ab5eafac91c04c = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_c699f1fe867f565b4bec4dc04587d932 = $(`<div id="html_c699f1fe867f565b4bec4dc04587d932" style="width: 100.0%; height: 100.0%;">Speaker Series with Ankisha Singh at Tesla</div>`)[0];
-                popup_b38a2f49650f356172ab5eafac91c04c.setContent(html_c699f1fe867f565b4bec4dc04587d932);
-            
-        
-
-        marker_31112a64cfb7174f09a0868e7546d3ea.bindPopup(popup_b38a2f49650f356172ab5eafac91c04c)
-        ;
-
-        
-    
-    
-                marker_31112a64cfb7174f09a0868e7546d3ea.setIcon(icon_f39748a3c7b4dd96171eb8db8ad675fb);
-            
-    
-            var marker_73eb1eddf182977a14d690fa2e26a47e = L.marker(
-                [40.52176, -74.46249],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_2cd6b539c11ec80450b879cb0740a6e0 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "orange",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_910d08f1a59a2a8956cea5505296eae0 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_ecbd28b766c424287bc9771a2a23ec25 = $(`<div id="html_ecbd28b766c424287bc9771a2a23ec25" style="width: 100.0%; height: 100.0%;">Get Animated with WiCS pt. 2</div>`)[0];
-                popup_910d08f1a59a2a8956cea5505296eae0.setContent(html_ecbd28b766c424287bc9771a2a23ec25);
-            
-        
-
-        marker_73eb1eddf182977a14d690fa2e26a47e.bindPopup(popup_910d08f1a59a2a8956cea5505296eae0)
-        ;
-
-        
-    
-    
-                marker_73eb1eddf182977a14d690fa2e26a47e.setIcon(icon_2cd6b539c11ec80450b879cb0740a6e0);
-            
-    
-            var marker_bd20246212d4b22678d3319813948a13 = L.marker(
-                [40.48471, -74.43663],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_51dc5d83c8cb1337d5fe73ef508bd52a = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_2c6d1059c3f8df6b75791a01607d766d = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_06df0b4cb8823693d83b0c4e53ccc471 = $(`<div id="html_06df0b4cb8823693d83b0c4e53ccc471" style="width: 100.0%; height: 100.0%;">Jazz and Java Spring 2025 – Verbal Mayhem in Black</div>`)[0];
-                popup_2c6d1059c3f8df6b75791a01607d766d.setContent(html_06df0b4cb8823693d83b0c4e53ccc471);
-            
-        
-
-        marker_bd20246212d4b22678d3319813948a13.bindPopup(popup_2c6d1059c3f8df6b75791a01607d766d)
-        ;
-
-        
-    
-    
-                marker_bd20246212d4b22678d3319813948a13.setIcon(icon_51dc5d83c8cb1337d5fe73ef508bd52a);
-            
-    
-            var marker_08b35f9b93f29dc4e1d7a12d01e62691 = L.marker(
-                [40.48415, -74.439],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_3b392c8e72ef4784683bd8e9b330c1fe = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_0f6d41ae9d18b47c430fb0257c05f1b6 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_6e38e9879d41fbfbe69f1451e529a77f = $(`<div id="html_6e38e9879d41fbfbe69f1451e529a77f" style="width: 100.0%; height: 100.0%;">Jameson Girls' Night In</div>`)[0];
-                popup_0f6d41ae9d18b47c430fb0257c05f1b6.setContent(html_6e38e9879d41fbfbe69f1451e529a77f);
-            
-        
-
-        marker_08b35f9b93f29dc4e1d7a12d01e62691.bindPopup(popup_0f6d41ae9d18b47c430fb0257c05f1b6)
-        ;
-
-        
-    
-    
-                marker_08b35f9b93f29dc4e1d7a12d01e62691.setIcon(icon_3b392c8e72ef4784683bd8e9b330c1fe);
-            
-    
-            var marker_4058a54ae55d37b86ec42407c73f6487 = L.marker(
-                [40.52195, -74.43488],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_44e30e21540091fe11fa0794d8a1bd54 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_547f319183daefa65568c21da9dc276b = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_58cb21774c3f7b6e140494f49511d124 = $(`<div id="html_58cb21774c3f7b6e140494f49511d124" style="width: 100.0%; height: 100.0%;">Draw Colorful Mandalas</div>`)[0];
-                popup_547f319183daefa65568c21da9dc276b.setContent(html_58cb21774c3f7b6e140494f49511d124);
-            
-        
-
-        marker_4058a54ae55d37b86ec42407c73f6487.bindPopup(popup_547f319183daefa65568c21da9dc276b)
-        ;
-
-        
-    
-    
-                marker_4058a54ae55d37b86ec42407c73f6487.setIcon(icon_44e30e21540091fe11fa0794d8a1bd54);
-            
-    
-            var marker_8780af7f8e03ab7e3646244dbfc73871 = L.marker(
-                [40.47812, -74.43095],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_6871c3b89dea3b8319e9bcd14841277a = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_00fe5372d20b878b565c6f611a703da7 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_e17372c87769bdc718f5aa11bef88ae2 = $(`<div id="html_e17372c87769bdc718f5aa11bef88ae2" style="width: 100.0%; height: 100.0%;">Cook apartments Italian ice and games</div>`)[0];
-                popup_00fe5372d20b878b565c6f611a703da7.setContent(html_e17372c87769bdc718f5aa11bef88ae2);
-            
-        
-
-        marker_8780af7f8e03ab7e3646244dbfc73871.bindPopup(popup_00fe5372d20b878b565c6f611a703da7)
-        ;
-
-        
-    
-    
-                marker_8780af7f8e03ab7e3646244dbfc73871.setIcon(icon_6871c3b89dea3b8319e9bcd14841277a);
-            
-    
-            var marker_98f680cb8639c3f28afe59bbe867926f = L.marker(
-                [40.52302, -74.45844],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_2ecb8adba9ce84f64e3345ab6a5c8771 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "orange",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_9e20661fcc77c48cf6a1faa4f600af06 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_5b9a41b13aca9978a7ac236ceaf3f9a2 = $(`<div id="html_5b9a41b13aca9978a7ac236ceaf3f9a2" style="width: 100.0%; height: 100.0%;">Brain Health Awareness Event</div>`)[0];
-                popup_9e20661fcc77c48cf6a1faa4f600af06.setContent(html_5b9a41b13aca9978a7ac236ceaf3f9a2);
-            
-        
-
-        marker_98f680cb8639c3f28afe59bbe867926f.bindPopup(popup_9e20661fcc77c48cf6a1faa4f600af06)
-        ;
-
-        
-    
-    
-                marker_98f680cb8639c3f28afe59bbe867926f.setIcon(icon_2ecb8adba9ce84f64e3345ab6a5c8771);
-            
-    
-            var marker_56bae44a7b56f25b31bf611cc302dffc = L.marker(
-                [40.48415, -74.439],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_f4c0a5407c406217b4d902ed6cbf700b = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_f3e4bcb9a3fc32a272af7a8b56bfcbed = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_d54aaad1d9a2dc0645a886156bf44122 = $(`<div id="html_d54aaad1d9a2dc0645a886156bf44122" style="width: 100.0%; height: 100.0%;">Douglass Arts Club | DAC X FACILE</div>`)[0];
-                popup_f3e4bcb9a3fc32a272af7a8b56bfcbed.setContent(html_d54aaad1d9a2dc0645a886156bf44122);
-            
-        
-
-        marker_56bae44a7b56f25b31bf611cc302dffc.bindPopup(popup_f3e4bcb9a3fc32a272af7a8b56bfcbed)
-        ;
-
-        
-    
-    
-                marker_56bae44a7b56f25b31bf611cc302dffc.setIcon(icon_f4c0a5407c406217b4d902ed6cbf700b);
-            
-    
-            var marker_5559311e9fd4ce57d68d89b1034babb8 = L.marker(
+            var marker_46d40bfb407b55a8d9b881823430bdc8 = L.marker(
                 [40.47788, -74.43957],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_bd22193d677ed7ec65b322cd56ba2ae6 = L.AwesomeMarkers.icon(
+            var icon_187a875d1825453a3d266a10e5c1a9a0 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -827,110 +257,34 @@
             );
         
     
-        var popup_aed916fc049404b9a183a116740e52a0 = L.popup({
+        var popup_cbabd5f9949dff824f42cb0bdb876013 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_5e69e68e070157c8ab7721780c73138a = $(`<div id="html_5e69e68e070157c8ab7721780c73138a" style="width: 100.0%; height: 100.0%;">ESGSA Strawberry Planting Day</div>`)[0];
-                popup_aed916fc049404b9a183a116740e52a0.setContent(html_5e69e68e070157c8ab7721780c73138a);
+                var html_fac7c1c1560a8957d628ed77fe78abcb = $(`<div id="html_fac7c1c1560a8957d628ed77fe78abcb" style="width: 100.0%; height: 100.0%;">NJ Chapter of The Wildlife Society Spring Meeting</div>`)[0];
+                popup_cbabd5f9949dff824f42cb0bdb876013.setContent(html_fac7c1c1560a8957d628ed77fe78abcb);
             
         
 
-        marker_5559311e9fd4ce57d68d89b1034babb8.bindPopup(popup_aed916fc049404b9a183a116740e52a0)
+        marker_46d40bfb407b55a8d9b881823430bdc8.bindPopup(popup_cbabd5f9949dff824f42cb0bdb876013)
         ;
 
         
     
     
-                marker_5559311e9fd4ce57d68d89b1034babb8.setIcon(icon_bd22193d677ed7ec65b322cd56ba2ae6);
+                marker_46d40bfb407b55a8d9b881823430bdc8.setIcon(icon_187a875d1825453a3d266a10e5c1a9a0);
             
     
-            var marker_1a5c0c4f717a6a3006676f59366f1a5f = L.marker(
-                [40.48419, -74.43746],
+            var marker_3f34fdd248484ace45261f2df29de2e9 = L.marker(
+                [40.50185, -74.44837],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_347d6b54ee85a00602470e9ba3cd8627 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_48c2ac4ab943c4410be7741fbffdac9f = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_72fd3e29f5ab8249fe3342c57c1b2709 = $(`<div id="html_72fd3e29f5ab8249fe3342c57c1b2709" style="width: 100.0%; height: 100.0%;">Sociology Career Planning </div>`)[0];
-                popup_48c2ac4ab943c4410be7741fbffdac9f.setContent(html_72fd3e29f5ab8249fe3342c57c1b2709);
-            
-        
-
-        marker_1a5c0c4f717a6a3006676f59366f1a5f.bindPopup(popup_48c2ac4ab943c4410be7741fbffdac9f)
-        ;
-
-        
-    
-    
-                marker_1a5c0c4f717a6a3006676f59366f1a5f.setIcon(icon_347d6b54ee85a00602470e9ba3cd8627);
-            
-    
-            var marker_67caaaf9689efb1cbaf03f52b3854eee = L.marker(
-                [40.48005, -74.43613],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_c1d1e6c7abb61ffbb5775b50ad552135 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_14e22c604d90396042106f0b53106674 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_f1fb5fae5d8ccdf7ee0dc9d74f21bc23 = $(`<div id="html_f1fb5fae5d8ccdf7ee0dc9d74f21bc23" style="width: 100.0%; height: 100.0%;">Cheese Festival</div>`)[0];
-                popup_14e22c604d90396042106f0b53106674.setContent(html_f1fb5fae5d8ccdf7ee0dc9d74f21bc23);
-            
-        
-
-        marker_67caaaf9689efb1cbaf03f52b3854eee.bindPopup(popup_14e22c604d90396042106f0b53106674)
-        ;
-
-        
-    
-    
-                marker_67caaaf9689efb1cbaf03f52b3854eee.setIcon(icon_c1d1e6c7abb61ffbb5775b50ad552135);
-            
-    
-            var marker_7ea00214edf7a6874a62b00ccfd3bc37 = L.marker(
-                [40.50321, -74.45278],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_76428db134f0457b2a3ee10ef4531ec8 = L.AwesomeMarkers.icon(
+            var icon_d2a63b703225470f68330d5c695df0cc = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -941,36 +295,36 @@
             );
         
     
-        var popup_8a63d2491579fc64ca155979eaee86b7 = L.popup({
+        var popup_231fed571a57906f2a71f9a7f25f5f1c = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_7bbe2da8e1a6548075063ba012bd4dd7 = $(`<div id="html_7bbe2da8e1a6548075063ba012bd4dd7" style="width: 100.0%; height: 100.0%;">Graduate Student & Family Rock Climbing – Free Event!</div>`)[0];
-                popup_8a63d2491579fc64ca155979eaee86b7.setContent(html_7bbe2da8e1a6548075063ba012bd4dd7);
+                var html_60d55fdbf92919787f9d8b875b21787e = $(`<div id="html_60d55fdbf92919787f9d8b875b21787e" style="width: 100.0%; height: 100.0%;">Alumni Mentoring Initiative</div>`)[0];
+                popup_231fed571a57906f2a71f9a7f25f5f1c.setContent(html_60d55fdbf92919787f9d8b875b21787e);
             
         
 
-        marker_7ea00214edf7a6874a62b00ccfd3bc37.bindPopup(popup_8a63d2491579fc64ca155979eaee86b7)
+        marker_3f34fdd248484ace45261f2df29de2e9.bindPopup(popup_231fed571a57906f2a71f9a7f25f5f1c)
         ;
 
         
     
     
-                marker_7ea00214edf7a6874a62b00ccfd3bc37.setIcon(icon_76428db134f0457b2a3ee10ef4531ec8);
+                marker_3f34fdd248484ace45261f2df29de2e9.setIcon(icon_d2a63b703225470f68330d5c695df0cc);
             
     
-            var marker_0cb51206e416b6a02d6a5513bb356533 = L.marker(
-                [40.49294, -74.44516],
+            var marker_c10a15b5bee9260bc62329780a9bb11a = L.marker(
+                [40.52354, -74.43718],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_c138870e91e0a8b6acecc7dd0073f4e9 = L.AwesomeMarkers.icon(
+            var icon_4bfa69de795d61a954ff875d3db805b9 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "blue",
+  "markerColor": "red",
   "iconColor": "white",
   "icon": "info-sign",
   "prefix": "glyphicon",
@@ -979,34 +333,34 @@
             );
         
     
-        var popup_edec8c9250165c2e1c0df678822fa26c = L.popup({
+        var popup_7bae9bbcf9fa9bd9a446362ff7caab83 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_33740bc7c88e07d65383c6e8c0b47c85 = $(`<div id="html_33740bc7c88e07d65383c6e8c0b47c85" style="width: 100.0%; height: 100.0%;">Ambedkar-Phule Jayanti 2025</div>`)[0];
-                popup_edec8c9250165c2e1c0df678822fa26c.setContent(html_33740bc7c88e07d65383c6e8c0b47c85);
+                var html_e0487c35ec3f74bfa65ec3a8b512650b = $(`<div id="html_e0487c35ec3f74bfa65ec3a8b512650b" style="width: 100.0%; height: 100.0%;">Speaker Series with Ankisha Singh at Tesla</div>`)[0];
+                popup_7bae9bbcf9fa9bd9a446362ff7caab83.setContent(html_e0487c35ec3f74bfa65ec3a8b512650b);
             
         
 
-        marker_0cb51206e416b6a02d6a5513bb356533.bindPopup(popup_edec8c9250165c2e1c0df678822fa26c)
+        marker_c10a15b5bee9260bc62329780a9bb11a.bindPopup(popup_7bae9bbcf9fa9bd9a446362ff7caab83)
         ;
 
         
     
     
-                marker_0cb51206e416b6a02d6a5513bb356533.setIcon(icon_c138870e91e0a8b6acecc7dd0073f4e9);
+                marker_c10a15b5bee9260bc62329780a9bb11a.setIcon(icon_4bfa69de795d61a954ff875d3db805b9);
             
     
-            var marker_2f26b94661c0529adbabed58c9db086d = L.marker(
-                [40.52302, -74.45844],
+            var marker_b07c021b8183ae9d4616ebb411544428 = L.marker(
+                [40.52176, -74.46249],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_a1466e6c4bdc76821bda9893f652f611 = L.AwesomeMarkers.icon(
+            var icon_bef68d27db20d9240033ae4ecca2e7ae = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1017,34 +371,34 @@
             );
         
     
-        var popup_4429597a3ef7215dc31f8133353af8ab = L.popup({
+        var popup_169fd37cf42bea4953b55e66796902f9 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_f28bbdfb730d28ea951aca4d7b29dc41 = $(`<div id="html_f28bbdfb730d28ea951aca4d7b29dc41" style="width: 100.0%; height: 100.0%;">RUBDT Spring Hafla 2025</div>`)[0];
-                popup_4429597a3ef7215dc31f8133353af8ab.setContent(html_f28bbdfb730d28ea951aca4d7b29dc41);
+                var html_0e50d671621af7a069b471be91f01511 = $(`<div id="html_0e50d671621af7a069b471be91f01511" style="width: 100.0%; height: 100.0%;">Get Animated with WiCS pt. 2</div>`)[0];
+                popup_169fd37cf42bea4953b55e66796902f9.setContent(html_0e50d671621af7a069b471be91f01511);
             
         
 
-        marker_2f26b94661c0529adbabed58c9db086d.bindPopup(popup_4429597a3ef7215dc31f8133353af8ab)
+        marker_b07c021b8183ae9d4616ebb411544428.bindPopup(popup_169fd37cf42bea4953b55e66796902f9)
         ;
 
         
     
     
-                marker_2f26b94661c0529adbabed58c9db086d.setIcon(icon_a1466e6c4bdc76821bda9893f652f611);
+                marker_b07c021b8183ae9d4616ebb411544428.setIcon(icon_bef68d27db20d9240033ae4ecca2e7ae);
             
     
-            var marker_b415dd988d4ff734ea8710ca8659becf = L.marker(
-                [40.47913, -74.43151],
+            var marker_c5a7e48034fd7232538b0ba0f4e2acbe = L.marker(
+                [40.48471, -74.43663],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_d455afc3108950f56095aa677204265e = L.AwesomeMarkers.icon(
+            var icon_e508fac5911f14c327d7229e5459a214 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1055,34 +409,34 @@
             );
         
     
-        var popup_4fd4f3bc9ec58c5c45eb6736aac9e2fe = L.popup({
+        var popup_0fbe60871ad847a27d91567eda031d0c = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_0d19792d1e60f290954d2acd5411af75 = $(`<div id="html_0d19792d1e60f290954d2acd5411af75" style="width: 100.0%; height: 100.0%;">CLACYs 2025 Award Ceremony</div>`)[0];
-                popup_4fd4f3bc9ec58c5c45eb6736aac9e2fe.setContent(html_0d19792d1e60f290954d2acd5411af75);
+                var html_9e844cb88f9488e80fe187cf5857a378 = $(`<div id="html_9e844cb88f9488e80fe187cf5857a378" style="width: 100.0%; height: 100.0%;">Jazz and Java Spring 2025 – Verbal Mayhem in Black</div>`)[0];
+                popup_0fbe60871ad847a27d91567eda031d0c.setContent(html_9e844cb88f9488e80fe187cf5857a378);
             
         
 
-        marker_b415dd988d4ff734ea8710ca8659becf.bindPopup(popup_4fd4f3bc9ec58c5c45eb6736aac9e2fe)
+        marker_c5a7e48034fd7232538b0ba0f4e2acbe.bindPopup(popup_0fbe60871ad847a27d91567eda031d0c)
         ;
 
         
     
     
-                marker_b415dd988d4ff734ea8710ca8659becf.setIcon(icon_d455afc3108950f56095aa677204265e);
+                marker_c5a7e48034fd7232538b0ba0f4e2acbe.setIcon(icon_e508fac5911f14c327d7229e5459a214);
             
     
-            var marker_f8409dc56807469f82d01e10bd870191 = L.marker(
-                [40.48411, -74.43907],
+            var marker_0bb2a281fbd65b646d5931b0b88ed23d = L.marker(
+                [40.48415, -74.439],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_80f6c90b18df1182f3ce7da5c88afd21 = L.AwesomeMarkers.icon(
+            var icon_941ca8a5b28a303e51e578eb84a67777 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1093,34 +447,72 @@
             );
         
     
-        var popup_22e093c75a3ff0f39f74b2fef677a716 = L.popup({
+        var popup_5bbfeb68a02bcea972861c7a282f3f0c = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_8e02464732cc3ea9400f5705a3fa2274 = $(`<div id="html_8e02464732cc3ea9400f5705a3fa2274" style="width: 100.0%; height: 100.0%;">Douglass Arts Club | Letter to Your Future Self </div>`)[0];
-                popup_22e093c75a3ff0f39f74b2fef677a716.setContent(html_8e02464732cc3ea9400f5705a3fa2274);
+                var html_cfb583209a74d05bbea90b35d6f0e303 = $(`<div id="html_cfb583209a74d05bbea90b35d6f0e303" style="width: 100.0%; height: 100.0%;">Jameson Girls' Night In</div>`)[0];
+                popup_5bbfeb68a02bcea972861c7a282f3f0c.setContent(html_cfb583209a74d05bbea90b35d6f0e303);
             
         
 
-        marker_f8409dc56807469f82d01e10bd870191.bindPopup(popup_22e093c75a3ff0f39f74b2fef677a716)
+        marker_0bb2a281fbd65b646d5931b0b88ed23d.bindPopup(popup_5bbfeb68a02bcea972861c7a282f3f0c)
         ;
 
         
     
     
-                marker_f8409dc56807469f82d01e10bd870191.setIcon(icon_80f6c90b18df1182f3ce7da5c88afd21);
+                marker_0bb2a281fbd65b646d5931b0b88ed23d.setIcon(icon_941ca8a5b28a303e51e578eb84a67777);
             
     
-            var marker_cfe3301dfad051933b1b628637fbd743 = L.marker(
+            var marker_99f548e0e34a7a3b7f1332c8a30d984e = L.marker(
+                [40.52195, -74.43488],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_febdad3b5d6ab3b7b6c483462d3cdaf7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3562162d780a52ca1e8b9e0abbdfa1ce = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_faa63f6b0a9c239b10f56ee1381968b0 = $(`<div id="html_faa63f6b0a9c239b10f56ee1381968b0" style="width: 100.0%; height: 100.0%;">Draw Colorful Mandalas</div>`)[0];
+                popup_3562162d780a52ca1e8b9e0abbdfa1ce.setContent(html_faa63f6b0a9c239b10f56ee1381968b0);
+            
+        
+
+        marker_99f548e0e34a7a3b7f1332c8a30d984e.bindPopup(popup_3562162d780a52ca1e8b9e0abbdfa1ce)
+        ;
+
+        
+    
+    
+                marker_99f548e0e34a7a3b7f1332c8a30d984e.setIcon(icon_febdad3b5d6ab3b7b6c483462d3cdaf7);
+            
+    
+            var marker_faecb42937e98982f649f877d7471038 = L.marker(
                 [40.47812, -74.43095],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_acdff84b5c1c68b808d95d707e204b0f = L.AwesomeMarkers.icon(
+            var icon_11eff9d85d85c19639152bf362fcbbfc = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1131,148 +523,34 @@
             );
         
     
-        var popup_77a7c5d9ef8a1ee55fdceb6bc25ce200 = L.popup({
+        var popup_a7c5060b4efa8c3a38c69df44edc3cfb = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_d9faf3975652f9d8ab16ea11824fbf36 = $(`<div id="html_d9faf3975652f9d8ab16ea11824fbf36" style="width: 100.0%; height: 100.0%;">Cook Apartments RHA Boardgame Night</div>`)[0];
-                popup_77a7c5d9ef8a1ee55fdceb6bc25ce200.setContent(html_d9faf3975652f9d8ab16ea11824fbf36);
+                var html_3de1013e2394e354ba14ee9963e13d27 = $(`<div id="html_3de1013e2394e354ba14ee9963e13d27" style="width: 100.0%; height: 100.0%;">Cook apartments Italian ice and games</div>`)[0];
+                popup_a7c5060b4efa8c3a38c69df44edc3cfb.setContent(html_3de1013e2394e354ba14ee9963e13d27);
             
         
 
-        marker_cfe3301dfad051933b1b628637fbd743.bindPopup(popup_77a7c5d9ef8a1ee55fdceb6bc25ce200)
+        marker_faecb42937e98982f649f877d7471038.bindPopup(popup_a7c5060b4efa8c3a38c69df44edc3cfb)
         ;
 
         
     
     
-                marker_cfe3301dfad051933b1b628637fbd743.setIcon(icon_acdff84b5c1c68b808d95d707e204b0f);
+                marker_faecb42937e98982f649f877d7471038.setIcon(icon_11eff9d85d85c19639152bf362fcbbfc);
             
     
-            var marker_bc6cba6a6d1b2f987c778b0337e6d7d7 = L.marker(
-                [40.52311, -74.45863],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_99bf6f64751c243462e0708939a60acc = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "orange",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_2877cae2b19732153fcefd24557ee3eb = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_c9c3a53c5edd0f40c272eaa0f34035df = $(`<div id="html_c9c3a53c5edd0f40c272eaa0f34035df" style="width: 100.0%; height: 100.0%;">Sunny Side Start Up</div>`)[0];
-                popup_2877cae2b19732153fcefd24557ee3eb.setContent(html_c9c3a53c5edd0f40c272eaa0f34035df);
-            
-        
-
-        marker_bc6cba6a6d1b2f987c778b0337e6d7d7.bindPopup(popup_2877cae2b19732153fcefd24557ee3eb)
-        ;
-
-        
-    
-    
-                marker_bc6cba6a6d1b2f987c778b0337e6d7d7.setIcon(icon_99bf6f64751c243462e0708939a60acc);
-            
-    
-            var marker_93ccdc83cd2a9304cf9718de432407aa = L.marker(
-                [40.52345, -74.4372],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_0eda27b1a8e2d0bd9e636ffcb0208de4 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_cf8143a3b00ba1500d776bfdd5909eb4 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_7e1cc3cdb14f6d704eea850fa2f7b631 = $(`<div id="html_7e1cc3cdb14f6d704eea850fa2f7b631" style="width: 100.0%; height: 100.0%;">Kahoot Game Night</div>`)[0];
-                popup_cf8143a3b00ba1500d776bfdd5909eb4.setContent(html_7e1cc3cdb14f6d704eea850fa2f7b631);
-            
-        
-
-        marker_93ccdc83cd2a9304cf9718de432407aa.bindPopup(popup_cf8143a3b00ba1500d776bfdd5909eb4)
-        ;
-
-        
-    
-    
-                marker_93ccdc83cd2a9304cf9718de432407aa.setIcon(icon_0eda27b1a8e2d0bd9e636ffcb0208de4);
-            
-    
-            var marker_680312f763355b6769510eb762afad43 = L.marker(
-                [40.50006, -74.44601],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_022559a5ec2b320223764b9fd4676dc2 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_b7d736460bb1a00d1434f5aeae4df52e = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_58bea5f402b8d4fb8e8a80db4fcc6490 = $(`<div id="html_58bea5f402b8d4fb8e8a80db4fcc6490" style="width: 100.0%; height: 100.0%;">Routure Gala</div>`)[0];
-                popup_b7d736460bb1a00d1434f5aeae4df52e.setContent(html_58bea5f402b8d4fb8e8a80db4fcc6490);
-            
-        
-
-        marker_680312f763355b6769510eb762afad43.bindPopup(popup_b7d736460bb1a00d1434f5aeae4df52e)
-        ;
-
-        
-    
-    
-                marker_680312f763355b6769510eb762afad43.setIcon(icon_022559a5ec2b320223764b9fd4676dc2);
-            
-    
-            var marker_3b7a93158509be39fb6979b44ea62195 = L.marker(
+            var marker_4bdfbcd82ee8b085d788168de4466e14 = L.marker(
                 [40.52302, -74.45844],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_db5a994857fe78f074446da5849d622c = L.AwesomeMarkers.icon(
+            var icon_ecbf8437f05ccd4c38baa2271acd4136 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1283,148 +561,34 @@
             );
         
     
-        var popup_0e213d01a4f405d40b4d95b1619898d4 = L.popup({
+        var popup_f8e598d9978b3ff9a177102db181085c = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_c7019138ced635389aa7b86462b8cce9 = $(`<div id="html_c7019138ced635389aa7b86462b8cce9" style="width: 100.0%; height: 100.0%;">P.R.O.M. with Women in ITI x Rutgers AI Club</div>`)[0];
-                popup_0e213d01a4f405d40b4d95b1619898d4.setContent(html_c7019138ced635389aa7b86462b8cce9);
+                var html_6735760724c22a238397278b86f7b9fc = $(`<div id="html_6735760724c22a238397278b86f7b9fc" style="width: 100.0%; height: 100.0%;">Brain Health Awareness Event</div>`)[0];
+                popup_f8e598d9978b3ff9a177102db181085c.setContent(html_6735760724c22a238397278b86f7b9fc);
             
         
 
-        marker_3b7a93158509be39fb6979b44ea62195.bindPopup(popup_0e213d01a4f405d40b4d95b1619898d4)
+        marker_4bdfbcd82ee8b085d788168de4466e14.bindPopup(popup_f8e598d9978b3ff9a177102db181085c)
         ;
 
         
     
     
-                marker_3b7a93158509be39fb6979b44ea62195.setIcon(icon_db5a994857fe78f074446da5849d622c);
+                marker_4bdfbcd82ee8b085d788168de4466e14.setIcon(icon_ecbf8437f05ccd4c38baa2271acd4136);
             
     
-            var marker_faac3a2a9ff0c081e65dd3958cc44852 = L.marker(
-                [33.58663, -101.87897],
+            var marker_fe3d5512ca04bfa5ec0ad0f9f56f6d8d = L.marker(
+                [40.48415, -74.439],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_a061f4908dd25711da51d77a4c102bc7 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "orange",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_a1a0860c7d3f9ee2bb797ebbbe1a9b5f = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_9dec9f378bb854e4417340f94dd85836 = $(`<div id="html_9dec9f378bb854e4417340f94dd85836" style="width: 100.0%; height: 100.0%;">Queer Studies Interest Group</div>`)[0];
-                popup_a1a0860c7d3f9ee2bb797ebbbe1a9b5f.setContent(html_9dec9f378bb854e4417340f94dd85836);
-            
-        
-
-        marker_faac3a2a9ff0c081e65dd3958cc44852.bindPopup(popup_a1a0860c7d3f9ee2bb797ebbbe1a9b5f)
-        ;
-
-        
-    
-    
-                marker_faac3a2a9ff0c081e65dd3958cc44852.setIcon(icon_a061f4908dd25711da51d77a4c102bc7);
-            
-    
-            var marker_2b2df3569fa94d027240f07fee3984b1 = L.marker(
-                [40.5231, -74.43574],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_e12db2865366fca57d1975b782139c79 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_ab0595dc33ac630ec1e6f07196524e85 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_afda35f23e71ace6f8f036260ad6e8bc = $(`<div id="html_afda35f23e71ace6f8f036260ad6e8bc" style="width: 100.0%; height: 100.0%;">MHAW: Wednesday Wellness Remix Adaptive Fitness Class</div>`)[0];
-                popup_ab0595dc33ac630ec1e6f07196524e85.setContent(html_afda35f23e71ace6f8f036260ad6e8bc);
-            
-        
-
-        marker_2b2df3569fa94d027240f07fee3984b1.bindPopup(popup_ab0595dc33ac630ec1e6f07196524e85)
-        ;
-
-        
-    
-    
-                marker_2b2df3569fa94d027240f07fee3984b1.setIcon(icon_e12db2865366fca57d1975b782139c79);
-            
-    
-            var marker_ac5365684ae9a7ede90ced7e8bee6080 = L.marker(
-                [40.50272, -74.45129],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_5dddbb7ae1c04c258e93c5f3b227796b = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_85e2b490a30abb2cd0fd2fdff1121fa6 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_61a5bb1c3cb8d9873c4d008295e08d45 = $(`<div id="html_61a5bb1c3cb8d9873c4d008295e08d45" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: Glow in the Dark Zumba</div>`)[0];
-                popup_85e2b490a30abb2cd0fd2fdff1121fa6.setContent(html_61a5bb1c3cb8d9873c4d008295e08d45);
-            
-        
-
-        marker_ac5365684ae9a7ede90ced7e8bee6080.bindPopup(popup_85e2b490a30abb2cd0fd2fdff1121fa6)
-        ;
-
-        
-    
-    
-                marker_ac5365684ae9a7ede90ced7e8bee6080.setIcon(icon_5dddbb7ae1c04c258e93c5f3b227796b);
-            
-    
-            var marker_241def5aa2980374f5a8b35fc299bbff = L.marker(
-                [40.47577, -74.42896],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_a40aa100511d031ab89f0eddf84a090a = L.AwesomeMarkers.icon(
+            var icon_940f2886f3b3544f0252ccc133f268f8 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1435,34 +599,148 @@
             );
         
     
-        var popup_c36b16d5d9eac695734ed62317f215f2 = L.popup({
+        var popup_be270b00ec0901ab96a830b70f680592 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_180332b71043460db4ee68d4441ecd1b = $(`<div id="html_180332b71043460db4ee68d4441ecd1b" style="width: 100.0%; height: 100.0%;">Rutgers Students Art Exhibit and Reception</div>`)[0];
-                popup_c36b16d5d9eac695734ed62317f215f2.setContent(html_180332b71043460db4ee68d4441ecd1b);
+                var html_6853a1578b68a47ea63877ced993ab3f = $(`<div id="html_6853a1578b68a47ea63877ced993ab3f" style="width: 100.0%; height: 100.0%;">Douglass Arts Club | DAC X FACILE</div>`)[0];
+                popup_be270b00ec0901ab96a830b70f680592.setContent(html_6853a1578b68a47ea63877ced993ab3f);
             
         
 
-        marker_241def5aa2980374f5a8b35fc299bbff.bindPopup(popup_c36b16d5d9eac695734ed62317f215f2)
+        marker_fe3d5512ca04bfa5ec0ad0f9f56f6d8d.bindPopup(popup_be270b00ec0901ab96a830b70f680592)
         ;
 
         
     
     
-                marker_241def5aa2980374f5a8b35fc299bbff.setIcon(icon_a40aa100511d031ab89f0eddf84a090a);
+                marker_fe3d5512ca04bfa5ec0ad0f9f56f6d8d.setIcon(icon_940f2886f3b3544f0252ccc133f268f8);
             
     
-            var marker_63f064ba7db557700d2aa7eca6d9a723 = L.marker(
-                [40.50267, -74.45179],
+            var marker_e47ffbd604cb755abd2970af767df7fd = L.marker(
+                [40.48419, -74.43746],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_f11a28077d1d760ef42f4d97e80add21 = L.AwesomeMarkers.icon(
+            var icon_84742815d43efa5182e5e879a7ee84e2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_59f04ead726deae84232d6f4fad9336c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0b9b8832f890ba6df905243527e1e5f2 = $(`<div id="html_0b9b8832f890ba6df905243527e1e5f2" style="width: 100.0%; height: 100.0%;">Sociology Career Planning </div>`)[0];
+                popup_59f04ead726deae84232d6f4fad9336c.setContent(html_0b9b8832f890ba6df905243527e1e5f2);
+            
+        
+
+        marker_e47ffbd604cb755abd2970af767df7fd.bindPopup(popup_59f04ead726deae84232d6f4fad9336c)
+        ;
+
+        
+    
+    
+                marker_e47ffbd604cb755abd2970af767df7fd.setIcon(icon_84742815d43efa5182e5e879a7ee84e2);
+            
+    
+            var marker_8d6f745b6e0a10e92ac73cf47dbbb48d = L.marker(
+                [40.47788, -74.43957],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_aec30b321c272b633681eea56433c16c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fd8733dac81c75770802fad15a7bfbaf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_280d172471c2aea5d2b38a42f036c5ed = $(`<div id="html_280d172471c2aea5d2b38a42f036c5ed" style="width: 100.0%; height: 100.0%;">ESGSA Strawberry Planting Day</div>`)[0];
+                popup_fd8733dac81c75770802fad15a7bfbaf.setContent(html_280d172471c2aea5d2b38a42f036c5ed);
+            
+        
+
+        marker_8d6f745b6e0a10e92ac73cf47dbbb48d.bindPopup(popup_fd8733dac81c75770802fad15a7bfbaf)
+        ;
+
+        
+    
+    
+                marker_8d6f745b6e0a10e92ac73cf47dbbb48d.setIcon(icon_aec30b321c272b633681eea56433c16c);
+            
+    
+            var marker_d331a9f32c86c419a242bedf241441a7 = L.marker(
+                [40.48005, -74.43613],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_58ea424c76e9140a8e4da23dd6c87e07 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_448c2218e66696fd0498cf895267b4e6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cc79c2594684b948986b3f2c18f6ed4e = $(`<div id="html_cc79c2594684b948986b3f2c18f6ed4e" style="width: 100.0%; height: 100.0%;">Cheese Festival</div>`)[0];
+                popup_448c2218e66696fd0498cf895267b4e6.setContent(html_cc79c2594684b948986b3f2c18f6ed4e);
+            
+        
+
+        marker_d331a9f32c86c419a242bedf241441a7.bindPopup(popup_448c2218e66696fd0498cf895267b4e6)
+        ;
+
+        
+    
+    
+                marker_d331a9f32c86c419a242bedf241441a7.setIcon(icon_58ea424c76e9140a8e4da23dd6c87e07);
+            
+    
+            var marker_a82a8b1775b1a0dbd81d06ef2a08e359 = L.marker(
+                [40.50321, -74.45278],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_d210d7668c0ddd836a10102a1cc6e958 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -1473,186 +751,34 @@
             );
         
     
-        var popup_ed2641b254d564a0532839f64e1e801f = L.popup({
+        var popup_1ff23fdd151f6956c74f9c0eaa80f136 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_571c98510ebcedebce7b6507f05626c5 = $(`<div id="html_571c98510ebcedebce7b6507f05626c5" style="width: 100.0%; height: 100.0%;">Finals Destress with Service Event </div>`)[0];
-                popup_ed2641b254d564a0532839f64e1e801f.setContent(html_571c98510ebcedebce7b6507f05626c5);
+                var html_d5069dc202baea14abeb17fd624a09b2 = $(`<div id="html_d5069dc202baea14abeb17fd624a09b2" style="width: 100.0%; height: 100.0%;">Graduate Student & Family Rock Climbing – Free Event!</div>`)[0];
+                popup_1ff23fdd151f6956c74f9c0eaa80f136.setContent(html_d5069dc202baea14abeb17fd624a09b2);
             
         
 
-        marker_63f064ba7db557700d2aa7eca6d9a723.bindPopup(popup_ed2641b254d564a0532839f64e1e801f)
+        marker_a82a8b1775b1a0dbd81d06ef2a08e359.bindPopup(popup_1ff23fdd151f6956c74f9c0eaa80f136)
         ;
 
         
     
     
-                marker_63f064ba7db557700d2aa7eca6d9a723.setIcon(icon_f11a28077d1d760ef42f4d97e80add21);
+                marker_a82a8b1775b1a0dbd81d06ef2a08e359.setIcon(icon_d210d7668c0ddd836a10102a1cc6e958);
             
     
-            var marker_65ac6493df212cb9069a098565be9770 = L.marker(
-                [40.50272, -74.45129],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_decbfb7d4dd844d7683f31e6bfaae207 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_d25b69da410221082be16286fd02135a = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_dfbacc9297ea5729c4e6a17ee73d7bc4 = $(`<div id="html_dfbacc9297ea5729c4e6a17ee73d7bc4" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: Coffee and Conversation </div>`)[0];
-                popup_d25b69da410221082be16286fd02135a.setContent(html_dfbacc9297ea5729c4e6a17ee73d7bc4);
-            
-        
-
-        marker_65ac6493df212cb9069a098565be9770.bindPopup(popup_d25b69da410221082be16286fd02135a)
-        ;
-
-        
-    
-    
-                marker_65ac6493df212cb9069a098565be9770.setIcon(icon_decbfb7d4dd844d7683f31e6bfaae207);
-            
-    
-            var marker_ffe9e58a2b2402524ee81b2bd1317fcd = L.marker(
-                [40.50185, -74.44837],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_82954d44bc942d03ab4d0181292a68aa = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_fe8626dd2759b2d8de31e80cc9d9ba74 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_2d04ad939e0a74ff56b7491609aa36f7 = $(`<div id="html_2d04ad939e0a74ff56b7491609aa36f7" style="width: 100.0%; height: 100.0%;">I Andean and Amazonian Symposium 2025</div>`)[0];
-                popup_fe8626dd2759b2d8de31e80cc9d9ba74.setContent(html_2d04ad939e0a74ff56b7491609aa36f7);
-            
-        
-
-        marker_ffe9e58a2b2402524ee81b2bd1317fcd.bindPopup(popup_fe8626dd2759b2d8de31e80cc9d9ba74)
-        ;
-
-        
-    
-    
-                marker_ffe9e58a2b2402524ee81b2bd1317fcd.setIcon(icon_82954d44bc942d03ab4d0181292a68aa);
-            
-    
-            var marker_b6b7873499d027cb23a6c1ad44feb86a = L.marker(
-                [40.52228, -74.45461],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_83ac2edad045a819afaa6185c99a4d6b = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "orange",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_b7014b22207fcbc08d602cb2c90d56ed = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_5ccb5924bfce75149f2161c5453f197f = $(`<div id="html_5ccb5924bfce75149f2161c5453f197f" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: I- Scream for ICE CREAM</div>`)[0];
-                popup_b7014b22207fcbc08d602cb2c90d56ed.setContent(html_5ccb5924bfce75149f2161c5453f197f);
-            
-        
-
-        marker_b6b7873499d027cb23a6c1ad44feb86a.bindPopup(popup_b7014b22207fcbc08d602cb2c90d56ed)
-        ;
-
-        
-    
-    
-                marker_b6b7873499d027cb23a6c1ad44feb86a.setIcon(icon_83ac2edad045a819afaa6185c99a4d6b);
-            
-    
-            var marker_563d2fb721fb8eb9f5e934562fbba590 = L.marker(
-                [40.50497, -74.45526],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_d405630d9dece13e71013ad7a92b8da2 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_e5da6466ddc973292aa3ed2273e4c926 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_57221e4f12607cc624a38acaae3b1580 = $(`<div id="html_57221e4f12607cc624a38acaae3b1580" style="width: 100.0%; height: 100.0%;">Student Veterans Organization Movie Night </div>`)[0];
-                popup_e5da6466ddc973292aa3ed2273e4c926.setContent(html_57221e4f12607cc624a38acaae3b1580);
-            
-        
-
-        marker_563d2fb721fb8eb9f5e934562fbba590.bindPopup(popup_e5da6466ddc973292aa3ed2273e4c926)
-        ;
-
-        
-    
-    
-                marker_563d2fb721fb8eb9f5e934562fbba590.setIcon(icon_d405630d9dece13e71013ad7a92b8da2);
-            
-    
-            var marker_098c568c2063967507246ba1424c723a = L.marker(
+            var marker_0186bf77b88d87d7f1f0e69eebd15f17 = L.marker(
                 [40.49294, -74.44516],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_770bc36ed2a1ce3fb02ed226152fda28 = L.AwesomeMarkers.icon(
+            var icon_73d7f415084d20ce8a460c34ca921277 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -1663,36 +789,36 @@
             );
         
     
-        var popup_f93f2de5962c43543f4b9157cc181ef0 = L.popup({
+        var popup_c2bc3d88e47e18cfe396ab45aed03eac = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_4df85bae466e9177a019d352cee29092 = $(`<div id="html_4df85bae466e9177a019d352cee29092" style="width: 100.0%; height: 100.0%;">Ru Animation Club: All Nighter !!!!</div>`)[0];
-                popup_f93f2de5962c43543f4b9157cc181ef0.setContent(html_4df85bae466e9177a019d352cee29092);
+                var html_15e245f265c457fc7a7f1a9bb04a0c2e = $(`<div id="html_15e245f265c457fc7a7f1a9bb04a0c2e" style="width: 100.0%; height: 100.0%;">Ambedkar-Phule Jayanti 2025</div>`)[0];
+                popup_c2bc3d88e47e18cfe396ab45aed03eac.setContent(html_15e245f265c457fc7a7f1a9bb04a0c2e);
             
         
 
-        marker_098c568c2063967507246ba1424c723a.bindPopup(popup_f93f2de5962c43543f4b9157cc181ef0)
+        marker_0186bf77b88d87d7f1f0e69eebd15f17.bindPopup(popup_c2bc3d88e47e18cfe396ab45aed03eac)
         ;
 
         
     
     
-                marker_098c568c2063967507246ba1424c723a.setIcon(icon_770bc36ed2a1ce3fb02ed226152fda28);
+                marker_0186bf77b88d87d7f1f0e69eebd15f17.setIcon(icon_73d7f415084d20ce8a460c34ca921277);
             
     
-            var marker_99a3fb6fd8dabba8d3ad9f48c9b49505 = L.marker(
-                [40.50573, -74.46143],
+            var marker_03c606567df7928abd2f85c29eb922c0 = L.marker(
+                [40.52302, -74.45844],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_5f111249b1247bf313a2bcf407370520 = L.AwesomeMarkers.icon(
+            var icon_941a2f9d415937eedbfccb752de390ef = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "blue",
+  "markerColor": "orange",
   "iconColor": "white",
   "icon": "info-sign",
   "prefix": "glyphicon",
@@ -1701,36 +827,36 @@
             );
         
     
-        var popup_14d3d31b7821dcdef8d776d36bcfa382 = L.popup({
+        var popup_8be36aba5a20f61dae45a5ace087014a = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_e1ac7ad311b33ad49fb1271220e6fc35 = $(`<div id="html_e1ac7ad311b33ad49fb1271220e6fc35" style="width: 100.0%; height: 100.0%;">RUS2S Breast Cancer Awareness 5K Walk/Run</div>`)[0];
-                popup_14d3d31b7821dcdef8d776d36bcfa382.setContent(html_e1ac7ad311b33ad49fb1271220e6fc35);
+                var html_8bbd3b8188a920854a830a4dc60a574f = $(`<div id="html_8bbd3b8188a920854a830a4dc60a574f" style="width: 100.0%; height: 100.0%;">RUBDT Spring Hafla 2025</div>`)[0];
+                popup_8be36aba5a20f61dae45a5ace087014a.setContent(html_8bbd3b8188a920854a830a4dc60a574f);
             
         
 
-        marker_99a3fb6fd8dabba8d3ad9f48c9b49505.bindPopup(popup_14d3d31b7821dcdef8d776d36bcfa382)
+        marker_03c606567df7928abd2f85c29eb922c0.bindPopup(popup_8be36aba5a20f61dae45a5ace087014a)
         ;
 
         
     
     
-                marker_99a3fb6fd8dabba8d3ad9f48c9b49505.setIcon(icon_5f111249b1247bf313a2bcf407370520);
+                marker_03c606567df7928abd2f85c29eb922c0.setIcon(icon_941a2f9d415937eedbfccb752de390ef);
             
     
-            var marker_7655305aaeaa3449bd2917691c34c403 = L.marker(
-                [40.50272, -74.45129],
+            var marker_9b1caa646a608b21f281d661a6a0a0a7 = L.marker(
+                [40.47913, -74.43151],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_4e8a2182fee120de8cf6eee85b32dc59 = L.AwesomeMarkers.icon(
+            var icon_2179bfb6a448e74f79a1ae4c5d99ec52 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "blue",
+  "markerColor": "green",
   "iconColor": "white",
   "icon": "info-sign",
   "prefix": "glyphicon",
@@ -1739,36 +865,36 @@
             );
         
     
-        var popup_e7689692b63e4c4ba0528850a31f0ecb = L.popup({
+        var popup_601f048db36b02c5a507ab8066ad1a26 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_c9af6035d81e9a437f525894dda966c3 = $(`<div id="html_c9af6035d81e9a437f525894dda966c3" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: Campfire & Smores</div>`)[0];
-                popup_e7689692b63e4c4ba0528850a31f0ecb.setContent(html_c9af6035d81e9a437f525894dda966c3);
+                var html_6a0e0a4e9323a2f1a383dc7e1189655e = $(`<div id="html_6a0e0a4e9323a2f1a383dc7e1189655e" style="width: 100.0%; height: 100.0%;">CLACYs 2025 Award Ceremony</div>`)[0];
+                popup_601f048db36b02c5a507ab8066ad1a26.setContent(html_6a0e0a4e9323a2f1a383dc7e1189655e);
             
         
 
-        marker_7655305aaeaa3449bd2917691c34c403.bindPopup(popup_e7689692b63e4c4ba0528850a31f0ecb)
+        marker_9b1caa646a608b21f281d661a6a0a0a7.bindPopup(popup_601f048db36b02c5a507ab8066ad1a26)
         ;
 
         
     
     
-                marker_7655305aaeaa3449bd2917691c34c403.setIcon(icon_4e8a2182fee120de8cf6eee85b32dc59);
+                marker_9b1caa646a608b21f281d661a6a0a0a7.setIcon(icon_2179bfb6a448e74f79a1ae4c5d99ec52);
             
     
-            var marker_1856687dc38ffce44e5bf8468a7c917d = L.marker(
-                [40.50308, -74.44975],
+            var marker_f659e891be7dc48efbee07a9f49fee47 = L.marker(
+                [40.48411, -74.43907],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_45874b63c1cfae5497eb6edc94125b45 = L.AwesomeMarkers.icon(
+            var icon_c0cae8f3d33884a6fd5aa83ff07e0a9b = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "blue",
+  "markerColor": "green",
   "iconColor": "white",
   "icon": "info-sign",
   "prefix": "glyphicon",
@@ -1777,34 +903,110 @@
             );
         
     
-        var popup_0b345f73f8ef5b3376351aeab88b9689 = L.popup({
+        var popup_0daa5d437d0479658319ea875f4d53d8 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_4232370ccd096de10715aa07b860aa39 = $(`<div id="html_4232370ccd096de10715aa07b860aa39" style="width: 100.0%; height: 100.0%;">DeStress Fest: Release</div>`)[0];
-                popup_0b345f73f8ef5b3376351aeab88b9689.setContent(html_4232370ccd096de10715aa07b860aa39);
+                var html_713c22e761f81004cb26ed3b1c175558 = $(`<div id="html_713c22e761f81004cb26ed3b1c175558" style="width: 100.0%; height: 100.0%;">Douglass Arts Club | Letter to Your Future Self </div>`)[0];
+                popup_0daa5d437d0479658319ea875f4d53d8.setContent(html_713c22e761f81004cb26ed3b1c175558);
             
         
 
-        marker_1856687dc38ffce44e5bf8468a7c917d.bindPopup(popup_0b345f73f8ef5b3376351aeab88b9689)
+        marker_f659e891be7dc48efbee07a9f49fee47.bindPopup(popup_0daa5d437d0479658319ea875f4d53d8)
         ;
 
         
     
     
-                marker_1856687dc38ffce44e5bf8468a7c917d.setIcon(icon_45874b63c1cfae5497eb6edc94125b45);
+                marker_f659e891be7dc48efbee07a9f49fee47.setIcon(icon_c0cae8f3d33884a6fd5aa83ff07e0a9b);
             
     
-            var marker_a2eb17a6c2a925c41b396782ed746f61 = L.marker(
+            var marker_555b2632398a40837d49df13e6707663 = L.marker(
+                [40.47812, -74.43095],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_775cddbcdb8d08d838725137d06e1860 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_330863e05c2a864e3a01363a675ca3d0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ee4db9f1a4e9204556f3e22a4e56eed7 = $(`<div id="html_ee4db9f1a4e9204556f3e22a4e56eed7" style="width: 100.0%; height: 100.0%;">Cook Apartments RHA Boardgame Night</div>`)[0];
+                popup_330863e05c2a864e3a01363a675ca3d0.setContent(html_ee4db9f1a4e9204556f3e22a4e56eed7);
+            
+        
+
+        marker_555b2632398a40837d49df13e6707663.bindPopup(popup_330863e05c2a864e3a01363a675ca3d0)
+        ;
+
+        
+    
+    
+                marker_555b2632398a40837d49df13e6707663.setIcon(icon_775cddbcdb8d08d838725137d06e1860);
+            
+    
+            var marker_74815a18b7579c9d5dd8650f5b0f5fc2 = L.marker(
+                [40.52311, -74.45863],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_4af37f770a69416afa8784ef4c4a42a4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0bbf73611efafdf65fdee9e7a6f3b3d5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bd57fc883f3813b4e17fb9849993c3ec = $(`<div id="html_bd57fc883f3813b4e17fb9849993c3ec" style="width: 100.0%; height: 100.0%;">Sunny Side Start Up</div>`)[0];
+                popup_0bbf73611efafdf65fdee9e7a6f3b3d5.setContent(html_bd57fc883f3813b4e17fb9849993c3ec);
+            
+        
+
+        marker_74815a18b7579c9d5dd8650f5b0f5fc2.bindPopup(popup_0bbf73611efafdf65fdee9e7a6f3b3d5)
+        ;
+
+        
+    
+    
+                marker_74815a18b7579c9d5dd8650f5b0f5fc2.setIcon(icon_4af37f770a69416afa8784ef4c4a42a4);
+            
+    
+            var marker_35b0ea4db44a6849f777cf5e59dd9f19 = L.marker(
                 [40.52345, -74.4372],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_1e9837878a3354d8ccafc20182140fb4 = L.AwesomeMarkers.icon(
+            var icon_2bfad69b66047faf2da2d71b76a304a8 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -1815,34 +1017,34 @@
             );
         
     
-        var popup_cb827d57ba65c8f0abb5f97bcbb4ee8c = L.popup({
+        var popup_06d6d28abe6ad59af07cce3b4d2602af = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_dc207e72690aafac78964d763267176b = $(`<div id="html_dc207e72690aafac78964d763267176b" style="width: 100.0%; height: 100.0%;">Destress & Self-Care Night</div>`)[0];
-                popup_cb827d57ba65c8f0abb5f97bcbb4ee8c.setContent(html_dc207e72690aafac78964d763267176b);
+                var html_267adafc13e22e12638d6afac29ed2ac = $(`<div id="html_267adafc13e22e12638d6afac29ed2ac" style="width: 100.0%; height: 100.0%;">Kahoot Game Night</div>`)[0];
+                popup_06d6d28abe6ad59af07cce3b4d2602af.setContent(html_267adafc13e22e12638d6afac29ed2ac);
             
         
 
-        marker_a2eb17a6c2a925c41b396782ed746f61.bindPopup(popup_cb827d57ba65c8f0abb5f97bcbb4ee8c)
+        marker_35b0ea4db44a6849f777cf5e59dd9f19.bindPopup(popup_06d6d28abe6ad59af07cce3b4d2602af)
         ;
 
         
     
     
-                marker_a2eb17a6c2a925c41b396782ed746f61.setIcon(icon_1e9837878a3354d8ccafc20182140fb4);
+                marker_35b0ea4db44a6849f777cf5e59dd9f19.setIcon(icon_2bfad69b66047faf2da2d71b76a304a8);
             
     
-            var marker_5e269720aee438cab3824455cc436137 = L.marker(
-                [40.50361, -74.44848],
+            var marker_6ab3475f23f921dfbfd4769dfb888795 = L.marker(
+                [40.50006, -74.44601],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_aa23a293e5209d5cd282da7698758115 = L.AwesomeMarkers.icon(
+            var icon_130578e2d6e75ae664963135752b8676 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -1853,34 +1055,224 @@
             );
         
     
-        var popup_28137ab86b62acb7ff075991087cfc4b = L.popup({
+        var popup_c72d7f5b996f547f871b972bf9a21712 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_f62225fee438aad636474e4214514740 = $(`<div id="html_f62225fee438aad636474e4214514740" style="width: 100.0%; height: 100.0%;">DeStress Fest: Relax</div>`)[0];
-                popup_28137ab86b62acb7ff075991087cfc4b.setContent(html_f62225fee438aad636474e4214514740);
+                var html_741833599eab9dde5eafaf99524e2a6a = $(`<div id="html_741833599eab9dde5eafaf99524e2a6a" style="width: 100.0%; height: 100.0%;">Routure Gala</div>`)[0];
+                popup_c72d7f5b996f547f871b972bf9a21712.setContent(html_741833599eab9dde5eafaf99524e2a6a);
             
         
 
-        marker_5e269720aee438cab3824455cc436137.bindPopup(popup_28137ab86b62acb7ff075991087cfc4b)
+        marker_6ab3475f23f921dfbfd4769dfb888795.bindPopup(popup_c72d7f5b996f547f871b972bf9a21712)
         ;
 
         
     
     
-                marker_5e269720aee438cab3824455cc436137.setIcon(icon_aa23a293e5209d5cd282da7698758115);
+                marker_6ab3475f23f921dfbfd4769dfb888795.setIcon(icon_130578e2d6e75ae664963135752b8676);
             
     
-            var marker_25ca54f44f5a7da60bcaa7688e5f9f2c = L.marker(
+            var marker_e41d3b83a6f27010c636b73ddc9110d5 = L.marker(
+                [40.52302, -74.45844],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_9f689b85cab0f669628731d840a4836c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4958d5a4c87d5ec2410bc2db2218a409 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a9f4e0560976a0265055173f5a38f4c = $(`<div id="html_9a9f4e0560976a0265055173f5a38f4c" style="width: 100.0%; height: 100.0%;">P.R.O.M. with Women in ITI x Rutgers AI Club</div>`)[0];
+                popup_4958d5a4c87d5ec2410bc2db2218a409.setContent(html_9a9f4e0560976a0265055173f5a38f4c);
+            
+        
+
+        marker_e41d3b83a6f27010c636b73ddc9110d5.bindPopup(popup_4958d5a4c87d5ec2410bc2db2218a409)
+        ;
+
+        
+    
+    
+                marker_e41d3b83a6f27010c636b73ddc9110d5.setIcon(icon_9f689b85cab0f669628731d840a4836c);
+            
+    
+            var marker_0fd7112c1132251682150d91a48fcd7b = L.marker(
+                [33.58663, -101.87897],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_0dc0b3be1643dbd45f0fcec6103b239c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0eea0df0740037ec9bb6160ab3f5120f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3bd396da7b97afea6be1837753f08c1b = $(`<div id="html_3bd396da7b97afea6be1837753f08c1b" style="width: 100.0%; height: 100.0%;">Queer Studies Interest Group</div>`)[0];
+                popup_0eea0df0740037ec9bb6160ab3f5120f.setContent(html_3bd396da7b97afea6be1837753f08c1b);
+            
+        
+
+        marker_0fd7112c1132251682150d91a48fcd7b.bindPopup(popup_0eea0df0740037ec9bb6160ab3f5120f)
+        ;
+
+        
+    
+    
+                marker_0fd7112c1132251682150d91a48fcd7b.setIcon(icon_0dc0b3be1643dbd45f0fcec6103b239c);
+            
+    
+            var marker_f271565aa19426ad8b1d3d86ec5d0649 = L.marker(
+                [40.5231, -74.43574],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_9cba09f0107266bf523d65b5924f7b69 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d8aac091a069f640d123cdd0c39601ae = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4f33fb019058722a2ed00fe31c5bbe70 = $(`<div id="html_4f33fb019058722a2ed00fe31c5bbe70" style="width: 100.0%; height: 100.0%;">MHAW: Wednesday Wellness Remix Adaptive Fitness Class</div>`)[0];
+                popup_d8aac091a069f640d123cdd0c39601ae.setContent(html_4f33fb019058722a2ed00fe31c5bbe70);
+            
+        
+
+        marker_f271565aa19426ad8b1d3d86ec5d0649.bindPopup(popup_d8aac091a069f640d123cdd0c39601ae)
+        ;
+
+        
+    
+    
+                marker_f271565aa19426ad8b1d3d86ec5d0649.setIcon(icon_9cba09f0107266bf523d65b5924f7b69);
+            
+    
+            var marker_55eac8ae01216e117da7e754930b808e = L.marker(
+                [40.50272, -74.45129],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_67d293b8fd88db9f738bc4bccdce89df = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_511f04ccc203f0b417d2b07a3fca9795 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a577cd54564aa912cc3d8679a24f93bb = $(`<div id="html_a577cd54564aa912cc3d8679a24f93bb" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: Glow in the Dark Zumba</div>`)[0];
+                popup_511f04ccc203f0b417d2b07a3fca9795.setContent(html_a577cd54564aa912cc3d8679a24f93bb);
+            
+        
+
+        marker_55eac8ae01216e117da7e754930b808e.bindPopup(popup_511f04ccc203f0b417d2b07a3fca9795)
+        ;
+
+        
+    
+    
+                marker_55eac8ae01216e117da7e754930b808e.setIcon(icon_67d293b8fd88db9f738bc4bccdce89df);
+            
+    
+            var marker_de84a0da56eddc8b60bf842e0cfa878b = L.marker(
+                [40.47577, -74.42896],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_85e6e7ceddcd99fc6b35bfdfacdaa8b7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8aebcaf8f9554cbcebb4d3216e0f50e6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b0ae39137e28a88d1a7a8eb9601338c5 = $(`<div id="html_b0ae39137e28a88d1a7a8eb9601338c5" style="width: 100.0%; height: 100.0%;">Rutgers Students Art Exhibit and Reception</div>`)[0];
+                popup_8aebcaf8f9554cbcebb4d3216e0f50e6.setContent(html_b0ae39137e28a88d1a7a8eb9601338c5);
+            
+        
+
+        marker_de84a0da56eddc8b60bf842e0cfa878b.bindPopup(popup_8aebcaf8f9554cbcebb4d3216e0f50e6)
+        ;
+
+        
+    
+    
+                marker_de84a0da56eddc8b60bf842e0cfa878b.setIcon(icon_85e6e7ceddcd99fc6b35bfdfacdaa8b7);
+            
+    
+            var marker_eeb5a3ce58cf9ea05b6d50d90abc3ea1 = L.marker(
                 [40.50267, -74.45179],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_72e525f23533a6452426fd309b90ea51 = L.AwesomeMarkers.icon(
+            var icon_4c4c248e98adb53c70e03a48b5c12630 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -1891,110 +1283,34 @@
             );
         
     
-        var popup_5d82a3f4283fa5750a68331047e9a958 = L.popup({
+        var popup_e7bda72b768bb6fd82ee4018a9eb2481 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_d68e4aee5ebccb1402f62f2d9ccdda35 = $(`<div id="html_d68e4aee5ebccb1402f62f2d9ccdda35" style="width: 100.0%; height: 100.0%;">Spring Carnival</div>`)[0];
-                popup_5d82a3f4283fa5750a68331047e9a958.setContent(html_d68e4aee5ebccb1402f62f2d9ccdda35);
+                var html_348b59345009f59a82e8301462f82023 = $(`<div id="html_348b59345009f59a82e8301462f82023" style="width: 100.0%; height: 100.0%;">Finals Destress with Service Event </div>`)[0];
+                popup_e7bda72b768bb6fd82ee4018a9eb2481.setContent(html_348b59345009f59a82e8301462f82023);
             
         
 
-        marker_25ca54f44f5a7da60bcaa7688e5f9f2c.bindPopup(popup_5d82a3f4283fa5750a68331047e9a958)
+        marker_eeb5a3ce58cf9ea05b6d50d90abc3ea1.bindPopup(popup_e7bda72b768bb6fd82ee4018a9eb2481)
         ;
 
         
     
     
-                marker_25ca54f44f5a7da60bcaa7688e5f9f2c.setIcon(icon_72e525f23533a6452426fd309b90ea51);
+                marker_eeb5a3ce58cf9ea05b6d50d90abc3ea1.setIcon(icon_4c4c248e98adb53c70e03a48b5c12630);
             
     
-            var marker_b1c806b69003817b35c398471cf721bb = L.marker(
-                [40.48591, -74.43582],
+            var marker_d958728c5244d0eb298a3d7fcc05b73e = L.marker(
+                [40.50272, -74.45129],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_d767c23411b5b3076ef21acefe760f2d = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_7d000d3c6cd52c20bf953d244bf34f4a = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_8d2c4a29c83dfef2347faa2759f658e2 = $(`<div id="html_8d2c4a29c83dfef2347faa2759f658e2" style="width: 100.0%; height: 100.0%;">RUCVGM Performance</div>`)[0];
-                popup_7d000d3c6cd52c20bf953d244bf34f4a.setContent(html_8d2c4a29c83dfef2347faa2759f658e2);
-            
-        
-
-        marker_b1c806b69003817b35c398471cf721bb.bindPopup(popup_7d000d3c6cd52c20bf953d244bf34f4a)
-        ;
-
-        
-    
-    
-                marker_b1c806b69003817b35c398471cf721bb.setIcon(icon_d767c23411b5b3076ef21acefe760f2d);
-            
-    
-            var marker_c0fe7f76b5b889ed787aebb5aa50e57a = L.marker(
-                [40.48415, -74.439],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_522ba09d912fa0862c71d0345ac4325b = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_fba9003482c5738f834bdf4ab88fea09 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_3e6696caf3a204fcfefa9e3d01cdf2a6 = $(`<div id="html_3e6696caf3a204fcfefa9e3d01cdf2a6" style="width: 100.0%; height: 100.0%;">Douglass Arts Club | Glass Tumbler Painting Picnic</div>`)[0];
-                popup_fba9003482c5738f834bdf4ab88fea09.setContent(html_3e6696caf3a204fcfefa9e3d01cdf2a6);
-            
-        
-
-        marker_c0fe7f76b5b889ed787aebb5aa50e57a.bindPopup(popup_fba9003482c5738f834bdf4ab88fea09)
-        ;
-
-        
-    
-    
-                marker_c0fe7f76b5b889ed787aebb5aa50e57a.setIcon(icon_522ba09d912fa0862c71d0345ac4325b);
-            
-    
-            var marker_4c7511133b19417d05835510198b4ae5 = L.marker(
-                [40.50361, -74.44848],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_a51358571148f7b53f1f02903525b44f = L.AwesomeMarkers.icon(
+            var icon_975159ea799cad03b2e9d72156bb9108 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -2005,72 +1321,34 @@
             );
         
     
-        var popup_37d6876e031cf6fe47e501960cdae239 = L.popup({
+        var popup_186c44cc23722a2711bf924898b0ffa9 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_a5f204238ab2d1ebd3bb7f6882c95160 = $(`<div id="html_a5f204238ab2d1ebd3bb7f6882c95160" style="width: 100.0%; height: 100.0%;">DeStress Fest: Recenter</div>`)[0];
-                popup_37d6876e031cf6fe47e501960cdae239.setContent(html_a5f204238ab2d1ebd3bb7f6882c95160);
+                var html_89f02959bb8523da8a8944deca1dbad8 = $(`<div id="html_89f02959bb8523da8a8944deca1dbad8" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: Coffee and Conversation </div>`)[0];
+                popup_186c44cc23722a2711bf924898b0ffa9.setContent(html_89f02959bb8523da8a8944deca1dbad8);
             
         
 
-        marker_4c7511133b19417d05835510198b4ae5.bindPopup(popup_37d6876e031cf6fe47e501960cdae239)
+        marker_d958728c5244d0eb298a3d7fcc05b73e.bindPopup(popup_186c44cc23722a2711bf924898b0ffa9)
         ;
 
         
     
     
-                marker_4c7511133b19417d05835510198b4ae5.setIcon(icon_a51358571148f7b53f1f02903525b44f);
+                marker_d958728c5244d0eb298a3d7fcc05b73e.setIcon(icon_975159ea799cad03b2e9d72156bb9108);
             
     
-            var marker_1b65895094d707df29bb06a02b169798 = L.marker(
-                [40.49877, -74.44784],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_8d23330277096f1d2b032ba7cbd05b85 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_a02e5170c97b34a7fc749c741724e380 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_e51dc2e81ee0b14cbc4366a7840902f9 = $(`<div id="html_e51dc2e81ee0b14cbc4366a7840902f9" style="width: 100.0%; height: 100.0%;">Friendship Fridays</div>`)[0];
-                popup_a02e5170c97b34a7fc749c741724e380.setContent(html_e51dc2e81ee0b14cbc4366a7840902f9);
-            
-        
-
-        marker_1b65895094d707df29bb06a02b169798.bindPopup(popup_a02e5170c97b34a7fc749c741724e380)
-        ;
-
-        
-    
-    
-                marker_1b65895094d707df29bb06a02b169798.setIcon(icon_8d23330277096f1d2b032ba7cbd05b85);
-            
-    
-            var marker_6045ee157922f7361bf5113a908fb957 = L.marker(
+            var marker_d9ede5879b929e788803adf6c9e734a4 = L.marker(
                 [40.50185, -74.44837],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_c11c06d4ae73d99a05b95cf260a06578 = L.AwesomeMarkers.icon(
+            var icon_aee3d22ea349273456c81e19ff026376 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -2081,34 +1359,72 @@
             );
         
     
-        var popup_64fc868831241d05f8a776373eab82e9 = L.popup({
+        var popup_6485948ad03686fcdfec50c1128b3bf3 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_f4c20bd271ac107304328934a94b15aa = $(`<div id="html_f4c20bd271ac107304328934a94b15aa" style="width: 100.0%; height: 100.0%;">Romancing the Craft</div>`)[0];
-                popup_64fc868831241d05f8a776373eab82e9.setContent(html_f4c20bd271ac107304328934a94b15aa);
+                var html_791c64971959dff401c58647647b344a = $(`<div id="html_791c64971959dff401c58647647b344a" style="width: 100.0%; height: 100.0%;">I Andean and Amazonian Symposium 2025</div>`)[0];
+                popup_6485948ad03686fcdfec50c1128b3bf3.setContent(html_791c64971959dff401c58647647b344a);
             
         
 
-        marker_6045ee157922f7361bf5113a908fb957.bindPopup(popup_64fc868831241d05f8a776373eab82e9)
+        marker_d9ede5879b929e788803adf6c9e734a4.bindPopup(popup_6485948ad03686fcdfec50c1128b3bf3)
         ;
 
         
     
     
-                marker_6045ee157922f7361bf5113a908fb957.setIcon(icon_c11c06d4ae73d99a05b95cf260a06578);
+                marker_d9ede5879b929e788803adf6c9e734a4.setIcon(icon_aee3d22ea349273456c81e19ff026376);
             
     
-            var marker_74b12661fe59c373386d7ddbf285b680 = L.marker(
-                [40.50096, -74.4483],
+            var marker_8ec1f322c87029ab644d38fdad4f262b = L.marker(
+                [40.52228, -74.45461],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_8365fe709a6a7c00ad333a1f5f145e81 = L.AwesomeMarkers.icon(
+            var icon_18ac69c7727183dbe2d23f4629727eaa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b3c377e99d50eed9466327a331ba489f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_43c180edc203c7c4cb4455dfe3401bc3 = $(`<div id="html_43c180edc203c7c4cb4455dfe3401bc3" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: I- Scream for ICE CREAM</div>`)[0];
+                popup_b3c377e99d50eed9466327a331ba489f.setContent(html_43c180edc203c7c4cb4455dfe3401bc3);
+            
+        
+
+        marker_8ec1f322c87029ab644d38fdad4f262b.bindPopup(popup_b3c377e99d50eed9466327a331ba489f)
+        ;
+
+        
+    
+    
+                marker_8ec1f322c87029ab644d38fdad4f262b.setIcon(icon_18ac69c7727183dbe2d23f4629727eaa);
+            
+    
+            var marker_da834d9414a97f3c6043cc4dc3bc3add = L.marker(
+                [40.50497, -74.45526],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_3db898fa4650ac05d651627c0a4ec7ef = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -2119,34 +1435,34 @@
             );
         
     
-        var popup_031f2147cc164f291d9124f629d600c1 = L.popup({
+        var popup_6d967fd700b52847935df6a8ef8fd8b2 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_bd87340f9c0bd790e4c11e93dfb9dbd0 = $(`<div id="html_bd87340f9c0bd790e4c11e93dfb9dbd0" style="width: 100.0%; height: 100.0%;">RULing 2025</div>`)[0];
-                popup_031f2147cc164f291d9124f629d600c1.setContent(html_bd87340f9c0bd790e4c11e93dfb9dbd0);
+                var html_05599dd276aae9ad6bcc3c6a5738b0eb = $(`<div id="html_05599dd276aae9ad6bcc3c6a5738b0eb" style="width: 100.0%; height: 100.0%;">Student Veterans Organization Movie Night </div>`)[0];
+                popup_6d967fd700b52847935df6a8ef8fd8b2.setContent(html_05599dd276aae9ad6bcc3c6a5738b0eb);
             
         
 
-        marker_74b12661fe59c373386d7ddbf285b680.bindPopup(popup_031f2147cc164f291d9124f629d600c1)
+        marker_da834d9414a97f3c6043cc4dc3bc3add.bindPopup(popup_6d967fd700b52847935df6a8ef8fd8b2)
         ;
 
         
     
     
-                marker_74b12661fe59c373386d7ddbf285b680.setIcon(icon_8365fe709a6a7c00ad333a1f5f145e81);
+                marker_da834d9414a97f3c6043cc4dc3bc3add.setIcon(icon_3db898fa4650ac05d651627c0a4ec7ef);
             
     
-            var marker_fba6724a09a88f868790e395c98cb740 = L.marker(
-                [40.50096, -74.4483],
+            var marker_7bcd9bb49790dfea97c57840fc77a720 = L.marker(
+                [40.49294, -74.44516],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_b8d8fc1d1b64367c87d5dea9ce3fda49 = L.AwesomeMarkers.icon(
+            var icon_922163a6dd140b726eb85e88e9143696 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -2157,34 +1473,110 @@
             );
         
     
-        var popup_e22f9b465aa0ed1f15dad14e0b9decef = L.popup({
+        var popup_7a4eb6a8e946dff26f7d9c5619a7f516 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_9cb6a954719b1512a5b16ff1ebcfd56f = $(`<div id="html_9cb6a954719b1512a5b16ff1ebcfd56f" style="width: 100.0%; height: 100.0%;">End-of-Year Porch Program</div>`)[0];
-                popup_e22f9b465aa0ed1f15dad14e0b9decef.setContent(html_9cb6a954719b1512a5b16ff1ebcfd56f);
+                var html_a2ba996ef9afebe3461adc69d0d6973d = $(`<div id="html_a2ba996ef9afebe3461adc69d0d6973d" style="width: 100.0%; height: 100.0%;">Ru Animation Club: All Nighter !!!!</div>`)[0];
+                popup_7a4eb6a8e946dff26f7d9c5619a7f516.setContent(html_a2ba996ef9afebe3461adc69d0d6973d);
             
         
 
-        marker_fba6724a09a88f868790e395c98cb740.bindPopup(popup_e22f9b465aa0ed1f15dad14e0b9decef)
+        marker_7bcd9bb49790dfea97c57840fc77a720.bindPopup(popup_7a4eb6a8e946dff26f7d9c5619a7f516)
         ;
 
         
     
     
-                marker_fba6724a09a88f868790e395c98cb740.setIcon(icon_b8d8fc1d1b64367c87d5dea9ce3fda49);
+                marker_7bcd9bb49790dfea97c57840fc77a720.setIcon(icon_922163a6dd140b726eb85e88e9143696);
             
     
-            var marker_1965e06fe2431e259525c4f32930eb5e = L.marker(
+            var marker_0fd3a5d1c6ca162b0a590cacb2006b27 = L.marker(
+                [40.50573, -74.46143],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_22292a997003bf1d7d3a423aa3cfb5d0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_15837fd0982987206b46731783cd5994 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_46f024ecfef1c9d0dc7d85ca1d7b01a7 = $(`<div id="html_46f024ecfef1c9d0dc7d85ca1d7b01a7" style="width: 100.0%; height: 100.0%;">RUS2S Breast Cancer Awareness 5K Walk/Run</div>`)[0];
+                popup_15837fd0982987206b46731783cd5994.setContent(html_46f024ecfef1c9d0dc7d85ca1d7b01a7);
+            
+        
+
+        marker_0fd3a5d1c6ca162b0a590cacb2006b27.bindPopup(popup_15837fd0982987206b46731783cd5994)
+        ;
+
+        
+    
+    
+                marker_0fd3a5d1c6ca162b0a590cacb2006b27.setIcon(icon_22292a997003bf1d7d3a423aa3cfb5d0);
+            
+    
+            var marker_301379995f1a7cfd00ae1e5ed5a87e08 = L.marker(
+                [40.50272, -74.45129],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_744eb90cd897d024961332ec6cce5708 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_025a44f65b31b3d7b461b68f44755fbb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_16a3b5c22b42be093f140fdee8460f6a = $(`<div id="html_16a3b5c22b42be093f140fdee8460f6a" style="width: 100.0%; height: 100.0%;">Mental Health Awareness Week 2025: Campfire & Smores</div>`)[0];
+                popup_025a44f65b31b3d7b461b68f44755fbb.setContent(html_16a3b5c22b42be093f140fdee8460f6a);
+            
+        
+
+        marker_301379995f1a7cfd00ae1e5ed5a87e08.bindPopup(popup_025a44f65b31b3d7b461b68f44755fbb)
+        ;
+
+        
+    
+    
+                marker_301379995f1a7cfd00ae1e5ed5a87e08.setIcon(icon_744eb90cd897d024961332ec6cce5708);
+            
+    
+            var marker_aadfacbdaa8b70673844b13b72c1c69d = L.marker(
                 [40.50308, -74.44975],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_4befe8f4eebfc7fa3a83db27668bef22 = L.AwesomeMarkers.icon(
+            var icon_95f9829d4ca665e63b6ddb78648d881e = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -2195,72 +1587,34 @@
             );
         
     
-        var popup_6c5d70a8e5e17943bbf31411f00067f7 = L.popup({
+        var popup_77f8cdcdbbf27d6c62d33c0f7a0c8346 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_bdffbb66613f7dc61f29544ed91faa62 = $(`<div id="html_bdffbb66613f7dc61f29544ed91faa62" style="width: 100.0%; height: 100.0%;">DeStress Fest Celebration</div>`)[0];
-                popup_6c5d70a8e5e17943bbf31411f00067f7.setContent(html_bdffbb66613f7dc61f29544ed91faa62);
+                var html_b32311ad2ff1f7934bf4765e7169e379 = $(`<div id="html_b32311ad2ff1f7934bf4765e7169e379" style="width: 100.0%; height: 100.0%;">DeStress Fest: Release</div>`)[0];
+                popup_77f8cdcdbbf27d6c62d33c0f7a0c8346.setContent(html_b32311ad2ff1f7934bf4765e7169e379);
             
         
 
-        marker_1965e06fe2431e259525c4f32930eb5e.bindPopup(popup_6c5d70a8e5e17943bbf31411f00067f7)
+        marker_aadfacbdaa8b70673844b13b72c1c69d.bindPopup(popup_77f8cdcdbbf27d6c62d33c0f7a0c8346)
         ;
 
         
     
     
-                marker_1965e06fe2431e259525c4f32930eb5e.setIcon(icon_4befe8f4eebfc7fa3a83db27668bef22);
+                marker_aadfacbdaa8b70673844b13b72c1c69d.setIcon(icon_95f9829d4ca665e63b6ddb78648d881e);
             
     
-            var marker_9cfadcb5fcf51b7a8afee28560ca9532 = L.marker(
-                [40.48415, -74.439],
+            var marker_c9385b741624b7d2277184a2ddf8725c = L.marker(
+                [40.52345, -74.4372],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_922c1e72571546de65790f4149e5840b = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_f156c7fbc2af97cc7e350464d0c66831 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_e99d4cea2d71261afd6264cf17b96433 = $(`<div id="html_e99d4cea2d71261afd6264cf17b96433" style="width: 100.0%; height: 100.0%;">Botanical Watercolors Workshop</div>`)[0];
-                popup_f156c7fbc2af97cc7e350464d0c66831.setContent(html_e99d4cea2d71261afd6264cf17b96433);
-            
-        
-
-        marker_9cfadcb5fcf51b7a8afee28560ca9532.bindPopup(popup_f156c7fbc2af97cc7e350464d0c66831)
-        ;
-
-        
-    
-    
-                marker_9cfadcb5fcf51b7a8afee28560ca9532.setIcon(icon_922c1e72571546de65790f4149e5840b);
-            
-    
-            var marker_23b4b194979680f0ae1d7908c7d7b2dd = L.marker(
-                [40.52501, -74.4409],
-                {
-}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
-        
-    
-            var icon_3d3b3395072c626a74cfaf393a3a64db = L.AwesomeMarkers.icon(
+            var icon_ffb1742d4acd17cf9a83e22065f1a246 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -2271,34 +1625,34 @@
             );
         
     
-        var popup_f2456099fe0550120091d600569376eb = L.popup({
+        var popup_d2d0be43cd7aaae995383c625845fdd7 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_b60ab5a3ecd9af2b9ad7cb8d54433f1d = $(`<div id="html_b60ab5a3ecd9af2b9ad7cb8d54433f1d" style="width: 100.0%; height: 100.0%;">33rd Annual Rites of Passage Ceremony Registration</div>`)[0];
-                popup_f2456099fe0550120091d600569376eb.setContent(html_b60ab5a3ecd9af2b9ad7cb8d54433f1d);
+                var html_42167a995f2b07ecc19fb51fd8b91770 = $(`<div id="html_42167a995f2b07ecc19fb51fd8b91770" style="width: 100.0%; height: 100.0%;">Destress & Self-Care Night</div>`)[0];
+                popup_d2d0be43cd7aaae995383c625845fdd7.setContent(html_42167a995f2b07ecc19fb51fd8b91770);
             
         
 
-        marker_23b4b194979680f0ae1d7908c7d7b2dd.bindPopup(popup_f2456099fe0550120091d600569376eb)
+        marker_c9385b741624b7d2277184a2ddf8725c.bindPopup(popup_d2d0be43cd7aaae995383c625845fdd7)
         ;
 
         
     
     
-                marker_23b4b194979680f0ae1d7908c7d7b2dd.setIcon(icon_3d3b3395072c626a74cfaf393a3a64db);
+                marker_c9385b741624b7d2277184a2ddf8725c.setIcon(icon_ffb1742d4acd17cf9a83e22065f1a246);
             
     
-            var marker_7c4a19e8ca5d6b2c4ab9d1a54a824e79 = L.marker(
-                [40.50267, -74.45179],
+            var marker_b736263914135349eb9b2ae7eecbcae9 = L.marker(
+                [40.50361, -74.44848],
                 {
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var icon_e8371336804ec8a0619daf17d7080665 = L.AwesomeMarkers.icon(
+            var icon_11fdac648dde49ee89b87be4d08f0410 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -2309,24 +1663,480 @@
             );
         
     
-        var popup_c0e913cbe0e4466bbaae0e84baaa8bc5 = L.popup({
+        var popup_8233845815f508b6979a5f5417bcb053 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_e1ccf70acd0600d9241e27d1995504c0 = $(`<div id="html_e1ccf70acd0600d9241e27d1995504c0" style="width: 100.0%; height: 100.0%;">J-Biz: First Meeting (Fall 2025)</div>`)[0];
-                popup_c0e913cbe0e4466bbaae0e84baaa8bc5.setContent(html_e1ccf70acd0600d9241e27d1995504c0);
+                var html_7160e8d4294871cc6c9d62b321a1f33a = $(`<div id="html_7160e8d4294871cc6c9d62b321a1f33a" style="width: 100.0%; height: 100.0%;">DeStress Fest: Relax</div>`)[0];
+                popup_8233845815f508b6979a5f5417bcb053.setContent(html_7160e8d4294871cc6c9d62b321a1f33a);
             
         
 
-        marker_7c4a19e8ca5d6b2c4ab9d1a54a824e79.bindPopup(popup_c0e913cbe0e4466bbaae0e84baaa8bc5)
+        marker_b736263914135349eb9b2ae7eecbcae9.bindPopup(popup_8233845815f508b6979a5f5417bcb053)
         ;
 
         
     
     
-                marker_7c4a19e8ca5d6b2c4ab9d1a54a824e79.setIcon(icon_e8371336804ec8a0619daf17d7080665);
+                marker_b736263914135349eb9b2ae7eecbcae9.setIcon(icon_11fdac648dde49ee89b87be4d08f0410);
+            
+    
+            var marker_5f624a91e15ba704545094172e0a40b6 = L.marker(
+                [40.50267, -74.45179],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_de139842055bb2b17cc07f7e8fb9d330 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_357677245207898a7adda8d1fa9c89d2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_154d7ebdaf223cbde5cab85eee75bb42 = $(`<div id="html_154d7ebdaf223cbde5cab85eee75bb42" style="width: 100.0%; height: 100.0%;">Spring Carnival</div>`)[0];
+                popup_357677245207898a7adda8d1fa9c89d2.setContent(html_154d7ebdaf223cbde5cab85eee75bb42);
+            
+        
+
+        marker_5f624a91e15ba704545094172e0a40b6.bindPopup(popup_357677245207898a7adda8d1fa9c89d2)
+        ;
+
+        
+    
+    
+                marker_5f624a91e15ba704545094172e0a40b6.setIcon(icon_de139842055bb2b17cc07f7e8fb9d330);
+            
+    
+            var marker_4cd737c34e479623ea42ca889d49ab71 = L.marker(
+                [40.48591, -74.43582],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_ed3700df5803c1881933df73889427f1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_03e604f89ccde24220b5eea77febfa2d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fffb305c689a25f6f7cf6e9df18eacaa = $(`<div id="html_fffb305c689a25f6f7cf6e9df18eacaa" style="width: 100.0%; height: 100.0%;">RUCVGM Performance</div>`)[0];
+                popup_03e604f89ccde24220b5eea77febfa2d.setContent(html_fffb305c689a25f6f7cf6e9df18eacaa);
+            
+        
+
+        marker_4cd737c34e479623ea42ca889d49ab71.bindPopup(popup_03e604f89ccde24220b5eea77febfa2d)
+        ;
+
+        
+    
+    
+                marker_4cd737c34e479623ea42ca889d49ab71.setIcon(icon_ed3700df5803c1881933df73889427f1);
+            
+    
+            var marker_e86bdad49f475173954e9226a9d42550 = L.marker(
+                [40.48415, -74.439],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_89d45e0b80961a59f07b46b9aba14fa8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_71805f2ee9741905d657f3220d3d49f2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_701c154698c1a6c03fd91976443a9671 = $(`<div id="html_701c154698c1a6c03fd91976443a9671" style="width: 100.0%; height: 100.0%;">Douglass Arts Club | Glass Tumbler Painting Picnic</div>`)[0];
+                popup_71805f2ee9741905d657f3220d3d49f2.setContent(html_701c154698c1a6c03fd91976443a9671);
+            
+        
+
+        marker_e86bdad49f475173954e9226a9d42550.bindPopup(popup_71805f2ee9741905d657f3220d3d49f2)
+        ;
+
+        
+    
+    
+                marker_e86bdad49f475173954e9226a9d42550.setIcon(icon_89d45e0b80961a59f07b46b9aba14fa8);
+            
+    
+            var marker_00c6ed5fd63e3c6591c20eeac3ce3422 = L.marker(
+                [40.50361, -74.44848],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_f24ccbcdf05deb63f906327cc9476d8d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_58b6aee043d96a9078812bf73e048176 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a9e63421146a7aba4ed05a4734bf63f3 = $(`<div id="html_a9e63421146a7aba4ed05a4734bf63f3" style="width: 100.0%; height: 100.0%;">DeStress Fest: Recenter</div>`)[0];
+                popup_58b6aee043d96a9078812bf73e048176.setContent(html_a9e63421146a7aba4ed05a4734bf63f3);
+            
+        
+
+        marker_00c6ed5fd63e3c6591c20eeac3ce3422.bindPopup(popup_58b6aee043d96a9078812bf73e048176)
+        ;
+
+        
+    
+    
+                marker_00c6ed5fd63e3c6591c20eeac3ce3422.setIcon(icon_f24ccbcdf05deb63f906327cc9476d8d);
+            
+    
+            var marker_949d7290781f45e51c129973e4046ad0 = L.marker(
+                [40.49877, -74.44784],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_7fecf10c03359b581512e6fa709d3bd0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_72fceb8e83d113315b29a6297eaaf016 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a1696b3c6b06f5ad534cd1327b0f7951 = $(`<div id="html_a1696b3c6b06f5ad534cd1327b0f7951" style="width: 100.0%; height: 100.0%;">Friendship Fridays</div>`)[0];
+                popup_72fceb8e83d113315b29a6297eaaf016.setContent(html_a1696b3c6b06f5ad534cd1327b0f7951);
+            
+        
+
+        marker_949d7290781f45e51c129973e4046ad0.bindPopup(popup_72fceb8e83d113315b29a6297eaaf016)
+        ;
+
+        
+    
+    
+                marker_949d7290781f45e51c129973e4046ad0.setIcon(icon_7fecf10c03359b581512e6fa709d3bd0);
+            
+    
+            var marker_8a3acafb96738e6992e1b1fe2841b88f = L.marker(
+                [40.50185, -74.44837],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_027d7901bd4643687264dfe3cdc14fc0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7680ed03ae9fdf5c8af4c66d61e99387 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ddf26fc74e6b62776b2ff70bab21bf26 = $(`<div id="html_ddf26fc74e6b62776b2ff70bab21bf26" style="width: 100.0%; height: 100.0%;">Romancing the Craft</div>`)[0];
+                popup_7680ed03ae9fdf5c8af4c66d61e99387.setContent(html_ddf26fc74e6b62776b2ff70bab21bf26);
+            
+        
+
+        marker_8a3acafb96738e6992e1b1fe2841b88f.bindPopup(popup_7680ed03ae9fdf5c8af4c66d61e99387)
+        ;
+
+        
+    
+    
+                marker_8a3acafb96738e6992e1b1fe2841b88f.setIcon(icon_027d7901bd4643687264dfe3cdc14fc0);
+            
+    
+            var marker_9675facc01a0ccc6340d7609c4180869 = L.marker(
+                [40.50096, -74.4483],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_773411b55c86a97f0a4f1852c4d05495 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_16cbfdf8b96deadd75a6080c5aaa30b3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6e4dadfddcb50c86a98369b6cf9f2378 = $(`<div id="html_6e4dadfddcb50c86a98369b6cf9f2378" style="width: 100.0%; height: 100.0%;">RULing 2025</div>`)[0];
+                popup_16cbfdf8b96deadd75a6080c5aaa30b3.setContent(html_6e4dadfddcb50c86a98369b6cf9f2378);
+            
+        
+
+        marker_9675facc01a0ccc6340d7609c4180869.bindPopup(popup_16cbfdf8b96deadd75a6080c5aaa30b3)
+        ;
+
+        
+    
+    
+                marker_9675facc01a0ccc6340d7609c4180869.setIcon(icon_773411b55c86a97f0a4f1852c4d05495);
+            
+    
+            var marker_00710b6c5c24772674d450e8886370ec = L.marker(
+                [40.50096, -74.4483],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_fa40ea358f9cfe64d76c692c9693619a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e4df1e65d0506ae0053152f06b03d58f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a0be70002e75a42652ed2c8f4d08a40c = $(`<div id="html_a0be70002e75a42652ed2c8f4d08a40c" style="width: 100.0%; height: 100.0%;">End-of-Year Porch Program</div>`)[0];
+                popup_e4df1e65d0506ae0053152f06b03d58f.setContent(html_a0be70002e75a42652ed2c8f4d08a40c);
+            
+        
+
+        marker_00710b6c5c24772674d450e8886370ec.bindPopup(popup_e4df1e65d0506ae0053152f06b03d58f)
+        ;
+
+        
+    
+    
+                marker_00710b6c5c24772674d450e8886370ec.setIcon(icon_fa40ea358f9cfe64d76c692c9693619a);
+            
+    
+            var marker_08e1049246dcb327e3c89d6d20c35d62 = L.marker(
+                [40.50308, -74.44975],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_1c9617cf11715f9c6933b7a079df4e4f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e58623cd924a16abf4a142137c45ff90 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc93f284c8e6e516374073813fab1f61 = $(`<div id="html_bc93f284c8e6e516374073813fab1f61" style="width: 100.0%; height: 100.0%;">DeStress Fest Celebration</div>`)[0];
+                popup_e58623cd924a16abf4a142137c45ff90.setContent(html_bc93f284c8e6e516374073813fab1f61);
+            
+        
+
+        marker_08e1049246dcb327e3c89d6d20c35d62.bindPopup(popup_e58623cd924a16abf4a142137c45ff90)
+        ;
+
+        
+    
+    
+                marker_08e1049246dcb327e3c89d6d20c35d62.setIcon(icon_1c9617cf11715f9c6933b7a079df4e4f);
+            
+    
+            var marker_eb6b507e3d2b3b1cd495a54d62a42006 = L.marker(
+                [40.48415, -74.439],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_622a4fd13956b27510b8d5440dfc9726 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_79a1912fa5ba4ebadf4ddd779cef3226 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_993dc82b3e679f71243a6d6f773ad5d4 = $(`<div id="html_993dc82b3e679f71243a6d6f773ad5d4" style="width: 100.0%; height: 100.0%;">Botanical Watercolors Workshop</div>`)[0];
+                popup_79a1912fa5ba4ebadf4ddd779cef3226.setContent(html_993dc82b3e679f71243a6d6f773ad5d4);
+            
+        
+
+        marker_eb6b507e3d2b3b1cd495a54d62a42006.bindPopup(popup_79a1912fa5ba4ebadf4ddd779cef3226)
+        ;
+
+        
+    
+    
+                marker_eb6b507e3d2b3b1cd495a54d62a42006.setIcon(icon_622a4fd13956b27510b8d5440dfc9726);
+            
+    
+            var marker_942bb8ac53fcec07aa0c630449dcac17 = L.marker(
+                [40.52501, -74.4409],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_85ed84c2b4bdc5bd024d6b2124c98a35 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_acb7c1400833117a3f9b4d97d1dee196 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fa5f9e1dcba737b35ffbe9db481226e6 = $(`<div id="html_fa5f9e1dcba737b35ffbe9db481226e6" style="width: 100.0%; height: 100.0%;">33rd Annual Rites of Passage Ceremony Registration</div>`)[0];
+                popup_acb7c1400833117a3f9b4d97d1dee196.setContent(html_fa5f9e1dcba737b35ffbe9db481226e6);
+            
+        
+
+        marker_942bb8ac53fcec07aa0c630449dcac17.bindPopup(popup_acb7c1400833117a3f9b4d97d1dee196)
+        ;
+
+        
+    
+    
+                marker_942bb8ac53fcec07aa0c630449dcac17.setIcon(icon_85ed84c2b4bdc5bd024d6b2124c98a35);
+            
+    
+            var marker_71322c66db45657d66d489f6f7e2d14a = L.marker(
+                [40.50267, -74.45179],
+                {
+}
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
+        
+    
+            var icon_a1ac73c938e92b248e17aa293b81db20 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ff9c36d7dc69c063585720149db88be6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_60245b28cde80f447fe746ef8798e1d9 = $(`<div id="html_60245b28cde80f447fe746ef8798e1d9" style="width: 100.0%; height: 100.0%;">J-Biz: First Meeting (Fall 2025)</div>`)[0];
+                popup_ff9c36d7dc69c063585720149db88be6.setContent(html_60245b28cde80f447fe746ef8798e1d9);
+            
+        
+
+        marker_71322c66db45657d66d489f6f7e2d14a.bindPopup(popup_ff9c36d7dc69c063585720149db88be6)
+        ;
+
+        
+    
+    
+                marker_71322c66db45657d66d489f6f7e2d14a.setIcon(icon_a1ac73c938e92b248e17aa293b81db20);
             
     
             L.control.fullscreen(
@@ -2336,12 +2146,12 @@
   "titleCancel": "Exit Full Screen",
   "forceSeparateButton": false,
 }
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
         
     
-            var locate_control_a5bf32315afea39a0ff406d612d7f907 = L.control.locate(
+            var locate_control_f5d1a2b36995899566518f0e95d92238 = L.control.locate(
                 {}
-            ).addTo(map_899d5b47b5e8f412c22397628b838393);
+            ).addTo(map_b5a742d3de67f44430bc138e9d6ba034);
             
         
 </script>
