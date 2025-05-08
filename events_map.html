@@ -1,590 +1,562 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
-        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
         <script>
-                L_NO_TOUCH = false;
-                L_DISABLE_3D = false;
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
         </script>
-
-        <style>
-                html,
-                body {
-                        width: 100%;
-                        height: 100%;
-                        margin: 0;
-                        padding: 0;
-                }
-        </style>
-        <style>
-                #map {
-                        position: absolute;
-                        top: 0;
-                        bottom: 0;
-                        right: 0;
-                        left: 0;
-                }
-        </style>
-        <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
-        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
-        <script
-                src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" />
-        <link rel="stylesheet"
-                href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" />
-        <link rel="stylesheet"
-                href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
-        <link rel="stylesheet"
-                href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css" />
-
-        <meta name="viewport" content="width=device-width,
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <style>
-                #map_e5e1d56f219539ba2f24b46a77edb1e8 {
-                        position: relative;
-                        width: 100.0%;
-                        height: 100.0%;
-                        left: 0.0%;
-                        top: 0.0%;
+            <style>
+                #map_1457ad109b1cf542f29277f9daf39114 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
                 }
-
-                .leaflet-container {
-                        font-size: 1rem;
-                }
-        </style>
-
-        <script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.min.js"></script>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.css" />
-        <script
-                src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.66.2/L.Control.Locate.min.js"></script>
-        <link rel="stylesheet"
-                href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.66.2/L.Control.Locate.min.css" />
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.66.2/L.Control.Locate.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.66.2/L.Control.Locate.min.css"/>
 </head>
-
 <body>
-
-
-        <div class="folium-map" id="map_e5e1d56f219539ba2f24b46a77edb1e8"></div>
-
+    
+    
+            <div class="folium-map" id="map_1457ad109b1cf542f29277f9daf39114" ></div>
+        
 </body>
 <script>
-
-
-        var map_e5e1d56f219539ba2f24b46a77edb1e8 = L.map(
-                "map_e5e1d56f219539ba2f24b46a77edb1e8",
+    
+    
+            var map_1457ad109b1cf542f29277f9daf39114 = L.map(
+                "map_1457ad109b1cf542f29277f9daf39114",
                 {
-                        center: [40.5, -74.45],
-                        crs: L.CRS.EPSG3857,
-                        ...{
-                                "zoom": 13,
-                                "zoomControl": true,
-                                "preferCanvas": false,
-                        }
+                    center: [40.5, -74.45],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
 
                 }
-        );
+            );
 
+            
 
-
-
-
-        var tile_layer_53b31e17935ee4f3e0c46795ad074a09 = L.tileLayer(
+        
+    
+            var tile_layer_4543eaac4216e83788aeaadb07d7d431 = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
-                        "minZoom": 0,
-                        "maxZoom": 19,
-                        "maxNativeZoom": 19,
-                        "noWrap": false,
-                        "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
-                        "subdomains": "abc",
-                        "detectRetina": false,
-                        "tms": false,
-                        "opacity": 1,
-                }
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
 
-        );
-
-
-        tile_layer_53b31e17935ee4f3e0c46795ad074a09.addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var marker_aad1d427a9fdfdf3829b4dfca4eab58c = L.marker(
+            );
+        
+    
+            tile_layer_4543eaac4216e83788aeaadb07d7d431.addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var marker_3ef85a4a05d8d441a4165582353776d4 = L.marker(
                 [40.52447, -74.46201],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_3a2b56cb9d2f57f1c1c802fdba6227fd = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_f5c1af5b27a734ed17aa4c3be19cb019 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "orange",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e428e7f11ebfd321f5930d43bd761383 = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_508114ab7603cdedf97d0ae85d1e6df9 = $(`<div id="html_508114ab7603cdedf97d0ae85d1e6df9" style="width: 100.0%; height: 100.0%;">GSO Barbacue</div>`)[0];
+                popup_e428e7f11ebfd321f5930d43bd761383.setContent(html_508114ab7603cdedf97d0ae85d1e6df9);
+            
+        
 
-        var popup_c2973f16426e0a60b9a30993b30da4f7 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_3ef85a4a05d8d441a4165582353776d4.bindPopup(popup_e428e7f11ebfd321f5930d43bd761383)
+        ;
 
-
-
-        var html_bb1af0ea995f6c9cf4cbd854665d2197 = $(`<div id="html_bb1af0ea995f6c9cf4cbd854665d2197" style="width: 100.0%; height: 100.0%;">GSO Barbacue</div>`)[0];
-        popup_c2973f16426e0a60b9a30993b30da4f7.setContent(html_bb1af0ea995f6c9cf4cbd854665d2197);
-
-
-
-        marker_aad1d427a9fdfdf3829b4dfca4eab58c.bindPopup(popup_c2973f16426e0a60b9a30993b30da4f7)
-                ;
-
-
-
-
-        marker_aad1d427a9fdfdf3829b4dfca4eab58c.setIcon(icon_3a2b56cb9d2f57f1c1c802fdba6227fd);
-
-
-        var marker_acb5aaa72958904187b7a011b8231228 = L.marker(
+        
+    
+    
+                marker_3ef85a4a05d8d441a4165582353776d4.setIcon(icon_f5c1af5b27a734ed17aa4c3be19cb019);
+            
+    
+            var marker_88c48f285ea1088d75e98b62d903e5ad = L.marker(
                 [40.47909, -74.43631],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_cb20bc383cb586c4f6ccfe2cc56d3852 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_5c3da892c5f8f1139d8579f37cab864e = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "green",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_abbf7cc74f61032e73fc91e8d27cad1c = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_0a3fe89a19b4e30183d36fc276dbcacb = $(`<div id="html_0a3fe89a19b4e30183d36fc276dbcacb" style="width: 100.0%; height: 100.0%;">NutriSci GSO May General Meeting</div>`)[0];
+                popup_abbf7cc74f61032e73fc91e8d27cad1c.setContent(html_0a3fe89a19b4e30183d36fc276dbcacb);
+            
+        
 
-        var popup_f669bc4d67d969d7c9c8fcd637a9f53a = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_88c48f285ea1088d75e98b62d903e5ad.bindPopup(popup_abbf7cc74f61032e73fc91e8d27cad1c)
+        ;
 
-
-
-        var html_e3ae223332e1a3987730483621efa8b6 = $(`<div id="html_e3ae223332e1a3987730483621efa8b6" style="width: 100.0%; height: 100.0%;">NutriSci GSO May General Meeting</div>`)[0];
-        popup_f669bc4d67d969d7c9c8fcd637a9f53a.setContent(html_e3ae223332e1a3987730483621efa8b6);
-
-
-
-        marker_acb5aaa72958904187b7a011b8231228.bindPopup(popup_f669bc4d67d969d7c9c8fcd637a9f53a)
-                ;
-
-
-
-
-        marker_acb5aaa72958904187b7a011b8231228.setIcon(icon_cb20bc383cb586c4f6ccfe2cc56d3852);
-
-
-        var marker_6c6db6c33ccd2c292870f4dc0fd7fe13 = L.marker(
+        
+    
+    
+                marker_88c48f285ea1088d75e98b62d903e5ad.setIcon(icon_5c3da892c5f8f1139d8579f37cab864e);
+            
+    
+            var marker_e41f379849456898546dbc9803b3d467 = L.marker(
                 [40.52501, -74.4409],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_bfdc6e3ce4697a84c28c8a8095e3b525 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_8ebf37e15209d9817e21f56bcfd12060 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "red",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f51a5cd88fbeab73809bff09b8e5e4ff = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_53dccfd01a79f3ddeee595fa2ab4744a = $(`<div id="html_53dccfd01a79f3ddeee595fa2ab4744a" style="width: 100.0%; height: 100.0%;">33rd Annual Rites of Passage Ceremony Registration</div>`)[0];
+                popup_f51a5cd88fbeab73809bff09b8e5e4ff.setContent(html_53dccfd01a79f3ddeee595fa2ab4744a);
+            
+        
 
-        var popup_6ac4522d5099e85ea64d595b1d1283ac = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_e41f379849456898546dbc9803b3d467.bindPopup(popup_f51a5cd88fbeab73809bff09b8e5e4ff)
+        ;
 
-
-
-        var html_4c28ee5d8bd1f215a4d74f3fe6393b0e = $(`<div id="html_4c28ee5d8bd1f215a4d74f3fe6393b0e" style="width: 100.0%; height: 100.0%;">33rd Annual Rites of Passage Ceremony Registration</div>`)[0];
-        popup_6ac4522d5099e85ea64d595b1d1283ac.setContent(html_4c28ee5d8bd1f215a4d74f3fe6393b0e);
-
-
-
-        marker_6c6db6c33ccd2c292870f4dc0fd7fe13.bindPopup(popup_6ac4522d5099e85ea64d595b1d1283ac)
-                ;
-
-
-
-
-        marker_6c6db6c33ccd2c292870f4dc0fd7fe13.setIcon(icon_bfdc6e3ce4697a84c28c8a8095e3b525);
-
-
-        var marker_ded97615638fe3422c434a2fa94ae02a = L.marker(
+        
+    
+    
+                marker_e41f379849456898546dbc9803b3d467.setIcon(icon_8ebf37e15209d9817e21f56bcfd12060);
+            
+    
+            var marker_7ea6dd06c2ae4bbc1a7f10ed7ab6e34d = L.marker(
                 [40.50784, -74.44906],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_5cc1542d92ecf41c6c60fc045bbf84c2 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_a8a2b4c6bb756b109ebb2ca6de0443fe = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "blue",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fafc454b8cb0c8b5f5e3b6cdb7f284c3 = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_aa6ecaa8e62cb3af09b1856b4fee5f07 = $(`<div id="html_aa6ecaa8e62cb3af09b1856b4fee5f07" style="width: 100.0%; height: 100.0%;">Bloustein End of Year Picnic & Potluck</div>`)[0];
+                popup_fafc454b8cb0c8b5f5e3b6cdb7f284c3.setContent(html_aa6ecaa8e62cb3af09b1856b4fee5f07);
+            
+        
 
-        var popup_a870720fe3a105ebb1dcc042b269290a = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_7ea6dd06c2ae4bbc1a7f10ed7ab6e34d.bindPopup(popup_fafc454b8cb0c8b5f5e3b6cdb7f284c3)
+        ;
 
-
-
-        var html_208fdf95943b74b0f354f31f9b16ffd7 = $(`<div id="html_208fdf95943b74b0f354f31f9b16ffd7" style="width: 100.0%; height: 100.0%;">Bloustein End of Year Picnic & Potluck</div>`)[0];
-        popup_a870720fe3a105ebb1dcc042b269290a.setContent(html_208fdf95943b74b0f354f31f9b16ffd7);
-
-
-
-        marker_ded97615638fe3422c434a2fa94ae02a.bindPopup(popup_a870720fe3a105ebb1dcc042b269290a)
-                ;
-
-
-
-
-        marker_ded97615638fe3422c434a2fa94ae02a.setIcon(icon_5cc1542d92ecf41c6c60fc045bbf84c2);
-
-
-        var marker_ed3b74c4a626b24a754a8742f5d8d87a = L.marker(
+        
+    
+    
+                marker_7ea6dd06c2ae4bbc1a7f10ed7ab6e34d.setIcon(icon_a8a2b4c6bb756b109ebb2ca6de0443fe);
+            
+    
+            var marker_e7f6309886008512e14fbc6114ea5d9e = L.marker(
                 [40.47909, -74.43631],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_bdc494aadc56f87619b56ade5a894d87 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_8c4e1be41c316e52890d103d35f2121c = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "green",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0467f0889a80177a42a0242c5b678c18 = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_387889805050a597f887e03472a3f503 = $(`<div id="html_387889805050a597f887e03472a3f503" style="width: 100.0%; height: 100.0%;">Dr. Joshua Anthony Seminar on Personalized Nutrition</div>`)[0];
+                popup_0467f0889a80177a42a0242c5b678c18.setContent(html_387889805050a597f887e03472a3f503);
+            
+        
 
-        var popup_eeefbef233db7fa6d7c1ca56f9188656 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_e7f6309886008512e14fbc6114ea5d9e.bindPopup(popup_0467f0889a80177a42a0242c5b678c18)
+        ;
 
-
-
-        var html_25780607a6ca244fd15da8a6a2c05264 = $(`<div id="html_25780607a6ca244fd15da8a6a2c05264" style="width: 100.0%; height: 100.0%;">Dr. Joshua Anthony Seminar on Personalized Nutrition</div>`)[0];
-        popup_eeefbef233db7fa6d7c1ca56f9188656.setContent(html_25780607a6ca244fd15da8a6a2c05264);
-
-
-
-        marker_ed3b74c4a626b24a754a8742f5d8d87a.bindPopup(popup_eeefbef233db7fa6d7c1ca56f9188656)
-                ;
-
-
-
-
-        marker_ed3b74c4a626b24a754a8742f5d8d87a.setIcon(icon_bdc494aadc56f87619b56ade5a894d87);
-
-
-        var marker_5cd830489a85da06a393c9aa5e939e9e = L.marker(
+        
+    
+    
+                marker_e7f6309886008512e14fbc6114ea5d9e.setIcon(icon_8c4e1be41c316e52890d103d35f2121c);
+            
+    
+            var marker_a5e96255f4e1ae182937419472b41ccf = L.marker(
                 [40.50267, -74.45179],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_397501028a2d77fe5e425290a5ef43d7 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_67780e0261335e9c7d88df7aa6d6c7b2 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "blue",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6fe20c3c3f04a21c79450800e48756af = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_d8d11f4db639c41e1f12852cc86f8b90 = $(`<div id="html_d8d11f4db639c41e1f12852cc86f8b90" style="width: 100.0%; height: 100.0%;">J-Biz: First Meeting (Fall 2025)</div>`)[0];
+                popup_6fe20c3c3f04a21c79450800e48756af.setContent(html_d8d11f4db639c41e1f12852cc86f8b90);
+            
+        
 
-        var popup_29c677675e7c0a652d63265c312c1d66 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_a5e96255f4e1ae182937419472b41ccf.bindPopup(popup_6fe20c3c3f04a21c79450800e48756af)
+        ;
 
-
-
-        var html_55b0967c1989c25e954fd32ce6e610eb = $(`<div id="html_55b0967c1989c25e954fd32ce6e610eb" style="width: 100.0%; height: 100.0%;">J-Biz: First Meeting (Fall 2025)</div>`)[0];
-        popup_29c677675e7c0a652d63265c312c1d66.setContent(html_55b0967c1989c25e954fd32ce6e610eb);
-
-
-
-        marker_5cd830489a85da06a393c9aa5e939e9e.bindPopup(popup_29c677675e7c0a652d63265c312c1d66)
-                ;
-
-
-
-
-        marker_5cd830489a85da06a393c9aa5e939e9e.setIcon(icon_397501028a2d77fe5e425290a5ef43d7);
-
-
-        var marker_5777d93f170a63f8522ea1e51f2ab6d5 = L.marker(
+        
+    
+    
+                marker_a5e96255f4e1ae182937419472b41ccf.setIcon(icon_67780e0261335e9c7d88df7aa6d6c7b2);
+            
+    
+            var marker_ac5a94ed9b729cd7f97e5a180ba6b7ca = L.marker(
                 [40.52332, -74.44069],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_4a1b0105371822fcd16b415f133a8e51 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_bfc7055d07a4c8f026ccddfd17975169 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "red",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1ba2c31250a749dfc55521f5823da731 = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_07121c1d27dea2e6ee96dafe30d6ddc0 = $(`<div id="html_07121c1d27dea2e6ee96dafe30d6ddc0" style="width: 100.0%; height: 100.0%;">Welcome to Rutgers University Venture Capital Club</div>`)[0];
+                popup_1ba2c31250a749dfc55521f5823da731.setContent(html_07121c1d27dea2e6ee96dafe30d6ddc0);
+            
+        
 
-        var popup_3f2a65d03ce6d3d70a3e0ba9e1dd89f8 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_ac5a94ed9b729cd7f97e5a180ba6b7ca.bindPopup(popup_1ba2c31250a749dfc55521f5823da731)
+        ;
 
-
-
-        var html_fb8099fc0daca1c410e8f037bd0ccfdb = $(`<div id="html_fb8099fc0daca1c410e8f037bd0ccfdb" style="width: 100.0%; height: 100.0%;">Welcome to Rutgers University Venture Capital Club</div>`)[0];
-        popup_3f2a65d03ce6d3d70a3e0ba9e1dd89f8.setContent(html_fb8099fc0daca1c410e8f037bd0ccfdb);
-
-
-
-        marker_5777d93f170a63f8522ea1e51f2ab6d5.bindPopup(popup_3f2a65d03ce6d3d70a3e0ba9e1dd89f8)
-                ;
-
-
-
-
-        marker_5777d93f170a63f8522ea1e51f2ab6d5.setIcon(icon_4a1b0105371822fcd16b415f133a8e51);
-
-
-        var marker_7163e07ed6544f8b3d4603b8162c0cf7 = L.marker(
+        
+    
+    
+                marker_ac5a94ed9b729cd7f97e5a180ba6b7ca.setIcon(icon_bfc7055d07a4c8f026ccddfd17975169);
+            
+    
+            var marker_f5855bf37b59091e7c08c61953c11d14 = L.marker(
                 [40.50267, -74.45179],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_5ce5041449693a6e7e8d19c51781a504 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_0357071010b6cf26b6a7c4640ac5b0e4 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "blue",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7bd92718ca21300835de465594cb76bb = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_e3318482b498b05f3121e296f7f7e485 = $(`<div id="html_e3318482b498b05f3121e296f7f7e485" style="width: 100.0%; height: 100.0%;">General Interest Meeting</div>`)[0];
+                popup_7bd92718ca21300835de465594cb76bb.setContent(html_e3318482b498b05f3121e296f7f7e485);
+            
+        
 
-        var popup_2fa088d716aca13489964e70681ab2f3 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_f5855bf37b59091e7c08c61953c11d14.bindPopup(popup_7bd92718ca21300835de465594cb76bb)
+        ;
 
-
-
-        var html_aae6560e09ee198d144fcb1e60a501ef = $(`<div id="html_aae6560e09ee198d144fcb1e60a501ef" style="width: 100.0%; height: 100.0%;">General Interest Meeting</div>`)[0];
-        popup_2fa088d716aca13489964e70681ab2f3.setContent(html_aae6560e09ee198d144fcb1e60a501ef);
-
-
-
-        marker_7163e07ed6544f8b3d4603b8162c0cf7.bindPopup(popup_2fa088d716aca13489964e70681ab2f3)
-                ;
-
-
-
-
-        marker_7163e07ed6544f8b3d4603b8162c0cf7.setIcon(icon_5ce5041449693a6e7e8d19c51781a504);
-
-
-        var marker_18005b8d93627099e59d2d701d103830 = L.marker(
+        
+    
+    
+                marker_f5855bf37b59091e7c08c61953c11d14.setIcon(icon_0357071010b6cf26b6a7c4640ac5b0e4);
+            
+    
+            var marker_b4f41ee55bc06909db5d0021407b5616 = L.marker(
                 [40.52302, -74.45844],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_aa9f27fbedc70ac203d443f73ac864a7 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_cc6c9a888cb8d554a95ade18207e4ad0 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "orange",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_44d3951b48fcdcc50ed02489df6efe73 = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_89e08d11d9daf8bfe7467cdc9498c00e = $(`<div id="html_89e08d11d9daf8bfe7467cdc9498c00e" style="width: 100.0%; height: 100.0%;">Resume Review</div>`)[0];
+                popup_44d3951b48fcdcc50ed02489df6efe73.setContent(html_89e08d11d9daf8bfe7467cdc9498c00e);
+            
+        
 
-        var popup_0121cd1e9cb43ed0467ef8afc1e7d163 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_b4f41ee55bc06909db5d0021407b5616.bindPopup(popup_44d3951b48fcdcc50ed02489df6efe73)
+        ;
 
-
-
-        var html_87fdf7cbb2f17172daf76de48aebc3b5 = $(`<div id="html_87fdf7cbb2f17172daf76de48aebc3b5" style="width: 100.0%; height: 100.0%;">Resume Review</div>`)[0];
-        popup_0121cd1e9cb43ed0467ef8afc1e7d163.setContent(html_87fdf7cbb2f17172daf76de48aebc3b5);
-
-
-
-        marker_18005b8d93627099e59d2d701d103830.bindPopup(popup_0121cd1e9cb43ed0467ef8afc1e7d163)
-                ;
-
-
-
-
-        marker_18005b8d93627099e59d2d701d103830.setIcon(icon_aa9f27fbedc70ac203d443f73ac864a7);
-
-
-        var marker_ccfdc505e4028930881800006503a44c = L.marker(
+        
+    
+    
+                marker_b4f41ee55bc06909db5d0021407b5616.setIcon(icon_cc6c9a888cb8d554a95ade18207e4ad0);
+            
+    
+            var marker_b4de85887b067756692a0cad931da4bf = L.marker(
                 [40.52302, -74.45844],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_4cfc90483dc25a79e15509df8438dd6c = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_550304d812abb7d169e42d858569edd9 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "orange",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e45f31481254a6fd1cf4073093ff3260 = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_2553570277d4e2d37f3ea059444c52ec = $(`<div id="html_2553570277d4e2d37f3ea059444c52ec" style="width: 100.0%; height: 100.0%;">First General Meeting</div>`)[0];
+                popup_e45f31481254a6fd1cf4073093ff3260.setContent(html_2553570277d4e2d37f3ea059444c52ec);
+            
+        
 
-        var popup_1fdc79e46f00eda10d11750522b51cf7 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_b4de85887b067756692a0cad931da4bf.bindPopup(popup_e45f31481254a6fd1cf4073093ff3260)
+        ;
 
-
-
-        var html_ff72deeb2c71691d974f60aa6f021160 = $(`<div id="html_ff72deeb2c71691d974f60aa6f021160" style="width: 100.0%; height: 100.0%;">First General Meeting</div>`)[0];
-        popup_1fdc79e46f00eda10d11750522b51cf7.setContent(html_ff72deeb2c71691d974f60aa6f021160);
-
-
-
-        marker_ccfdc505e4028930881800006503a44c.bindPopup(popup_1fdc79e46f00eda10d11750522b51cf7)
-                ;
-
-
-
-
-        marker_ccfdc505e4028930881800006503a44c.setIcon(icon_4cfc90483dc25a79e15509df8438dd6c);
-
-
-        var marker_ad5fb7e0194c72b4fc47dd5b654d5564 = L.marker(
+        
+    
+    
+                marker_b4de85887b067756692a0cad931da4bf.setIcon(icon_550304d812abb7d169e42d858569edd9);
+            
+    
+            var marker_ecd99419c8b2dee339ed8ac82950f808 = L.marker(
                 [40.50267, -74.45179],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_becefae1f2431220683b920443f20729 = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_67b1d2b1b7e800060f1b8ce788310e78 = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "blue",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4933847ffe10e109935929104e6a669e = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_e82fb6c24910c64dd53b16d5a297a954 = $(`<div id="html_e82fb6c24910c64dd53b16d5a297a954" style="width: 100.0%; height: 100.0%;">Friends of MSF Meeting</div>`)[0];
+                popup_4933847ffe10e109935929104e6a669e.setContent(html_e82fb6c24910c64dd53b16d5a297a954);
+            
+        
 
-        var popup_fc29f89fffb81a28cd0c0055b9dee493 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_ecd99419c8b2dee339ed8ac82950f808.bindPopup(popup_4933847ffe10e109935929104e6a669e)
+        ;
 
-
-
-        var html_c51c210e8b92e74d3f5a060646847e28 = $(`<div id="html_c51c210e8b92e74d3f5a060646847e28" style="width: 100.0%; height: 100.0%;">Friends of MSF Meeting</div>`)[0];
-        popup_fc29f89fffb81a28cd0c0055b9dee493.setContent(html_c51c210e8b92e74d3f5a060646847e28);
-
-
-
-        marker_ad5fb7e0194c72b4fc47dd5b654d5564.bindPopup(popup_fc29f89fffb81a28cd0c0055b9dee493)
-                ;
-
-
-
-
-        marker_ad5fb7e0194c72b4fc47dd5b654d5564.setIcon(icon_becefae1f2431220683b920443f20729);
-
-
-        var marker_f484c2396454aef34769cd2b0de731bc = L.marker(
+        
+    
+    
+                marker_ecd99419c8b2dee339ed8ac82950f808.setIcon(icon_67b1d2b1b7e800060f1b8ce788310e78);
+            
+    
+            var marker_d89d6940fbe48355d21a94dd0858dd3e = L.marker(
                 [40.48471, -74.43663],
                 {
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var icon_d7cec88338830ca07e2332c2f8d5aabd = L.AwesomeMarkers.icon(
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var icon_f04e213b8e5adc12255aa38714ec409c = L.AwesomeMarkers.icon(
                 {
-                        "markerColor": "green",
-                        "iconColor": "white",
-                        "icon": "info-sign",
-                        "prefix": "glyphicon",
-                        "extraClasses": "fa-rotate-0",
-                }
-        );
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cc4cf6c46f4c9a63184f3eecf11badde = L.popup({
+  "maxWidth": "100%",
+});
 
+        
+            
+                var html_dbf7ffff363d3f209f2dc0f1d3661ecb = $(`<div id="html_dbf7ffff363d3f209f2dc0f1d3661ecb" style="width: 100.0%; height: 100.0%;">Fall Hafla 2025</div>`)[0];
+                popup_cc4cf6c46f4c9a63184f3eecf11badde.setContent(html_dbf7ffff363d3f209f2dc0f1d3661ecb);
+            
+        
 
-        var popup_b4fec87159752779419aa1cdb72cac50 = L.popup({
-                "maxWidth": "100%",
-        });
+        marker_d89d6940fbe48355d21a94dd0858dd3e.bindPopup(popup_cc4cf6c46f4c9a63184f3eecf11badde)
+        ;
 
-
-
-        var html_3a8c7cf43b580247915098e30cb0d572 = $(`<div id="html_3a8c7cf43b580247915098e30cb0d572" style="width: 100.0%; height: 100.0%;">Fall Hafla 2025</div>`)[0];
-        popup_b4fec87159752779419aa1cdb72cac50.setContent(html_3a8c7cf43b580247915098e30cb0d572);
-
-
-
-        marker_f484c2396454aef34769cd2b0de731bc.bindPopup(popup_b4fec87159752779419aa1cdb72cac50)
-                ;
-
-
-
-
-        marker_f484c2396454aef34769cd2b0de731bc.setIcon(icon_d7cec88338830ca07e2332c2f8d5aabd);
-
-
-        L.control.fullscreen(
+        
+    
+    
+                marker_d89d6940fbe48355d21a94dd0858dd3e.setIcon(icon_f04e213b8e5adc12255aa38714ec409c);
+            
+    
+            L.control.fullscreen(
                 {
-                        "position": "topleft",
-                        "title": "Full Screen",
-                        "titleCancel": "Exit Full Screen",
-                        "forceSeparateButton": false,
-                }
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
-        var locate_control_7755c49d12823184c50221b1e8f6590b = L.control.locate(
+  "position": "topleft",
+  "title": "Full Screen",
+  "titleCancel": "Exit Full Screen",
+  "forceSeparateButton": false,
+}
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+        
+    
+            var locate_control_407642e2531f474508fb12744b8424a6 = L.control.locate(
                 {}
-        ).addTo(map_e5e1d56f219539ba2f24b46a77edb1e8);
-
-
+            ).addTo(map_1457ad109b1cf542f29277f9daf39114);
+            
+        
 </script>
-
 </html>
