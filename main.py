@@ -120,10 +120,12 @@ for img in df["imagePath"]:
         # cdn to serve the image
         response = httpx.get("https://imagecdn.app/v2/image/" + quote(img, safe=''), timeout=5)
         img_data = response.content
-        
+
         try:
             img = Image.open(io.BytesIO(img_data))
-            reachable_images.append(img)
+            reachable_images.append(
+                f"https://se-images.campuslabs.com/clink/images/{str(img)}"
+            )
         except UnidentifiedImageError:
             reachable_images.append(default_background)
             continue  # Skip this image and move on to the next one
