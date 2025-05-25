@@ -2,37 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass
-DESCRIPTION:Join EAB for an end of the year tie dye event! Bandanas and scrunchies will be provided and feel free to bring your own clothes to tie-dye! What better way to prepare for Pink Day than making some of your own pink accessories!  Food and drinks will be provided. Dyes and supplies provided. 
-DTEND:20250529T230000Z
-LOCATION:Bartlett Hall\, 84\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Endocrinology and Animal Biosciences (Graduate Student Organization):mailto:Endocrinology and Animal Biosciences (Graduate Student Organization)
-DTSTART:20250529T210000Z
-SUMMARY:EAB GSO Tie Dye Event
-UID:63cad08b-6fc3-4d1e-9b32-2bf6f1378c40@63ca.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11308815
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, interns\, trainees and scholars\, and Mandela Washington Fellows. 
-DTEND:20250723T230000Z
-LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20250723T213000Z
-SUMMARY:Rutgers Global Summer Social
-UID:57a2d04f-1141-4b71-828e-14dda74c8aac@57a2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11306792
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
 DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251009T013000Z
+DTEND:20251023T013000Z
 LOCATION:BSC 120 ABC
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251009T003000Z
+DTSTART:20251023T003000Z
 SUMMARY:HSC General Meeting
-UID:29f7c9f8-63bb-483f-b96a-9d2a17e8fcec@29f7.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295065
+UID:b87293ea-a9d3-4cf3-8291-d5e82ecc0f40@b872.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295066
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CommunityService,College Ave,General Organization Meeting
@@ -42,30 +20,8 @@ LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Midd
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20250925T000000Z
 SUMMARY:Friends of MSF Meeting
-UID:68cec009-ccde-421a-9894-6651dbca3857@68ce.org
+UID:8a22dd5a-312e-4482-9857-de9cb93188b3@8a22.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290840
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20251204T020000Z
-LOCATION:College Ave Student Center Room 411A
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251204T010000Z
-SUMMARY:Friends of MSF Meeting
-UID:d66fa5bf-c2be-493f-9a5f-f909d422f55a@d66f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290845
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20251120T020000Z
-LOCATION:College Ave Student Center Room 411A
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251120T010000Z
-SUMMARY:Friends of MSF Meeting
-UID:735afeb5-55ec-48b5-ac4e-f3e8d80515bb@735a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290844
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Special Interest
@@ -75,19 +31,8 @@ LOCATION:DCMS
 ORGANIZER;CN=Oceanography Club:mailto:Oceanography Club
 DTSTART:20250911T160000Z
 SUMMARY:First Meeting!
-UID:c978f2a5-4d13-45f8-aba2-1c4b3afaeb3d@c978.org
+UID:898d8194-01ff-4d44-8a4a-b78f1ec9da35@898d.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295086
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20250911T020000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20250911T003000Z
-SUMMARY:HSC General Meeting
-UID:aa6c2361-cbe2-4593-9c78-298b6d2bbe26@aa6c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295063
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:GroupBusiness,College Ave,Religious/Religious Cultural/Spiritual Event
@@ -97,19 +42,74 @@ LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Midd
 ORGANIZER;CN=J-BIZ: The Jewish Career Network at Rutgers:mailto:J-BIZ: The Jewish Career Network at Rutgers
 DTSTART:20250908T233000Z
 SUMMARY:J-Biz: First Meeting (Fall 2025)
-UID:3792f477-6e71-489f-aa63-843cb75d320a@3792.org
+UID:0677300b-8e69-407b-9ed2-59b11142deec@0677.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11175859
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, interns\, trainees and scholars\, and Mandela Washington Fellows. 
+DTEND:20250723T230000Z
+LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20250723T213000Z
+SUMMARY:Rutgers Global Summer Social
+UID:054afc33-ffe1-4a2e-9e9e-19bc8e22efc3@054a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11306792
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
 DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251023T013000Z
+DTEND:20250925T013000Z
 LOCATION:BSC 120 ABC
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251023T003000Z
+DTSTART:20250925T003000Z
 SUMMARY:HSC General Meeting
-UID:ba6b3707-28a4-4c6f-ac26-3b396d46c975@ba6b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295066
+UID:01ec3e2e-6cb9-4c29-b71f-d45570006c99@01ec.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295064
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20251106T020000Z
+LOCATION:College Ave Student Center Room 411A
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20251106T010000Z
+SUMMARY:Friends of MSF Meeting
+UID:8d952157-bb6f-47f8-9102-d57811097b96@8d95.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290843
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251009T013000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251009T003000Z
+SUMMARY:HSC General Meeting
+UID:c07a43f8-80af-4d73-acf1-abc92ad55660@c07a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295065
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251120T023000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251120T013000Z
+SUMMARY:HSC General Meeting
+UID:85950310-d8dc-4aa5-bd64-7bcc52dab228@8595.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295068
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Busch
+DESCRIPTION:Join us for a Resume Review Workshop designed to help you craft a product-focused resume that stands out! Whether you're seeking your first product role\, pivoting into product management\, or aiming to level up your career\, this event is for you. You'll receive personalized feedback from experienced product professionals\, learn what recruiters look for\, and gain actionable tips to highlight your impact\, skills\, and leadership potential.
+DTEND:20250918T000000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Women in Product :mailto:Rutgers Women in Product 
+DTSTART:20250917T230000Z
+SUMMARY:Resume Review
+UID:342d89fc-97d3-43c6-8d96-cf4b48f9a41f@342d.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286177
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,College Ave,General Organization Meeting
@@ -119,8 +119,63 @@ LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Midd
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20250911T000000Z
 SUMMARY:General Interest Meeting
-UID:9ba3714c-e8f4-4da0-a09f-ce6f513aac4e@9ba3.org
+UID:1b3cb49a-ea7c-4eb1-b340-f4d0c8ef87c9@1b3c.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290835
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass,Cultural Performance
+DESCRIPTION:Join us for our Annual Fall Hafla! Enjoy various member performances and our Troupe Dance! 
+DTEND:20251208T000000Z
+LOCATION:Red Pine Pizza\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
+DTSTART:20251207T220000Z
+SUMMARY:Fall Hafla 2025
+UID:a814a1ff-982c-4111-ab8f-bcdc87e4efb9@a814.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11292236
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20251120T020000Z
+LOCATION:College Ave Student Center Room 411A
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20251120T010000Z
+SUMMARY:Friends of MSF Meeting
+UID:29ca0a12-aaff-4f03-8f72-a309b57664aa@29ca.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290844
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService
+DESCRIPTION:Welcome to the fall semester of Habitat for Humanity! Come meet our e-board\, make friends\, learn more about our organization\, and enjoy a slice of pizza! 
+DTEND:20250917T021500Z
+LOCATION:Busch Student Center
+ORGANIZER;CN=Habitat for Humanity :mailto:Habitat for Humanity 
+DTSTART:20250917T011500Z
+SUMMARY:General Interest and Info Meeting
+UID:c4103dac-a9a2-4c17-9fac-e1da95a1cd4c@c410.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11293206
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20250911T020000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20250911T003000Z
+SUMMARY:HSC General Meeting
+UID:d649191d-2058-4f62-af9b-d979ab79ff1c@d649.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295063
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Cook / Douglass
+DESCRIPTION:We were all heartbroken about the cancellation of GRIB\, so I wanted to at least plan one small seminar with a very cool invited speaker! Dr. Joshua Anthony (husband to our own Dr. Tracy Anthony) is the founder and CEO of Nlumn\, a company specializing in business-to-business personalized health/nutrition consultations. He will be presenting on a span of topics\, ranging from the research underpinning personalized nutrition\, to working with the public\, to navigating federal and state regulations. We'll have a change to mingle with him before his seminar and enjoy Efes\, then attend the seminar after. I'm looking forward to seeing you all there!
+DTEND:20250528T180000Z
+LOCATION:Lyla Lane\, Raritan Gardens\, New Brunswick\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Nutritional Sciences (Graduate Student Organization):mailto:Nutritional Sciences (Graduate Student Organization)
+DTSTART:20250528T160000Z
+SUMMARY:Dr. Joshua Anthony Seminar on Personalized Nutrition
+UID:14a6509d-b021-49ec-8c5a-5627978338fd@14a6.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11294714
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CommunityService,General Organization Meeting
@@ -130,7 +185,7 @@ LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20251009T000000Z
 SUMMARY:Friends of MSF Meeting
-UID:7b7738dd-d4f7-41f9-aed7-2f757cb6b02e@7b77.org
+UID:48a20628-8205-4526-8b00-9dd79187cf49@48a2.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290841
 END:VEVENT
 BEGIN:VEVENT
@@ -141,85 +196,8 @@ LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20251023T000000Z
 SUMMARY:Friends of MSF Meeting
-UID:08935eb9-587b-4dbc-83d0-6bd16bb69560@0893.org
+UID:d6669163-d082-4046-a7f5-e8db53af1aec@d666.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290842
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch
-DESCRIPTION:Join us for a Resume Review Workshop designed to help you craft a product-focused resume that stands out! Whether you're seeking your first product role\, pivoting into product management\, or aiming to level up your career\, this event is for you. You'll receive personalized feedback from experienced product professionals\, learn what recruiters look for\, and gain actionable tips to highlight your impact\, skills\, and leadership potential.
-DTEND:20250918T000000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Women in Product :mailto:Rutgers Women in Product 
-DTSTART:20250917T230000Z
-SUMMARY:Resume Review
-UID:af10bfea-1d54-4774-a86f-8530c945a0fc@af10.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286177
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251120T023000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251120T013000Z
-SUMMARY:HSC General Meeting
-UID:348b0540-783e-43b8-b28f-dbaa15c2d3f8@348b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295068
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass,Cultural Performance
-DESCRIPTION:Join us for our Annual Fall Hafla! Enjoy various member performances and our Troupe Dance! 
-DTEND:20251208T000000Z
-LOCATION:Red Pine Pizza\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
-DTSTART:20251207T220000Z
-SUMMARY:Fall Hafla 2025
-UID:84a17b45-8333-4c9a-a651-1d6fb8a6499e@84a1.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11292236
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService
-DESCRIPTION:Welcome to the fall semester of Habitat for Humanity! Come meet our e-board\, make friends\, learn more about our organization\, and enjoy a slice of pizza! 
-DTEND:20250917T021500Z
-LOCATION:Busch Student Center
-ORGANIZER;CN=Habitat for Humanity :mailto:Habitat for Humanity 
-DTSTART:20250917T011500Z
-SUMMARY:General Interest and Info Meeting
-UID:bd07891c-748b-4a59-9f82-5e42af97124e@bd07.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11293206
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,Community Service Event on Campus,General Organization Meeting
-DESCRIPTION:Join us in the Busch Student Center in Room 116 on Wednesday\, September 10th from 8:00 to 9:00 pm to get general information regarding our club and how to get clinical volunteering hours! We will have food and a fun experiment to do so we hope to see you there!
-DTEND:20250911T010000Z
-LOCATION:BSC Room 116
-ORGANIZER;CN=Together Educating All Children in Hospitals :mailto:Together Educating All Children in Hospitals 
-DTSTART:20250911T000000Z
-SUMMARY:TEACH General Interest Meeting
-UID:7e18fd17-8f9e-41f1-9285-7f1f1b4cbbae@7e18.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11253114
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Cook / Douglass
-DESCRIPTION:We were all heartbroken about the cancellation of GRIB\, so I wanted to at least plan one small seminar with a very cool invited speaker! Dr. Joshua Anthony (husband to our own Dr. Tracy Anthony) is the founder and CEO of Nlumn\, a company specializing in business-to-business personalized health/nutrition consultations. He will be presenting on a span of topics\, ranging from the research underpinning personalized nutrition\, to working with the public\, to navigating federal and state regulations. We'll have a change to mingle with him before his seminar and enjoy Efes\, then attend the seminar after. I'm looking forward to seeing you all there!
-DTEND:20250528T180000Z
-LOCATION:Lyla Lane\, Raritan Gardens\, New Brunswick\, Middlesex County\, New Jersey\, 08904\, United States
-ORGANIZER;CN=Nutritional Sciences (Graduate Student Organization):mailto:Nutritional Sciences (Graduate Student Organization)
-DTSTART:20250528T160000Z
-SUMMARY:Dr. Joshua Anthony Seminar on Personalized Nutrition
-UID:1014ab75-1742-4d5b-be88-c2a01e198529@1014.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11294714
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Livingston,General Organization Meeting
-DESCRIPTION:For those of you who just joined Rutgers\, congratulations on your accomplishment! We’re excited to have you here. Today's meeting will focus on introducing you to the Venture Capital Club\, our mission\, and the opportunities we offer to help you explore the world of startups\, venture investing\, and entrepreneurship. We'll cover upcoming events\, ways to get involved\, and how you can start building your network and skill set early in your college journey. Whether you're new to venture capital or already passionate about startups\, RVCC is a place to learn\, connect\, and grow. We’re looking forward to an amazing year together!
-DTEND:20250909T233000Z
-LOCATION:Rutgers Livingston Campus\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Venture Capital Club of Rutgers University:mailto:Venture Capital Club of Rutgers University
-DTSTART:20250909T223000Z
-SUMMARY:Welcome to Rutgers University Venture Capital Club
-UID:9a095024-3c3d-4a18-8a15-8d4c92afa5f4@9a09.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286521
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
@@ -229,8 +207,30 @@ LOCATION:BSC 120 ABC
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
 DTSTART:20251106T013000Z
 SUMMARY:HSC General Meeting
-UID:6156f390-3915-4fd9-8394-ab936b1c3244@6156.org
+UID:a3e3c144-7458-478e-8dc2-46ab3dd61c06@a3e3.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295067
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20251204T020000Z
+LOCATION:College Ave Student Center Room 411A
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20251204T010000Z
+SUMMARY:Friends of MSF Meeting
+UID:ed26991b-c3cb-489d-8121-fdab539208a9@ed26.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290845
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Livingston,General Organization Meeting
+DESCRIPTION:For those of you who just joined Rutgers\, congratulations on your accomplishment! We’re excited to have you here. Today's meeting will focus on introducing you to the Venture Capital Club\, our mission\, and the opportunities we offer to help you explore the world of startups\, venture investing\, and entrepreneurship. We'll cover upcoming events\, ways to get involved\, and how you can start building your network and skill set early in your college journey. Whether you're new to venture capital or already passionate about startups\, RVCC is a place to learn\, connect\, and grow. We’re looking forward to an amazing year together!
+DTEND:20250909T233000Z
+LOCATION:Rutgers Livingston Campus\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Venture Capital Club of Rutgers University:mailto:Venture Capital Club of Rutgers University
+DTSTART:20250909T223000Z
+SUMMARY:Welcome to Rutgers University Venture Capital Club
+UID:ecd34795-2521-49cf-9019-bd4742247fdb@ecd3.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286521
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
@@ -240,30 +240,30 @@ LOCATION:BSC 120 ABC
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
 DTSTART:20251204T013000Z
 SUMMARY:HSC General Meeting
-UID:32b2499f-3412-4267-a62b-d388288cfbc3@32b2.org
+UID:d0ce0e8f-a7ef-4bdb-934a-84562c618bee@d0ce.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295069
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:CommunityService,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20251106T020000Z
-LOCATION:College Ave Student Center Room 411A
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251106T010000Z
-SUMMARY:Friends of MSF Meeting
-UID:1938854a-4aaa-4dfd-935a-47e8b2a79ba9@1938.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290843
+CATEGORIES:Arts,Cook / Douglass
+DESCRIPTION:Join EAB for an end of the year tie dye event! Bandanas and scrunchies will be provided and feel free to bring your own clothes to tie-dye! What better way to prepare for Pink Day than making some of your own pink accessories!  Food and drinks will be provided. Dyes and supplies provided. 
+DTEND:20250529T230000Z
+LOCATION:Bartlett Hall\, 84\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Endocrinology and Animal Biosciences (Graduate Student Organization):mailto:Endocrinology and Animal Biosciences (Graduate Student Organization)
+DTSTART:20250529T210000Z
+SUMMARY:EAB GSO Tie Dye Event
+UID:ef67330f-1860-489d-819b-9bc88992f7a2@ef67.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11308815
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20250925T013000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20250925T003000Z
-SUMMARY:HSC General Meeting
-UID:a028a4bb-ba02-4929-8c7a-b0335868bcc8@a028.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295064
+CATEGORIES:CommunityService,Community Service Event on Campus,General Organization Meeting
+DESCRIPTION:Join us in the Busch Student Center in Room 116 on Wednesday\, September 10th from 8:00 to 9:00 pm to get general information regarding our club and how to get clinical volunteering hours! We will have food and a fun experiment to do so we hope to see you there!
+DTEND:20250911T010000Z
+LOCATION:BSC Room 116
+ORGANIZER;CN=Together Educating All Children in Hospitals :mailto:Together Educating All Children in Hospitals 
+DTSTART:20250911T000000Z
+SUMMARY:TEACH General Interest Meeting
+UID:5c64b9c4-2981-4d0d-9a76-fe264ba93501@5c64.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11253114
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch
@@ -273,7 +273,7 @@ LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, M
 ORGANIZER;CN=Pre-Dental Society of Rutgers University:mailto:Pre-Dental Society of Rutgers University
 DTSTART:20250917T233000Z
 SUMMARY:First General Meeting
-UID:85f02353-6185-45b4-90e6-9d55cb1d1595@85f0.org
+UID:ceb5067e-c52a-4a37-9b13-073d1f993362@ceb5.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286185
 END:VEVENT
 END:VCALENDAR
