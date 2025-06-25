@@ -2,15 +2,48 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+CATEGORIES:CommunityService
+DESCRIPTION:Welcome to the fall semester of Habitat for Humanity! Come meet our e-board\, make friends\, learn more about our organization\, and enjoy a slice of pizza! 
+DTEND:20250917T021500Z
+LOCATION:Busch Student Center
+ORGANIZER;CN=Habitat for Humanity :mailto:Habitat for Humanity 
+DTSTART:20250917T011500Z
+SUMMARY:General Interest and Info Meeting
+UID:bf6bc2a8-75be-47a8-87db-88deda79fa8d@bf6b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11293206
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION: Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250626T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250626T003000Z
+SUMMARY:New Student Orientation Social 3
+UID:4e17855f-c21e-41d2-863a-e02b9817b95f@4e17.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318589
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Social,Busch,Entertainment
 DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250627T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+DTEND:20250806T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250627T003000Z
-SUMMARY:New Student Orientation Social 4
-UID:9de85324-3ad4-4169-97c1-5f7c47717096@9de8.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318565
+DTSTART:20250806T003000Z
+SUMMARY:New Student Orientation Social 20
+UID:90a7ea70-3154-457b-91ae-3d7b4e605d0d@90a7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318750
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:oin Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250807T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250807T003000Z
+SUMMARY:New Student Orientation Social 21
+UID:4330a9b0-9d25-4fc5-8800-2c658faf701c@4330.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318624
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
@@ -20,140 +53,8 @@ LOCATION:BSC 120 ABC
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
 DTSTART:20251120T013000Z
 SUMMARY:HSC General Meeting
-UID:6ff682d5-f832-443a-bb19-153a09102200@6ff6.org
+UID:ae38cc51-7f03-4a13-821c-8f9b116f8f65@ae38.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295068
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250801T020000Z
-LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250801T003000Z
-SUMMARY:New Student Orientation Social 18
-UID:9e950a33-71e6-42ef-8072-d78d547b9cdf@9e95.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318563
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20251204T020000Z
-LOCATION:College Ave Student Center Room 411A
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251204T010000Z
-SUMMARY:Friends of MSF Meeting
-UID:e9a613b9-99c4-4052-a186-d43d7695e1df@e9a6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290845
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250711T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250711T003000Z
-SUMMARY:New Student Orientation Social 8
-UID:603185b1-78b0-4855-8b64-811f3b1867ea@6031.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318736
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251023T013000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251023T003000Z
-SUMMARY:HSC General Meeting
-UID:564a3c78-4af2-438f-bc70-6a580480328e@564a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295066
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:Anyone interested in the dental field\, or wants to explore a unique field come to learn about our club and meet the E-board. We are happy to answer any questions or just come to listen and meet other people interested in the similar things as you!
-DTEND:20250918T003000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Pre-Dental Society of Rutgers University:mailto:Pre-Dental Society of Rutgers University
-DTSTART:20250917T233000Z
-SUMMARY:First General Meeting
-UID:0135263f-b36e-40db-ae61-1590d2d4ddf7@0135.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286185
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 19 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250805T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250805T003000Z
-SUMMARY:New Student Orientation Social 19
-UID:67594767-18f0-49bf-a145-b961b6a82758@6759.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318562
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250702T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250702T003000Z
-SUMMARY:New Student Orientation Social 6
-UID:3d5d4500-7145-426c-baa2-d2d0edbc5808@3d5d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318532
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, interns\, trainees and scholars\, and Mandela Washington Fellows. 
-DTEND:20250723T230000Z
-LOCATION:International Center Office Building\, 180\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20250723T213000Z
-SUMMARY:Rutgers Global Summer Social
-UID:3f61001f-b7f0-413c-b475-5a964cdf7241@3f61.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11306792
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:oin Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250807T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250807T003000Z
-SUMMARY:New Student Orientation Social 21
-UID:939e890e-6623-4abc-93e3-a38fdbcad267@939e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318624
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250730T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250730T003000Z
-SUMMARY:New Student Orientation Social 16
-UID:49f0b9a4-0707-4174-a52e-e2c182e0c514@49f0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318614
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251204T023000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251204T013000Z
-SUMMARY:HSC General Meeting
-UID:74d75776-9aaa-4628-8d4b-c5b6dcccd624@74d7.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295069
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,Community Service Event on Campus,General Organization Meeting
-DESCRIPTION:Join us in the Busch Student Center in Room 116 on Wednesday\, September 10th from 8:00 to 9:00 pm to get general information regarding our club and how to get clinical volunteering hours! We will have food and a fun experiment to do so we hope to see you there!
-DTEND:20250911T010000Z
-LOCATION:BSC Room 116
-ORGANIZER;CN=Together Educating All Children in Hospitals :mailto:Together Educating All Children in Hospitals 
-DTSTART:20250911T000000Z
-SUMMARY:TEACH General Interest Meeting
-UID:b24d3b61-d5f1-42f6-a1f8-19ef6390d710@b24d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11253114
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CommunityService,General Organization Meeting
@@ -163,52 +64,19 @@ LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20251106T010000Z
 SUMMARY:Friends of MSF Meeting
-UID:af042897-f279-453f-9dcc-ca7c51211cc7@af04.org
+UID:4ec06c78-6d27-4f5d-8038-293c133d0231@4ec0.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290843
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Welcome to the RU Genshin Club! This meeting will introduce members to our e-board\, our mission and a general rundown of our club! More details will be announced in August! We can't wait to see you all there! 
-DTEND:20250906T020000Z
-LOCATION:TBA
-ORGANIZER;CN=Rutgers Genshin Impact Club:mailto:Rutgers Genshin Impact Club
-DTSTART:20250906T000000Z
-SUMMARY:Rutgers Genshin Club - General Interest Meeting
-UID:98d6ea0b-2ce2-4547-a90f-f58d59121be7@98d6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11291019
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20251009T010000Z
-LOCATION:College Ave Student Center Room 411A
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251009T000000Z
-SUMMARY:Friends of MSF Meeting
-UID:b064fdef-9cdc-438c-88a3-605816e50f5d@b064.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290841
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250806T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\,bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250729T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250806T003000Z
-SUMMARY:New Student Orientation Social 20
-UID:5740d867-cccc-4ffe-a368-15df67881c08@5740.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318750
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250725T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250725T003000Z
-SUMMARY:New Student Orientation Social 14
-UID:d1b24d95-d32e-4f7f-b750-1e5cee49fddc@d1b2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318744
+DTSTART:20250729T003000Z
+SUMMARY:New Student Orientation Social 15
+UID:0e8cfb33-f952-4627-9210-c7c4cfd982ec@0e8c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318620
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Arts,Cook / Douglass,Cultural Performance
@@ -218,30 +86,52 @@ LOCATION:Red Pine Pizza\, 100\, George Street\, Feaster Park\, New Brunswick\, M
 ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
 DTSTART:20251207T220000Z
 SUMMARY:Fall Hafla 2025
-UID:7b65323a-ecb7-499e-a305-68887d30651c@7b65.org
+UID:95f88f0a-9e30-4695-b790-b2bc59833521@95f8.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11292236
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20250911T020000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20250911T003000Z
-SUMMARY:HSC General Meeting
-UID:7a57be0f-882e-4f47-917d-4a51d1b0d1c5@7a57.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295063
+CATEGORIES:ThoughtfulLearning,Busch
+DESCRIPTION:Join us for a Resume Review Workshop designed to help you craft a product-focused resume that stands out! Whether you're seeking your first product role\, pivoting into product management\, or aiming to level up your career\, this event is for you. You'll receive personalized feedback from experienced product professionals\, learn what recruiters look for\, and gain actionable tips to highlight your impact\, skills\, and leadership potential.
+DTEND:20250918T000000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Women in Product :mailto:Rutgers Women in Product 
+DTSTART:20250917T230000Z
+SUMMARY:Resume Review
+UID:29dbf9f9-212a-4095-be76-a10c6b34a1dd@29db.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286177
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:CommunityService
-DESCRIPTION:Welcome to the fall semester of Habitat for Humanity! Come meet our e-board\, make friends\, learn more about our organization\, and enjoy a slice of pizza! 
-DTEND:20250917T021500Z
-LOCATION:Busch Student Center
-ORGANIZER;CN=Habitat for Humanity :mailto:Habitat for Humanity 
-DTSTART:20250917T011500Z
-SUMMARY:General Interest and Info Meeting
-UID:773762fa-2fab-47d4-8fa5-25b56826b805@7737.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11293206
+CATEGORIES:Social,Busch
+DESCRIPTION:Anyone interested in the dental field\, or wants to explore a unique field come to learn about our club and meet the E-board. We are happy to answer any questions or just come to listen and meet other people interested in the similar things as you!
+DTEND:20250918T003000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Pre-Dental Society of Rutgers University:mailto:Pre-Dental Society of Rutgers University
+DTSTART:20250917T233000Z
+SUMMARY:First General Meeting
+UID:c95c5598-0358-4ae0-afa5-dadcafb46e47@c95c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286185
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250701T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250701T003000Z
+SUMMARY:New Student Orientation Social 5
+UID:0fef5600-93e6-4309-bb04-138eb7a0985d@0fef.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318546
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250725T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250725T003000Z
+SUMMARY:New Student Orientation Social 14
+UID:9f22d0d8-80be-4514-babc-0c0b53848b63@9f22.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318744
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CommunityService,General Organization Meeting
@@ -251,8 +141,118 @@ LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20251120T010000Z
 SUMMARY:Friends of MSF Meeting
-UID:8ff1f881-4717-47fa-a0f2-95c604b9f369@8ff1.org
+UID:47a80dd8-bdd6-4dc0-9be9-b63a2c88b5ab@47a8.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290844
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20251204T020000Z
+LOCATION:College Ave Student Center Room 411A
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20251204T010000Z
+SUMMARY:Friends of MSF Meeting
+UID:db351b5f-c005-4235-9716-9d6569ab0684@db35.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290845
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:Welcome to the RU Genshin Club! This meeting will introduce members to our e-board\, our mission and a general rundown of our club! More details will be announced in August! We can't wait to see you all there! 
+DTEND:20250906T020000Z
+LOCATION:TBA
+ORGANIZER;CN=Rutgers Genshin Impact Club:mailto:Rutgers Genshin Impact Club
+DTSTART:20250906T000000Z
+SUMMARY:Rutgers Genshin Club - General Interest Meeting
+UID:68d8d7b7-7975-4e5a-91fb-400632ab7a7f@68d8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11291019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251023T013000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251023T003000Z
+SUMMARY:HSC General Meeting
+UID:31188e95-5fa7-474a-ab70-d96d9b5dc15e@3118.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251009T013000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251009T003000Z
+SUMMARY:HSC General Meeting
+UID:a3267013-ef5c-4261-a467-1261ea186c99@a326.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295065
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250711T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250711T003000Z
+SUMMARY:New Student Orientation Social 8
+UID:24f0dfff-dc11-454b-b775-1d0c203b3fb7@24f0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318736
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250717T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250717T003000Z
+SUMMARY:New Student Orientation Social 11
+UID:8a48a99d-6ff6-410e-a22e-606c754abf7e@8a48.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318558
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250702T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250702T003000Z
+SUMMARY:New Student Orientation Social 6
+UID:2440f792-4eef-4c25-80ce-5a3a71903f99@2440.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318532
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,College Ave,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20250925T010000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20250925T000000Z
+SUMMARY:Friends of MSF Meeting
+UID:e40e3ac3-eba1-46ba-9227-23a210c692c4@e40e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290840
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250627T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250627T003000Z
+SUMMARY:New Student Orientation Social 4
+UID:a8708741-3634-466d-870c-845112c602d8@a870.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318565
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20250925T013000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20250925T003000Z
+SUMMARY:HSC General Meeting
+UID:9b2a0718-71d2-430c-83d1-bc2963a6b9a9@9b2a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295064
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Special Interest
@@ -262,7 +262,7 @@ LOCATION:DCMS
 ORGANIZER;CN=Oceanography Club:mailto:Oceanography Club
 DTSTART:20250911T160000Z
 SUMMARY:First Meeting!
-UID:a5565896-eb2b-4035-af0a-ee8b8667b823@a556.org
+UID:5bccf64c-b5c4-4af7-808f-b9eceea4c480@5bcc.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295086
 END:VEVENT
 BEGIN:VEVENT
@@ -273,173 +273,8 @@ LOCATION:BSC 120 ABC
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
 DTSTART:20251106T013000Z
 SUMMARY:HSC General Meeting
-UID:5f6dfab3-fa20-455c-a80a-9a61a614e5a9@5f6d.org
+UID:e17ae7d1-9ba1-4fa3-8c8f-6549b60d178a@e17a.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295067
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:GroupBusiness,College Ave,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:This is our first meeting of the new school year! Come back to our club and get the privilege of hearing a Real-Estate professional speak about his experience in the industry over the past few decades! We hope you enjoy our speciality Kosher catered dinner! Don't forget to bring your pens and notepads for notetaking and questions!
-DTEND:20250909T003000Z
-LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=J-BIZ: The Jewish Career Network at Rutgers:mailto:J-BIZ: The Jewish Career Network at Rutgers
-DTSTART:20250908T233000Z
-SUMMARY:J-Biz: First Meeting (Fall 2025)
-UID:b0f6abf0-4b61-4bbe-a550-d6a21a76ab3c@b0f6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11175859
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251009T013000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251009T003000Z
-SUMMARY:HSC General Meeting
-UID:03586bd4-0843-47cc-ade1-dc6a3d723f12@0358.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295065
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,College Ave,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20250925T010000Z
-LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20250925T000000Z
-SUMMARY:Friends of MSF Meeting
-UID:1bf0c4b2-110e-4a49-b38c-d0ce56b435a5@1bf0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290840
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20251023T010000Z
-LOCATION:College Ave Student Center Room 411A
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251023T000000Z
-SUMMARY:Friends of MSF Meeting
-UID:e182106b-1892-4842-8096-852c4366a5ab@e182.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290842
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250715T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250715T003000Z
-SUMMARY:New Student Orientation Social 9
-UID:cc6e5162-9831-47c0-8ef4-19dc0fa6036b@cc6e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318612
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 7 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250708T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250708T003000Z
-SUMMARY:New Student Orientation Social 7
-UID:5dbf4aef-0443-476f-8861-17ddb82dfc40@5dbf.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318549
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250625T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250625T003000Z
-SUMMARY:New Student Orientation Social 2
-UID:49517a5b-3400-4da0-8700-8cf48b4e1b2a@4951.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318588
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250701T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250701T003000Z
-SUMMARY:New Student Orientation Social 5
-UID:c4b1b981-7efd-4b30-b1d3-635c38f11411@c4b1.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318546
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\,bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250729T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250729T003000Z
-SUMMARY:New Student Orientation Social 15
-UID:088a6aa3-e3df-4b56-af6f-6c260fa7cd80@088a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318620
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,General Organization Meeting
-DESCRIPTION:Join Friends of MSF for our first meeting of the 2025-26 school year! We will be introducing the officer board\, getting to know each other\, and playing MSF trivia.
-DTEND:20250911T010000Z
-LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20250911T000000Z
-SUMMARY:General Interest Meeting
-UID:93d0b3f8-08e2-4581-afb1-2864f484f105@93d0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290835
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Busch
-DESCRIPTION:Join us for a Resume Review Workshop designed to help you craft a product-focused resume that stands out! Whether you're seeking your first product role\, pivoting into product management\, or aiming to level up your career\, this event is for you. You'll receive personalized feedback from experienced product professionals\, learn what recruiters look for\, and gain actionable tips to highlight your impact\, skills\, and leadership potential.
-DTEND:20250918T000000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Women in Product :mailto:Rutgers Women in Product 
-DTSTART:20250917T230000Z
-SUMMARY:Resume Review
-UID:6ead7ad4-e829-4e08-8409-627bc323cde6@6ead.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286177
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 13 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250722T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250722T003000Z
-SUMMARY:New Student Orientation Social 13
-UID:5ac051e1-398a-46c9-83a4-89fdfad617a8@5ac0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318559
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250731T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250731T003000Z
-SUMMARY:New Student Orientation Social 17
-UID:3314ee4e-6413-48ce-afe8-877947d9f52c@3314.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318567
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION: Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250626T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250626T003000Z
-SUMMARY:New Student Orientation Social 3
-UID:508bebd5-3f4b-44e8-b3d3-49211294f531@508b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318589
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250718T020000Z
-LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250718T003000Z
-SUMMARY:New Student Orientation Social 12
-UID:3d0a2e75-3e28-4958-8e3e-94d97dcab4bd@3d0a.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318556
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Livingston,General Organization Meeting
@@ -449,19 +284,195 @@ LOCATION:Rutgers Livingston Campus\, Joyce Kilmer Avenue\, Piscataway Township\,
 ORGANIZER;CN=Venture Capital Club of Rutgers University:mailto:Venture Capital Club of Rutgers University
 DTSTART:20250909T223000Z
 SUMMARY:Welcome to Rutgers University Venture Capital Club
-UID:8258e40b-0da8-4f84-982d-ce55b38a4882@8258.org
+UID:ef920a81-77cd-4283-8323-9445d2eecebd@ef92.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286521
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251204T023000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251204T013000Z
+SUMMARY:HSC General Meeting
+UID:c69a64d8-3987-4ceb-9231-042925221d6a@c69a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295069
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20251009T010000Z
+LOCATION:College Ave Student Center Room 411A
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20251009T000000Z
+SUMMARY:Friends of MSF Meeting
+UID:d7f5f8f9-8093-4e1d-8070-378e221d8bb8@d7f5.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290841
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20251023T010000Z
+LOCATION:College Ave Student Center Room 411A
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20251023T000000Z
+SUMMARY:Friends of MSF Meeting
+UID:096138c7-164a-4ca9-9370-eec407f370d9@0961.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290842
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 7 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250708T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250708T003000Z
+SUMMARY:New Student Orientation Social 7
+UID:4e1fab1d-e366-4511-a7e6-7a2fd3889f8e@4e1f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318549
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250715T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250715T003000Z
+SUMMARY:New Student Orientation Social 9
+UID:a1b78338-3ac3-4ce7-b203-68e63f44018e@a1b7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318612
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250718T020000Z
+LOCATION:Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250718T003000Z
+SUMMARY:New Student Orientation Social 12
+UID:48d88bdc-afca-42f7-9ae9-6012435fa8f1@48d8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318556
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:GroupBusiness,College Ave,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:This is our first meeting of the new school year! Come back to our club and get the privilege of hearing a Real-Estate professional speak about his experience in the industry over the past few decades! We hope you enjoy our speciality Kosher catered dinner! Don't forget to bring your pens and notepads for notetaking and questions!
+DTEND:20250909T003000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=J-BIZ: The Jewish Career Network at Rutgers:mailto:J-BIZ: The Jewish Career Network at Rutgers
+DTSTART:20250908T233000Z
+SUMMARY:J-Biz: First Meeting (Fall 2025)
+UID:2a73ebd0-a377-4211-ad6b-8cd21c9fd190@2a73.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11175859
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250731T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250731T003000Z
+SUMMARY:New Student Orientation Social 17
+UID:23a9fd11-c3c1-4aab-b5c7-a4b7c6bbb835@23a9.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318567
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 19 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250805T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250805T003000Z
+SUMMARY:New Student Orientation Social 19
+UID:65779cd2-363e-44d9-b7c3-1807809863bf@6577.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318562
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 13 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250722T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250722T003000Z
+SUMMARY:New Student Orientation Social 13
+UID:f9929290-0767-4171-9abf-6cbb7a2f0099@f992.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318559
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch,Entertainment
 DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
 DTEND:20250716T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
 DTSTART:20250716T003000Z
 SUMMARY:New Student Orientation Social 10
-UID:58b28ee7-c712-4b00-90b1-94acc787bff1@58b2.org
+UID:bbf32b0c-a170-4319-b620-e32d99af945c@bbf3.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318587
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,Community Service Event on Campus,General Organization Meeting
+DESCRIPTION:Join us in the Busch Student Center in Room 116 on Wednesday\, September 10th from 8:00 to 9:00 pm to get general information regarding our club and how to get clinical volunteering hours! We will have food and a fun experiment to do so we hope to see you there!
+DTEND:20250911T010000Z
+LOCATION:BSC Room 116
+ORGANIZER;CN=Together Educating All Children in Hospitals :mailto:Together Educating All Children in Hospitals 
+DTSTART:20250911T000000Z
+SUMMARY:TEACH General Interest Meeting
+UID:c444b1a3-ef56-431b-a88a-88cc35b66a7a@c444.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11253114
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20250911T020000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20250911T003000Z
+SUMMARY:HSC General Meeting
+UID:f78474e1-c8ac-4722-99ef-c2441c37d234@f784.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295063
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,General Organization Meeting
+DESCRIPTION:Join Friends of MSF for our first meeting of the 2025-26 school year! We will be introducing the officer board\, getting to know each other\, and playing MSF trivia.
+DTEND:20250911T010000Z
+LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20250911T000000Z
+SUMMARY:General Interest Meeting
+UID:73f80056-c672-4159-81f3-fa354e1b350b@73f8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290835
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250625T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250625T003000Z
+SUMMARY:New Student Orientation Social 2
+UID:e87e5e00-d204-4a6d-b90f-24310095f1ae@e87e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318588
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250801T020000Z
+LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250801T003000Z
+SUMMARY:New Student Orientation Social 18
+UID:e5c4fc5d-7b16-4daa-b203-d0e3e19da53e@e5c4.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318563
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, interns\, trainees and scholars\, and Mandela Washington Fellows. 
+DTEND:20250723T230000Z
+LOCATION:International Center Office Building\, 180\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20250723T213000Z
+SUMMARY:Rutgers Global Summer Social
+UID:c0ca1a86-e248-478c-beb5-f6842ad913ea@c0ca.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11306792
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Arts,General Organization Meeting
@@ -471,29 +482,18 @@ LOCATION:Busch Student Center Room 115
 ORGANIZER;CN=Video Game Music (Rutgers University Club for):mailto:Video Game Music (Rutgers University Club for)
 DTSTART:20251204T210000Z
 SUMMARY:RUCVGM General Meeting
-UID:a96abb0b-2183-4516-acdd-b855d64a8488@a96a.org
+UID:445f237d-aacc-4f99-9d95-2f6ee8bcf408@445f.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11332338
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250717T020000Z
-LOCATION:Sonny A. Werblin Recreation Center\, 656\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250730T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
 ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250717T003000Z
-SUMMARY:New Student Orientation Social 11
-UID:b9304439-1d74-4df1-a963-e5e9c6c34ea9@b930.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318558
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20250925T013000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20250925T003000Z
-SUMMARY:HSC General Meeting
-UID:be339a7a-3f38-4d3a-b1a2-957add5b9146@be33.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295064
+DTSTART:20250730T003000Z
+SUMMARY:New Student Orientation Social 16
+UID:ea8397fc-7218-4ed3-9ea7-c0dc8dc427f8@ea83.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318614
 END:VEVENT
 END:VCALENDAR
