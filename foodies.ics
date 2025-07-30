@@ -2,26 +2,70 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:CommunityService,Community Service Event on Campus,General Organization Meeting
-DESCRIPTION:Join us in the Busch Student Center in Room 116 on Wednesday\, September 10th from 8:00 to 9:00 pm to get general information regarding our club and how to get clinical volunteering hours! We will have food and a fun experiment to do so we hope to see you there!
-DTEND:20250911T010000Z
-LOCATION:BSC Room 116
-ORGANIZER;CN=Together Educating All Children in Hospitals :mailto:Together Educating All Children in Hospitals 
-DTSTART:20250911T000000Z
-SUMMARY:TEACH General Interest Meeting
-UID:0ceef907-7087-4161-8071-3b7abec2faca@0cee.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11253114
+CATEGORIES:Social,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250801T020000Z
+LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250801T003000Z
+SUMMARY:New Student Orientation Social 18
+UID:b37f3992-2088-4d32-840e-a4a658cb7ee5@b37f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318563
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,Special Interest,Welcome Week
+DESCRIPTION:RU a new Douglass Residential College transfer or commuter student? Join the Douglass Welcome Ambassadors and staff for a special welcome breakfast where you can meet others on a similar journey and ask specific questions over breakfast.
+DTEND:20250827T160000Z
+LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
+DTSTART:20250827T143000Z
+SUMMARY:Douglass Residential College New Transfer and Commuter Breakfast
+UID:04219859-151e-4350-bd04-9810d8e041ec@0421.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358522
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CommunityService,General Organization Meeting
 DESCRIPTION:Description TBD
-DTEND:20251204T020000Z
+DTEND:20251009T010000Z
 LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251204T010000Z
+DTSTART:20251009T000000Z
 SUMMARY:Friends of MSF Meeting
-UID:37db8472-a2d0-4e14-af96-9dda5c191714@37db.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290845
+UID:d6c456c9-f832-4be0-b422-a8c5357e9ebb@d6c4.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290841
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,Livingston,General Organization Meeting
+DESCRIPTION:Come hang out with us at our first BEI event of the semester! We’ll introduce what the Brain Exercise Initiative does—volunteering at nursing homes using simple\, research-backed exercises to improve the memory and mood of the seniors we work with. What to expect:🧠 Learn how we help seniors through cognitive engagement🎉 Try out fun trivia and brain exercises🏡 Hear about our local nursing home visits🍕 Enjoy free food!🤝 Meet other students passionate about making a difference Whether you're looking to volunteer\, get involved\, or just learn more\, stop by and bring a friend!
+DTEND:20250916T000000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Brain Exercise Initiative:mailto:Brain Exercise Initiative
+DTSTART:20250915T230000Z
+SUMMARY:Brain Exercise Trivia and Club Meeting
+UID:b6ae45f2-130a-40b7-8043-518dd688835d@b6ae.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11344456
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20250911T020000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20250911T003000Z
+SUMMARY:HSC General Meeting
+UID:990505dd-9a8a-451b-8c60-ac7a441cdbf7@9905.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295063
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass,Wellness Event
+DESCRIPTION:Unwind and relax with the Center for Women in the Arts at Douglass before heading off for winter break—join us for a fun and calming rock painting session! Supplies and snacks provided. All are welcome! Supplies are limited – First come\, first served. This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research. Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
+DTEND:20251212T193000Z
+LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
+DTSTART:20251212T180000Z
+SUMMARY:Art Destress: Rock Painting 
+UID:40cfc19a-a993-4ffc-a496-c35664ec83a2@40cf.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365593
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Arts,General Organization Meeting
@@ -31,7 +75,7 @@ LOCATION:Busch Student Center Room 115
 ORGANIZER;CN=Video Game Music (Rutgers University Club for):mailto:Video Game Music (Rutgers University Club for)
 DTSTART:20251204T210000Z
 SUMMARY:RUCVGM General Meeting
-UID:e27105a5-f851-4e94-a065-ef224052278e@e271.org
+UID:6535ae84-7f3d-443b-9deb-333fb87f4715@6535.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11332338
 END:VEVENT
 BEGIN:VEVENT
@@ -42,74 +86,41 @@ LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Bruns
 ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
 DTSTART:20251025T180000Z
 SUMMARY:Douglass x Scarlet Arts RX | Artful Saturday: Air-dry Clay sculptures & Clay bombing 
-UID:2a03483d-5cda-445e-85d6-19d6e3eb05a2@2a03.org
+UID:2bb90f44-3d49-4017-a0b0-bea8734d2ac6@2bb9.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365419
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:CommunityService,Livingston,General Organization Meeting
-DESCRIPTION:Come hang out with us at our first BEI event of the semester! We’ll introduce what the Brain Exercise Initiative does—volunteering at nursing homes using simple\, research-backed exercises to improve the memory and mood of the seniors we work with. What to expect:🧠 Learn how we help seniors through cognitive engagement🎉 Try out fun trivia and brain exercises🏡 Hear about our local nursing home visits🍕 Enjoy free food!🤝 Meet other students passionate about making a difference Whether you're looking to volunteer\, get involved\, or just learn more\, stop by and bring a friend!
-DTEND:20250916T000000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Brain Exercise Initiative:mailto:Brain Exercise Initiative
-DTSTART:20250915T230000Z
-SUMMARY:Brain Exercise Trivia and Club Meeting
-UID:5e31392f-4ee6-4d72-b104-5a8ab3347a3e@5e31.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11344456
+CATEGORIES:Social
+DESCRIPTION:Welcome to the RU Genshin Club! This meeting will introduce members to our e-board\, our mission and a general rundown of our club! More details will be announced in August! We can't wait to see you all there! 
+DTEND:20250906T020000Z
+LOCATION:TBA
+ORGANIZER;CN=Rutgers Genshin Impact Club:mailto:Rutgers Genshin Impact Club
+DTSTART:20250906T000000Z
+SUMMARY:Rutgers Genshin Club - General Interest Meeting
+UID:7224da0e-c601-410d-8de9-d6cfce19090c@7224.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11291019
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Busch,Welcome Week
-DESCRIPTION:Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!
-DTEND:20250905T213000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20250905T200000Z
-SUMMARY:Friendship Fridays 
-UID:5d9648f3-80fe-4398-abe5-ba564980c318@5d96.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358767
+CATEGORIES:GroupBusiness,College Ave,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:This is our first meeting of the new school year! Come back to our club and get the privilege of hearing a Real-Estate professional speak about his experience in the industry over the past few decades! We hope you enjoy our speciality Kosher catered dinner! Don't forget to bring your pens and notepads for notetaking and questions!
+DTEND:20250909T003000Z
+LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=J-BIZ: The Jewish Career Network at Rutgers:mailto:J-BIZ: The Jewish Career Network at Rutgers
+DTSTART:20250908T233000Z
+SUMMARY:J-Biz: First Meeting (Fall 2025)
+UID:5f4cf647-3592-4ecb-ad45-0281cf6c05ad@5f4c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11175859
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:All graduate and professional students are invited to join the Office of Graduate Student Life and the Graduate Student Association for the annual Fall Graduate Student Welcome Reception and Resource Fair! Stop by the Busch Student Center MPR anytime between 3 and 6pm to meet your fellow graduate students\, network\, enjoy food\, and learn about the exciting opportunities\, resources\, and support services for graduate students by engaging with Graduate Student Organizations (GSOs) and University Departments!
-DTEND:20250910T220000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Graduate Student Life (Department at Rutgers University):mailto:Graduate Student Life (Department at Rutgers University)
-DTSTART:20250910T190000Z
-SUMMARY:Graduate Student Welcome Reception and Resource Fair
-UID:7cb60225-9cfb-4e64-b92c-cd993e475563@7cb6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11351447
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:Anyone interested in the dental field\, or wants to explore a unique field come to learn about our club and meet the E-board. We are happy to answer any questions or just come to listen and meet other people interested in the similar things as you!
-DTEND:20250918T003000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Pre-Dental Society of Rutgers University:mailto:Pre-Dental Society of Rutgers University
-DTSTART:20250917T233000Z
-SUMMARY:First General Meeting
-UID:d8dc6899-9618-4f63-b2d9-ce251ac0485e@d8dc.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286185
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService
-DESCRIPTION:Welcome to the fall semester of Habitat for Humanity! Come meet our e-board\, make friends\, learn more about our organization\, and enjoy a slice of pizza! 
-DTEND:20250917T021500Z
-LOCATION:Busch Student Center
-ORGANIZER;CN=Habitat for Humanity :mailto:Habitat for Humanity 
-DTSTART:20250917T011500Z
-SUMMARY:General Interest and Info Meeting
-UID:577cf09b-c1d3-4ca0-b56f-0d5e909ed817@577c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11293206
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass
-DESCRIPTION:Drop-in for an Artful Saturday monthly event hosted by the Center for the Women in the Arts at Douglass and Scarlet Arts RX! Kick off our Fall 2025 series with a beginner-friendly crafting session focused on cartoon-style self-portraits\, vision boarding\, and expressing yourself through drawing\, collage\, and mixed media! Artsy door prizes! Bring a friend! Taught by a Scarlet Arts Rx student teaching artist from Rutgers Mason Gross School of the Arts. Foundational art skills you will learn at this event: Cutting interesting shapes\, Collage / mood boarding\, and Cartoon self-portraits (out of the paper shapes). Free supplies\, snacks\, and boba provided! Supplies are limited – First come\, first served. All skill levels and walk-ins welcome! This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research.Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
-DTEND:20250920T210000Z
-LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
-DTSTART:20250920T180000Z
-SUMMARY:Douglass x Scarlet Arts RX | Artful Saturday: Vision Boarding with Cartoon-Style Self-Portraits 
-UID:fa7fc4fa-676f-4b5a-8194-93ebbd166c26@fa7f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365404
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251009T013000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251009T003000Z
+SUMMARY:HSC General Meeting
+UID:4c901d2a-64ab-401e-a485-54fb1b3f4712@4c90.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295065
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CommunityService,General Organization Meeting
@@ -119,19 +130,272 @@ LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20251106T010000Z
 SUMMARY:Friends of MSF Meeting
-UID:f1cb5e40-297f-4b07-b21f-fb63c9e1717d@f1cb.org
+UID:498f36cf-8573-4a7c-86b0-c5c3976e0c06@498f.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290843
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass
+DESCRIPTION:Drop-in for an Artful Saturday monthly event hosted by the Center for the Women in the Arts at Douglass and Scarlet Arts RX! Kick off our Fall 2025 series with a beginner-friendly crafting session focused on cartoon-style self-portraits\, vision boarding\, and expressing yourself through drawing\, collage\, and mixed media! Artsy door prizes! Bring a friend! Taught by a Scarlet Arts Rx student teaching artist from Rutgers Mason Gross School of the Arts. Foundational art skills you will learn at this event: Cutting interesting shapes\, Collage / mood boarding\, and Cartoon self-portraits (out of the paper shapes). Free supplies\, snacks\, and boba provided! Supplies are limited – First come\, first served. All skill levels and walk-ins welcome! This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research.Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
+DTEND:20250920T210000Z
+LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
+DTSTART:20250920T180000Z
+SUMMARY:Douglass x Scarlet Arts RX | Artful Saturday: Vision Boarding with Cartoon-Style Self-Portraits 
+UID:448ab2b6-a74d-4734-ba1c-ffaf19cb6a86@448a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365404
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston
+DESCRIPTION:  Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!  
+DTEND:20251107T223000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20251107T210000Z
+SUMMARY:Friendship Fridays 
+UID:7d3bb5da-9b45-42ff-a853-fe3d63a7bddc@7d3b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358801
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,General Organization Meeting
+DESCRIPTION:Join Friends of MSF for our first meeting of the 2025-26 school year! We will be introducing the officer board\, getting to know each other\, and playing MSF trivia.
+DTEND:20250911T010000Z
+LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20250911T000000Z
+SUMMARY:General Interest Meeting
+UID:01d316b2-fa7b-4280-927b-0c2d6140cf78@01d3.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290835
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch
+DESCRIPTION:Anyone interested in the dental field\, or wants to explore a unique field come to learn about our club and meet the E-board. We are happy to answer any questions or just come to listen and meet other people interested in the similar things as you!
+DTEND:20250918T003000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Pre-Dental Society of Rutgers University:mailto:Pre-Dental Society of Rutgers University
+DTSTART:20250917T233000Z
+SUMMARY:First General Meeting
+UID:34750000-b3a6-45fb-84b6-3f754579d226@3475.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286185
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass,Art Exhibition,Educational Lecture,Special Interest
+DESCRIPTION:Stop by Douglass Library to experience a solo exhibition of artwork by the 2025-2026 Lebowitz Artist-in-Residence\, Liz Collins\, on view September 2 through March 13! Collins is a Brooklyn based artist that works across art and design. She is known for her innovative multimedia fabric\, knitwear\, and textile work\, along with the fashion label she created. Don't miss out—RSVP today and join the Center for Women in the Arts at Douglass to view the exhibition during a reception and for a talk by artist Liz Collins on October 16\, from 5:00 to 6:30 PM! All are welcome!Schedule: 5:00-5:30pm exhibition viewing & reception (light refreshments served)\; 5:30-6:30pm artist’s talk. This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research.Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
+DTEND:20251016T223000Z
+LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
+DTSTART:20251016T210000Z
+SUMMARY:Liz Collins: Exhibition Reception & Artist's Talk
+UID:1402c3c5-b9ca-4484-8258-293b2369e61e@1402.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365236
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:oin Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250807T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250807T003000Z
+SUMMARY:New Student Orientation Social 21
+UID:a0060f3a-e800-4b0a-a143-a56161021206@a006.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318624
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20250925T013000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20250925T003000Z
+SUMMARY:HSC General Meeting
+UID:d1e19f4b-06d8-4a11-8bc9-cf2025f476e4@d1e1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295064
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch
+DESCRIPTION:All graduate and professional students are invited to join the Office of Graduate Student Life and the Graduate Student Association for the annual Fall Graduate Student Welcome Reception and Resource Fair! Stop by the Busch Student Center MPR anytime between 3 and 6pm to meet your fellow graduate students\, network\, enjoy food\, and learn about the exciting opportunities\, resources\, and support services for graduate students by engaging with Graduate Student Organizations (GSOs) and University Departments!
+DTEND:20250910T220000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Graduate Student Life (Department at Rutgers University):mailto:Graduate Student Life (Department at Rutgers University)
+DTSTART:20250910T190000Z
+SUMMARY:Graduate Student Welcome Reception and Resource Fair
+UID:65dbd9e8-0bc3-4013-9dad-56d182003832@65db.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11351447
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,Special Interest
+DESCRIPTION:First meeting of the semester!
+DTEND:20250911T170000Z
+LOCATION:DCMS
+ORGANIZER;CN=Oceanography Club:mailto:Oceanography Club
+DTSTART:20250911T160000Z
+SUMMARY:First Meeting!
+UID:d841e345-28bd-4cc9-9949-02a5aa7375d7@d841.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295086
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251106T023000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251106T013000Z
+SUMMARY:HSC General Meeting
+UID:fe3e4cc9-9c3d-45af-a12f-3534fd5e6000@fe3e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295067
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250806T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250806T003000Z
+SUMMARY:New Student Orientation Social 20
+UID:32580d07-906e-4cea-95aa-ab954b3c5ad8@3258.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318750
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService
+DESCRIPTION:Welcome to the fall semester of Habitat for Humanity! Come meet our e-board\, make friends\, learn more about our organization\, and enjoy a slice of pizza! 
+DTEND:20250917T021500Z
+LOCATION:Busch Student Center
+ORGANIZER;CN=Habitat for Humanity :mailto:Habitat for Humanity 
+DTSTART:20250917T011500Z
+SUMMARY:General Interest and Info Meeting
+UID:ab748727-b99c-4377-be34-a8a5b548d30e@ab74.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11293206
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251120T023000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251120T013000Z
+SUMMARY:HSC General Meeting
+UID:ed02b860-03ec-4ddd-b3f8-052c74f1b2fa@ed02.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295068
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,Special Interest,Welcome Week
+DESCRIPTION:Douglass Residential College\, historically known as the women's college at Rutgers\, offers special leadership/internship/externship/social events/community engagement/research opportunities and much more to enhance students' education and overall experience at Rutgers. Join current students\, faculty and staff for lunch and a peak at what's available to you through Douglass. There will be a group photo\, student organizations tabling\, helpful tips and information to kick start your Rutgers and Douglass experience\, and a raffle event with lots of great Douglass swag!
+DTEND:20250827T183000Z
+LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
+DTSTART:20250827T160000Z
+SUMMARY:Douglass Residential College New Student Lunch and Learn
+UID:ab6d8e9a-9b06-4d65-ac83-01cba58760e5@ab6d.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358546
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CommunityService,General Organization Meeting
 DESCRIPTION:Description TBD
-DTEND:20251009T010000Z
+DTEND:20251204T020000Z
 LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251009T000000Z
+DTSTART:20251204T010000Z
 SUMMARY:Friends of MSF Meeting
-UID:f0a28d9d-7bcc-4022-b459-807302e7eac0@f0a2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290841
+UID:eb4c4e04-1777-4880-9a71-d280476b55cc@eb4c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290845
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch
+DESCRIPTION:    Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!      
+DTEND:20251205T223000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20251205T210000Z
+SUMMARY:Friendship Fridays 
+UID:b563ad7a-bf55-4fca-b166-1bca594a9f9a@b563.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358811
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20251120T020000Z
+LOCATION:College Ave Student Center Room 411A
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20251120T010000Z
+SUMMARY:Friends of MSF Meeting
+UID:d73c78a9-ca21-4353-a489-6b0cac0aa70c@d73c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290844
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250731T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250731T003000Z
+SUMMARY:New Student Orientation Social 17
+UID:70d77dde-f766-4546-8930-346dc47377a0@70d7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318567
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
+DESCRIPTION:Join us in learning more about Hinduism with fun activities!
+DTEND:20251023T013000Z
+LOCATION:BSC 120 ABC
+ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
+DTSTART:20251023T003000Z
+SUMMARY:HSC General Meeting
+UID:ea10f327-6d3e-48c0-a9cb-e1f5fab0ad4d@ea10.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Welcome Week
+DESCRIPTION:Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!
+DTEND:20250905T213000Z
+LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20250905T200000Z
+SUMMARY:Friendship Fridays 
+UID:020d53e7-e27f-4aa9-b7e4-5e92d50ea8bd@020d.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358767
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Entertainment
+DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 19 of Orientation today. Students will be escorted to this event with their Orientation Leader.
+DTEND:20250805T020000Z
+LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
+ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
+DTSTART:20250805T003000Z
+SUMMARY:New Student Orientation Social 19
+UID:c1437108-62e1-443b-887e-37ee00f86d38@c143.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318562
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass,Special Interest
+DESCRIPTION:Drop-in for an Artful Saturday monthly event hosted by the Center for the Women in the Arts at Douglass and Scarlet Arts RX! Explore the relaxing and rhythmic connection of patterns\, lines\, and mandalas through henna and bracelet making! Artsy door prizes! Bring a friend! Taught by a Scarlet Arts Rx student teaching artist from Rutgers Mason Gross School of the Arts. Foundational art skills you will learn at this event: Henna drawing/painting techniques and knotting/braiding embroidery floss. Free supplies\, snacks\, and boba provided! Supplies are limited – First come\, first served. All skill levels and walk-ins welcome! This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research.Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
+DTEND:20251108T220000Z
+LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
+DTSTART:20251108T190000Z
+SUMMARY:Douglass x Scarlet Arts RX | Artful Saturday: Henna & Friendship Bracelets
+UID:08dcdc40-414e-4e44-ad0d-798d42a5d8e4@08dc.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365447
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Cook / Douglass,Cultural Performance
+DESCRIPTION:Join us for our Annual Fall Hafla! Enjoy various member performances and our Troupe Dance! 
+DTEND:20251208T000000Z
+LOCATION:Red Pine Pizza\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
+DTSTART:20251207T220000Z
+SUMMARY:Fall Hafla 2025
+UID:f0f5a9e5-60be-45d2-ba7c-c83c8a4ba169@f0f5.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11292236
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CommunityService,Community Service Event on Campus,General Organization Meeting
+DESCRIPTION:Join us in the Busch Student Center in Room 116 on Wednesday\, September 10th from 8:00 to 9:00 pm to get general information regarding our club and how to get clinical volunteering hours! We will have food and a fun experiment to do so we hope to see you there!
+DTEND:20250911T010000Z
+LOCATION:BSC Room 116
+ORGANIZER;CN=Together Educating All Children in Hospitals :mailto:Together Educating All Children in Hospitals 
+DTSTART:20250911T000000Z
+SUMMARY:TEACH General Interest Meeting
+UID:6af312a8-c4ba-4d77-9962-1effa64296ae@6af3.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11253114
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Livingston
@@ -141,7 +405,7 @@ LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Towns
 ORGANIZER;CN=Muslim Student Association:mailto:Muslim Student Association
 DTSTART:20250904T210000Z
 SUMMARY:Fall Kickoff
-UID:15a4d1ec-f075-4785-a6f2-707bb69f5632@15a4.org
+UID:ea324be5-787a-45a9-abe2-271e3339d1c0@ea32.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11360931
 END:VEVENT
 BEGIN:VEVENT
@@ -152,173 +416,8 @@ LOCATION:College Ave Student Center Room 411A
 ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
 DTSTART:20251023T000000Z
 SUMMARY:Friends of MSF Meeting
-UID:65fff8a9-1ff7-484a-b656-164fc22fe53b@65ff.org
+UID:df36b523-7a58-4129-b579-025e656f1ef7@df36.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290842
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:    Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!      
-DTEND:20251205T223000Z
-LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20251205T210000Z
-SUMMARY:Friendship Fridays 
-UID:22a981aa-6397-41cc-a3af-aa34acc8681b@22a9.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358811
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CommunityService,College Ave,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20250925T010000Z
-LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20250925T000000Z
-SUMMARY:Friends of MSF Meeting
-UID:dc25bd13-c2b2-4cc2-b303-31456a2c7ef2@dc25.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290840
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251009T013000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251009T003000Z
-SUMMARY:HSC General Meeting
-UID:d833c0a7-5379-47c2-8b48-72334c4b9c82@d833.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295065
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston
-DESCRIPTION:  Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!  
-DTEND:20251107T223000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20251107T210000Z
-SUMMARY:Friendship Fridays 
-UID:25cda65d-6baf-44ec-b9fc-f7208f6d06d8@25cd.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358801
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251120T023000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251120T013000Z
-SUMMARY:HSC General Meeting
-UID:3ee6b3a7-26b2-4a70-ba83-af4d629f5f35@3ee6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295068
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,General Organization Meeting
-DESCRIPTION:Join Friends of MSF for our first meeting of the 2025-26 school year! We will be introducing the officer board\, getting to know each other\, and playing MSF trivia.
-DTEND:20250911T010000Z
-LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20250911T000000Z
-SUMMARY:General Interest Meeting
-UID:34ef9b16-c00b-4ee1-b5fe-2cc594fe350a@34ef.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290835
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston
-DESCRIPTION:  Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!    
-DTEND:20251003T213000Z
-LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20251003T200000Z
-SUMMARY:Friendship Fridays 
-UID:127b484c-aa28-4449-a5e4-d6eff8922c5a@127b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358793
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass,Art Exhibition,Educational Lecture,Special Interest
-DESCRIPTION:Stop by Douglass Library to experience a solo exhibition of artwork by the 2025-2026 Lebowitz Artist-in-Residence\, Liz Collins\, on view September 2 through March 13! Collins is a Brooklyn based artist that works across art and design. She is known for her innovative multimedia fabric\, knitwear\, and textile work\, along with the fashion label she created. Don't miss out—RSVP today and join the Center for Women in the Arts at Douglass to view the exhibition during a reception and for a talk by artist Liz Collins on October 16\, from 5:00 to 6:30 PM! All are welcome!Schedule: 5:00-5:30pm exhibition viewing & reception (light refreshments served)\; 5:30-6:30pm artist’s talk. This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research.Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
-DTEND:20251016T223000Z
-LOCATION:Mabel Smith Douglass Library\, 8\, Chapel Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
-DTSTART:20251016T210000Z
-SUMMARY:Liz Collins: Exhibition Reception & Artist's Talk
-UID:1904489d-40b8-47f2-b67f-69d6961912cf@1904.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365236
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250801T020000Z
-LOCATION: Sonny Werblin Recreation Center\, 656 Bartholomew Rd\, Piscataway\, NJ 08854
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250801T003000Z
-SUMMARY:New Student Orientation Social 18
-UID:78e3bcae-d673-4685-ae72-876fe22bba1b@78e3.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318563
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Livingston,General Organization Meeting
-DESCRIPTION:For those of you who just joined Rutgers\, congratulations on your accomplishment! We’re excited to have you here. Today's meeting will focus on introducing you to the Venture Capital Club\, our mission\, and the opportunities we offer to help you explore the world of startups\, venture investing\, and entrepreneurship. We'll cover upcoming events\, ways to get involved\, and how you can start building your network and skill set early in your college journey. Whether you're new to venture capital or already passionate about startups\, RVCC is a place to learn\, connect\, and grow. We’re looking forward to an amazing year together!
-DTEND:20250909T233000Z
-LOCATION:Rutgers Business School\, 100\, Rockafeller Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Venture Capital Club of Rutgers University:mailto:Venture Capital Club of Rutgers University
-DTSTART:20250909T223000Z
-SUMMARY:Welcome to Rutgers University Venture Capital Club
-UID:1a2e26b2-bc26-4bd0-8eaa-959575c58bc6@1a2e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286521
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20250911T020000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20250911T003000Z
-SUMMARY:HSC General Meeting
-UID:0dd4f512-dcb5-4387-87e1-ba1098ee230f@0dd4.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295063
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass,Cultural Performance
-DESCRIPTION:Join us for our Annual Fall Hafla! Enjoy various member performances and our Troupe Dance! 
-DTEND:20251208T000000Z
-LOCATION:Red Pine Pizza\, 100\, George Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Bellydance Troupe (Rutgers):mailto:Bellydance Troupe (Rutgers)
-DTSTART:20251207T220000Z
-SUMMARY:Fall Hafla 2025
-UID:ffd2d81d-d951-4a91-b490-23a069290f37@ffd2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11292236
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Special Interest,Welcome Week
-DESCRIPTION:Douglass Residential College\, historically known as the women's college at Rutgers\, offers special leadership/internship/externship/social events/community engagement/research opportunities and much more to enhance students' education and overall experience at Rutgers. Join current students\, faculty and staff for lunch and a peak at what's available to you through Douglass. There will be a group photo\, student organizations tabling\, helpful tips and information to kick start your Rutgers and Douglass experience\, and a raffle event with lots of great Douglass swag!
-DTEND:20250827T183000Z
-LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
-DTSTART:20250827T160000Z
-SUMMARY:Douglass Residential College New Student Lunch and Learn
-UID:c228b017-b5f6-410f-8f85-cad4672f446f@c228.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358546
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20250925T013000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20250925T003000Z
-SUMMARY:HSC General Meeting
-UID:d25bba36-b5b1-4555-a4e3-8f38fee5bfb4@d25b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295064
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251204T023000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251204T013000Z
-SUMMARY:HSC General Meeting
-UID:1b29c959-658d-4e3c-8515-34e53fe2f0cf@1b29.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295069
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Special Interest
@@ -328,85 +427,30 @@ LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Bruns
 ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
 DTSTART:20250825T220000Z
 SUMMARY:Douglass Residential College New Student Movie Night
-UID:4b63a3f4-ad39-4ad4-b7e4-700d951af860@4b63.org
+UID:347b070f-b85f-4f5d-b08d-111fc5b2a8eb@347b.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358291
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
 DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251106T023000Z
+DTEND:20251204T023000Z
 LOCATION:BSC 120 ABC
 ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251106T013000Z
+DTSTART:20251204T013000Z
 SUMMARY:HSC General Meeting
-UID:0cbf0f9e-dae5-48cc-b393-3d38e03e3d0d@0cbf.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295067
+UID:c3c7cc93-414b-4281-b14c-d629fa2867a9@c3c7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295069
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Educational Conference/Seminar/Workshop/Panel,Special Interest,Welcome Week
-DESCRIPTION:Practice using design thinking for creative problem solving and developing innovative ideas while learning about Rutgers Innovation Ecosytem! This design lab focuses on the foundational concepts and techniques for using the design process for solving problems.  Through workshop activities you will learn how design thinking and community engaged design work as well as opportunities\, projects\, and experiences for practicing the tools and processes. - Learn and practice design thinking skills - Connect with other students - No previous experience required - Food will be served
-DTEND:20250826T190000Z
+CATEGORIES:CommunityService,College Ave,General Organization Meeting
+DESCRIPTION:Description TBD
+DTEND:20250925T010000Z
 LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Innovation\, Design\, and Entrepreneurship Academy:mailto:Innovation\, Design\, and Entrepreneurship Academy
-DTSTART:20250826T170000Z
-SUMMARY:Welcome Week Design Lab - Intro to Design Thinking & Rutgers Innovation Ecosystem
-UID:70c437c3-9130-4441-80f8-66d179d6a99c@70c4.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11374541
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass,Wellness Event
-DESCRIPTION:Unwind and relax with the Center for Women in the Arts at Douglass before heading off for winter break—join us for a fun and calming rock painting session! Supplies and snacks provided. All are welcome! Supplies are limited – First come\, first served. This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research. Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
-DTEND:20251212T193000Z
-LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
-DTSTART:20251212T180000Z
-SUMMARY:Art Destress: Rock Painting 
-UID:ea07d1e5-0493-47c4-8089-3ed484825896@ea07.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365593
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250806T020000Z
-LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250806T003000Z
-SUMMARY:New Student Orientation Social 20
-UID:45b1c0d5-e9c8-4a53-b310-1080b6e13a6a@45b1.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318750
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia or bingo (depending on date)\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250731T020000Z
-LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250731T003000Z
-SUMMARY:New Student Orientation Social 17
-UID:ce5eb485-9b9a-4039-af50-f6a977fda025@ce5e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318567
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, trivia\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250730T020000Z
-LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250730T003000Z
-SUMMARY:New Student Orientation Social 16
-UID:cb37ac37-f984-4eba-ac12-f6c9a33ee24f@cb37.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318614
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:oin Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 1 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250807T020000Z
-LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250807T003000Z
-SUMMARY:New Student Orientation Social 21
-UID:817bf4ad-9dc0-41f7-83e7-b739eef9f730@817b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318624
+ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
+DTSTART:20250925T000000Z
+SUMMARY:Friends of MSF Meeting
+UID:074f6bd0-1555-4148-99e9-204bff58be2d@074f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290840
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Busch
@@ -416,41 +460,8 @@ LOCATION:Busch Student Center\, 604\, Bartholomew Road\, Piscataway Township\, M
 ORGANIZER;CN=Rutgers Women in Product :mailto:Rutgers Women in Product 
 DTSTART:20250917T230000Z
 SUMMARY:Resume Review
-UID:d93c4ef8-54e7-4185-8b1b-bc5b05b7d153@d93c.org
+UID:b6b80847-da6f-4c20-a790-c008a17ac72b@b6b8.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286177
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Special Interest
-DESCRIPTION:First meeting of the semester!
-DTEND:20250911T170000Z
-LOCATION:DCMS
-ORGANIZER;CN=Oceanography Club:mailto:Oceanography Club
-DTSTART:20250911T160000Z
-SUMMARY:First Meeting!
-UID:1633c181-8e21-4cd8-a61b-845cb7088044@1633.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295086
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Cook / Douglass,Special Interest
-DESCRIPTION:Drop-in for an Artful Saturday monthly event hosted by the Center for the Women in the Arts at Douglass and Scarlet Arts RX! Explore the relaxing and rhythmic connection of patterns\, lines\, and mandalas through henna and bracelet making! Artsy door prizes! Bring a friend! Taught by a Scarlet Arts Rx student teaching artist from Rutgers Mason Gross School of the Arts. Foundational art skills you will learn at this event: Henna drawing/painting techniques and knotting/braiding embroidery floss. Free supplies\, snacks\, and boba provided! Supplies are limited – First come\, first served. All skill levels and walk-ins welcome! This experience counts towards the Douglass Discovery curriculum requirement. R3: Career/Discovery/Professional Development/Research.Reminder: To receive DRC curriculum credit\, you must complete a reflection survey.
-DTEND:20251108T220000Z
-LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Academic Programs at Douglass Residential College - DRC:mailto:Academic Programs at Douglass Residential College - DRC
-DTSTART:20251108T190000Z
-SUMMARY:Douglass x Scarlet Arts RX | Artful Saturday: Henna & Friendship Bracelets
-UID:9cbef4c3-6077-4977-a434-31bbb7d1e3b1@9cbe.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11365447
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Spirituality,Banquet/Food or Culinary,Cultural Performance,General Organization Meeting,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:Join us in learning more about Hinduism with fun activities!
-DTEND:20251023T013000Z
-LOCATION:BSC 120 ABC
-ORGANIZER;CN=Hindu Students Council (Rutgers) :mailto:Hindu Students Council (Rutgers) 
-DTSTART:20251023T003000Z
-SUMMARY:HSC General Meeting
-UID:bb83eeb1-e025-4f53-b418-a3660cbd6753@bb83.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11295066
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Special Interest,Welcome Week
@@ -460,62 +471,40 @@ LOCATION:Lyla Lane\, Raritan Gardens\, New Brunswick\, Middlesex County\, New Je
 ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
 DTSTART:20250826T153000Z
 SUMMARY:Douglass Residential College New Student Ice Cream Social
-UID:0fa283c2-7f88-4c4a-971c-b0af2146ebc1@0fa2.org
+UID:5b852cf1-c1c2-4c3d-ba70-6f61d9fb192c@5b85.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358434
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Welcome to the RU Genshin Club! This meeting will introduce members to our e-board\, our mission and a general rundown of our club! More details will be announced in August! We can't wait to see you all there! 
-DTEND:20250906T020000Z
-LOCATION:TBA
-ORGANIZER;CN=Rutgers Genshin Impact Club:mailto:Rutgers Genshin Impact Club
-DTSTART:20250906T000000Z
-SUMMARY:Rutgers Genshin Club - General Interest Meeting
-UID:6ce2989a-3c08-4c2a-8d70-626760f9178b@6ce2.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11291019
+CATEGORIES:ThoughtfulLearning,Livingston,General Organization Meeting
+DESCRIPTION:For those of you who just joined Rutgers\, congratulations on your accomplishment! We’re excited to have you here. Today's meeting will focus on introducing you to the Venture Capital Club\, our mission\, and the opportunities we offer to help you explore the world of startups\, venture investing\, and entrepreneurship. We'll cover upcoming events\, ways to get involved\, and how you can start building your network and skill set early in your college journey. Whether you're new to venture capital or already passionate about startups\, RVCC is a place to learn\, connect\, and grow. We’re looking forward to an amazing year together!
+DTEND:20250909T233000Z
+LOCATION:Rutgers Business School\, 100\, Rockafeller Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Venture Capital Club of Rutgers University:mailto:Venture Capital Club of Rutgers University
+DTSTART:20250909T223000Z
+SUMMARY:Welcome to Rutgers University Venture Capital Club
+UID:ce0f75cc-2862-41f3-8cc8-617536cba51e@ce0f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11286521
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:CommunityService,General Organization Meeting
-DESCRIPTION:Description TBD
-DTEND:20251120T020000Z
-LOCATION:College Ave Student Center Room 411A
-ORGANIZER;CN=Friends of Médecins Sans Frontiéres at Rutgers New Brunswick :mailto:Friends of Médecins Sans Frontiéres at Rutgers New Brunswick 
-DTSTART:20251120T010000Z
-SUMMARY:Friends of MSF Meeting
-UID:f2daf280-7a95-42eb-b2e6-05475592fb68@f2da.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11290844
+CATEGORIES:Social,Livingston
+DESCRIPTION:  Friendship Fridays are a monthly opportunity for the Rutgers community to step away from classwork and research and just hang out and relax together.  Join us to enjoy games\, activities\, food\, and conversation - and make new friends from around the world!    
+DTEND:20251003T213000Z
+LOCATION:Livingston Student Center\, 84\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20251003T200000Z
+SUMMARY:Friendship Fridays 
+UID:011ee75b-7a7b-42b3-b54f-23bfd7c89760@011e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358793
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Special Interest,Welcome Week
-DESCRIPTION:RU a new Douglass Residential College transfer or commuter student? Join the Douglass Welcome Ambassadors and staff for a special welcome breakfast where you can meet others on a similar journey and ask specific questions over breakfast.
-DTEND:20250827T160000Z
-LOCATION:Jameson Residence Hall A\, 7\, Suydam Street\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC:mailto:Enrollment\, Scholarship\, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC
-DTSTART:20250827T143000Z
-SUMMARY:Douglass Residential College New Transfer and Commuter Breakfast
-UID:799d61f4-31f8-4566-9d00-378e0b0150a2@799d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11358522
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:GroupBusiness,College Ave,Religious/Religious Cultural/Spiritual Event
-DESCRIPTION:This is our first meeting of the new school year! Come back to our club and get the privilege of hearing a Real-Estate professional speak about his experience in the industry over the past few decades! We hope you enjoy our speciality Kosher catered dinner! Don't forget to bring your pens and notepads for notetaking and questions!
-DTEND:20250909T003000Z
-LOCATION:College Avenue Student Center\, 126\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=J-BIZ: The Jewish Career Network at Rutgers:mailto:J-BIZ: The Jewish Career Network at Rutgers
-DTSTART:20250908T233000Z
-SUMMARY:J-Biz: First Meeting (Fall 2025)
-UID:d2dd99de-4405-4174-8089-1366a6a37e2f@d2dd.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11175859
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment
-DESCRIPTION:Join Recreation\, Campus Programs\, and the Riot Squad at Werblin gym for open gym hours\, board games\, karaoke\, bingo\, and a photo booth! This event is ONLY for new students registered for day 19 of Orientation today. Students will be escorted to this event with their Orientation Leader.
-DTEND:20250805T020000Z
-LOCATION:Rutgers University\, North 3rd Avenue\, Highland Park\, Middlesex County\, New Jersey\, 08904\, United States
-ORGANIZER;CN=Student Centers and Activities (Department of):mailto:Student Centers and Activities (Department of)
-DTSTART:20250805T003000Z
-SUMMARY:New Student Orientation Social 19
-UID:6368ac3a-36f4-42f0-817f-92b23457d2b4@6368.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11318562
+CATEGORIES:Social,College Ave,Educational Conference/Seminar/Workshop/Panel,Special Interest,Welcome Week
+DESCRIPTION:Practice using design thinking for creative problem solving and developing innovative ideas while learning about Rutgers Innovation Ecosytem! This design lab focuses on the foundational concepts and techniques for using the design process for solving problems.  Through workshop activities you will learn how design thinking and community engaged design work as well as opportunities\, projects\, and experiences for practicing the tools and processes. - Learn and practice design thinking skills - Connect with other students - No previous experience required - Food will be served
+DTEND:20250826T190000Z
+LOCATION:Rutgers College Avenue Campus\, Delafield Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Innovation\, Design\, and Entrepreneurship Academy:mailto:Innovation\, Design\, and Entrepreneurship Academy
+DTSTART:20250826T170000Z
+SUMMARY:Welcome Week Design Lab - Intro to Design Thinking & Rutgers Innovation Ecosystem
+UID:4c367814-365c-460f-af3a-2d1dbb504b46@4c36.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11374541
 END:VEVENT
 END:VCALENDAR
