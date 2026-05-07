@@ -2,26 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Social Event
-DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
-DTEND:20260511T000000Z
-LOCATION:The Catholic Center at Rutgers
-ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
-DTSTART:20260510T230000Z
-SUMMARY:Student Dinner
-UID:3b10d4ec-adf9-484e-aada-cd1981622595@3b10.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108976
+CATEGORIES:Social,Busch,Entertainment,Social Event
+DESCRIPTION:Headline: THE FINAL SIZZLE: GSA EOY BBQ PARTY! 🍔☀️ The semester is winding down\, and it’s time to trade the textbooks for tongs! Join the GSA for our massive End of Year Barbeque—the ultimate celebration before finals season officially kicks in. We’re firing up the grills for an afternoon of great food\, chilled drinks\, and the best community vibes on campus. Whether you're a carnivore or a veggie-lover\, we’ve got something delicious waiting for you!   📅 Date: Friday\, May 8th   ⏰ Time: 5:00 PM – 8:00 PM   📍 Location: Buell Apartments Lawn\, Busch Campus\, 55 Bevier Rd\, Piscataway\, NJ   🥗 Menu: Freshly grilled favorites (Vegetarian and Halaal options included!)   ⚠️ RSVP IS MANDATORY: We need an accurate headcount to make sure the grill never goes cold.
+DTEND:20260509T000000Z
+LOCATION:Buell Grad Student Apts. 325-348\, 47\, Bevier Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Graduate Student Association (GSA):mailto:Graduate Student Association (GSA)
+DTSTART:20260508T210000Z
+SUMMARY:GSA EOY Barbeque Party
+UID:2f1307be-0e4a-40f1-a4e6-e7dc9fda99d1@2f13.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12444124
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Arts,College Ave,Wellness Event,Social Event,Art Creation
-DESCRIPTION:Free destressing and decorating event - supplies\, snacks\, fun vibe provided! Open to all students! On the Rutgers-NB College Ave Extended Campus\, EE Campus Bus to SoCam\, walk one block! Buzz the door to the building or knock hard! The room is located on the 1st floor after you enter.
-DTEND:20260508T210000Z
-LOCATION:Mason Gross School of the Arts\, 33\, Livingston Avenue\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department):mailto:Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)
-DTSTART:20260508T190000Z
-SUMMARY:Liquitex x Scarlet Arts Rx Graduation Cap and Stole Decorating - Free\, Open to All Students!
-UID:a88e307e-497c-44fe-85eb-c12cc9331f5d@a88e.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12462823
+CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
+DESCRIPTION:Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor\, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open\, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open\, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!
+DTEND:20260516T173000Z
+LOCATION:US 1\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
+DTSTART:20260516T160000Z
+SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
+UID:dc87cd84-b854-4a70-b2c4-a0a16a4114fa@dc87.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Social Event
@@ -31,19 +31,8 @@ LOCATION:The Catholic Center at Rutgers
 ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
 DTSTART:20260517T230000Z
 SUMMARY:Student Dinner
-UID:f6a06ff6-2e7a-4299-b5ec-8fedd4dbbd6d@f6a0.org
+UID:edae19a7-42d4-41ed-84ef-778762a16524@edae.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,Art Exhibition,Concert/Musical Performance ,Entertainment,Special Interest,Social Event
-DESCRIPTION:SparkNight is the free monthly art party at the museum inviting everyone to explore art\, engage their creativity\, and have fun! Free & open to the public. Complimentary refreshments. SparkNight: Queer Pride featuring Papi Juice Thursday\, April 2 SparkNight: Celebrating APIDA Heritage Month Thursday\, May 7
-DTEND:20260508T000000Z
-LOCATION:Zimmerli Art Museum
-ORGANIZER;CN=J Voorhees Zimmerli Art Museum:mailto:J Voorhees Zimmerli Art Museum
-DTSTART:20260507T210000Z
-SUMMARY:SparkNight: Celebrating APIDA Heritage Month
-UID:93f69726-bb98-4ab1-b105-82f98e1ada25@93f6.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12158483
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,College Ave,Academics (Residence Life)
@@ -53,63 +42,19 @@ LOCATION:Bishop Place\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, 
 ORGANIZER;CN=Anthropology Graduate Student Association (AGSA) (Graduate Organization):mailto:Anthropology Graduate Student Association (AGSA) (Graduate Organization)
 DTSTART:20260507T203000Z
 SUMMARY:A Conversation on Caste and Language
-UID:68762e3e-3ccc-48a1-b539-0c4d62349bd7@6876.org
+UID:69c09a69-7a75-490f-adcd-7f876bb964e5@69c0.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12445123
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:GroupBusiness,Social Event
-DESCRIPTION:General Meeting for EcoGSa
-DTEND:20260508T210000Z
-LOCATION:ENR 123
-ORGANIZER;CN=Ecology and Evolution Graduate Student Association (Graduate Organization):mailto:Ecology and Evolution Graduate Student Association (Graduate Organization)
-DTSTART:20260508T200000Z
-SUMMARY:EcoGSA
-UID:893677e1-6156-49da-af24-2ed11e65686a@8936.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12206627
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,College Ave,Performance,Social Event
-DESCRIPTION:Come celebrate the joy of singing with this day-long event of reconnecting with old friends and meeting new friends! If you have ever sung in a Rutgers choir at any point in your journey at Rutgers\, join us on this day of singing. There will be light refreshments in the morning\, and then lunch is on your own. We end the day with a relaxed performance of the pieces we have worked on throughout the day.
-DTEND:20260509T200000Z
-LOCATION:Hamilton Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=American Choral Directors Association:mailto:American Choral Directors Association
-DTSTART:20260509T130000Z
-SUMMARY:ACDA Choral Alumni Festival
-UID:dddb676e-e9cb-4716-97b3-c5cb6f48d382@dddb.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12387994
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Join CBG and Friends for our End of Year Celebration on Thursday\, May 14\, 2026\, from 6:00 PM to 9:00 PM as we come together to celebrate the accomplishments\, memories\, and community built throughout the year. Enjoy an evening filled with relaxation\, creativity\, and fun\, including massages\, henna\, a paint and sip experience\, delicious food\, and more. This special night is an opportunity to unwind\, connect with others\, and close out the year with good energy and celebration. We look forward to celebrating with you and our collaborators SACNAS\, MBGSO\, GSA\, and Scarlet Arts Rx!
-DTEND:20260515T010000Z
-LOCATION:Deans Conference Room
-ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
-DTSTART:20260514T220000Z
-SUMMARY:End of year Celebration
-UID:9149924c-ff9e-4235-9b67-8b98ed941ba3@9149.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,College Ave,Wellness Event,Social Event,Art Creation
-DESCRIPTION:Free destressing and decorating event - supplies and snacks provided! Note that this event runs from 12-2pm\, there is a break for our artist\, then restarts and runs from 4-6pm! Open to all students! On the Rutgers-NB College Ave Extended Campus\, EE Campus Bus to SoCam\, walk one block! Buzz the door to the building or knock hard! The room is located on the 1st floor after you enter.
-DTEND:20260507T220000Z
-LOCATION:Mason Gross School of the Arts\, 33\, Livingston Avenue\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department):mailto:Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)
-DTSTART:20260507T200000Z
-SUMMARY:Graduation Cap and Stole Decorating with Bloustein + MGSA - Free\, Open to All Students
-UID:d7abeac4-7cb4-4018-a85e-79705914bc98@d7ab.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12462741
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Arts,College Ave,Wellness Event,Social Event,Art Creation
-DESCRIPTION:Free destressing and decorating event - supplies and snacks provided! Note that this event runs from 12-2pm\, there is a break for our artist\, then restarts and runs from 4-6pm! Open to all students! On the Rutgers-NB College Ave Extended Campus\, EE Campus Bus to SoCam\, walk one block! Buzz the door to the building or knock hard! The room is located on the 1st floor after you enter.
-DTEND:20260507T180000Z
-LOCATION:Mason Gross School of the Arts\, 33\, Livingston Avenue\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department):mailto:Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)
-DTSTART:20260507T160000Z
-SUMMARY:Graduation Cap and Stole Decorating with Bloustein + MGSA - Free\, Open to All Students
-UID:7cdd72fa-a3e3-4fc5-9962-f79695170a23@7cdd.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12462740
+CATEGORIES:Arts,Art Exhibition,Concert/Musical Performance ,Entertainment,Special Interest,Social Event
+DESCRIPTION:SparkNight is the free monthly art party at the museum inviting everyone to explore art\, engage their creativity\, and have fun! Free & open to the public. Complimentary refreshments. SparkNight: Queer Pride featuring Papi Juice Thursday\, April 2 SparkNight: Celebrating APIDA Heritage Month Thursday\, May 7
+DTEND:20260508T000000Z
+LOCATION:Zimmerli Art Museum
+ORGANIZER;CN=J Voorhees Zimmerli Art Museum:mailto:J Voorhees Zimmerli Art Museum
+DTSTART:20260507T210000Z
+SUMMARY:SparkNight: Celebrating APIDA Heritage Month
+UID:4ce5656f-087d-45ed-bbb6-b8efa2377699@4ce5.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12158483
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,College Ave
@@ -119,40 +64,95 @@ LOCATION:Rutgers Geology Museum\, 85\, Somerset Street\, New Brunswick\, Middles
 ORGANIZER;CN=Materials Science and Engineering Graduate Student Association (Graduate Organization):mailto:Materials Science and Engineering Graduate Student Association (Graduate Organization)
 DTSTART:20260512T200000Z
 SUMMARY:EPS/MSE Research Mixer
-UID:9780c214-d138-45d5-ad5e-ac4b1e322497@9780.org
+UID:a9a44c98-cf18-4d35-8873-c6d64e3b704d@a9a4.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12452505
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,College Ave,Wellness Event,Social Event,Art Creation
+DESCRIPTION:Free destressing and decorating event - supplies and snacks provided! Note that this event runs from 12-2pm\, there is a break for our artist\, then restarts and runs from 4-6pm! Open to all students! On the Rutgers-NB College Ave Extended Campus\, EE Campus Bus to SoCam\, walk one block! Buzz the door to the building or knock hard! The room is located on the 1st floor after you enter.
+DTEND:20260507T180000Z
+LOCATION:Mason Gross School of the Arts\, 33\, Livingston Avenue\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department):mailto:Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)
+DTSTART:20260507T160000Z
+SUMMARY:Graduation Cap and Stole Decorating with Bloustein + MGSA - Free\, Open to All Students
+UID:24c7c158-64d9-4e8a-81b8-e66d6215ae38@24c7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12462740
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,College Ave
 DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
 DTEND:20260903T003000Z
-LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:fd70fbf5-6e97-4958-8279-3c564ab7c5ea@fd70.org
+UID:2133b660-e596-4c0c-a946-ea838a095722@2133.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Busch,Entertainment,Social Event
-DESCRIPTION:Headline: THE FINAL SIZZLE: GSA EOY BBQ PARTY! 🍔☀️ The semester is winding down\, and it’s time to trade the textbooks for tongs! Join the GSA for our massive End of Year Barbeque—the ultimate celebration before finals season officially kicks in. We’re firing up the grills for an afternoon of great food\, chilled drinks\, and the best community vibes on campus. Whether you're a carnivore or a veggie-lover\, we’ve got something delicious waiting for you!   📅 Date: Friday\, May 8th   ⏰ Time: 5:00 PM – 8:00 PM   📍 Location: Buell Apartments Lawn\, Busch Campus\, 55 Bevier Rd\, Piscataway\, NJ   🥗 Menu: Freshly grilled favorites (Vegetarian and Halaal options included!)   ⚠️ RSVP IS MANDATORY: We need an accurate headcount to make sure the grill never goes cold.
-DTEND:20260509T000000Z
-LOCATION:Buell Grad Student Apts. 325-348\, 47\, Bevier Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Graduate Student Association (GSA):mailto:Graduate Student Association (GSA)
-DTSTART:20260508T210000Z
-SUMMARY:GSA EOY Barbeque Party
-UID:13c163f2-5d81-4763-848c-ce2465d8f735@13c1.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12444124
+CATEGORIES:Social
+DESCRIPTION:Join CBG and Friends for our End of Year Celebration on Thursday\, May 14\, 2026\, from 6:00 PM to 9:00 PM as we come together to celebrate the accomplishments\, memories\, and community built throughout the year. Enjoy an evening filled with relaxation\, creativity\, and fun\, including massages\, henna\, a paint and sip experience\, delicious food\, and more. This special night is an opportunity to unwind\, connect with others\, and close out the year with good energy and celebration. We look forward to celebrating with you and our collaborators SACNAS\, MBGSO\, GSA\, and Scarlet Arts Rx!
+DTEND:20260515T010000Z
+LOCATION:Deans Conference Room
+ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
+DTSTART:20260514T220000Z
+SUMMARY:End of year Celebration
+UID:244520d4-f8b9-43fe-979f-f7c4d9473f7f@2445.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
-DESCRIPTION:Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor\, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open\, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open\, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!
-DTEND:20260516T173000Z
-LOCATION:College Farm Road East\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
-DTSTART:20260516T160000Z
-SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
-UID:a9ca3f73-c5ab-4d1c-9058-fe0f981c14a3@a9ca.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
+CATEGORIES:Arts,College Ave,Wellness Event,Social Event,Art Creation
+DESCRIPTION:Free destressing and decorating event - supplies\, snacks\, fun vibe provided! Open to all students! On the Rutgers-NB College Ave Extended Campus\, EE Campus Bus to SoCam\, walk one block! Buzz the door to the building or knock hard! The room is located on the 1st floor after you enter.
+DTEND:20260508T210000Z
+LOCATION:Mason Gross School of the Arts\, 33\, Livingston Avenue\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department):mailto:Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)
+DTSTART:20260508T190000Z
+SUMMARY:Liquitex x Scarlet Arts Rx Graduation Cap and Stole Decorating - Free\, Open to All Students!
+UID:6bd8f37a-6d32-41cc-bc53-212c646c1a57@6bd8.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12462823
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:GroupBusiness,Social Event
+DESCRIPTION:General Meeting for EcoGSa
+DTEND:20260508T210000Z
+LOCATION:ENR 123
+ORGANIZER;CN=Ecology and Evolution Graduate Student Association (Graduate Organization):mailto:Ecology and Evolution Graduate Student Association (Graduate Organization)
+DTSTART:20260508T200000Z
+SUMMARY:EcoGSA
+UID:9117528f-698b-4bf8-b1c7-8656cd14bda3@9117.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12206627
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,College Ave,Performance,Social Event
+DESCRIPTION:Come celebrate the joy of singing with this day-long event of reconnecting with old friends and meeting new friends! If you have ever sung in a Rutgers choir at any point in your journey at Rutgers\, join us on this day of singing. There will be light refreshments in the morning\, and then lunch is on your own. We end the day with a relaxed performance of the pieces we have worked on throughout the day.
+DTEND:20260509T200000Z
+LOCATION:Rutgers Geology Museum\, 85\, Somerset Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=American Choral Directors Association:mailto:American Choral Directors Association
+DTSTART:20260509T130000Z
+SUMMARY:ACDA Choral Alumni Festival
+UID:7b9cdaf9-dcbb-41a0-a5d5-539f58b76417@7b9c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12387994
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Social Event
+DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
+DTEND:20260511T000000Z
+LOCATION:The Catholic Center at Rutgers
+ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
+DTSTART:20260510T230000Z
+SUMMARY:Student Dinner
+UID:c5bd1b08-04b8-484d-b410-09048ffd3f56@c5bd.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108976
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,College Ave,Wellness Event,Social Event,Art Creation
+DESCRIPTION:Free destressing and decorating event - supplies and snacks provided! Note that this event runs from 12-2pm\, there is a break for our artist\, then restarts and runs from 4-6pm! Open to all students! On the Rutgers-NB College Ave Extended Campus\, EE Campus Bus to SoCam\, walk one block! Buzz the door to the building or knock hard! The room is located on the 1st floor after you enter.
+DTEND:20260507T220000Z
+LOCATION:Mason Gross School of the Arts\, 33\, Livingston Avenue\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department):mailto:Scarlet Arts Rx (Affiliated with a Mason Gross School of the Arts Department)
+DTSTART:20260507T200000Z
+SUMMARY:Graduation Cap and Stole Decorating with Bloustein + MGSA - Free\, Open to All Students
+UID:7a1bf546-337d-49ad-ad73-5f7cb8cb7113@7a1b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12462741
 END:VEVENT
 END:VCALENDAR
