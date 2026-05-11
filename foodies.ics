@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Social Event
-DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
-DTEND:20260511T000000Z
-LOCATION:The Catholic Center at Rutgers
-ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
-DTSTART:20260510T230000Z
-SUMMARY:Student Dinner
-UID:6d6109c4-f8ad-4ac6-b2d1-8bd02fd408cf@6d61.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108976
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:d0ef00df-3102-47b9-8e3c-a6f9f7581878@d0ef.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Social Event
@@ -20,19 +20,8 @@ LOCATION:The Catholic Center at Rutgers
 ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
 DTSTART:20260517T230000Z
 SUMMARY:Student Dinner
-UID:4f1805d7-4240-4b1a-8a87-d7bf624c4e18@4f18.org
+UID:4f39ad99-8bdf-4ff5-8b35-14ca421fa7a6@4f39.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,College Ave
-DESCRIPTION:Geology and MSE research overlap more than you'd think! Come to the research mixer to present your research\, explore collaborations\, and share ideas in a casual setting!
-DTEND:20260512T230000Z
-LOCATION:Rutgers Geology Museum\, 85\, Somerset Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Materials Science and Engineering Graduate Student Association (Graduate Organization):mailto:Materials Science and Engineering Graduate Student Association (Graduate Organization)
-DTSTART:20260512T200000Z
-SUMMARY:EPS/MSE Research Mixer
-UID:10186660-5253-40b7-b058-f06f4ff2157c@1018.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12452505
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social
@@ -42,8 +31,19 @@ LOCATION:Deans Conference Room
 ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
 DTSTART:20260514T220000Z
 SUMMARY:End of year Celebration
-UID:776f3399-db05-4e06-a038-e5f8cf42d0ef@776f.org
+UID:79aca712-f3c8-4906-b969-019b0b6a2129@79ac.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning,College Ave
+DESCRIPTION:Geology and MSE research overlap more than you'd think! Come to the research mixer to present your research\, explore collaborations\, and share ideas in a casual setting!
+DTEND:20260512T230000Z
+LOCATION:Rutgers Geology Museum\, 85\, Somerset Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Materials Science and Engineering Graduate Student Association (Graduate Organization):mailto:Materials Science and Engineering Graduate Student Association (Graduate Organization)
+DTSTART:20260512T200000Z
+SUMMARY:EPS/MSE Research Mixer
+UID:745ec56f-e715-42c9-9006-d1a8ee8cffe2@745e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12452505
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
@@ -53,18 +53,7 @@ LOCATION:Rutgers Cook-Douglass Campus\, US 1\, North Brunswick Township\, Middle
 ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
 DTSTART:20260516T160000Z
 SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
-UID:4b79b368-bcdf-48cc-8204-84a2b2ca43d9@4b79.org
+UID:ec782406-88dd-484b-8656-843f934f6b89@ec78.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:4b2b8c1b-74ab-4869-aac5-bc901cdb7bba@4b2b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 END:VCALENDAR
