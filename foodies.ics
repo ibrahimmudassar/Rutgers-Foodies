@@ -2,15 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+CATEGORIES:Social,Social Event
+DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
+DTEND:20260518T000000Z
+LOCATION:The Catholic Center at Rutgers
+ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
+DTSTART:20260517T230000Z
+SUMMARY:Student Dinner
+UID:977ca1ec-9067-4c8c-ac52-a980755908a9@977c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Social
-DESCRIPTION:Join CBG and Friends for our End of Year Celebration on Thursday\, May 14\, 2026\, from 6:00 PM to 9:00 PM as we come together to celebrate the accomplishments\, memories\, and community built throughout the year. Enjoy an evening filled with relaxation\, creativity\, and fun\, including massages\, henna\, a paint and sip experience\, delicious food\, and more. This special night is an opportunity to unwind\, connect with others\, and close out the year with good energy and celebration. We look forward to celebrating with you and our collaborators SACNAS\, MBGSO\, GSA\, and Scarlet Arts Rx!
-DTEND:20260515T010000Z
-LOCATION:Deans Conference Room
-ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
-DTSTART:20260514T220000Z
-SUMMARY:End of year Celebration
-UID:5c659b0d-b445-4313-a7a3-c4c8c35c01ea@5c65.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
+DESCRIPTION:Check back for more information on a Student vs Faculty trivia event. Test your knowledge and see who knows more\, you or your professors! Tickets: FREE - Seniors Only - No Tickets Required 
+DTEND:20260513T000000Z
+LOCATION:Busch Student Center - MPR
+ORGANIZER;CN=Incoming Students 2022-2023: Student Orientation and Transition Programs:mailto:Incoming Students 2022-2023: Student Orientation and Transition Programs
+DTSTART:20260512T220000Z
+SUMMARY:Senior Days: Staff vs. Student
+UID:522577e0-8cce-4507-8770-dd7352526406@5225.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12466109
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,College Ave
@@ -20,30 +31,8 @@ LOCATION:Rutgers Geology Museum\, 85\, Somerset Street\, New Brunswick\, Middles
 ORGANIZER;CN=Materials Science and Engineering Graduate Student Association (Graduate Organization):mailto:Materials Science and Engineering Graduate Student Association (Graduate Organization)
 DTSTART:20260512T200000Z
 SUMMARY:EPS/MSE Research Mixer
-UID:78da41bc-71eb-4ac5-a584-7b0a26371cec@78da.org
+UID:dd0d8cc0-a726-46ee-9b6f-94e241e48caf@dd0d.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12452505
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Social Event
-DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
-DTEND:20260518T000000Z
-LOCATION:The Catholic Center at Rutgers
-ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
-DTSTART:20260517T230000Z
-SUMMARY:Student Dinner
-UID:657f2897-6c36-4e43-a389-9a878e950dc0@657f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:ba6962d6-825d-4272-b572-3629a53195ad@ba69.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
@@ -53,7 +42,29 @@ LOCATION:College Farm Road East\, North Brunswick Township\, Middlesex County\, 
 ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
 DTSTART:20260516T160000Z
 SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
-UID:cb3a36e3-30f7-404c-b9ef-4461e42765b3@cb3a.org
+UID:ac387299-df9f-483a-9b28-87971d04cd10@ac38.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:af39bd77-6c6f-4c7d-91d4-2c38d78ce25b@af39.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:Join CBG and Friends for our End of Year Celebration on Thursday\, May 14\, 2026\, from 6:00 PM to 9:00 PM as we come together to celebrate the accomplishments\, memories\, and community built throughout the year. Enjoy an evening filled with relaxation\, creativity\, and fun\, including massages\, henna\, a paint and sip experience\, delicious food\, and more. This special night is an opportunity to unwind\, connect with others\, and close out the year with good energy and celebration. We look forward to celebrating with you and our collaborators SACNAS\, MBGSO\, GSA\, and Scarlet Arts Rx!
+DTEND:20260515T010000Z
+LOCATION:Deans Conference Room
+ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
+DTSTART:20260514T220000Z
+SUMMARY:End of year Celebration
+UID:46c7f4c5-59f5-46ce-9f58-63c64d777ffb@46c7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
 END:VEVENT
 END:VCALENDAR
