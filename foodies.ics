@@ -2,14 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+CATEGORIES:Social,Social Event
+DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
+DTEND:20260518T000000Z
+LOCATION:The Catholic Center at Rutgers
+ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
+DTSTART:20260517T230000Z
+SUMMARY:Student Dinner
+UID:349bbbf8-29b8-4409-9fe8-d8b860a89880@349b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
 DESCRIPTION:Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor\, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open\, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open\, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!
 DTEND:20260516T173000Z
-LOCATION:College Farm Road East\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
+LOCATION:Rutgers Cook-Douglass Campus\, College Farm Road East\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
 DTSTART:20260516T160000Z
 SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
-UID:91e526f1-9187-4f47-a008-b8852f94128f@91e5.org
+UID:fae4e7a4-338b-4de1-aa47-85fa861c71ee@fae4.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
 END:VEVENT
 BEGIN:VEVENT
@@ -20,30 +31,8 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:b018d3c6-4abe-464f-88ee-a8620bf9052c@b018.org
+UID:b40ae3c7-bf39-49cb-a408-de22be54e016@b40a.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Check back for more information on a Student vs Faculty trivia event. Test your knowledge and see who knows more\, you or your professors! Tickets: FREE - Seniors Only - No Tickets Required 
-DTEND:20260513T000000Z
-LOCATION:Busch Student Center - MPR
-ORGANIZER;CN=Incoming Students 2022-2023: Student Orientation and Transition Programs:mailto:Incoming Students 2022-2023: Student Orientation and Transition Programs
-DTSTART:20260512T220000Z
-SUMMARY:Senior Days: Staff vs. Student
-UID:0e9692f9-cf7b-40be-ad14-2613aaba9472@0e96.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12466109
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,College Ave
-DESCRIPTION:Geology and MSE research overlap more than you'd think! Come to the research mixer to present your research\, explore collaborations\, and share ideas in a casual setting!
-DTEND:20260512T230000Z
-LOCATION:Rutgers Geology Museum\, 85\, Somerset Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Materials Science and Engineering Graduate Student Association (Graduate Organization):mailto:Materials Science and Engineering Graduate Student Association (Graduate Organization)
-DTSTART:20260512T200000Z
-SUMMARY:EPS/MSE Research Mixer
-UID:033d1093-1ffb-4693-b8f1-a450fa0fd43d@033d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12452505
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social
@@ -53,18 +42,7 @@ LOCATION:Deans Conference Room
 ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
 DTSTART:20260514T220000Z
 SUMMARY:End of year Celebration
-UID:b4a0fedc-a2d2-4630-aeef-371f86336684@b4a0.org
+UID:1968cd56-3199-4f74-bf6c-04cebbcdd3ef@1968.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Social Event
-DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
-DTEND:20260518T000000Z
-LOCATION:The Catholic Center at Rutgers
-ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
-DTSTART:20260517T230000Z
-SUMMARY:Student Dinner
-UID:e768cf27-d2e3-4990-9b59-63b431b90b83@e768.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
 END:VEVENT
 END:VCALENDAR
