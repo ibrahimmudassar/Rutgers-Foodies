@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "@search.score": 99.86008,
+            "@search.score": 99.914764,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -37,14 +37,14 @@
             ],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/nan",
             "recScore": null,
-            "rsvpTotal": 39,
+            "rsvpTotal": 45,
             "startsOn": "2026-05-14T22:00:00.000Z",
             "status": "Approved",
             "theme": "Social",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.673546,
+            "@search.score": 99.72846,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -82,14 +82,14 @@
             ],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/67324cf2-eb53-45f3-8635-c25617096de061b5f661-e57a-4587-b441-1f83eec06234.png",
             "recScore": null,
-            "rsvpTotal": 12,
+            "rsvpTotal": 13,
             "startsOn": "2026-05-16T16:00:00.000Z",
             "status": "Approved",
             "theme": "Social",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.53534,
+            "@search.score": 99.59044,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -122,7 +122,40 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 86.04864,
+            "@search.score": 98.18064,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "5331"
+            ],
+            "categoryNames": [
+                "Art Exhibition"
+            ],
+            "description": "Opening reception of Rutgers in NY MFA Visual Arts group exhibition located at the historic Westbeth Gallery. ",
+            "endsOn": "2026-05-31T00:00:00.000Z",
+            "id": "12468256",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/dacf5b3a-41c7-42c8-a9dd-6d6ef5b0d168ab7c858e-571c-4a8c-96f3-1afc3ca36e0b.png",
+            "index": 3,
+            "institutionId": 4753,
+            "latitude": 40.73657,
+            "location": "Westbeth Gallery ",
+            "longitude": -74.00883,
+            "name": "Rutgers in NY MFA Exhibition ",
+            "organizationId": 422382,
+            "organizationIds": [],
+            "organizationName": "Mason Gross Art and Design (Mason Gross Graduate Student Association)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/ffd71870-1867-4c57-bffe-fed5aaa32cd6c8c2e942-f8ac-4628-9a4b-8f1d25e9c06f.png",
+            "recScore": null,
+            "rsvpTotal": 2,
+            "startsOn": "2026-05-30T22:00:00.000Z",
+            "status": "Approved",
+            "theme": "Arts",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 86.124016,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -132,7 +165,7 @@
             "endsOn": "2026-09-03T00:30:00.000Z",
             "id": "12202066",
             "imagePath": "https://se-images.campuslabs.com/clink/images/4a81ca79-a4e9-4692-a97e-c216bea6ff23eba43a39-c192-4179-8c5a-b56450c35111.png",
-            "index": 3,
+            "index": 4,
             "institutionId": 4753,
             "latitude": 40.50498,
             "location": "The Hatchery, Alexander Library",
