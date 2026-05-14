@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social
-DESCRIPTION:Join CBG and Friends for our End of Year Celebration on Thursday\, May 14\, 2026\, from 6:00 PM to 9:00 PM as we come together to celebrate the accomplishments\, memories\, and community built throughout the year. Enjoy an evening filled with relaxation\, creativity\, and fun\, including massages\, henna\, a paint and sip experience\, delicious food\, and more. This special night is an opportunity to unwind\, connect with others\, and close out the year with good energy and celebration. We look forward to celebrating with you and our collaborators SACNAS\, MBGSO\, GSA\, and Scarlet Arts Rx!
-DTEND:20260515T010000Z
-LOCATION:Deans Conference Room
-ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
-DTSTART:20260514T220000Z
-SUMMARY:End of year Celebration
-UID:da2324be-2b86-4f3c-98d0-273cdaf36b53@da23.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
-DESCRIPTION:Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor\, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open\, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open\, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!
-DTEND:20260516T173000Z
-LOCATION:College Farm Road East\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
-DTSTART:20260516T160000Z
-SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
-UID:3a017836-8a42-47cf-a71e-2fd0f1923a0a@3a01.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,Social Event
 DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
 DTEND:20260518T000000Z
@@ -31,7 +9,7 @@ LOCATION:The Catholic Center at Rutgers
 ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
 DTSTART:20260517T230000Z
 SUMMARY:Student Dinner
-UID:5d14cdc2-c3c6-4ac0-8b9a-78bb3054bb03@5d14.org
+UID:fc7793c5-bcdd-400b-8520-aa38e0580472@fc77.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +20,40 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:39ef75fc-8fa0-47ef-95e6-40a68d186203@39ef.org
+UID:8d9c0682-42a4-42e4-970d-6a5da2526126@8d9c.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Arts,Livingston,Art Exhibition
+DESCRIPTION:Opening reception of Rutgers in NY MFA Visual Arts group exhibition located at the historic Westbeth Gallery. 
+DTEND:20260531T000000Z
+LOCATION:Bethune Street\, Meatpacking District\, Manhattan\, New York County\, New York\, 10014\, United States
+ORGANIZER;CN=Mason Gross Art and Design (Mason Gross Graduate Student Association):mailto:Mason Gross Art and Design (Mason Gross Graduate Student Association)
+DTSTART:20260530T220000Z
+SUMMARY:Rutgers in NY MFA Exhibition 
+UID:5abbb217-94b6-4d3c-b725-d7b5bb9c9961@5abb.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12468256
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
+DESCRIPTION:Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor\, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open\, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open\, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!
+DTEND:20260516T173000Z
+LOCATION:US 1\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
+DTSTART:20260516T160000Z
+SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
+UID:71e07e88-b521-4cd2-ac9d-683e73091c84@71e0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:Join CBG and Friends for our End of Year Celebration on Thursday\, May 14\, 2026\, from 6:00 PM to 9:00 PM as we come together to celebrate the accomplishments\, memories\, and community built throughout the year. Enjoy an evening filled with relaxation\, creativity\, and fun\, including massages\, henna\, a paint and sip experience\, delicious food\, and more. This special night is an opportunity to unwind\, connect with others\, and close out the year with good energy and celebration. We look forward to celebrating with you and our collaborators SACNAS\, MBGSO\, GSA\, and Scarlet Arts Rx!
+DTEND:20260515T010000Z
+LOCATION:Deans Conference Room
+ORGANIZER;CN=Council of Black Graduates (Graduate Student Organization):mailto:Council of Black Graduates (Graduate Student Organization)
+DTSTART:20260514T220000Z
+SUMMARY:End of year Celebration
+UID:00a0a376-cf29-46e4-a6d2-62f7a84ebfcb@00a0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12454541
 END:VEVENT
 END:VCALENDAR
