@@ -2,26 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:d67f82a5-d651-4062-b09d-e3c53a65d721@d67f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Outdoor Event,Graduate Student Organization Event
 DESCRIPTION:Join us for a hands-on outdoor experience at Rutgers Gardens designed for student parents/guardians and their children. This family-friendly session invites children to explore nature through observation and sketching the world around them. Guided by a trained facilitator and led by a Scarlet Arts Rx camp counselor\, children will participate in nature-based art journaling activities that encourages curiosity and creativity. They will discover plants and insects while engaging in play and learning within an open\, natural environment. This is a wonderful opportunity to spend quality time outdoors and connect with other Rutgers families. What to expect:  Guided nature exploration and journaling activities Art supplies provided Open\, child-led creativity Food & Snacks available  Important: This is not a drop-off event. Parents/guardians must remain present. Come explore and connect!
 DTEND:20260516T173000Z
-LOCATION:Rutgers Cook-Douglass Campus\, College Farm Road East\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
+LOCATION:US 1\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=Supporting Parents and Caregivers at Rutgers (Graduate Organization):mailto:Supporting Parents and Caregivers at Rutgers (Graduate Organization)
 DTSTART:20260516T160000Z
 SUMMARY:Nature Explorers: Outdoor Nature Art Journaling for Children - FREE Event at Rutgers Gardens
-UID:61013c1d-b66d-47b1-887a-4b3cac888b6b@6101.org
+UID:739da08b-06d3-4325-9409-d552a1362fe1@739d.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12456684
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Social Event
+DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
+DTEND:20260518T000000Z
+LOCATION:The Catholic Center at Rutgers
+ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
+DTSTART:20260517T230000Z
+SUMMARY:Student Dinner
+UID:41a0d8cf-7333-4c5e-8962-111412dfeded@41a0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
@@ -31,7 +31,7 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:1a4b653a-72d2-450f-8811-cce1a72ce9f2@1a4b.org
+UID:756738b4-99ee-411d-9bd9-db8f0fd4da5f@7567.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 BEGIN:VEVENT
@@ -42,18 +42,18 @@ LOCATION:Bethune Street\, Meatpacking District\, Manhattan\, New York County\, N
 ORGANIZER;CN=Mason Gross Art and Design (Mason Gross Graduate Student Association):mailto:Mason Gross Art and Design (Mason Gross Graduate Student Association)
 DTSTART:20260530T220000Z
 SUMMARY:Rutgers in NY MFA Exhibition 
-UID:369a6cb0-7ff6-48f6-b779-c6bde66fce7e@369a.org
+UID:24e19411-0114-4f52-9c10-6a7bca0734d0@24e1.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12468256
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Social Event
-DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
-DTEND:20260518T000000Z
-LOCATION:The Catholic Center at Rutgers
-ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
-DTSTART:20260517T230000Z
-SUMMARY:Student Dinner
-UID:a220969d-4b32-421f-91f8-993b6c7b72e1@a220.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:6ff15f1e-10f0-4100-ae2d-dd25e7cc492a@6ff1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 END:VCALENDAR
