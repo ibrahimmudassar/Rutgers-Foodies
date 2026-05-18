@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Arts,Livingston,Art Exhibition
-DESCRIPTION:Opening reception of Rutgers in NY MFA Visual Arts group exhibition located at the historic Westbeth Gallery. 
-DTEND:20260531T000000Z
-LOCATION:Bethune Street\, Meatpacking District\, Manhattan\, New York County\, New York\, 10014\, United States
-ORGANIZER;CN=Mason Gross Art and Design (Mason Gross Graduate Student Association):mailto:Mason Gross Art and Design (Mason Gross Graduate Student Association)
-DTSTART:20260530T220000Z
-SUMMARY:Rutgers in NY MFA Exhibition 
-UID:2bd0e531-9902-4cba-827d-bdd5859fc304@2bd0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12468256
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,College Ave
 DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
 DTEND:20260903T003000Z
@@ -20,19 +9,19 @@ LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 089
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:92e3a3b8-5efa-4092-bd6f-4c466eddf8b9@92e3.org
+UID:e717e0f9-78f9-408d-b8e8-d09ac0169fb0@e717.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Social Event
-DESCRIPTION:Join us for a free student dinner in the Catholic Center right after the 6 pm student mass!
-DTEND:20260518T000000Z
-LOCATION:The Catholic Center at Rutgers
-ORGANIZER;CN=Catholic Students (Rutgers) :mailto:Catholic Students (Rutgers) 
-DTSTART:20260517T230000Z
-SUMMARY:Student Dinner
-UID:eefbf330-c699-4e87-bdd6-aff6827358d1@eefb.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12108977
+CATEGORIES:Arts,Livingston,Art Exhibition
+DESCRIPTION:Opening reception of Rutgers in NY MFA Visual Arts group exhibition located at the historic Westbeth Gallery. 
+DTEND:20260531T000000Z
+LOCATION:Bethune Street\, Meatpacking District\, Manhattan\, New York County\, New York\, 10014\, United States
+ORGANIZER;CN=Mason Gross Art and Design (Mason Gross Graduate Student Association):mailto:Mason Gross Art and Design (Mason Gross Graduate Student Association)
+DTSTART:20260530T220000Z
+SUMMARY:Rutgers in NY MFA Exhibition 
+UID:86fafaa9-4077-4ae0-ad08-6c35b7b6d908@86fa.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12468256
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
@@ -42,7 +31,7 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:088b59a6-aba1-4e58-bac6-5bb814342888@088b.org
+UID:2ab87103-d97f-4b82-8684-5bb8a4bcdafc@2ab8.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 END:VCALENDAR
