@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:ca3b56dc-61a1-488a-855a-b8606a9b177d@ca3b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Arts,Livingston,Art Exhibition
 DESCRIPTION:Opening reception of Rutgers in NY MFA Visual Arts group exhibition located at the historic Westbeth Gallery. 
 DTEND:20260531T000000Z
@@ -20,7 +9,7 @@ LOCATION:Bethune Street\, Meatpacking District\, Manhattan\, New York County\, N
 ORGANIZER;CN=Mason Gross Art and Design (Mason Gross Graduate Student Association):mailto:Mason Gross Art and Design (Mason Gross Graduate Student Association)
 DTSTART:20260530T220000Z
 SUMMARY:Rutgers in NY MFA Exhibition 
-UID:504dcde4-6292-4906-83f4-dccc37c03214@504d.org
+UID:928dc024-32c7-4e51-8d1f-da60a0f62630@928d.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12468256
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +20,18 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:949c19b5-738f-4a3a-8bfa-c1c4f2992b94@949c.org
+UID:324962aa-9413-4406-b59e-0a58ae6957d9@3249.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:fe1e4615-28c1-4235-8121-e0c3ad545c98@fe1e.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 END:VCALENDAR
