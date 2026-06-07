@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Busch,Graduate Student Organization Event
-DESCRIPTION:Dear graduate students\,   We wish the best of luck to our MBS first years with their upcoming qualifying exams!!   To celebrate this milestone\, MBGSO is hosting a post qualifying exam pizza party to celebrate our first years on June 12th\, 2026!   Come enjoy some pizza with your peers while looking ahead to an eventful summer!    Find event details below\, and in the attached flyer! Date: Friday\, June 12\, 2026 Time: 3:00 PM - 5:00 PM  Location: RWJMS Research Tower\, Old Student Lounge near Woody's\, Piscataway.
-DTEND:20260612T210000Z
-LOCATION:Rutgers University\, Johnson Drive\, New Brunswick\, Middlesex County\, New Jersey\, 08933\, United States
-ORGANIZER;CN=Molecular Biosciences (Graduate Student Organization):mailto:Molecular Biosciences (Graduate Student Organization)
-DTSTART:20260612T190000Z
-SUMMARY:Post Quals Celebration Pizza Party
-UID:8e6f7945-50b9-42fc-8ae5-44cefadcbff6@8e6f.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12482105
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
 DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
 DTEND:20260909T003000Z
@@ -20,18 +9,29 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:02cc9b6c-3947-4424-9f83-d84d451b51fc@02cc.org
+UID:73e64a6b-bd7f-4c3c-87ae-2ad0617b7b80@73e6.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch,Graduate Student Organization Event
+DESCRIPTION:Dear graduate students\,   We wish the best of luck to our MBS first years with their upcoming qualifying exams!!   To celebrate this milestone\, MBGSO is hosting a post qualifying exam pizza party to celebrate our first years on June 12th\, 2026!   Come enjoy some pizza with your peers while looking ahead to an eventful summer!    Find event details below\, and in the attached flyer! Date: Friday\, June 12\, 2026 Time: 3:00 PM - 5:00 PM  Location: RWJMS Research Tower\, Old Student Lounge near Woody's\, Piscataway.
+DTEND:20260612T210000Z
+LOCATION:Robert Wood Johnson Medical School\, 675\, Frelinghuysen Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Molecular Biosciences (Graduate Student Organization):mailto:Molecular Biosciences (Graduate Student Organization)
+DTSTART:20260612T190000Z
+SUMMARY:Post Quals Celebration Pizza Party
+UID:662c9f42-5458-45da-ab10-1fef6fdba813@662c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12482105
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,College Ave
 DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
 DTEND:20260903T003000Z
-LOCATION:Huntington Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:16263284-284b-4693-ae80-079f686d58bb@1626.org
+UID:1aec5cd4-7a8e-48ae-9153-17b458fbd1ef@1aec.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 END:VCALENDAR
