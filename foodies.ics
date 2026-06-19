@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:3fa06f6d-aa39-477b-aeb5-0035575cad79@3fa0.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
 DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
 DTEND:20260909T003000Z
@@ -20,7 +9,18 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:6b35019a-050a-46b0-a2c2-9dd1a5fe0ee7@6b35.org
+UID:47f0d755-28bf-4bd1-81b3-8227439aadc6@47f0.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:1af2757c-8ec3-496a-8ef4-7a751604d73a@1af2.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 END:VCALENDAR
