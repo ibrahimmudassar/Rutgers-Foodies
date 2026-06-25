@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "@search.score": 91.80478,
+            "@search.score": 91.87132,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -30,7 +30,40 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.028145,
+            "@search.score": 91.63318,
+            "benefitNames": "Free Food, Free Stuff",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "7111"
+            ],
+            "categoryNames": [
+                "Social Event"
+            ],
+            "description": "The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest, taking pictures at the photo booth, inflatable games, and lots of fun food, drinks, and ice cream.  This is also a great way to make new friends for the upcoming semester, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...",
+            "endsOn": "2026-09-04T23:00:00.000Z",
+            "id": "12494051",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
+            "index": 1,
+            "institutionId": 4753,
+            "latitude": 40.52347,
+            "location": "Asian American Cultural Center",
+            "longitude": -74.43366,
+            "name": "Welcome Back Social",
+            "organizationId": 181139,
+            "organizationIds": [],
+            "organizationName": "Asian American Cultural Center",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/0559d5e5-a562-474d-96d3-8b4cdb96b27f39076c0c-78f1-4760-89b5-ccd60ec2a0a1.png",
+            "recScore": null,
+            "rsvpTotal": 5,
+            "startsOn": "2026-09-04T20:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 91.095894,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -40,7 +73,7 @@
             "endsOn": "2026-09-09T00:30:00.000Z",
             "id": "12470180",
             "imagePath": "https://se-images.campuslabs.com/clink/images/d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-            "index": 1,
+            "index": 2,
             "institutionId": 4753,
             "latitude": null,
             "location": "BSC Room 117",
