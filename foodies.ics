@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning
+DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
+DTEND:20260909T003000Z
+LOCATION:BSC Room 117
+ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
+DTSTART:20260908T233000Z
+SUMMARY:First Rubik's Cube Club Meeting
+UID:1475e6fc-dc58-4d5d-b261-6b0e3c5b6011@1475.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Social,Livingston,Social Event
 DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
 DTEND:20260904T230000Z
@@ -9,7 +20,7 @@ LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Aven
 ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
 DTSTART:20260904T200000Z
 SUMMARY:Welcome Back Social
-UID:f6567d51-a998-45ec-a447-5a75ff207e18@f656.org
+UID:ed898f4b-d005-43c0-a52a-f7ea8bac574e@ed89.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
 END:VEVENT
 BEGIN:VEVENT
@@ -20,18 +31,7 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:da6ff7ad-3073-497a-9040-0ba843b53dd5@da6f.org
+UID:11ca5bb5-8e72-4f26-8d4e-d2ff1b91f104@11ca.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning
-DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
-DTEND:20260909T003000Z
-LOCATION:BSC Room 117
-ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
-DTSTART:20260908T233000Z
-SUMMARY:First Rubik's Cube Club Meeting
-UID:2505e450-42e5-4018-9bbf-149e319f0f84@2505.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 END:VCALENDAR
