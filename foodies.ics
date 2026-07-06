@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning
-DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
-DTEND:20260909T003000Z
-LOCATION:BSC Room 117
-ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
-DTSTART:20260908T233000Z
-SUMMARY:First Rubik's Cube Club Meeting
-UID:456b3c51-12d0-4792-a657-e515f51dd246@456b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Social Event
-DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, scholars\, interns\, and trainees.
-DTEND:20260715T220000Z
-LOCATION:Centers for Global Advancement and International Affairs\, 30\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20260715T200000Z
-SUMMARY:Rutgers Global Summer Social
-UID:85b18bdd-1726-46a3-8f54-a236059b0505@85b1.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12499519
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,College Ave
 DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
 DTEND:20260903T003000Z
@@ -31,7 +9,7 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:cecfd3ba-cc03-4ddb-b2a1-6dcdeb6c5555@cecf.org
+UID:64771223-9885-46a2-96e6-e33c3d36fa1b@6477.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 BEGIN:VEVENT
@@ -42,7 +20,29 @@ LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Aven
 ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
 DTSTART:20260904T200000Z
 SUMMARY:Welcome Back Social
-UID:515144a5-9eab-4150-9228-e414d8bddec5@5151.org
+UID:9082d455-97c4-4e33-97da-2f12748708f6@9082.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning
+DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
+DTEND:20260909T003000Z
+LOCATION:BSC Room 117
+ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
+DTSTART:20260908T233000Z
+SUMMARY:First Rubik's Cube Club Meeting
+UID:6960c3a7-2ff3-47c3-8b6c-39755ffad8c4@6960.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Social Event
+DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, scholars\, interns\, and trainees.
+DTEND:20260715T220000Z
+LOCATION:Centers for Global Advancement and International Affairs\, 30\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20260715T200000Z
+SUMMARY:Rutgers Global Summer Social
+UID:0bd1f361-65a1-4436-9ffd-2b72d9ca141f@0bd1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12499519
 END:VEVENT
 END:VCALENDAR
