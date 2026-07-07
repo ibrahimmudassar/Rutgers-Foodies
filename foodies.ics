@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning
-DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
-DTEND:20260909T003000Z
-LOCATION:BSC Room 117
-ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
-DTSTART:20260908T233000Z
-SUMMARY:First Rubik's Cube Club Meeting
-UID:9429aa3d-2a48-489f-adca-449a3e5b6063@9429.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+CATEGORIES:Social,College Ave,Social Event
+DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, scholars\, interns\, and trainees.
+DTEND:20260715T220000Z
+LOCATION:Centers for Global Advancement and International Affairs\, 30\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20260715T200000Z
+SUMMARY:Rutgers Global Summer Social
+UID:93b9b97c-8a12-44ae-9830-3410b6b1848e@93b9.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12499519
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,College Ave
@@ -20,19 +20,8 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:8b0cfc1d-6010-4342-9b37-cca5294b0b20@8b0c.org
+UID:94919688-990f-4371-8584-43c4dc0e6817@9491.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Social Event
-DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, scholars\, interns\, and trainees.
-DTEND:20260715T220000Z
-LOCATION:Centers for Global Advancement and International Affairs\, 30\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20260715T200000Z
-SUMMARY:Rutgers Global Summer Social
-UID:ce17d697-4ea6-4b59-968a-6dd198a2b445@ce17.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12499519
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Livingston,Social Event
@@ -42,7 +31,18 @@ LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Aven
 ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
 DTSTART:20260904T200000Z
 SUMMARY:Welcome Back Social
-UID:b974d150-110c-4f0c-8e70-1287245089af@b974.org
+UID:7a3dbb27-9e12-4c26-b421-02aeea603165@7a3d.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning
+DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
+DTEND:20260909T003000Z
+LOCATION:BSC Room 117
+ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
+DTSTART:20260908T233000Z
+SUMMARY:First Rubik's Cube Club Meeting
+UID:a91fd6ab-1e01-4d3a-9f45-e537e026c7c6@a91f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 END:VCALENDAR
