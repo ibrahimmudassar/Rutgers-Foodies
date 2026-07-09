@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Social Event
-DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
-DTEND:20260904T230000Z
-LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
-DTSTART:20260904T200000Z
-SUMMARY:Welcome Back Social
-UID:536007a0-c1d9-407a-af59-8dacc6985d59@5360.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Social Event
-DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, scholars\, interns\, and trainees.
-DTEND:20260715T220000Z
-LOCATION:Centers for Global Advancement and International Affairs\, 30\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20260715T200000Z
-SUMMARY:Rutgers Global Summer Social
-UID:e1ef1854-9555-4298-9c3b-e9389e264b6f@e1ef.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12499519
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,College Ave
 DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
 DTEND:20260903T003000Z
@@ -31,8 +9,19 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:00a3c58a-5959-4d14-b91a-4013e90f71db@00a3.org
+UID:2c7032b9-f8b5-4fec-b2da-bc82b6d40d66@2c70.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Social Event
+DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
+DTEND:20260904T230000Z
+LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
+DTSTART:20260904T200000Z
+SUMMARY:Welcome Back Social
+UID:98ebac16-165e-4143-b8fe-72bad2e10c41@98eb.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
@@ -42,7 +31,18 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:66bd16b5-1bc1-4c89-8da9-56c91c5ffc08@66bd.org
+UID:6b79860c-8260-4a37-ae95-e20a6e549f4c@6b79.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Social Event
+DESCRIPTION:Join us for our annual Rutgers Global Summer Social! Enjoy some summer treats as you connect with others who are on campus this summer. This event is open to all international students\, scholars\, interns\, and trainees.
+DTEND:20260715T220000Z
+LOCATION:Centers for Global Advancement and International Affairs\, 30\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20260715T200000Z
+SUMMARY:Rutgers Global Summer Social
+UID:9cd1ddab-a3b5-44fb-920f-c15ce49e22d9@9cd1.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12499519
 END:VEVENT
 END:VCALENDAR
