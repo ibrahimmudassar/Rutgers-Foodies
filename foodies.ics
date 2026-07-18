@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Social Event
-DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
-DTEND:20260904T230000Z
-LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
-DTSTART:20260904T200000Z
-SUMMARY:Welcome Back Social
-UID:cc0b501f-3ab0-4ff8-8f86-b29c51d0ae4f@cc0b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,College Ave
 DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
 DTEND:20260903T003000Z
@@ -20,7 +9,7 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:f5e38f8a-a644-42a8-9ef6-ffe127a3b403@f5e3.org
+UID:9f9c6e50-d6cd-4dc5-b22f-3458c5e5eab7@9f9c.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +20,18 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:f7f2e0f6-09be-4b08-b20f-968413d06250@f7f2.org
+UID:92f0a340-c07c-4667-9e5f-344c53a9af3d@92f0.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Social Event
+DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
+DTEND:20260904T230000Z
+LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
+DTSTART:20260904T200000Z
+SUMMARY:Welcome Back Social
+UID:6ded1647-e391-4e57-a5fa-6d25013b1d5d@6ded.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
 END:VEVENT
 END:VCALENDAR
