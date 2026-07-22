@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_38af4e2c684cadcbd9b1171bd751033a {
+                #map_520f6d31aa2fec92c58b7f2c818301e0 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -58,14 +58,14 @@
 <body>
     
     
-            <div class="folium-map" id="map_38af4e2c684cadcbd9b1171bd751033a" ></div>
+            <div class="folium-map" id="map_520f6d31aa2fec92c58b7f2c818301e0" ></div>
         
 </body>
 <script>
     
     
-            var map_38af4e2c684cadcbd9b1171bd751033a = L.map(
-                "map_38af4e2c684cadcbd9b1171bd751033a",
+            var map_520f6d31aa2fec92c58b7f2c818301e0 = L.map(
+                "map_520f6d31aa2fec92c58b7f2c818301e0",
                 {
                     center: [40.5, -74.45],
                     crs: L.CRS.EPSG3857,
@@ -82,7 +82,7 @@
 
         
     
-            var tile_layer_266c908de511cbb0a280684a5f0240bb = L.tileLayer(
+            var tile_layer_cce9f81a02647fc5bc9c2a789d9214f5 = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
@@ -99,17 +99,55 @@
             );
         
     
-            tile_layer_266c908de511cbb0a280684a5f0240bb.addTo(map_38af4e2c684cadcbd9b1171bd751033a);
+            tile_layer_cce9f81a02647fc5bc9c2a789d9214f5.addTo(map_520f6d31aa2fec92c58b7f2c818301e0);
         
     
-            var marker_9b53a60acd65f82607bb45dded3cac1a = L.marker(
+            var marker_e183a519cbc071c5c0bf9d8219838374 = L.marker(
+                [40.48188, -74.43373],
+                {
+}
+            ).addTo(map_520f6d31aa2fec92c58b7f2c818301e0);
+        
+    
+            var icon_48a434485c3c4c06412841d5a92f4541 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1de4d888cc6325f5cebf989dffff53ed = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2b3a2abb9977921f148be91073065fc4 = $(`<div id="html_2b3a2abb9977921f148be91073065fc4" style="width: 100.0%; height: 100.0%;">Welcome Week "Knives Out" Movie Under the Stars </div>`)[0];
+                popup_1de4d888cc6325f5cebf989dffff53ed.setContent(html_2b3a2abb9977921f148be91073065fc4);
+            
+        
+
+        marker_e183a519cbc071c5c0bf9d8219838374.bindPopup(popup_1de4d888cc6325f5cebf989dffff53ed)
+        ;
+
+        
+    
+    
+                marker_e183a519cbc071c5c0bf9d8219838374.setIcon(icon_48a434485c3c4c06412841d5a92f4541);
+            
+    
+            var marker_36c475ebee70d90f0c2c679203d54c43 = L.marker(
                 [40.50498, -74.45246],
                 {
 }
-            ).addTo(map_38af4e2c684cadcbd9b1171bd751033a);
+            ).addTo(map_520f6d31aa2fec92c58b7f2c818301e0);
         
     
-            var icon_04596e5111130f75467798f61d8d226f = L.AwesomeMarkers.icon(
+            var icon_ab69485ae243b9fca479c68a9d0f6859 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -120,34 +158,34 @@
             );
         
     
-        var popup_f8ada691e301027e90cdd7bcc7e4e296 = L.popup({
+        var popup_5ae1a66cf14cc631602953f45e745c12 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_dd89ee88895a9d813adbe86df603c4c5 = $(`<div id="html_dd89ee88895a9d813adbe86df603c4c5" style="width: 100.0%; height: 100.0%;">Cocoa and Collage </div>`)[0];
-                popup_f8ada691e301027e90cdd7bcc7e4e296.setContent(html_dd89ee88895a9d813adbe86df603c4c5);
+                var html_b5ea31b6a4e8e4845178ef813915831c = $(`<div id="html_b5ea31b6a4e8e4845178ef813915831c" style="width: 100.0%; height: 100.0%;">Cocoa and Collage </div>`)[0];
+                popup_5ae1a66cf14cc631602953f45e745c12.setContent(html_b5ea31b6a4e8e4845178ef813915831c);
             
         
 
-        marker_9b53a60acd65f82607bb45dded3cac1a.bindPopup(popup_f8ada691e301027e90cdd7bcc7e4e296)
+        marker_36c475ebee70d90f0c2c679203d54c43.bindPopup(popup_5ae1a66cf14cc631602953f45e745c12)
         ;
 
         
     
     
-                marker_9b53a60acd65f82607bb45dded3cac1a.setIcon(icon_04596e5111130f75467798f61d8d226f);
+                marker_36c475ebee70d90f0c2c679203d54c43.setIcon(icon_ab69485ae243b9fca479c68a9d0f6859);
             
     
-            var marker_3cba8412539b6a3ce10e10e56894ba5c = L.marker(
+            var marker_93685326b63cb0922ef1d1bd6e4adea2 = L.marker(
                 [40.52347, -74.43366],
                 {
 }
-            ).addTo(map_38af4e2c684cadcbd9b1171bd751033a);
+            ).addTo(map_520f6d31aa2fec92c58b7f2c818301e0);
         
     
-            var icon_4120ea49172f24d6b8ef8c8ec92f8e1b = L.AwesomeMarkers.icon(
+            var icon_9ae88b144c3d2a421fb7c37a3eb2ccd3 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -158,24 +196,62 @@
             );
         
     
-        var popup_eba9ecd64c90098919b6cfbf24664414 = L.popup({
+        var popup_2c6553dd669bd8b854b54e3c795c016d = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_fca8770dcd63bf206439863529a9b238 = $(`<div id="html_fca8770dcd63bf206439863529a9b238" style="width: 100.0%; height: 100.0%;">Welcome Back Social</div>`)[0];
-                popup_eba9ecd64c90098919b6cfbf24664414.setContent(html_fca8770dcd63bf206439863529a9b238);
+                var html_a74bdf0f02e0e2c36a19d9e307f7c432 = $(`<div id="html_a74bdf0f02e0e2c36a19d9e307f7c432" style="width: 100.0%; height: 100.0%;">Welcome Back Social</div>`)[0];
+                popup_2c6553dd669bd8b854b54e3c795c016d.setContent(html_a74bdf0f02e0e2c36a19d9e307f7c432);
             
         
 
-        marker_3cba8412539b6a3ce10e10e56894ba5c.bindPopup(popup_eba9ecd64c90098919b6cfbf24664414)
+        marker_93685326b63cb0922ef1d1bd6e4adea2.bindPopup(popup_2c6553dd669bd8b854b54e3c795c016d)
         ;
 
         
     
     
-                marker_3cba8412539b6a3ce10e10e56894ba5c.setIcon(icon_4120ea49172f24d6b8ef8c8ec92f8e1b);
+                marker_93685326b63cb0922ef1d1bd6e4adea2.setIcon(icon_9ae88b144c3d2a421fb7c37a3eb2ccd3);
+            
+    
+            var marker_e6ac6fde7374ba255f432f19474ea71f = L.marker(
+                [40.48188, -74.43373],
+                {
+}
+            ).addTo(map_520f6d31aa2fec92c58b7f2c818301e0);
+        
+    
+            var icon_63cc9493ba105b9cd1dd59f99b74e848 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d4bfddb88d1cf011e77defb4c1fe4588 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e692e1c321c501880e26641d8cd9e996 = $(`<div id="html_e692e1c321c501880e26641d8cd9e996" style="width: 100.0%; height: 100.0%;">Welcome Week RDL Welcome Bash </div>`)[0];
+                popup_d4bfddb88d1cf011e77defb4c1fe4588.setContent(html_e692e1c321c501880e26641d8cd9e996);
+            
+        
+
+        marker_e6ac6fde7374ba255f432f19474ea71f.bindPopup(popup_d4bfddb88d1cf011e77defb4c1fe4588)
+        ;
+
+        
+    
+    
+                marker_e6ac6fde7374ba255f432f19474ea71f.setIcon(icon_63cc9493ba105b9cd1dd59f99b74e848);
             
     
             L.control.fullscreen(
@@ -185,12 +261,12 @@
   "titleCancel": "Exit Full Screen",
   "forceSeparateButton": false,
 }
-            ).addTo(map_38af4e2c684cadcbd9b1171bd751033a);
+            ).addTo(map_520f6d31aa2fec92c58b7f2c818301e0);
         
     
-            var locate_control_9b4d1b653d5b2081a8b58e4af8199eda = L.control.locate(
+            var locate_control_d82e4a909a89acb4631127334ea1c2b9 = L.control.locate(
                 {}
-            ).addTo(map_38af4e2c684cadcbd9b1171bd751033a);
+            ).addTo(map_520f6d31aa2fec92c58b7f2c818301e0);
             
         
 </script>
