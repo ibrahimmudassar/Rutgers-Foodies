@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Entertainment,Welcome Week
-DESCRIPTION:In collaboration with Welcome Week\, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.
-DTEND:20260826T030000Z
-LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
-DTSTART:20260826T000000Z
-SUMMARY:Welcome Week "Knives Out" Movie Under the Stars 
-UID:72d9d8dd-be06-4e92-a496-23b02f379bcf@72d9.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518765
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,DJ Event,Entertainment,Outdoor Event,Social Event,Welcome Week
 DESCRIPTION:Join The Rutgers Democracy Lab for their first-ever Welcome Bash. Get a bite to eat at a food truck\, check if you are registered to vote with our RU Voting Team\, play some games and win a prize\, learn about what the programs at RDL are up to this semester\, or take a ride on the bumper cars. Students can also add to the chain of pledges to vote\, get an ice cream sundae\, write on our democracy wall\, take pictures at our photo booth\, or try their hand at human shuffleboard. Come with friends or be ready to make new ones to see what other surprises RDL has in store. All students are welcome to this free event.
 DTEND:20260908T220000Z
@@ -20,19 +9,19 @@ LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\
 ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
 DTSTART:20260908T190000Z
 SUMMARY:Welcome Week RDL Welcome Bash 
-UID:b0fdcf76-b7b4-41c5-bd89-c577c2d5407d@b0fd.org
+UID:d5541e1a-bb84-4175-8afc-e494cc45a31d@d554.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518775
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning
-DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
-DTEND:20260909T003000Z
-LOCATION:BSC Room 117
-ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
-DTSTART:20260908T233000Z
-SUMMARY:First Rubik's Cube Club Meeting
-UID:17053567-c148-4e1a-8ed4-bfed58092716@1705.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+CATEGORIES:Social,Cook / Douglass,Entertainment,Welcome Week
+DESCRIPTION:In collaboration with Welcome Week\, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.
+DTEND:20260826T030000Z
+LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
+DTSTART:20260826T000000Z
+SUMMARY:Welcome Week "Knives Out" Movie Under the Stars 
+UID:61d0c0a0-d4a4-48fd-865d-6c190a65e1ca@61d0.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518765
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Livingston,Social Event
@@ -42,8 +31,19 @@ LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Aven
 ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
 DTSTART:20260904T200000Z
 SUMMARY:Welcome Back Social
-UID:ad8f5ef5-4a48-40ff-a718-1963f30a3dc4@ad8f.org
+UID:b1fae63d-f1cb-48b4-9a28-4ef4e50a1526@b1fa.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning
+DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
+DTEND:20260909T003000Z
+LOCATION:BSC Room 117
+ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
+DTSTART:20260908T233000Z
+SUMMARY:First Rubik's Cube Club Meeting
+UID:1a3c5b65-465b-4c4b-9533-bc3a8e6df86a@1a3c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,College Ave
@@ -53,7 +53,7 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:6affa2bc-699b-48da-9a21-22e539752ff8@6aff.org
+UID:2902f772-2ef0-404d-90e0-826aafee72cc@2902.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 END:VCALENDAR
