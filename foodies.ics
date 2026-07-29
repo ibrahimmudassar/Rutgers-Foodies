@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,DJ Event,Entertainment,Outdoor Event,Social Event,Welcome Week
-DESCRIPTION:Join The Rutgers Democracy Lab for their first-ever Welcome Bash. Get a bite to eat at a food truck\, check if you are registered to vote with our RU Voting Team\, play some games and win a prize\, learn about what the programs at RDL are up to this semester\, or take a ride on the bumper cars. Students can also add to the chain of pledges to vote\, get an ice cream sundae\, write on our democracy wall\, take pictures at our photo booth\, or try their hand at human shuffleboard. Come with friends or be ready to make new ones to see what other surprises RDL has in store. All students are welcome to this free event.
-DTEND:20260908T220000Z
+CATEGORIES:Social,Cook / Douglass,Entertainment,Welcome Week
+DESCRIPTION:In collaboration with Welcome Week\, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.
+DTEND:20260826T030000Z
 LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
-DTSTART:20260908T190000Z
-SUMMARY:Welcome Week RDL Welcome Bash 
-UID:9d66ed8d-ce66-4498-9440-39185f8152b6@9d66.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518775
+DTSTART:20260826T000000Z
+SUMMARY:Welcome Week "Knives Out" Movie Under the Stars 
+UID:3664aee7-42b0-4711-a9cd-b7d3477dc4eb@3664.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518765
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,College Ave
@@ -20,19 +20,8 @@ LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\,
 ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
 DTSTART:20260902T233000Z
 SUMMARY:Cocoa and Collage 
-UID:e505dcaa-184e-4afb-bd61-55d0b4f1e2c9@e505.org
+UID:a9b60f73-67d9-4544-acf2-e5c8f308b896@a9b6.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Social Event
-DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
-DTEND:20260904T230000Z
-LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
-DTSTART:20260904T200000Z
-SUMMARY:Welcome Back Social
-UID:4c4c284d-b9aa-4243-9a3d-dc813b449f35@4c4c.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
@@ -42,18 +31,29 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:5c212b2f-3135-415e-93c3-4a1df744d634@5c21.org
+UID:7c133720-afb1-4e0c-aecc-6c9ba53c0d4e@7c13.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Entertainment,Welcome Week
-DESCRIPTION:In collaboration with Welcome Week\, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.
-DTEND:20260826T030000Z
+CATEGORIES:Social,Livingston,Social Event
+DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
+DTEND:20260904T230000Z
+LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
+DTSTART:20260904T200000Z
+SUMMARY:Welcome Back Social
+UID:343cc908-2de6-4308-a03e-b6582fe9f0dc@343c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,DJ Event,Entertainment,Outdoor Event,Social Event,Welcome Week
+DESCRIPTION:Join The Rutgers Democracy Lab for their first-ever Welcome Bash. Get a bite to eat at a food truck\, check if you are registered to vote with our RU Voting Team\, play some games and win a prize\, learn about what the programs at RDL are up to this semester\, or take a ride on the bumper cars. Students can also add to the chain of pledges to vote\, get an ice cream sundae\, write on our democracy wall\, take pictures at our photo booth\, or try their hand at human shuffleboard. Come with friends or be ready to make new ones to see what other surprises RDL has in store. All students are welcome to this free event.
+DTEND:20260908T220000Z
 LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
-DTSTART:20260826T000000Z
-SUMMARY:Welcome Week "Knives Out" Movie Under the Stars 
-UID:e7aac0f8-4ab5-419a-a2b6-5fc22d14800f@e7aa.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518765
+DTSTART:20260908T190000Z
+SUMMARY:Welcome Week RDL Welcome Bash 
+UID:14720422-484a-4037-bb9e-2c3040bbc935@1472.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518775
 END:VEVENT
 END:VCALENDAR
