@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Social Event
-DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
-DTEND:20260904T230000Z
-LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
-DTSTART:20260904T200000Z
-SUMMARY:Welcome Back Social
-UID:eec944cd-3443-4417-bfe6-aaff714a9e9a@eec9.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning
-DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
-DTEND:20260909T003000Z
-LOCATION:BSC Room 117
-ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
-DTSTART:20260908T233000Z
-SUMMARY:First Rubik's Cube Club Meeting
-UID:0d934b3e-dd21-49d1-97d0-d21b7f9fdd0a@0d93.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:ba4dcb32-93b8-4ae6-9f29-28b6bde285dc@ba4d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,Entertainment,Welcome Week
 DESCRIPTION:In collaboration with Welcome Week\, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.
 DTEND:20260826T030000Z
@@ -42,8 +9,19 @@ LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\
 ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
 DTSTART:20260826T000000Z
 SUMMARY:Welcome Week "Knives Out" Movie Under the Stars 
-UID:e46dc568-3900-4540-9401-a2c156c97541@e46d.org
+UID:54355398-f88d-4d1d-9051-3d980f02d86e@5435.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518765
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Social Event
+DESCRIPTION:The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th\, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest\, taking pictures at the photo booth\, inflatable games\, and lots of fun food\, drinks\, and ice cream.  This is also a great way to make new friends for the upcoming semester\, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...
+DTEND:20260904T230000Z
+LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
+DTSTART:20260904T200000Z
+SUMMARY:Welcome Back Social
+UID:6d5c5ef7-85e4-498b-99c0-04015dbe448b@6d5c.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,DJ Event,Entertainment,Outdoor Event,Social Event,Welcome Week
@@ -53,7 +31,29 @@ LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\
 ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
 DTSTART:20260908T190000Z
 SUMMARY:Welcome Week RDL Welcome Bash 
-UID:085d89b9-23b4-4ac1-a2a2-88c97c1e1fda@085d.org
+UID:d3d367bd-690d-484b-a785-11ee16ec3f7c@d3d3.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518775
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:d683b56a-7ed5-4e62-96aa-7e30f9eb048a@d683.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning
+DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
+DTEND:20260909T003000Z
+LOCATION:BSC Room 117
+ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
+DTSTART:20260908T233000Z
+SUMMARY:First Rubik's Cube Club Meeting
+UID:c01079aa-4643-4d7a-a7c4-61ebfb316030@c010.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 END:VCALENDAR
