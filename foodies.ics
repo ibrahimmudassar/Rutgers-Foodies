@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Special Interest
-DESCRIPTION:Wondering about accommodations? Know how to implement accommodations? Just want to visit with friends over coffee and donuts? The Office of Disability Services (ODS) is hosting an open house for undergraduate and graduate students with disabilities and disability allies. Food and beverages while supplies last.   Please register in advance.   Questions or accommodation requests specific to this event? Please email dsoffice@echo.rutgers.edu\, call 848-202-3111\, or visit ODS in Lucy Stone Hall\, Suite A145\, Livingston Campus.
-DTEND:20260918T150000Z
-LOCATION:Lucy Stone Hall\, 54\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Office of Disability Services (University Department):mailto:Office of Disability Services (University Department)
-DTSTART:20260918T140000Z
-SUMMARY:Donuts and Drop In! ODS & Friends
-UID:613d489e-994d-4f06-9c52-51de6caf8ddc@613d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12551974
+CATEGORIES:Social,Cook / Douglass,Entertainment,Welcome Week
+DESCRIPTION:In collaboration with Welcome Week\, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.
+DTEND:20260826T030000Z
+LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
+DTSTART:20260826T000000Z
+SUMMARY:Welcome Week "Knives Out" Movie Under the Stars 
+UID:24bc7611-c11b-41e0-99bc-5eadd8dd6050@24bc.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518765
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Livingston,Social Event
@@ -20,19 +20,8 @@ LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Aven
 ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
 DTSTART:20260904T200000Z
 SUMMARY:Welcome Back Social
-UID:f7e89648-0dd2-449f-86b1-5d92a6c6a9a4@f7e8.org
+UID:d6c560cc-20df-4e16-a202-39258b506a8e@d6c5.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:1c389eb6-5e36-4a74-b80f-2882a27ae074@1c38.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning
@@ -42,19 +31,30 @@ LOCATION:BSC Room 117
 ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
 DTSTART:20260908T233000Z
 SUMMARY:First Rubik's Cube Club Meeting
-UID:4cabe6a7-983f-46f1-9b6e-18fa50f2fd9c@4cab.org
+UID:117048e5-707a-4f4a-a442-d44dd9da0c5d@1170.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,Entertainment,Welcome Week
-DESCRIPTION:In collaboration with Welcome Week\, join the Rutgers Democracy Lab for a free Movie Night Under the Stars. Bring your own towel or sit on a Rutgers picnic blanket to enjoy some fresh popcorn while watching Knives Out on the big screen.
-DTEND:20260826T030000Z
-LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
-DTSTART:20260826T000000Z
-SUMMARY:Welcome Week "Knives Out" Movie Under the Stars 
-UID:fd38cbbe-f510-4d03-ad01-db39033f99ba@fd38.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518765
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:4449849e-88dd-44fe-ad1b-d6a21789818f@4449.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Special Interest
+DESCRIPTION:Wondering about accommodations? Know how to implement accommodations? Just want to visit with friends over coffee and donuts? The Office of Disability Services (ODS) is hosting an open house for undergraduate and graduate students with disabilities and disability allies. Food and beverages while supplies last.   Please register in advance.   Questions or accommodation requests specific to this event? Please email dsoffice@echo.rutgers.edu\, call 848-202-3111\, or visit ODS in Lucy Stone Hall\, Suite A145\, Livingston Campus.
+DTEND:20260918T150000Z
+LOCATION:Lucy Stone Hall\, 54\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Office of Disability Services (University Department):mailto:Office of Disability Services (University Department)
+DTSTART:20260918T140000Z
+SUMMARY:Donuts and Drop In! ODS & Friends
+UID:6617f2c1-5dcf-4690-8bd7-b32bff08dc13@6617.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12551974
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass,DJ Event,Entertainment,Outdoor Event,Social Event,Welcome Week
@@ -64,7 +64,7 @@ LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\
 ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
 DTSTART:20260908T190000Z
 SUMMARY:Welcome Week RDL Welcome Bash 
-UID:4365a721-8430-44e0-8032-3cbe6ececb5c@4365.org
+UID:0f348107-25ce-46b2-bfd5-799992124df4@0f34.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518775
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ LOCATION:Lucy Stone Hall\, 54\, Joyce Kilmer Avenue\, Piscataway Township\, Midd
 ORGANIZER;CN=Office of Disability Services (University Department):mailto:Office of Disability Services (University Department)
 DTSTART:20260903T163000Z
 SUMMARY:Dive Into Success! ODS Open House
-UID:f10d80dc-2f2a-401b-8f7d-a666bd3a2af2@f10d.org
+UID:b434cbba-df45-4405-8214-0a4c4cec49e1@b434.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12544178
 END:VEVENT
 END:VCALENDAR
