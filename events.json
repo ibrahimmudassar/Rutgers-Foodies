@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "@search.score": 99.25566,
+            "@search.score": 99.308,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -36,7 +36,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.05293,
+            "@search.score": 99.10552,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -58,14 +58,14 @@
             "organizationNames": [],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
             "recScore": null,
-            "rsvpTotal": 1,
+            "rsvpTotal": 0,
             "startsOn": "2026-08-27T21:00:00.000Z",
             "status": "Approved",
             "theme": "Social",
             "visibility": "Public"
         },
         {
-            "@search.score": 98.96705,
+            "@search.score": 99.01974,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -87,14 +87,14 @@
             "organizationNames": [],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
             "recScore": null,
-            "rsvpTotal": 2,
+            "rsvpTotal": 1,
             "startsOn": "2026-08-28T16:00:00.000Z",
             "status": "Approved",
             "theme": "Social",
             "visibility": "Public"
         },
         {
-            "@search.score": 98.50532,
+            "@search.score": 98.55858,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -123,7 +123,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.38624,
+            "@search.score": 98.43965,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -152,7 +152,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.308205,
+            "@search.score": 98.36171,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -195,7 +195,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.200096,
+            "@search.score": 98.25373,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -224,7 +224,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.18166,
+            "@search.score": 98.23533,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -257,7 +257,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.741646,
+            "@search.score": 97.79586,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -298,7 +298,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.720695,
+            "@search.score": 97.77493,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -327,7 +327,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.62977,
+            "@search.score": 97.68413,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -364,7 +364,54 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 96.63344,
+            "@search.score": 97.674805,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [
+                "112385"
+            ],
+            "categoryIds": [
+                "7111",
+                "18433",
+                "20311"
+            ],
+            "categoryNames": [
+                "Social Event",
+                "Welcome Week",
+                "Graduate Student Organization Event"
+            ],
+            "description": "Welcome Home! Join us at SJE for our annual LGBTQIA+ Grad Student Welcome! Mingle and connect with your master\u2019s and doctoral peers while enjoying good food and music.    This event is in partnership with BIPOC LGBTQIA2S+ Graduate Affinity Group, GRADient, and Graduate Student Life.",
+            "endsOn": "2026-09-09T23:00:00.000Z",
+            "id": "11544592",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/95a2c79c-7504-48c8-b35f-01c075e4d99225e47f17-ee5b-409b-a94b-a15965ed557f.png",
+            "index": 11,
+            "institutionId": 4753,
+            "latitude": 40.50188,
+            "location": "Center for Social Justice Education & LGBT Communities",
+            "longitude": -74.45208,
+            "name": "LGBTQIA+ Grad Student Welcome",
+            "organizationId": 181141,
+            "organizationIds": [
+                "181141",
+                "305241",
+                "346835"
+            ],
+            "organizationName": "Center for Social Justice Education and LGBT Communities (Rutgers University)",
+            "organizationNames": [
+                "Center for Social Justice Education and LGBT Communities (Rutgers University)",
+                "Graduate Student Life (Department at Rutgers University)",
+                "Rutgers GRADient"
+            ],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/b66fe830-5729-4ce8-9f6c-85ce651713a3852cde03-f568-406c-9a63-256a07442a75.png",
+            "recScore": null,
+            "rsvpTotal": 4,
+            "startsOn": "2026-09-09T21:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 96.689064,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -378,7 +425,7 @@
             "endsOn": "2026-09-18T15:00:00.000Z",
             "id": "12551974",
             "imagePath": "https://se-images.campuslabs.com/clink/images/19e956d9-48a1-4481-a069-0f3888906ffd781fc371-2590-4f6c-a3f6-2e4d3467f051.png",
-            "index": 11,
+            "index": 12,
             "institutionId": 4753,
             "latitude": 40.52191,
             "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
