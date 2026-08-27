@@ -2,15 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Social Event,Welcome Week,Graduate Student Organization Event
-DESCRIPTION:Welcome Home! Join us at SJE for our annual LGBTQIA+ Grad Student Welcome! Mingle and connect with your master’s and doctoral peers while enjoying good food and music.    This event is in partnership with BIPOC LGBTQIA2S+ Graduate Affinity Group\, GRADient\, and Graduate Student Life.
-DTEND:20260909T230000Z
-LOCATION:Center for Social Justice Education and LGBT Communities\, 17\, Bartlett Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Center for Social Justice Education and LGBT Communities (Rutgers University):mailto:Center for Social Justice Education and LGBT Communities (Rutgers University)
-DTSTART:20260909T210000Z
-SUMMARY:LGBTQIA+ Grad Student Welcome
-UID:46d545df-de49-435e-9092-396f8b4ae086@46d5.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11544592
+CATEGORIES:ThoughtfulLearning,Livingston,Educational Conference/Seminar/Workshop/Panel
+DESCRIPTION: Practice respectful discussion where diverse perspectives are present.   Learn strategies for listening generously and engaging meaningfully with different points of view. Examine case studies of real Rutgers incidents. 
+DTEND:20261015T180000Z
+LOCATION:Livingston Dining Commons\, 85\, Avenue E\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department):mailto:Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department)
+DTSTART:20261015T160000Z
+SUMMARY:Community Conversation
+UID:32fe22a2-8181-482c-a35e-b709029a257e@32fe.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12624975
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Livingston,Special Interest,Social Event,Welcome Week
+DESCRIPTION:The Office of Disability Services invites graduate and undergraduate students with disabilities\, as well as disability allies\, to attend our open house. Explore an ocean of resources\, craft with Scarlet Arts Rx\, hear about tutoring and academic coaching from the Learning Centers\, meet peers\, and learn about academic accommodations. Light refreshments will be served.   Please register in advance. Let us know if you are coming.   If you have a question or seek accommodations for this particular event\, email the ODS office at echo.rutgers.edu\, call 848-202-3111\, or visit ODS in LSH A145.
+DTEND:20260903T173000Z
+LOCATION:Lucy Stone Hall\, 54\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Office of Disability Services (University Department):mailto:Office of Disability Services (University Department)
+DTSTART:20260903T163000Z
+SUMMARY:Dive Into Success! ODS Open House
+UID:b39a39ae-53e2-4ae4-9ffe-40ac92b4752b@b39a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12544178
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Livingston,Social Event
@@ -20,8 +31,19 @@ LOCATION:Liv Day Care Ctr & Asian American Cultural Ctr\, 49\, Joyce Kilmer Aven
 ORGANIZER;CN=Asian American Cultural Center:mailto:Asian American Cultural Center
 DTSTART:20260904T200000Z
 SUMMARY:Welcome Back Social
-UID:a3a06b72-b6b8-440e-a338-39ff2ffca483@a3a0.org
+UID:39d69629-e57f-46bf-a3f4-56cd74012b05@39d6.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12494051
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Cook / Douglass,DJ Event,Entertainment,Outdoor Event,Social Event,Welcome Week
+DESCRIPTION:Join The Rutgers Democracy Lab for their first-ever Welcome Bash. Get a bite to eat at a food truck\, check if you are registered to vote with our RU Voting Team\, play some games and win a prize\, learn about what the programs at RDL are up to this semester\, or take a ride on the bumper cars. Students can also add to the chain of pledges to vote\, get an ice cream sundae\, write on our democracy wall\, take pictures at our photo booth\, or try their hand at human shuffleboard. Come with friends or be ready to make new ones to see what other surprises RDL has in store. All students are welcome to this free event.
+DTEND:20260908T220000Z
+LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
+DTSTART:20260908T190000Z
+SUMMARY:Welcome Week RDL Welcome Bash 
+UID:102fa05c-69ef-4057-9f07-1068c9af531b@102f.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518775
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ThoughtfulLearning,Cook / Douglass,Educational Conference/Seminar/Workshop/Panel
@@ -31,19 +53,63 @@ LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\
 ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
 DTSTART:20260916T123000Z
 SUMMARY:Continuing the Conversation: a Student Discussion with Professor Akhil Amar
-UID:24af419d-2089-4659-9de4-971f54b8f0fb@24af.org
+UID:5e93b5fc-ccf2-486c-843e-b9dbc5b07c84@5e93.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12607420
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning
-DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
-DTEND:20260909T003000Z
-LOCATION:BSC Room 117
-ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
-DTSTART:20260908T233000Z
-SUMMARY:First Rubik's Cube Club Meeting
-UID:eead9bb1-4963-46fc-9d0a-ea8d278d86e6@eead.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
+CATEGORIES:Social,Busch
+DESCRIPTION:Get ready for MBGSO's annual board game night 🎲It'll be on Thursday\, August 27th from 5-7 PM in the Deans Conference Room located in the RWJMS Research Tower on Busch campus!Come play\, snack\, and hangout with your other graduate students 🃏🍪
+DTEND:20260827T230000Z
+LOCATION:Bevier Road\, Society Hill\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
+ORGANIZER;CN=Molecular Biosciences (Graduate Student Organization):mailto:Molecular Biosciences (Graduate Student Organization)
+DTSTART:20260827T210000Z
+SUMMARY:Game Night
+UID:e70b1e35-58d7-4fd2-b623-9a113ab4ff3f@e70b.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12566485
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave
+DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
+DTEND:20260903T003000Z
+LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
+DTSTART:20260902T233000Z
+SUMMARY:Cocoa and Collage 
+UID:566ae77f-8a24-4416-be3b-c4f244da3051@566a.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,Busch
+DESCRIPTION:Come chat with other graduate students and faculty at our annual BBQ party! Stop by for some free food and drinks!! Friday\, August 28th\, from 12-2 PM in the Waksman Institute's Courtyard
+DTEND:20260828T180000Z
+LOCATION:Braun Laboratory - Inst Microbiology\, 188\, Frelinghuysen Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
+ORGANIZER;CN=Molecular Biosciences (Graduate Student Organization):mailto:Molecular Biosciences (Graduate Student Organization)
+DTSTART:20260828T160000Z
+SUMMARY:Welcome Back BBQ Party
+UID:63f76ab6-019d-41ec-9f9f-4bf9a017a9bc@63f7.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12566517
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Social Event,Welcome Week,Graduate Student Organization Event
+DESCRIPTION:Welcome Home! Join us at SJE for our annual LGBTQIA+ Grad Student Welcome! Mingle and connect with your master’s and doctoral peers while enjoying good food and music.    This event is in partnership with BIPOC LGBTQIA2S+ Graduate Affinity Group\, GRADient\, and Graduate Student Life.
+DTEND:20260909T230000Z
+LOCATION:Center for Social Justice Education and LGBT Communities\, 17\, Bartlett Street\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Center for Social Justice Education and LGBT Communities (Rutgers University):mailto:Center for Social Justice Education and LGBT Communities (Rutgers University)
+DTSTART:20260909T210000Z
+SUMMARY:LGBTQIA+ Grad Student Welcome
+UID:4011d2d9-2f50-4fe3-8d53-22413e9d7075@4011.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/11544592
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Social,College Ave,Social Event,Art Creation,Welcome Week
+DESCRIPTION:This Welcome Weeks event is an opportunity for students\, both international and domestic\, to learn about all that Rutgers Global has to offer: advising for international students\, study abroad opportunities\, on-campus programming\, and more. There will be a tie-dye (free t-shirts!)\, games\, prizes\, and lots of food.   Please note the rain date for this event will be Thursday\, September 10 (same times)   This event is also listed on The Arc / the Suitable app.  Learn more about The Arc here. 
+DTEND:20260909T220000Z
+LOCATION:International Center Office Building\, 180\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
+ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
+DTSTART:20260909T190000Z
+SUMMARY:Rutgers Global Expo
+UID:d962bbf6-b70c-48fc-b8e6-ab1f991392af@d962.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12570797
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Livingston,Special Interest
@@ -53,7 +119,7 @@ LOCATION:Lucy Stone Hall\, 54\, Joyce Kilmer Avenue\, Piscataway Township\, Midd
 ORGANIZER;CN=Office of Disability Services (University Department):mailto:Office of Disability Services (University Department)
 DTSTART:20260918T140000Z
 SUMMARY:Donuts and Drop In! ODS & Friends
-UID:421d37c4-1899-49c0-b91e-90569dbfddc3@421d.org
+UID:044aa8b8-00e5-4f3d-9fbf-0486b5143add@044a.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12551974
 END:VEVENT
 BEGIN:VEVENT
@@ -64,95 +130,29 @@ LOCATION:Serin Physics Building\, 126\, Frelinghuysen Road\, Piscataway Township
 ORGANIZER;CN=Physics and Astronomy (Graduate Organization):mailto:Physics and Astronomy (Graduate Organization)
 DTSTART:20260901T213000Z
 SUMMARY:Icecream Social
-UID:7308b618-3cab-4899-93ec-9baa6861da0a@7308.org
+UID:2f4db8f7-dcb9-4d26-8213-e3cf5a8e8a11@2f4d.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12591416
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ThoughtfulLearning
+DESCRIPTION:We aim to bring an inclusive and supportive community for people with interest in learning how to solve Rubik’s cubes and enhancing their skills with various other types of puzzles to learn what it is like to become competitive. We also plan to organize competitions at the school.
+DTEND:20260909T003000Z
+LOCATION:BSC Room 117
+ORGANIZER;CN=Rubik's Cube Club:mailto:Rubik's Cube Club
+DTSTART:20260908T233000Z
+SUMMARY:First Rubik's Cube Club Meeting
+UID:a4840fee-e5ec-4e6d-b5b4-f5a9e60fc7d9@a484.org
+URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12470180
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Social,Cook / Douglass
 DESCRIPTION:Every year\, the Endocrinology and Animal Biosciences Graduate Program holds a Welcome Lunch to welcome incoming students and staff members to our program. Food is served and introductions are made\, and it gives the incoming students/faculty as well as the established body a chance to familiarize themselves with one another and discuss interests and research. The EAB welcome lunch is an event our program looks forward to every year\, and we are happy to have it back for Fall 2026.
 DTEND:20260904T180000Z
-LOCATION:US 1\, North Brunswick Township\, Middlesex County\, New Jersey\, 08901\, United States
+LOCATION:Log Cabin Road\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
 ORGANIZER;CN=Endocrinology and Animal Biosciences (Graduate Student Organization):mailto:Endocrinology and Animal Biosciences (Graduate Student Organization)
 DTSTART:20260904T160000Z
 SUMMARY:EAB Welcome Lunch
-UID:3bfa3621-2fdf-4d41-b6b8-d0f72f495d59@3bfa.org
+UID:f5d1f9c2-a93f-4fb8-b471-dcdf413cdfb2@f5d1.org
 URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12587337
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Livingston,Special Interest,Social Event,Welcome Week
-DESCRIPTION:The Office of Disability Services invites graduate and undergraduate students with disabilities\, as well as disability allies\, to attend our open house. Explore an ocean of resources\, craft with Scarlet Arts Rx\, hear about tutoring and academic coaching from the Learning Centers\, meet peers\, and learn about academic accommodations. Light refreshments will be served.   Please register in advance. Let us know if you are coming.   If you have a question or seek accommodations for this particular event\, email the ODS office at echo.rutgers.edu\, call 848-202-3111\, or visit ODS in LSH A145.
-DTEND:20260903T173000Z
-LOCATION:Lucy Stone Hall\, 54\, Joyce Kilmer Avenue\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Office of Disability Services (University Department):mailto:Office of Disability Services (University Department)
-DTSTART:20260903T163000Z
-SUMMARY:Dive Into Success! ODS Open House
-UID:3590bfac-c965-4599-9bbf-d0a7ff032bd1@3590.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12544178
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:Get ready for MBGSO's annual board game night 🎲It'll be on Thursday\, August 27th from 5-7 PM in the Deans Conference Room located in the RWJMS Research Tower on Busch campus!Come play\, snack\, and hangout with your other graduate students 🃏🍪
-DTEND:20260827T230000Z
-LOCATION:Bevier Road\, Society Hill\, Piscataway Township\, Middlesex County\, New Jersey\, 08855\, United States
-ORGANIZER;CN=Molecular Biosciences (Graduate Student Organization):mailto:Molecular Biosciences (Graduate Student Organization)
-DTSTART:20260827T210000Z
-SUMMARY:Game Night
-UID:353456ca-5dbb-4b27-814e-656276fbb462@3534.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12566485
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Cook / Douglass,DJ Event,Entertainment,Outdoor Event,Social Event,Welcome Week
-DESCRIPTION:Join The Rutgers Democracy Lab for their first-ever Welcome Bash. Get a bite to eat at a food truck\, check if you are registered to vote with our RU Voting Team\, play some games and win a prize\, learn about what the programs at RDL are up to this semester\, or take a ride on the bumper cars. Students can also add to the chain of pledges to vote\, get an ice cream sundae\, write on our democracy wall\, take pictures at our photo booth\, or try their hand at human shuffleboard. Come with friends or be ready to make new ones to see what other surprises RDL has in store. All students are welcome to this free event.
-DTEND:20260908T220000Z
-LOCATION:Rutgers Disc Golf Course\, Lipman Drive\, Feaster Park\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=The Rutgers Democracy Lab at the Eagleton Institute of Politics:mailto:The Rutgers Democracy Lab at the Eagleton Institute of Politics
-DTSTART:20260908T190000Z
-SUMMARY:Welcome Week RDL Welcome Bash 
-UID:ae92d2d4-ccaa-42a1-b4bb-9e176525a5ef@ae92.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12518775
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave,Social Event,Art Creation,Welcome Week
-DESCRIPTION:This Welcome Weeks event is an opportunity for students\, both international and domestic\, to learn about all that Rutgers Global has to offer: advising for international students\, study abroad opportunities\, on-campus programming\, and more. There will be a tie-dye (free t-shirts!)\, games\, prizes\, and lots of food.   Please note the rain date for this event will be Thursday\, September 10 (same times)   This event is also listed on The Arc / the Suitable app.  Learn more about The Arc here. 
-DTEND:20260909T220000Z
-LOCATION:International Center Office Building\, 180\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=Rutgers Global (Department at Rutgers University):mailto:Rutgers Global (Department at Rutgers University)
-DTSTART:20260909T190000Z
-SUMMARY:Rutgers Global Expo
-UID:b5fb26b3-7c19-411a-a9dd-1660b90f6926@b5fb.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12570797
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ThoughtfulLearning,Livingston,Educational Conference/Seminar/Workshop/Panel
-DESCRIPTION: Practice respectful discussion where diverse perspectives are present.   Learn strategies for listening generously and engaging meaningfully with different points of view. Examine case studies of real Rutgers incidents. 
-DTEND:20261015T180000Z
-LOCATION:Livingston Dining Commons\, 85\, Avenue E\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department):mailto:Tyler Clementi Center for Diversity Education and Bias Prevention - TCC (University Department)
-DTSTART:20261015T160000Z
-SUMMARY:Community Conversation
-UID:111b05e4-450e-458f-8c47-f7c88dbd6b4f@111b.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12624975
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,Busch
-DESCRIPTION:Come chat with other graduate students and faculty at our annual BBQ party! Stop by for some free food and drinks!! Friday\, August 28th\, from 12-2 PM in the Waksman Institute's Courtyard
-DTEND:20260828T180000Z
-LOCATION:Braun Laboratory - Inst Microbiology\, 188\, Frelinghuysen Road\, Piscataway Township\, Middlesex County\, New Jersey\, 08854\, United States
-ORGANIZER;CN=Molecular Biosciences (Graduate Student Organization):mailto:Molecular Biosciences (Graduate Student Organization)
-DTSTART:20260828T160000Z
-SUMMARY:Welcome Back BBQ Party
-UID:25ee5026-e5ee-4b7e-ac48-e3678995926b@25ee.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12566517
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Social,College Ave
-DESCRIPTION:Want to de-stress and craft? Come make a mood board with us for our next meeting and enjoy hot chocolate and desserts! RSVP: https://docs.google.com/forms/d/e/1FAIpQLSfqxX2ihLc3-z0Yv4-90y75wCWXcIcqV9jjFB48ClVjF4GTLA/viewform
-DTEND:20260903T003000Z
-LOCATION:Archibald S. Alexander Library\, 169\, College Avenue\, New Brunswick\, Middlesex County\, New Jersey\, 08901\, United States
-ORGANIZER;CN=UNICEF (Rutgers):mailto:UNICEF (Rutgers)
-DTSTART:20260902T233000Z
-SUMMARY:Cocoa and Collage 
-UID:605d435c-6222-4b44-afd7-729a3686ce12@605d.org
-URL:https://rutgers.campuslabs.com/engage/account/login?returnUrl=/engage/event/12202066
 END:VEVENT
 END:VCALENDAR
