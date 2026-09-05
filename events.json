@@ -1,69 +1,7 @@
 {
     "data": [
         {
-            "@search.score": 99.998436,
-            "benefitNames": "Free Food",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [],
-            "categoryNames": [],
-            "description": "Every year, the Endocrinology and Animal Biosciences Graduate Program holds a Welcome Lunch to welcome incoming students and staff members to our program. Food is served and introductions are made, and it gives the incoming students/faculty as well as the established body a chance to familiarize themselves with one another and discuss interests and research. The EAB welcome lunch is an event our program looks forward to every year, and we are happy to have it back for Fall 2026.",
-            "endsOn": "2026-09-04T18:00:00.000Z",
-            "id": "12587337",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/be1b5385-211e-44ec-a7e4-532ae4d83876a5057c34-13f6-488b-9c2f-9334ca624378.png",
-            "index": 0,
-            "institutionId": 4753,
-            "latitude": 40.475,
-            "location": "Round House ",
-            "longitude": -74.43615,
-            "name": "EAB Welcome Lunch",
-            "organizationId": 330530,
-            "organizationIds": [],
-            "organizationName": "Endocrinology and Animal Biosciences (Graduate Student Organization)",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/200ff739-be33-4f1b-818e-4e2e304ed0fb55108de0-f353-478b-8231-ec1650391768.png",
-            "recScore": null,
-            "rsvpTotal": 31,
-            "startsOn": "2026-09-04T16:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.98077,
-            "benefitNames": "Free Food, Free Stuff",
-            "branchId": 112385,
-            "branchIds": [],
-            "categoryIds": [
-                "7111"
-            ],
-            "categoryNames": [
-                "Social Event"
-            ],
-            "description": "The Asian American Cultural Center will be hosting its annual Welcome Back Social on September 4th, 2026 from 4PM - 7 PM.  Please join us at our center where we will be having many activities for new and current students to engage in such as a pie eating contest, taking pictures at the photo booth, inflatable games, and lots of fun food, drinks, and ice cream.  This is also a great way to make new friends for the upcoming semester, and get to know some interest orgs that will be attending the event as well.  We cannot wait to see you there!  Did we mention there is free food and prizes?...",
-            "endsOn": "2026-09-04T23:00:00.000Z",
-            "id": "12494051",
-            "imagePath": "https://se-images.campuslabs.com/clink/images/d3e8047a-152a-4f6d-a3a4-94764845a24c008055fb-39ce-4052-a0bf-fef16d77fd80.png",
-            "index": 1,
-            "institutionId": 4753,
-            "latitude": 40.52347,
-            "location": "Asian American Cultural Center",
-            "longitude": -74.43366,
-            "name": "Welcome Back Social",
-            "organizationId": 181139,
-            "organizationIds": [],
-            "organizationName": "Asian American Cultural Center",
-            "organizationNames": [],
-            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/0559d5e5-a562-474d-96d3-8b4cdb96b27f39076c0c-78f1-4760-89b5-ccd60ec2a0a1.png",
-            "recScore": null,
-            "rsvpTotal": 82,
-            "startsOn": "2026-09-04T20:00:00.000Z",
-            "status": "Approved",
-            "theme": "Social",
-            "visibility": "Public"
-        },
-        {
-            "@search.score": 99.55887,
+            "@search.score": 99.6078,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -85,7 +23,7 @@
             "endsOn": "2026-09-08T22:00:00.000Z",
             "id": "12518775",
             "imagePath": "https://wallpapers.com/images/hd/rutgers-white-r-logo-uh1s17dgdpw9uhif.jpg",
-            "index": 2,
+            "index": 0,
             "institutionId": 4753,
             "latitude": 40.48188,
             "location": "Woodlawn  Lawn Cook Douglass",
@@ -104,7 +42,40 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.53878,
+            "@search.score": 99.58997,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "7111"
+            ],
+            "categoryNames": [
+                "Social Event"
+            ],
+            "description": "HOSA is hosting our first general information session of the year, followed by speed friending. Free refreshments and snacks will be provided. Excited to meet you all!\ud83e\ude7a\ud83d\ude01",
+            "endsOn": "2026-09-09T00:00:00.000Z",
+            "id": "12707710",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/41e3c1ac-399c-41a5-a1ec-366df96bb6efe3a13be0-506f-4fe4-aa70-635c65d3f6ac.png",
+            "index": 1,
+            "institutionId": 4753,
+            "latitude": 40.52334,
+            "location": "Busch Student Center room 174",
+            "longitude": -74.45954,
+            "name": "Speed Friending and Sweets",
+            "organizationId": 123443,
+            "organizationIds": [],
+            "organizationName": "Health Occupations Students of America",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/a6001bb4-724b-44a7-bec2-c8d14e7371ea13a13a88-1bd0-4663-aa4a-85bade9463fb.jpg",
+            "recScore": null,
+            "rsvpTotal": 2,
+            "startsOn": "2026-09-08T23:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.58774,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -114,7 +85,7 @@
             "endsOn": "2026-09-09T00:30:00.000Z",
             "id": "12470180",
             "imagePath": "https://se-images.campuslabs.com/clink/images/d8a7edf1-40f0-4fae-b007-14ecacf8a214bea0f2ab-ef1b-4663-98f8-14c6d8797b7c.png",
-            "index": 3,
+            "index": 2,
             "institutionId": 4753,
             "latitude": null,
             "location": "BSC Room 117",
@@ -126,14 +97,14 @@
             "organizationNames": [],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/d1cefd0a-2c90-4087-93ba-e213d6b4636209d08020-0acb-434d-be88-f6391bb36bce.png",
             "recScore": null,
-            "rsvpTotal": 4,
+            "rsvpTotal": 5,
             "startsOn": "2026-09-08T23:30:00.000Z",
             "status": "Approved",
             "theme": "ThoughtfulLearning",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.45163,
+            "@search.score": 99.50069,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -151,7 +122,7 @@
             "endsOn": "2026-09-09T22:00:00.000Z",
             "id": "12570797",
             "imagePath": "https://se-images.campuslabs.com/clink/images/b0efedb4-fd25-428f-b67a-c52c8b41b1bfecf3df72-12fc-438c-97a3-f732ac5755a6.png",
-            "index": 4,
+            "index": 3,
             "institutionId": 4753,
             "latitude": 40.50454,
             "location": "Rutgers Global",
@@ -170,7 +141,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 99.44268,
+            "@search.score": 99.491745,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -190,7 +161,7 @@
             "endsOn": "2026-09-09T23:00:00.000Z",
             "id": "11544592",
             "imagePath": "https://se-images.campuslabs.com/clink/images/95a2c79c-7504-48c8-b35f-01c075e4d99225e47f17-ee5b-409b-a94b-a15965ed557f.png",
-            "index": 5,
+            "index": 4,
             "institutionId": 4753,
             "latitude": 40.50188,
             "location": "Center for Social Justice Education & LGBT Communities",
@@ -217,7 +188,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.72293,
+            "@search.score": 98.77283,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -233,7 +204,7 @@
             "endsOn": "2026-09-16T13:45:00.000Z",
             "id": "12607420",
             "imagePath": "https://se-images.campuslabs.com/clink/images/a213b61a-8c35-46ff-aeb4-2dfee5f048955a27212b-4f23-450f-8cf6-0f5de096cc41.png",
-            "index": 6,
+            "index": 5,
             "institutionId": 4753,
             "latitude": 40.48188,
             "location": "Eagleton Institute of Politics",
@@ -258,7 +229,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.49709,
+            "@search.score": 98.54725,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -272,7 +243,7 @@
             "endsOn": "2026-09-18T15:00:00.000Z",
             "id": "12551974",
             "imagePath": "https://se-images.campuslabs.com/clink/images/19e956d9-48a1-4481-a069-0f3888906ffd781fc371-2590-4f6c-a3f6-2e4d3467f051.png",
-            "index": 7,
+            "index": 6,
             "institutionId": 4753,
             "latitude": 40.52191,
             "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
@@ -291,7 +262,36 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.02671,
+            "@search.score": 98.204346,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Join us in celebrating our first-year students as they complete their 1st exam! Come grab free pizza on Monday, September 21st, from 12:45 - 2 pm in the RWJMS Research Tower, Dean\u2019s Conference Room, Room 123, 675 Hoes Lane West, Piscataway",
+            "endsOn": "2026-09-21T18:00:00.000Z",
+            "id": "12706681",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/f68557bb-eaf0-4255-8983-f162c5aa1d760ef84eee-ce54-45e7-ae3f-a95c08c3d81e.png",
+            "index": 7,
+            "institutionId": 4753,
+            "latitude": 40.52661,
+            "location": "Dean's Conference Room (room #123)",
+            "longitude": -74.46946,
+            "name": "First Exam Pizza Party",
+            "organizationId": 330441,
+            "organizationIds": [],
+            "organizationName": "Molecular Biosciences (Graduate Student Organization)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/644031d0-5a20-4aca-b236-d7d7855aff32d4d58a44-2db2-41ca-a6c3-71e66e2143bb.png",
+            "recScore": null,
+            "rsvpTotal": 0,
+            "startsOn": "2026-09-21T16:45:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 97.07861,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -340,7 +340,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.415886,
+            "@search.score": 95.46977,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -373,7 +373,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.40606,
+            "@search.score": 95.45995,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -422,7 +422,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 92.84923,
+            "@search.score": 92.90642,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -471,7 +471,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.059715,
+            "@search.score": 91.11934,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -520,7 +520,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 89.19248,
+            "@search.score": 89.25475,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
