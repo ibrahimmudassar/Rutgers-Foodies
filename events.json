@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "@search.score": 99.92813,
+            "@search.score": 99.9859,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [],
@@ -31,14 +31,14 @@
             "organizationNames": [],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/e7fb94e5-30a7-461c-8c95-d0695c3269f587d7e612-a687-4d59-a4d3-9ebc02d6f0d2.png",
             "recScore": null,
-            "rsvpTotal": 21,
+            "rsvpTotal": 24,
             "startsOn": "2026-09-09T19:00:00.000Z",
             "status": "Approved",
             "theme": "Social",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.91928,
+            "@search.score": 99.97706,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -78,14 +78,78 @@
             ],
             "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/b66fe830-5729-4ce8-9f6c-85ce651713a3852cde03-f568-406c-9a63-256a07442a75.png",
             "recScore": null,
-            "rsvpTotal": 9,
+            "rsvpTotal": 10,
             "startsOn": "2026-09-09T21:00:00.000Z",
             "status": "Approved",
             "theme": "Social",
             "visibility": "Public"
         },
         {
-            "@search.score": 99.207535,
+            "@search.score": 99.97264,
+            "benefitNames": "Free Food",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [],
+            "categoryNames": [],
+            "description": "Drop by for a fun meditation session and free snacks! Make new friends and connect with your inner peace!",
+            "endsOn": "2026-09-09T23:30:00.000Z",
+            "id": "12724633",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/16c70d79-ed31-4071-8447-c5fcaa62b358645b7cb4-57a7-47c0-8f64-438abfba9613.png",
+            "index": 2,
+            "institutionId": 4753,
+            "latitude": 40.52249,
+            "location": "Carr Library - Study room 01",
+            "longitude": -74.4374,
+            "name": "General Interest Meeting",
+            "organizationId": 424906,
+            "organizationIds": [],
+            "organizationName": "Rutgers Sahaja Yoga Meditation ",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/5d920fae-dad8-45ef-a463-c8ed0fe65bbaae3925b5-8fae-47eb-9bd7-1031a75bc94d.jpeg",
+            "recScore": null,
+            "rsvpTotal": 0,
+            "startsOn": "2026-09-09T22:00:00.000Z",
+            "status": "Approved",
+            "theme": "Cultural",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.96822,
+            "benefitNames": "Free Food, Free Stuff",
+            "branchId": 112385,
+            "branchIds": [],
+            "categoryIds": [
+                "7111",
+                "18433"
+            ],
+            "categoryNames": [
+                "Social Event",
+                "Welcome Week"
+            ],
+            "description": "The Undergraduate Society for Human Resource Management is hosting its first event of the fall semester, The Welcome Mixer, happening on Wednesday, September 9th from 7:00pm-9:00pm! Students members will have the opportunity to meet faculty from SMLR, network with other SMLR student organizations, and enjoy a informal event with some engaging ice breakers!",
+            "endsOn": "2026-09-10T01:00:00.000Z",
+            "id": "12722671",
+            "imagePath": "https://se-images.campuslabs.com/clink/images/a067b938-4402-4209-8b88-2109b4ccf0341d0c3674-6601-401e-a2c6-0b282fc733a5.png",
+            "index": 3,
+            "institutionId": 4753,
+            "latitude": 40.52365,
+            "location": "Janice Levine Building",
+            "longitude": -74.43949,
+            "name": "Fall 2026 Welcome Mixer",
+            "organizationId": 123434,
+            "organizationIds": [],
+            "organizationName": "Society for Human Resources Management Undergraduate Student Chapter (Rutgers University)",
+            "organizationNames": [],
+            "organizationProfilePicture": "https://se-images.campuslabs.com/clink/images/fc581458-704f-4ab1-a35f-f353fdeb9d0ea16949ff-36a2-42e1-bcea-1c8133ef100c.png",
+            "recScore": null,
+            "rsvpTotal": 3,
+            "startsOn": "2026-09-09T23:00:00.000Z",
+            "status": "Approved",
+            "theme": "Social",
+            "visibility": "Public"
+        },
+        {
+            "@search.score": 99.26628,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [
@@ -101,7 +165,7 @@
             "endsOn": "2026-09-16T13:45:00.000Z",
             "id": "12607420",
             "imagePath": "https://se-images.campuslabs.com/clink/images/a213b61a-8c35-46ff-aeb4-2dfee5f048955a27212b-4f23-450f-8cf6-0f5de096cc41.png",
-            "index": 2,
+            "index": 4,
             "institutionId": 4753,
             "latitude": 40.48188,
             "location": "Eagleton Institute of Politics",
@@ -126,7 +190,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.98424,
+            "@search.score": 99.04328,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -140,7 +204,7 @@
             "endsOn": "2026-09-18T15:00:00.000Z",
             "id": "12551974",
             "imagePath": "https://se-images.campuslabs.com/clink/images/19e956d9-48a1-4481-a069-0f3888906ffd781fc371-2590-4f6c-a3f6-2e4d3467f051.png",
-            "index": 3,
+            "index": 5,
             "institutionId": 4753,
             "latitude": 40.52191,
             "location": "Lucy Stone Hall, 1st Floor Lobby, Suite A145, Livingston Campus",
@@ -159,7 +223,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 98.64481,
+            "@search.score": 98.70433,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -169,7 +233,7 @@
             "endsOn": "2026-09-21T18:00:00.000Z",
             "id": "12706681",
             "imagePath": "https://se-images.campuslabs.com/clink/images/f68557bb-eaf0-4255-8983-f162c5aa1d760ef84eee-ce54-45e7-ae3f-a95c08c3d81e.png",
-            "index": 4,
+            "index": 6,
             "institutionId": 4753,
             "latitude": 40.52661,
             "location": "Dean's Conference Room (room #123)",
@@ -188,7 +252,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 97.5307,
+            "@search.score": 97.59178,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -212,7 +276,7 @@
             "endsOn": "2026-10-01T20:00:00.000Z",
             "id": "12656602",
             "imagePath": "https://se-images.campuslabs.com/clink/images/6e353c73-9658-4c16-a5b4-75dfe5bd9dae0df102ca-f7d4-488f-b854-5fec111efd72.png",
-            "index": 5,
+            "index": 7,
             "institutionId": 4753,
             "latitude": 40.50499,
             "location": "The Hatchery in Alexander Library",
@@ -237,7 +301,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.939,
+            "@search.score": 96.00238,
             "benefitNames": "Free Food",
             "branchId": 112385,
             "branchIds": [],
@@ -251,7 +315,7 @@
             "endsOn": "2026-10-15T18:00:00.000Z",
             "id": "12624975",
             "imagePath": "https://se-images.campuslabs.com/clink/images/a75cc9ab-6014-4056-a860-cadb92347d91e2a73243-0bb6-4e92-ada0-703e0cf65e3c.png",
-            "index": 6,
+            "index": 8,
             "institutionId": 4753,
             "latitude": 40.52286,
             "location": "Rutgers Club",
@@ -270,7 +334,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 95.92929,
+            "@search.score": 95.99268,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -294,7 +358,7 @@
             "endsOn": "2026-10-15T20:00:00.000Z",
             "id": "12656603",
             "imagePath": "https://se-images.campuslabs.com/clink/images/078d25b0-65fe-4789-8e15-76bb042fd3c4b79d9e07-af2f-4936-ad1f-367510bd8c0c.png",
-            "index": 7,
+            "index": 9,
             "institutionId": 4753,
             "latitude": null,
             "location": "The Hatchery in Alexander Library",
@@ -319,7 +383,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 93.40431,
+            "@search.score": 93.471535,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -343,7 +407,7 @@
             "endsOn": "2026-11-05T21:00:00.000Z",
             "id": "12656604",
             "imagePath": "https://se-images.campuslabs.com/clink/images/0db22da5-e1f6-47fa-b95c-db280ee4e7edbb9170bd-f8a4-44ca-8d03-bc99a62f11b1.png",
-            "index": 8,
+            "index": 10,
             "institutionId": 4753,
             "latitude": null,
             "location": "The Hatchery in Alexander Library",
@@ -368,7 +432,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 91.63824,
+            "@search.score": 91.70828,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -392,7 +456,7 @@
             "endsOn": "2026-11-19T21:00:00.000Z",
             "id": "12656605",
             "imagePath": "https://se-images.campuslabs.com/clink/images/9421e1b4-e736-4010-82b8-9f8f9b93809637c4273a-a50b-4f57-ab3d-9ca279d1f98f.png",
-            "index": 9,
+            "index": 11,
             "institutionId": 4753,
             "latitude": null,
             "location": "The Hatchery in Alexander Library",
@@ -417,7 +481,7 @@
             "visibility": "Public"
         },
         {
-            "@search.score": 89.79649,
+            "@search.score": 89.869606,
             "benefitNames": "Free Food, Free Stuff",
             "branchId": 112385,
             "branchIds": [
@@ -441,7 +505,7 @@
             "endsOn": "2026-12-03T21:00:00.000Z",
             "id": "12656606",
             "imagePath": "https://se-images.campuslabs.com/clink/images/fc81f400-4128-445c-8ec1-c939317857022cf91976-a6c3-4027-be68-e26ea844c715.png",
-            "index": 10,
+            "index": 12,
             "institutionId": 4753,
             "latitude": null,
             "location": "The Hatchery in Alexander Library",
